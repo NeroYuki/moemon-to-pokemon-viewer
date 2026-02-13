@@ -1,0 +1,550 @@
+========================================
+FILL MISSING MOEMON SPRITES
+Started: 2026-02-13T07:01:28.631Z
+========================================
+=== SCANNING NEW SPRITE DATASET ===
+
+Found 871 base form sprites in main folder
+Found 3 special form sprites in main folder
+
+Found 36 mega form sprites in Megas folder
+
+Found 34 regional form sprites in Regional Forms folder
+
+Found 28 Unown form sprites in Unown folder
+
+=== NEW SPRITE SUMMARY ===
+Base forms: 871 dexIDs
+Mega forms: 32 dexIDs (34 total files)
+Regional forms: 35 dexIDs
+Unown forms: 28
+  - Alola (A): 14
+  - Galar (G): 9
+  - Hisui (H): 10
+  - Paldea/Sevii (P): 2
+
+=== LOADING EXISTING MOEMON MAPPING ===
+Total dexIDs in mapping: 975
+  - With base form: 975
+  - With mega form: 44
+  - With regional forms: 39
+    * Alola: 14
+    * Galar: 13
+    * Hisui: 13
+
+=== IDENTIFYING GAPS ===
+Missing base forms: 19
+  - DexID 201: No entry in mapping (available: 201.png)
+  - DexID 491: No entry in mapping (available: 491.png)
+  - DexID 514: No entry in mapping (available: 514.png)
+  - DexID 664: No entry in mapping (available: 664.png)
+  - DexID 665: No entry in mapping (available: 665.png)
+  - DexID 682: No entry in mapping (available: 682.png)
+  - DexID 683: No entry in mapping (available: 683.png)
+  - DexID 710: No entry in mapping (available: 710.png)
+  - DexID 721: No entry in mapping (available: 721.png)
+  - DexID 741: No entry in mapping (available: 741.png)
+  - DexID 776: No entry in mapping (available: 776.png)
+  - DexID 891: No entry in mapping (available: 891.png)
+  - DexID 892: No entry in mapping (available: 892.png)
+  - DexID 912: No entry in mapping (available: 912.png)
+  - DexID 913: No entry in mapping (available: 913.png)
+  - DexID 914: No entry in mapping (available: 914.png)
+  - DexID 935: No entry in mapping (available: 935.png)
+  - DexID 968: No entry in mapping (available: 968.png)
+  - DexID 980: No entry in mapping (available: 980.png)
+
+Missing mega forms: 5
+  - DexID 80: Megas\80-M.png
+  - DexID 130: Megas\130-M.png
+  - DexID 229: Megas\229-M.png
+  - DexID 323: Megas\323-M.png
+  - DexID 475: Megas\475-M.png
+
+Missing regional forms: 7
+  Alola: 2
+    - DexID 37 (available: Regional Forms\37-A.png)
+    - DexID 38 (available: Regional Forms\38-A.png)
+  Galar: 2
+    - DexID 77 (available: Regional Forms\77-G.png)
+    - DexID 78 (available: Regional Forms\78-G.png)
+  Hisui: 1
+    - DexID 211 (available: Regional Forms\211-H.png)
+  Sevii: 2
+    - DexID 194 (available: Regional Forms\194-P.png)
+    - DexID 648 (available: 648-P.png)
+
+=== PROCESSING GAPS ===
+
+Processing 19 missing base forms...
+  Processing DexID 201...
+    Skipped front/0201.png (already exists)
+    Skipped front shiny/0201.png (already exists)
+    Skipped back/0201.png (already exists)
+    Skipped back shiny/0201.png (already exists)
+  Processing DexID 491...
+    Skipped front/0491.png (already exists)
+    Skipped front shiny/0491.png (already exists)
+    Skipped back/0491.png (already exists)
+    Skipped back shiny/0491.png (already exists)
+  Processing DexID 514...
+    Skipped front/0514.png (already exists)
+    Skipped front shiny/0514.png (already exists)
+    Skipped back/0514.png (already exists)
+    Skipped back shiny/0514.png (already exists)
+  Processing DexID 664...
+    Skipped front/0664.png (already exists)
+    Skipped front shiny/0664.png (already exists)
+    Skipped back/0664.png (already exists)
+    Skipped back shiny/0664.png (already exists)
+  Processing DexID 665...
+    Skipped front/0665.png (already exists)
+    Skipped front shiny/0665.png (already exists)
+    Skipped back/0665.png (already exists)
+    Skipped back shiny/0665.png (already exists)
+  Processing DexID 682...
+    Skipped front/0682.png (already exists)
+    Skipped front shiny/0682.png (already exists)
+    Skipped back/0682.png (already exists)
+    Skipped back shiny/0682.png (already exists)
+  Processing DexID 683...
+    Skipped front/0683.png (already exists)
+    Skipped front shiny/0683.png (already exists)
+    Skipped back/0683.png (already exists)
+    Skipped back shiny/0683.png (already exists)
+  Processing DexID 710...
+    Skipped front/0710.png (already exists)
+    Skipped front shiny/0710.png (already exists)
+    Skipped back/0710.png (already exists)
+    Skipped back shiny/0710.png (already exists)
+  Processing DexID 721...
+    Skipped front/0721.png (already exists)
+    Skipped front shiny/0721.png (already exists)
+    Skipped back/0721.png (already exists)
+    Skipped back shiny/0721.png (already exists)
+  Processing DexID 741...
+    Skipped front/0741.png (already exists)
+    Skipped front shiny/0741.png (already exists)
+    Skipped back/0741.png (already exists)
+    Skipped back shiny/0741.png (already exists)
+  Processing DexID 776...
+    Skipped front/0776.png (already exists)
+    Skipped front shiny/0776.png (already exists)
+    Skipped back/0776.png (already exists)
+    Skipped back shiny/0776.png (already exists)
+  Processing DexID 891...
+    Skipped front/0891.png (already exists)
+    Skipped front shiny/0891.png (already exists)
+    Skipped back/0891.png (already exists)
+    Skipped back shiny/0891.png (already exists)
+  Processing DexID 892...
+    Skipped front/0892.png (already exists)
+    Skipped front shiny/0892.png (already exists)
+    Skipped back/0892.png (already exists)
+    Skipped back shiny/0892.png (already exists)
+  Processing DexID 912...
+    Skipped front/0912.png (already exists)
+    Skipped front shiny/0912.png (already exists)
+    Skipped back/0912.png (already exists)
+    Skipped back shiny/0912.png (already exists)
+  Processing DexID 913...
+    Skipped front/0913.png (already exists)
+    Skipped front shiny/0913.png (already exists)
+    Skipped back/0913.png (already exists)
+    Skipped back shiny/0913.png (already exists)
+  Processing DexID 914...
+    Skipped front/0914.png (already exists)
+    Skipped front shiny/0914.png (already exists)
+    Skipped back/0914.png (already exists)
+    Skipped back shiny/0914.png (already exists)
+  Processing DexID 935...
+    Skipped front/0935.png (already exists)
+    Skipped front shiny/0935.png (already exists)
+    Skipped back/0935.png (already exists)
+    Skipped back shiny/0935.png (already exists)
+  Processing DexID 968...
+    Skipped front/0968.png (already exists)
+    Skipped front shiny/0968.png (already exists)
+    Skipped back/0968.png (already exists)
+    Skipped back shiny/0968.png (already exists)
+  Processing DexID 980...
+    Skipped front/0980.png (already exists)
+    Skipped front shiny/0980.png (already exists)
+    Skipped back/0980.png (already exists)
+    Skipped back shiny/0980.png (already exists)
+
+Processing 5 missing mega forms...
+  Processing DexID 80 megas...
+    Mega type: M, key: (m)
+    Skipped front/0080(m).png (already exists)
+    Skipped front shiny/0080(m).png (already exists)
+    Skipped back/0080(m).png (already exists)
+    Skipped back shiny/0080(m).png (already exists)
+  Processing DexID 130 megas...
+    Mega type: M, key: (m)
+    Skipped front/0130(m).png (already exists)
+    Skipped front shiny/0130(m).png (already exists)
+    Skipped back/0130(m).png (already exists)
+    Skipped back shiny/0130(m).png (already exists)
+  Processing DexID 229 megas...
+    Mega type: M, key: (m)
+    Skipped front/0229(m).png (already exists)
+    Skipped front shiny/0229(m).png (already exists)
+    Skipped back/0229(m).png (already exists)
+    Skipped back shiny/0229(m).png (already exists)
+  Processing DexID 323 megas...
+    Mega type: M, key: (m)
+    Skipped front/0323(m).png (already exists)
+    Skipped front shiny/0323(m).png (already exists)
+    Skipped back/0323(m).png (already exists)
+    Skipped back shiny/0323(m).png (already exists)
+  Processing DexID 475 megas...
+    Mega type: M, key: (m)
+    Skipped front/0475(m).png (already exists)
+    Skipped front shiny/0475(m).png (already exists)
+    Skipped back/0475(m).png (already exists)
+    Skipped back shiny/0475(m).png (already exists)
+
+Processing 7 missing regional forms...
+  Processing DexID 37 Alola...
+    Skipped front/0037(ra).png (already exists)
+    Skipped front shiny/0037(ra).png (already exists)
+    Skipped back/0037(ra).png (already exists)
+    Skipped back shiny/0037(ra).png (already exists)
+  Processing DexID 38 Alola...
+    Skipped front/0038(ra).png (already exists)
+    Skipped front shiny/0038(ra).png (already exists)
+    Skipped back/0038(ra).png (already exists)
+    Skipped back shiny/0038(ra).png (already exists)
+  Processing DexID 77 Galar...
+    Skipped front/0077(rg).png (already exists)
+    Skipped front shiny/0077(rg).png (already exists)
+    Skipped back/0077(rg).png (already exists)
+    Skipped back shiny/0077(rg).png (already exists)
+  Processing DexID 78 Galar...
+    Skipped front/0078(rg).png (already exists)
+    Skipped front shiny/0078(rg).png (already exists)
+    Skipped back/0078(rg).png (already exists)
+    Skipped back shiny/0078(rg).png (already exists)
+  Processing DexID 194 Sevii...
+    Skipped front/0194(r).png (already exists)
+    Skipped front shiny/0194(r).png (already exists)
+    Skipped back/0194(r).png (already exists)
+    Skipped back shiny/0194(r).png (already exists)
+  Processing DexID 211 Hisui...
+    Skipped front/0211(rh).png (already exists)
+    Skipped front shiny/0211(rh).png (already exists)
+    Skipped back/0211(rh).png (already exists)
+    Skipped back shiny/0211(rh).png (already exists)
+  Processing DexID 648 Sevii...
+    Skipped front/0648(r).png (already exists)
+    Skipped front shiny/0648(r).png (already exists)
+    Skipped back/0648(r).png (already exists)
+    Skipped back shiny/0648(r).png (already exists)
+
+
+Processing 28 Unown forms (DexID 201)...
+  Processing Unown-a...
+    ✓ Split to: front/0201(a).png, front shiny/0201(a).png, back/0201(a).png, back shiny/0201(a).png
+  Processing Unown-b...
+    ✓ Split to: front/0201(b).png, front shiny/0201(b).png, back/0201(b).png, back shiny/0201(b).png
+  Processing Unown-c...
+    ✓ Split to: front/0201(c).png, front shiny/0201(c).png, back/0201(c).png, back shiny/0201(c).png
+  Processing Unown-d...
+    ✓ Split to: front/0201(d).png, front shiny/0201(d).png, back/0201(d).png, back shiny/0201(d).png
+  Processing Unown-e...
+    ✓ Split to: front/0201(e).png, front shiny/0201(e).png, back/0201(e).png, back shiny/0201(e).png
+  Processing Unown-exclamation...
+    ✓ Split to: front/0201(exclamation).png, front shiny/0201(exclamation).png, back/0201(exclamation).png, back shiny/0201(exclamation).png
+  Processing Unown-f...
+    ✓ Split to: front/0201(f).png, front shiny/0201(f).png, back/0201(f).png, back shiny/0201(f).png
+  Processing Unown-g...
+    ✓ Split to: front/0201(g).png, front shiny/0201(g).png, back/0201(g).png, back shiny/0201(g).png
+  Processing Unown-h...
+    ✓ Split to: front/0201(h).png, front shiny/0201(h).png, back/0201(h).png, back shiny/0201(h).png
+  Processing Unown-i...
+    ✓ Split to: front/0201(i).png, front shiny/0201(i).png, back/0201(i).png, back shiny/0201(i).png
+  Processing Unown-j...
+    ✓ Split to: front/0201(j).png, front shiny/0201(j).png, back/0201(j).png, back shiny/0201(j).png
+  Processing Unown-k...
+    ✓ Split to: front/0201(k).png, front shiny/0201(k).png, back/0201(k).png, back shiny/0201(k).png
+  Processing Unown-l...
+    ✓ Split to: front/0201(l).png, front shiny/0201(l).png, back/0201(l).png, back shiny/0201(l).png
+  Processing Unown-m...
+    ✓ Split to: front/0201(m).png, front shiny/0201(m).png, back/0201(m).png, back shiny/0201(m).png
+  Processing Unown-n...
+    ✓ Split to: front/0201(n).png, front shiny/0201(n).png, back/0201(n).png, back shiny/0201(n).png
+  Processing Unown-o...
+    ✓ Split to: front/0201(o).png, front shiny/0201(o).png, back/0201(o).png, back shiny/0201(o).png
+  Processing Unown-p...
+    ✓ Split to: front/0201(p).png, front shiny/0201(p).png, back/0201(p).png, back shiny/0201(p).png
+  Processing Unown-q...
+    ✓ Split to: front/0201(q).png, front shiny/0201(q).png, back/0201(q).png, back shiny/0201(q).png
+  Processing Unown-question...
+    ✓ Split to: front/0201(question).png, front shiny/0201(question).png, back/0201(question).png, back shiny/0201(question).png
+  Processing Unown-r...
+    ✓ Split to: front/0201(r).png, front shiny/0201(r).png, back/0201(r).png, back shiny/0201(r).png
+  Processing Unown-s...
+    ✓ Split to: front/0201(s).png, front shiny/0201(s).png, back/0201(s).png, back shiny/0201(s).png
+  Processing Unown-t...
+    ✓ Split to: front/0201(t).png, front shiny/0201(t).png, back/0201(t).png, back shiny/0201(t).png
+  Processing Unown-u...
+    ✓ Split to: front/0201(u).png, front shiny/0201(u).png, back/0201(u).png, back shiny/0201(u).png
+  Processing Unown-v...
+    ✓ Split to: front/0201(v).png, front shiny/0201(v).png, back/0201(v).png, back shiny/0201(v).png
+  Processing Unown-w...
+    ✓ Split to: front/0201(w).png, front shiny/0201(w).png, back/0201(w).png, back shiny/0201(w).png
+  Processing Unown-x...
+    ✓ Split to: front/0201(x).png, front shiny/0201(x).png, back/0201(x).png, back shiny/0201(x).png
+  Processing Unown-y...
+    ✓ Split to: front/0201(y).png, front shiny/0201(y).png, back/0201(y).png, back shiny/0201(y).png
+  Processing Unown-z...
+    ✓ Split to: front/0201(z).png, front shiny/0201(z).png, back/0201(z).png, back shiny/0201(z).png
+
+=== SUMMARY ===
+Total files split: 112
+Total files skipped: 124
+
+Files split:
+  - front/0201(a).png
+  - front shiny/0201(a).png
+  - back/0201(a).png
+  - back shiny/0201(a).png
+  - front/0201(b).png
+  - front shiny/0201(b).png
+  - back/0201(b).png
+  - back shiny/0201(b).png
+  - front/0201(c).png
+  - front shiny/0201(c).png
+  - back/0201(c).png
+  - back shiny/0201(c).png
+  - front/0201(d).png
+  - front shiny/0201(d).png
+  - back/0201(d).png
+  - back shiny/0201(d).png
+  - front/0201(e).png
+  - front shiny/0201(e).png
+  - back/0201(e).png
+  - back shiny/0201(e).png
+  - front/0201(exclamation).png
+  - front shiny/0201(exclamation).png
+  - back/0201(exclamation).png
+  - back shiny/0201(exclamation).png
+  - front/0201(f).png
+  - front shiny/0201(f).png
+  - back/0201(f).png
+  - back shiny/0201(f).png
+  - front/0201(g).png
+  - front shiny/0201(g).png
+  - back/0201(g).png
+  - back shiny/0201(g).png
+  - front/0201(h).png
+  - front shiny/0201(h).png
+  - back/0201(h).png
+  - back shiny/0201(h).png
+  - front/0201(i).png
+  - front shiny/0201(i).png
+  - back/0201(i).png
+  - back shiny/0201(i).png
+  - front/0201(j).png
+  - front shiny/0201(j).png
+  - back/0201(j).png
+  - back shiny/0201(j).png
+  - front/0201(k).png
+  - front shiny/0201(k).png
+  - back/0201(k).png
+  - back shiny/0201(k).png
+  - front/0201(l).png
+  - front shiny/0201(l).png
+  - back/0201(l).png
+  - back shiny/0201(l).png
+  - front/0201(m).png
+  - front shiny/0201(m).png
+  - back/0201(m).png
+  - back shiny/0201(m).png
+  - front/0201(n).png
+  - front shiny/0201(n).png
+  - back/0201(n).png
+  - back shiny/0201(n).png
+  - front/0201(o).png
+  - front shiny/0201(o).png
+  - back/0201(o).png
+  - back shiny/0201(o).png
+  - front/0201(p).png
+  - front shiny/0201(p).png
+  - back/0201(p).png
+  - back shiny/0201(p).png
+  - front/0201(q).png
+  - front shiny/0201(q).png
+  - back/0201(q).png
+  - back shiny/0201(q).png
+  - front/0201(question).png
+  - front shiny/0201(question).png
+  - back/0201(question).png
+  - back shiny/0201(question).png
+  - front/0201(r).png
+  - front shiny/0201(r).png
+  - back/0201(r).png
+  - back shiny/0201(r).png
+  - front/0201(s).png
+  - front shiny/0201(s).png
+  - back/0201(s).png
+  - back shiny/0201(s).png
+  - front/0201(t).png
+  - front shiny/0201(t).png
+  - back/0201(t).png
+  - back shiny/0201(t).png
+  - front/0201(u).png
+  - front shiny/0201(u).png
+  - back/0201(u).png
+  - back shiny/0201(u).png
+  - front/0201(v).png
+  - front shiny/0201(v).png
+  - back/0201(v).png
+  - back shiny/0201(v).png
+  - front/0201(w).png
+  - front shiny/0201(w).png
+  - back/0201(w).png
+  - back shiny/0201(w).png
+  - front/0201(x).png
+  - front shiny/0201(x).png
+  - back/0201(x).png
+  - back shiny/0201(x).png
+  - front/0201(y).png
+  - front shiny/0201(y).png
+  - back/0201(y).png
+  - back shiny/0201(y).png
+  - front/0201(z).png
+  - front shiny/0201(z).png
+  - back/0201(z).png
+  - back shiny/0201(z).png
+
+Files skipped (already exist):
+  - front/0201.png
+  - front shiny/0201.png
+  - back/0201.png
+  - back shiny/0201.png
+  - front/0491.png
+  - front shiny/0491.png
+  - back/0491.png
+  - back shiny/0491.png
+  - front/0514.png
+  - front shiny/0514.png
+  - back/0514.png
+  - back shiny/0514.png
+  - front/0664.png
+  - front shiny/0664.png
+  - back/0664.png
+  - back shiny/0664.png
+  - front/0665.png
+  - front shiny/0665.png
+  - back/0665.png
+  - back shiny/0665.png
+  - front/0682.png
+  - front shiny/0682.png
+  - back/0682.png
+  - back shiny/0682.png
+  - front/0683.png
+  - front shiny/0683.png
+  - back/0683.png
+  - back shiny/0683.png
+  - front/0710.png
+  - front shiny/0710.png
+  - back/0710.png
+  - back shiny/0710.png
+  - front/0721.png
+  - front shiny/0721.png
+  - back/0721.png
+  - back shiny/0721.png
+  - front/0741.png
+  - front shiny/0741.png
+  - back/0741.png
+  - back shiny/0741.png
+  - front/0776.png
+  - front shiny/0776.png
+  - back/0776.png
+  - back shiny/0776.png
+  - front/0891.png
+  - front shiny/0891.png
+  - back/0891.png
+  - back shiny/0891.png
+  - front/0892.png
+  - front shiny/0892.png
+  - back/0892.png
+  - back shiny/0892.png
+  - front/0912.png
+  - front shiny/0912.png
+  - back/0912.png
+  - back shiny/0912.png
+  - front/0913.png
+  - front shiny/0913.png
+  - back/0913.png
+  - back shiny/0913.png
+  - front/0914.png
+  - front shiny/0914.png
+  - back/0914.png
+  - back shiny/0914.png
+  - front/0935.png
+  - front shiny/0935.png
+  - back/0935.png
+  - back shiny/0935.png
+  - front/0968.png
+  - front shiny/0968.png
+  - back/0968.png
+  - back shiny/0968.png
+  - front/0980.png
+  - front shiny/0980.png
+  - back/0980.png
+  - back shiny/0980.png
+  - front/0080(m).png
+  - front shiny/0080(m).png
+  - back/0080(m).png
+  - back shiny/0080(m).png
+  - front/0130(m).png
+  - front shiny/0130(m).png
+  - back/0130(m).png
+  - back shiny/0130(m).png
+  - front/0229(m).png
+  - front shiny/0229(m).png
+  - back/0229(m).png
+  - back shiny/0229(m).png
+  - front/0323(m).png
+  - front shiny/0323(m).png
+  - back/0323(m).png
+  - back shiny/0323(m).png
+  - front/0475(m).png
+  - front shiny/0475(m).png
+  - back/0475(m).png
+  - back shiny/0475(m).png
+  - front/0037(ra).png
+  - front shiny/0037(ra).png
+  - back/0037(ra).png
+  - back shiny/0037(ra).png
+  - front/0038(ra).png
+  - front shiny/0038(ra).png
+  - back/0038(ra).png
+  - back shiny/0038(ra).png
+  - front/0077(rg).png
+  - front shiny/0077(rg).png
+  - back/0077(rg).png
+  - back shiny/0077(rg).png
+  - front/0078(rg).png
+  - front shiny/0078(rg).png
+  - back/0078(rg).png
+  - back shiny/0078(rg).png
+  - front/0194(r).png
+  - front shiny/0194(r).png
+  - back/0194(r).png
+  - back shiny/0194(r).png
+  - front/0211(rh).png
+  - front shiny/0211(rh).png
+  - back/0211(rh).png
+  - back shiny/0211(rh).png
+  - front/0648(r).png
+  - front shiny/0648(r).png
+  - back/0648(r).png
+  - back shiny/0648(r).png
+
+========================================
+Completed: 2026-02-13T07:01:28.882Z
+========================================

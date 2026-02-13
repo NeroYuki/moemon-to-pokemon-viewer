@@ -11,12 +11,49 @@
             box-sizing: border-box;
         }
 
+        :root {
+            --bg-gradient-1: #667eea;
+            --bg-gradient-2: #764ba2;
+            --text-primary: #333;
+            --text-secondary: #666;
+            --card-bg: white;
+            --header-bg: white;
+            --controls-bg: white;
+            --border-color: #ddd;
+            --border-light: #dee2e6;
+            --border-lighter: #e9ecef;
+            --section-bg: #f8f9fa;
+            --shadow-light: rgba(0,0,0,0.1);
+            --shadow-medium: rgba(0,0,0,0.15);
+            --shadow-dark: rgba(0,0,0,0.2);
+            --input-bg: white;
+        }
+
+        body.dark-mode {
+            --bg-gradient-1: #1a1a2e;
+            --bg-gradient-2: #16213e;
+            --text-primary: #e9ecef;
+            --text-secondary: #adb5bd;
+            --card-bg: #1a1a2e;
+            --header-bg: #16213e;
+            --controls-bg: #0f3460;
+            --border-color: #495057;
+            --border-light: #495057;
+            --border-lighter: #2c3e50;
+            --section-bg: #16213e;
+            --shadow-light: rgba(0,0,0,0.3);
+            --shadow-medium: rgba(0,0,0,0.4);
+            --shadow-dark: rgba(0,0,0,0.5);
+            --input-bg: #2c3e50;
+        }
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
+            background: linear-gradient(135deg, var(--bg-gradient-1) 0%, var(--bg-gradient-2) 100%);
+            color: var(--text-primary);
             padding: 20px;
             min-height: 100vh;
+            transition: all 0.3s ease;
         }
 
         .container {
@@ -25,12 +62,34 @@
         }
 
         header {
-            background: white;
+            background: var(--header-bg);
             padding: 30px;
             border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            box-shadow: 0 10px 30px var(--shadow-dark);
             margin-bottom: 30px;
             text-align: center;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .dark-mode-toggle {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .dark-mode-toggle:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
         }
 
         h1 {
@@ -40,29 +99,33 @@
         }
 
         .subtitle {
-            color: #666;
+            color: var(--text-secondary);
             font-size: 1.1em;
         }
 
         .controls {
-            background: white;
+            background: var(--controls-bg);
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 5px 15px var(--shadow-light);
             margin-bottom: 20px;
             display: flex;
             gap: 15px;
             flex-wrap: wrap;
             align-items: center;
+            transition: all 0.3s ease;
         }
 
         .controls input, .controls select {
             padding: 10px 15px;
-            border: 2px solid #ddd;
+            border: 2px solid var(--border-color);
             border-radius: 5px;
             font-size: 16px;
             flex: 1;
             min-width: 200px;
+            background: var(--input-bg);
+            color: var(--text-primary);
+            transition: all 0.3s ease;
         }
 
         .controls input:focus, .controls select:focus {
@@ -78,15 +141,16 @@
         }
 
         .stats {
-            background: white;
+            background: var(--controls-bg);
             padding: 15px 20px;
             border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 5px 15px var(--shadow-light);
             margin-bottom: 20px;
             display: flex;
             gap: 30px;
             justify-content: center;
             flex-wrap: wrap;
+            transition: all 0.3s ease;
         }
 
         .stat-item {
@@ -100,16 +164,17 @@
         }
 
         .stat-label {
-            color: #666;
+            color: var(--text-secondary);
             font-size: 0.9em;
         }
 
         .dex-entry {
-            background: white;
+            background: var(--card-bg);
             padding: 25px;
             border-radius: 15px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            box-shadow: 0 5px 20px var(--shadow-medium);
             margin-bottom: 25px;
+            transition: all 0.3s ease;
         }
 
         .dex-header {
@@ -129,7 +194,7 @@
         }
 
         .dex-info h2 {
-            color: #333;
+            color: var(--text-primary);
             font-size: 1.8em;
             margin-bottom: 5px;
         }
@@ -141,10 +206,11 @@
         }
 
         .section {
-            background: #f8f9fa;
+            background: var(--section-bg);
             padding: 20px;
             border-radius: 10px;
-            border: 2px solid #e9ecef;
+            border: 2px solid var(--border-lighter);
+            transition: all 0.3s ease;
         }
 
         .section.pokemon-section {
@@ -160,7 +226,7 @@
             font-weight: bold;
             margin-bottom: 15px;
             padding-bottom: 10px;
-            border-bottom: 2px solid #dee2e6;
+            border-bottom: 2px solid var(--border-light);
         }
 
         .pokemon-section .section-header {
@@ -178,16 +244,17 @@
         }
 
         .form-card {
-            background: white;
-            border: 2px solid #e9ecef;
+            background: var(--card-bg);
+            border: 2px solid var(--border-color);
             border-radius: 10px;
             padding: 15px;
             transition: all 0.3s ease;
+            cursor: pointer;
         }
 
         .form-card:hover {
             border-color: #667eea;
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+            box-shadow: 0 5px 15px var(--card-hover-shadow);
         }
 
         .form-header {
@@ -348,6 +415,140 @@
             to { opacity: 1; }
         }
 
+        /* Full View Modal */
+        .fullview-modal {
+            display: none;
+            position: fixed;
+            z-index: 9998;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.95);
+            overflow-y: auto;
+            animation: fadeIn 0.2s;
+        }
+
+        .fullview-modal.active {
+            display: block;
+        }
+
+        .fullview-content {
+            max-width: 1600px;
+            margin: 50px auto;
+            padding: 30px;
+            color: white;
+        }
+
+        .fullview-close {
+            position: fixed;
+            top: 20px;
+            right: 35px;
+            color: white;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+            z-index: 10000;
+        }
+
+        .fullview-close:hover {
+            color: #ff4444;
+        }
+
+        .fullview-header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .fullview-dex {
+            font-size: 3em;
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .fullview-name {
+            font-size: 2.5em;
+            margin-top: 10px;
+        }
+
+        .fullview-split {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .fullview-section {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 25px;
+            border-radius: 15px;
+        }
+
+        .fullview-section-title {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .fullview-form {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .fullview-form-name {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #ffc107;
+        }
+
+        .fullview-sprites {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .fullview-sprite {
+            text-align: center;
+        }
+
+        .fullview-sprite img {
+            width: 128px;
+            height: 128px;
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+            border: 3px solid rgba(255, 255, 255, 0.5);
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .fullview-sprite img:hover {
+            transform: scale(1.1);
+            border-color: #667eea;
+        }
+
+        .fullview-sprite-label {
+            margin-top: 8px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        @media (max-width: 1200px) {
+            .fullview-split {
+                grid-template-columns: 1fr;
+            }
+        }
+
         .loading {
             text-align: center;
             padding: 50px;
@@ -380,6 +581,7 @@
 <body>
     <div class="container">
         <header>
+            <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Dark Mode</button>
             <h1>🎮 Pokemon & Moemon Sprite Viewer</h1>
             <p class="subtitle">Side-by-side comparison of Radical Red Pokemon and Moemon sprites</p>
         </header>
@@ -435,12 +637,20 @@
         </div>
     </div>
 
+    <!-- Full View Modal -->
+    <div id="fullviewModal" class="fullview-modal">
+        <span class="fullview-close" onclick="closeFullview()">&times;</span>
+        <div class="fullview-content" id="fullviewContent">
+        </div>
+    </div>
+
     <script>
         let pokemonMapping = {};
         let moemonMapping = {};
         let filteredData = {};
         let showShiny = true;
         let showBack = true;
+        let allDexData = {}; // Combined data by dexID for full view
 
         // Zoom modal functions
         function openZoom(imgSrc, label, name) {
@@ -458,11 +668,170 @@
             modal.classList.remove('active');
         }
 
-        // Close on click outside
+        // Full view modal functions
+        function openFullview(dexID, clickedType, clickedForm) {
+            const modal = document.getElementById('fullviewModal');
+            const content = document.getElementById('fullviewContent');
+            
+            const data = allDexData[dexID];
+            if (!data) return;
+            
+            // Match corresponding forms
+            const matchedData = matchForms(data, clickedType, clickedForm);
+            
+            content.innerHTML = createFullviewContent(dexID, matchedData);
+            modal.classList.add('active');
+        }
+
+        function closeFullview() {
+            const modal = document.getElementById('fullviewModal');
+            modal.classList.remove('active');
+        }
+
+        // Match Pokemon and Moemon forms based on naming
+        function matchForms(data, clickedType, clickedForm) {
+            const pokemon = data.pokemon || [];
+            const moemon = data.moemon || [];
+            
+            if (clickedType === 'pokemon') {
+                // Find corresponding moemon forms
+                const pokemonKey = clickedForm.key;
+                const baseName = pokemonKey.split('-')[0];
+                
+                // Match logic: canonical maps to canonical + versions + male
+                const matched = {
+                    pokemon: [clickedForm],
+                    moemon: moemon.filter(m => {
+                        const mName = m.name;
+                        if (pokemonKey === baseName) {
+                            // Canonical form - include canonical, versions, and male
+                            return m.isCanonical || mName.includes('-v') || mName.endsWith('-Male');
+                        } else if (pokemonKey.includes('Mega')) {
+                            // Mega forms - match mega type
+                            return mName.includes(pokemonKey);
+                        } else if (pokemonKey.includes('Alola') || pokemonKey.includes('Galar') || pokemonKey.includes('Hisui')) {
+                            // Regional forms
+                            return mName.includes(pokemonKey);
+                        } else {
+                            // Other forms - match by key
+                            return mName === pokemonKey || mName.startsWith(pokemonKey + '-');
+                        }
+                    })
+                };
+                return matched;
+            } else {
+                // Find corresponding pokemon forms
+                const moemonName = clickedForm.name;
+                const baseName = moemonName.split('-')[0];
+                
+                const matched = {
+                    pokemon: pokemon.filter(p => {
+                        if (moemonName === baseName || moemonName.includes('-v') || moemonName.endsWith('-Male')) {
+                            // Canonical or version - match base form
+                            return p.key === baseName;
+                        } else if (moemonName.includes('Mega')) {
+                            // Mega forms
+                            return p.key.includes('Mega') && moemonName.includes(p.key);
+                        } else {
+                            // Other forms
+                            return p.key === moemonName || moemonName.startsWith(p.key);
+                        }
+                    }),
+                    moemon: [clickedForm]
+                };
+                return matched;
+            }
+        }
+
+        // Create full view content
+        function createFullviewContent(dexID, matchedData) {
+            const pokemonForms = matchedData.pokemon;
+            const moemonForms = matchedData.moemon;
+            const pokemonName = pokemonForms.length > 0 ? pokemonForms[0].name : `Dex #${dexID}`;
+            
+            let html = `
+                <div class="fullview-header">
+                    <div class="fullview-dex">#${String(dexID).padStart(4, '0')}</div>
+                    <div class="fullview-name">${pokemonName}</div>
+                </div>
+                <div class="fullview-split">
+                    <div class="fullview-section">
+                        <div class="fullview-section-title">🎮 Pokemon (${pokemonForms.length})</div>
+            `;
+            
+            for (const form of pokemonForms) {
+                html += createFullviewForm(form, 'pokemon');
+            }
+            
+            html += `
+                    </div>
+                    <div class="fullview-section">
+                        <div class="fullview-section-title">⭐ Moemon (${moemonForms.length})</div>
+            `;
+            
+            for (const form of moemonForms) {
+                html += createFullviewForm(form, 'moemon');
+            }
+            
+            html += `
+                    </div>
+                </div>
+            `;
+            
+            return html;
+        }
+
+        // Create form section in full view
+        function createFullviewForm(form, type) {
+            const name = type === 'pokemon' ? form.key : form.name;
+            const canonical = (type === 'pokemon' && form.order === 0) || (type === 'moemon' && form.isCanonical);
+            const canonicalMark = canonical ? ' ⭐' : '';
+            
+            let html = `
+                <div class="fullview-form">
+                    <div class="fullview-form-name">${name}${canonicalMark}</div>
+                    <div class="fullview-sprites">
+            `;
+            
+            const identifier = type === 'pokemon' ? form.ID : form.filename;
+            const sprites = [
+                { type: 'front', label: 'Front' },
+                { type: 'front-shiny', label: 'Shiny' },
+                { type: 'back', label: 'Back' },
+                { type: 'back-shiny', label: 'Back Shiny' }
+            ];
+            
+            for (const sprite of sprites) {
+                const imgSrc = type === 'pokemon'
+                    ? getPokemonSpritePath(identifier, sprite.type)
+                    : getMoemonSpritePath(identifier, sprite.type);
+                
+                html += `
+                    <div class="fullview-sprite">
+                        <img src="${imgSrc}" alt="${name} - ${sprite.label}" 
+                             onclick="openZoom('${imgSrc}', '${sprite.label}', '${name}')">
+                        <div class="fullview-sprite-label">${sprite.label}</div>
+                    </div>
+                `;
+            }
+            
+            html += `
+                    </div>
+                </div>
+            `;
+            
+            return html;
+        }
+
+        // Close modals
         window.onclick = function(event) {
-            const modal = document.getElementById('zoomModal');
-            if (event.target === modal) {
+            const zoomModal = document.getElementById('zoomModal');
+            const fullviewModal = document.getElementById('fullviewModal');
+            if (event.target === zoomModal) {
                 closeZoom();
+            }
+            if (event.target === fullviewModal) {
+                closeFullview();
             }
         }
 
@@ -470,6 +839,7 @@
         document.addEventListener('keydown', function(event) {
             if (event.key === 'Escape') {
                 closeZoom();
+                closeFullview();
             }
         });
 
@@ -504,6 +874,14 @@
                 document.getElementById('totalDex').textContent = totalDex;
                 document.getElementById('totalPokemonForms').textContent = totalPokemonForms;
                 document.getElementById('totalMoemonForms').textContent = totalMoemonForms;
+                
+                // Build combined data structure for full view
+                for (const dexId of allDexIds) {
+                    allDexData[dexId] = {
+                        pokemon: pokemonMapping[dexId] || [],
+                        moemon: moemonMapping[dexId] || []
+                    };
+                }
                 
                 applyFilters();
                 
@@ -676,8 +1054,8 @@
             
             for (const form of forms) {
                 const formCard = type === 'pokemon' 
-                    ? createPokemonFormCard(form)
-                    : createMoemonFormCard(form);
+                    ? createPokemonFormCard(form, dexId)
+                    : createMoemonFormCard(form, dexId);
                 formsContainer.appendChild(formCard);
             }
             
@@ -686,9 +1064,14 @@
         }
 
         // Create Pokemon form card
-        function createPokemonFormCard(form) {
+        function createPokemonFormCard(form, dexID) {
             const card = document.createElement('div');
             card.className = 'form-card';
+            
+            // Add click handler for full view
+            card.onclick = function() {
+                openFullview(dexID, 'pokemon', form);
+            };
             
             const formHeader = document.createElement('div');
             formHeader.className = 'form-header';
@@ -709,7 +1092,7 @@
             const orderText = form.order !== null ? `Order: ${form.order}` : 'No order';
             formMeta.textContent = `${orderText} • Ancestor: ${form.ancestor}`;
             
-            const spriteGrid = createSpriteGrid(form.ID, 'pokemon', form.key);
+            const spriteGrid = createSpriteGrid(form.ID, 'pokemon', form.key, parseInt(dexID), form);
             
             card.appendChild(formHeader);
             card.appendChild(formMeta);
@@ -719,9 +1102,14 @@
         }
 
         // Create Moemon form card
-        function createMoemonFormCard(form) {
+        function createMoemonFormCard(form, dexID) {
             const card = document.createElement('div');
             card.className = 'form-card';
+            
+            // Add click handler for full view
+            card.onclick = function() {
+                openFullview(dexID, 'moemon', form);
+            };
             
             const formHeader = document.createElement('div');
             formHeader.className = 'form-header';
@@ -742,7 +1130,7 @@
             formMeta.className = 'form-meta';
             formMeta.textContent = `File: ${form.filename}`;
             
-            const spriteGrid = createSpriteGrid(form.filename, 'moemon', form.name);
+            const spriteGrid = createSpriteGrid(form.filename, 'moemon', form.name, parseInt(dexID), form);
             
             card.appendChild(formHeader);
             card.appendChild(formMeta);
@@ -752,7 +1140,7 @@
         }
 
         // Create sprite grid
-        function createSpriteGrid(identifier, type, name) {
+        function createSpriteGrid(identifier, type, name, dexID, form) {
             const spriteGrid = document.createElement('div');
             spriteGrid.className = 'sprite-grid';
             
@@ -775,7 +1163,8 @@
                     : getMoemonSpritePath(identifier, sprite.type);
                 img.src = imgSrc;
                 img.alt = `${identifier} - ${sprite.label}`;
-                img.onclick = function() {
+                img.onclick = function(event) {
+                    event.stopPropagation(); // Prevent card click
                     if (!spriteBox.classList.contains('missing')) {
                         openZoom(imgSrc, sprite.label, name || identifier);
                     }
@@ -812,7 +1201,28 @@
             renderContent();
         });
 
-        // Load data on page load
+        // Dark mode toggle
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const isDark = document.body.classList.contains('dark-mode');
+            localStorage.setItem('darkMode', isDark);
+            
+            const btn = document.querySelector('.dark-mode-toggle');
+            btn.textContent = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
+        }
+
+        // Load dark mode preference
+        function loadDarkModePreference() {
+            const isDark = localStorage.getItem('darkMode') === 'true';
+            if (isDark) {
+                document.body.classList.add('dark-mode');
+                const btn = document.querySelector('.dark-mode-toggle');
+                if (btn) btn.textContent = '☀️ Light Mode';
+            }
+        }
+
+        // Load dark mode preference and data on page load
+        loadDarkModePreference();
         loadData();
     </script>
 </body>

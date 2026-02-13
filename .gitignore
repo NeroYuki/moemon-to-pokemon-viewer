@@ -22,6 +22,7 @@ Thumbs.db
 # Keep the processed outputs but ignore raw sprite folders that are too large
 Spritesets-20260212T231043Z-3-001/
 moemon_sprite/
+moemon_sprite_april_25/
 
 # Radical Red - only include graphics/species folder
 Radical-Red-Pokedex-master/*
