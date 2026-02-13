@@ -1,0 +1,11192 @@
+{
+  "1": [
+    {
+      "filename": "0001-1.png",
+      "key": "1",
+      "dexID": 1
+    }
+  ],
+  "2": [
+    {
+      "filename": "0002-1.png",
+      "key": "1",
+      "dexID": 2
+    }
+  ],
+  "3": [
+    {
+      "filename": "0003(M)-1png.png",
+      "key": "(M)-1png",
+      "dexID": 3
+    },
+    {
+      "filename": "0003-1.png",
+      "key": "1",
+      "dexID": 3
+    }
+  ],
+  "4": [
+    {
+      "filename": "0004-1.png",
+      "key": "1",
+      "dexID": 4
+    }
+  ],
+  "5": [
+    {
+      "filename": "0005-1.png",
+      "key": "1",
+      "dexID": 5
+    }
+  ],
+  "6": [
+    {
+      "filename": "0006(MX)-1.png",
+      "key": "(MX)-1",
+      "dexID": 6
+    },
+    {
+      "filename": "0006(MY)-1.png",
+      "key": "(MY)-1",
+      "dexID": 6
+    },
+    {
+      "filename": "0006(MY)-2.png",
+      "key": "(MY)-2",
+      "dexID": 6
+    },
+    {
+      "filename": "0006-1.png",
+      "key": "1",
+      "dexID": 6
+    },
+    {
+      "filename": "0006-2.png",
+      "key": "2",
+      "dexID": 6
+    },
+    {
+      "filename": "0006-3.png",
+      "key": "3",
+      "dexID": 6
+    }
+  ],
+  "7": [
+    {
+      "filename": "0007(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 7
+    },
+    {
+      "filename": "0007-1.png",
+      "key": "1",
+      "dexID": 7
+    }
+  ],
+  "8": [
+    {
+      "filename": "0008(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 8
+    },
+    {
+      "filename": "0008-1.png",
+      "key": "1",
+      "dexID": 8
+    }
+  ],
+  "9": [
+    {
+      "filename": "0009(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 9
+    },
+    {
+      "filename": "0009(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 9
+    },
+    {
+      "filename": "0009(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 9
+    },
+    {
+      "filename": "0009-1.png",
+      "key": "1",
+      "dexID": 9
+    },
+    {
+      "filename": "0009-2.png",
+      "key": "2",
+      "dexID": 9
+    }
+  ],
+  "10": [
+    {
+      "filename": "0010-1.png",
+      "key": "1",
+      "dexID": 10
+    }
+  ],
+  "11": [
+    {
+      "filename": "0011-1.png",
+      "key": "1",
+      "dexID": 11
+    }
+  ],
+  "12": [
+    {
+      "filename": "0012-1.png",
+      "key": "1",
+      "dexID": 12
+    }
+  ],
+  "13": [
+    {
+      "filename": "0013-1.png",
+      "key": "1",
+      "dexID": 13
+    }
+  ],
+  "14": [
+    {
+      "filename": "0014-1.png",
+      "key": "1",
+      "dexID": 14
+    }
+  ],
+  "15": [
+    {
+      "filename": "0015(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 15
+    },
+    {
+      "filename": "0015-1.png",
+      "key": "1",
+      "dexID": 15
+    }
+  ],
+  "16": [
+    {
+      "filename": "0016-1.png",
+      "key": "1",
+      "dexID": 16
+    },
+    {
+      "filename": "0016-2.png",
+      "key": "2",
+      "dexID": 16
+    }
+  ],
+  "17": [
+    {
+      "filename": "0017-1.png",
+      "key": "1",
+      "dexID": 17
+    }
+  ],
+  "18": [
+    {
+      "filename": "0018(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 18
+    },
+    {
+      "filename": "0018.png",
+      "key": "base",
+      "dexID": 18
+    }
+  ],
+  "19": [
+    {
+      "filename": "0019(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 19
+    },
+    {
+      "filename": "0019(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 19
+    },
+    {
+      "filename": "0019-1.png",
+      "key": "1",
+      "dexID": 19
+    }
+  ],
+  "20": [
+    {
+      "filename": "0020(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 20
+    },
+    {
+      "filename": "0020(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 20
+    },
+    {
+      "filename": "0020-1.png",
+      "key": "1",
+      "dexID": 20
+    },
+    {
+      "filename": "0020-2.png",
+      "key": "2",
+      "dexID": 20
+    }
+  ],
+  "21": [
+    {
+      "filename": "0021-1.png",
+      "key": "1",
+      "dexID": 21
+    }
+  ],
+  "22": [
+    {
+      "filename": "0022-1.png",
+      "key": "1",
+      "dexID": 22
+    }
+  ],
+  "23": [
+    {
+      "filename": "0023-1.png",
+      "key": "1",
+      "dexID": 23
+    },
+    {
+      "filename": "0023-2.png",
+      "key": "2",
+      "dexID": 23
+    }
+  ],
+  "24": [
+    {
+      "filename": "0024-1.png",
+      "key": "1",
+      "dexID": 24
+    },
+    {
+      "filename": "0024-2.png",
+      "key": "2",
+      "dexID": 24
+    }
+  ],
+  "25": [
+    {
+      "filename": "0025(CB)-1.png",
+      "key": "(CB)-1",
+      "dexID": 25
+    },
+    {
+      "filename": "0025(CL)-1.png",
+      "key": "(CL)-1",
+      "dexID": 25
+    },
+    {
+      "filename": "0025(CR)-1.png",
+      "key": "(CR)-1",
+      "dexID": 25
+    },
+    {
+      "filename": "0025(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 25
+    },
+    {
+      "filename": "0025(Pale)-1.png",
+      "key": "(Pale)-1",
+      "dexID": 25
+    },
+    {
+      "filename": "0025-1.png",
+      "key": "1",
+      "dexID": 25
+    }
+  ],
+  "26": [
+    {
+      "filename": "0026(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 26
+    },
+    {
+      "filename": "0026-1.png",
+      "key": "1",
+      "dexID": 26
+    },
+    {
+      "filename": "0026-2.png",
+      "key": "2",
+      "dexID": 26
+    }
+  ],
+  "27": [
+    {
+      "filename": "0027(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 27
+    },
+    {
+      "filename": "0027-1.png",
+      "key": "1",
+      "dexID": 27
+    }
+  ],
+  "28": [
+    {
+      "filename": "0028(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 28
+    },
+    {
+      "filename": "0028-1.png",
+      "key": "1",
+      "dexID": 28
+    }
+  ],
+  "29": [
+    {
+      "filename": "0029-1.png",
+      "key": "1",
+      "dexID": 29
+    }
+  ],
+  "30": [
+    {
+      "filename": "0030-1.png",
+      "key": "1",
+      "dexID": 30
+    }
+  ],
+  "31": [
+    {
+      "filename": "0031-1.png",
+      "key": "1",
+      "dexID": 31
+    }
+  ],
+  "32": [
+    {
+      "filename": "0032-1.png",
+      "key": "1",
+      "dexID": 32
+    }
+  ],
+  "33": [
+    {
+      "filename": "0033-1.png",
+      "key": "1",
+      "dexID": 33
+    }
+  ],
+  "34": [
+    {
+      "filename": "0034-1.png",
+      "key": "1",
+      "dexID": 34
+    }
+  ],
+  "35": [
+    {
+      "filename": "0035-1.png",
+      "key": "1",
+      "dexID": 35
+    }
+  ],
+  "36": [
+    {
+      "filename": "0036-1.png",
+      "key": "1",
+      "dexID": 36
+    }
+  ],
+  "37": [
+    {
+      "filename": "0037-1.png",
+      "key": "1",
+      "dexID": 37
+    }
+  ],
+  "38": [
+    {
+      "filename": "0038-1.png",
+      "key": "1",
+      "dexID": 38
+    }
+  ],
+  "39": [
+    {
+      "filename": "0039-1.png",
+      "key": "1",
+      "dexID": 39
+    }
+  ],
+  "40": [
+    {
+      "filename": "0040-1.png",
+      "key": "1",
+      "dexID": 40
+    }
+  ],
+  "41": [
+    {
+      "filename": "0041(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 41
+    },
+    {
+      "filename": "0041-1.png",
+      "key": "1",
+      "dexID": 41
+    }
+  ],
+  "42": [
+    {
+      "filename": "0042(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 42
+    },
+    {
+      "filename": "0042-1.png",
+      "key": "1",
+      "dexID": 42
+    }
+  ],
+  "43": [
+    {
+      "filename": "0043-1.png",
+      "key": "1",
+      "dexID": 43
+    }
+  ],
+  "44": [
+    {
+      "filename": "0044-1.png",
+      "key": "1",
+      "dexID": 44
+    }
+  ],
+  "45": [
+    {
+      "filename": "0045-1.png",
+      "key": "1",
+      "dexID": 45
+    }
+  ],
+  "46": [
+    {
+      "filename": "0046-1.png",
+      "key": "1",
+      "dexID": 46
+    },
+    {
+      "filename": "0046-2.png",
+      "key": "2",
+      "dexID": 46
+    }
+  ],
+  "47": [
+    {
+      "filename": "0047-1.png",
+      "key": "1",
+      "dexID": 47
+    },
+    {
+      "filename": "0047-2.png",
+      "key": "2",
+      "dexID": 47
+    }
+  ],
+  "48": [
+    {
+      "filename": "0048-1.png",
+      "key": "1",
+      "dexID": 48
+    },
+    {
+      "filename": "0048-2.png",
+      "key": "2",
+      "dexID": 48
+    }
+  ],
+  "49": [
+    {
+      "filename": "0049-1.png",
+      "key": "1",
+      "dexID": 49
+    },
+    {
+      "filename": "0049-2.png",
+      "key": "2",
+      "dexID": 49
+    }
+  ],
+  "50": [
+    {
+      "filename": "0050-1.png",
+      "key": "1",
+      "dexID": 50
+    }
+  ],
+  "51": [
+    {
+      "filename": "0051(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 51
+    },
+    {
+      "filename": "0051-1.png",
+      "key": "1",
+      "dexID": 51
+    }
+  ],
+  "52": [
+    {
+      "filename": "0052(GMAX)-1.png",
+      "key": "(GMAX)-1",
+      "dexID": 52
+    },
+    {
+      "filename": "0052(RA)-1.png",
+      "key": "(RA)-1",
+      "dexID": 52
+    },
+    {
+      "filename": "0052(RG)-1.png",
+      "key": "(RG)-1",
+      "dexID": 52
+    },
+    {
+      "filename": "0052-1.png",
+      "key": "1",
+      "dexID": 52
+    },
+    {
+      "filename": "0052-2.png",
+      "key": "2",
+      "dexID": 52
+    }
+  ],
+  "53": [
+    {
+      "filename": "0053-1.png",
+      "key": "1",
+      "dexID": 53
+    }
+  ],
+  "54": [
+    {
+      "filename": "0054-1.png",
+      "key": "1",
+      "dexID": 54
+    },
+    {
+      "filename": "0054-2.png",
+      "key": "2",
+      "dexID": 54
+    }
+  ],
+  "55": [
+    {
+      "filename": "0055-1.png",
+      "key": "1",
+      "dexID": 55
+    }
+  ],
+  "56": [
+    {
+      "filename": "0056(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 56
+    },
+    {
+      "filename": "0056-1.png",
+      "key": "1",
+      "dexID": 56
+    }
+  ],
+  "57": [
+    {
+      "filename": "0057(Masc).png",
+      "key": "(Masc)",
+      "dexID": 57
+    },
+    {
+      "filename": "0057-1.png",
+      "key": "1",
+      "dexID": 57
+    }
+  ],
+  "58": [
+    {
+      "filename": "0058(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 58
+    },
+    {
+      "filename": "0058(R)-2.png",
+      "key": "(R)-2",
+      "dexID": 58
+    },
+    {
+      "filename": "0058-1.png",
+      "key": "1",
+      "dexID": 58
+    }
+  ],
+  "59": [
+    {
+      "filename": "0059(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 59
+    },
+    {
+      "filename": "0059(R)-2.png",
+      "key": "(R)-2",
+      "dexID": 59
+    },
+    {
+      "filename": "0059-1.png",
+      "key": "1",
+      "dexID": 59
+    }
+  ],
+  "60": [
+    {
+      "filename": "0060-1.png",
+      "key": "1",
+      "dexID": 60
+    }
+  ],
+  "61": [
+    {
+      "filename": "0061-1.png",
+      "key": "1",
+      "dexID": 61
+    }
+  ],
+  "62": [
+    {
+      "filename": "0062-1.png",
+      "key": "1",
+      "dexID": 62
+    },
+    {
+      "filename": "0062-2.png",
+      "key": "2",
+      "dexID": 62
+    },
+    {
+      "filename": "0062-3.png",
+      "key": "3",
+      "dexID": 62
+    }
+  ],
+  "63": [
+    {
+      "filename": "0063-1.png",
+      "key": "1",
+      "dexID": 63
+    },
+    {
+      "filename": "0063-2.png",
+      "key": "2",
+      "dexID": 63
+    }
+  ],
+  "64": [
+    {
+      "filename": "0064-1.png",
+      "key": "1",
+      "dexID": 64
+    },
+    {
+      "filename": "0064-2.png",
+      "key": "2",
+      "dexID": 64
+    },
+    {
+      "filename": "0064-3.png",
+      "key": "3",
+      "dexID": 64
+    }
+  ],
+  "65": [
+    {
+      "filename": "0065(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 65
+    },
+    {
+      "filename": "0065-1.png",
+      "key": "1",
+      "dexID": 65
+    },
+    {
+      "filename": "0065-2.png",
+      "key": "2",
+      "dexID": 65
+    }
+  ],
+  "66": [
+    {
+      "filename": "0066-1.png",
+      "key": "1",
+      "dexID": 66
+    }
+  ],
+  "67": [
+    {
+      "filename": "0067-1.png",
+      "key": "1",
+      "dexID": 67
+    }
+  ],
+  "68": [
+    {
+      "filename": "0068-1.png",
+      "key": "1",
+      "dexID": 68
+    }
+  ],
+  "69": [
+    {
+      "filename": "0069-1.png",
+      "key": "1",
+      "dexID": 69
+    }
+  ],
+  "70": [
+    {
+      "filename": "0070-1.png",
+      "key": "1",
+      "dexID": 70
+    }
+  ],
+  "71": [
+    {
+      "filename": "0071-1.png",
+      "key": "1",
+      "dexID": 71
+    }
+  ],
+  "72": [
+    {
+      "filename": "0072-1.png",
+      "key": "1",
+      "dexID": 72
+    }
+  ],
+  "73": [
+    {
+      "filename": "0073-1.png",
+      "key": "1",
+      "dexID": 73
+    },
+    {
+      "filename": "0073-2.png",
+      "key": "2",
+      "dexID": 73
+    }
+  ],
+  "74": [
+    {
+      "filename": "0074(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 74
+    },
+    {
+      "filename": "0074-1.png",
+      "key": "1",
+      "dexID": 74
+    }
+  ],
+  "75": [
+    {
+      "filename": "0075(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 75
+    },
+    {
+      "filename": "0075-1.png",
+      "key": "1",
+      "dexID": 75
+    }
+  ],
+  "76": [
+    {
+      "filename": "0076(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 76
+    },
+    {
+      "filename": "0076-1.png",
+      "key": "1",
+      "dexID": 76
+    }
+  ],
+  "77": [
+    {
+      "filename": "0077-1.png",
+      "key": "1",
+      "dexID": 77
+    }
+  ],
+  "78": [
+    {
+      "filename": "0078-1.png",
+      "key": "1",
+      "dexID": 78
+    }
+  ],
+  "79": [
+    {
+      "filename": "0079(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 79
+    },
+    {
+      "filename": "0079-1.png",
+      "key": "1",
+      "dexID": 79
+    }
+  ],
+  "80": [
+    {
+      "filename": "0080(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 80
+    },
+    {
+      "filename": "0080-1.png",
+      "key": "1",
+      "dexID": 80
+    }
+  ],
+  "81": [
+    {
+      "filename": "0081-1.png",
+      "key": "1",
+      "dexID": 81
+    }
+  ],
+  "82": [
+    {
+      "filename": "0082-1.png",
+      "key": "1",
+      "dexID": 82
+    }
+  ],
+  "83": [
+    {
+      "filename": "0083(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 83
+    },
+    {
+      "filename": "0083-1.png",
+      "key": "1",
+      "dexID": 83
+    },
+    {
+      "filename": "0083-2.png",
+      "key": "2",
+      "dexID": 83
+    }
+  ],
+  "84": [
+    {
+      "filename": "0084-1.png",
+      "key": "1",
+      "dexID": 84
+    }
+  ],
+  "85": [
+    {
+      "filename": "0085-1.png",
+      "key": "1",
+      "dexID": 85
+    }
+  ],
+  "86": [
+    {
+      "filename": "0086-1.png",
+      "key": "1",
+      "dexID": 86
+    },
+    {
+      "filename": "0086-2.png",
+      "key": "2",
+      "dexID": 86
+    }
+  ],
+  "87": [
+    {
+      "filename": "0087-1.png",
+      "key": "1",
+      "dexID": 87
+    }
+  ],
+  "88": [
+    {
+      "filename": "0088(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 88
+    },
+    {
+      "filename": "0088-1.png",
+      "key": "1",
+      "dexID": 88
+    },
+    {
+      "filename": "0088-2.png",
+      "key": "2",
+      "dexID": 88
+    }
+  ],
+  "89": [
+    {
+      "filename": "0089(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 89
+    },
+    {
+      "filename": "0089-1.png",
+      "key": "1",
+      "dexID": 89
+    },
+    {
+      "filename": "0089-2.png",
+      "key": "2",
+      "dexID": 89
+    }
+  ],
+  "90": [
+    {
+      "filename": "0090-1.png",
+      "key": "1",
+      "dexID": 90
+    }
+  ],
+  "91": [
+    {
+      "filename": "0091-1.png",
+      "key": "1",
+      "dexID": 91
+    },
+    {
+      "filename": "0091-2.png",
+      "key": "2",
+      "dexID": 91
+    }
+  ],
+  "92": [
+    {
+      "filename": "0092-1.png",
+      "key": "1",
+      "dexID": 92
+    }
+  ],
+  "93": [
+    {
+      "filename": "0093-1.png",
+      "key": "1",
+      "dexID": 93
+    },
+    {
+      "filename": "0093-2.png",
+      "key": "2",
+      "dexID": 93
+    }
+  ],
+  "94": [
+    {
+      "filename": "0094(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 94
+    },
+    {
+      "filename": "0094(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 94
+    },
+    {
+      "filename": "0094-1.png",
+      "key": "1",
+      "dexID": 94
+    },
+    {
+      "filename": "0094-2.png",
+      "key": "2",
+      "dexID": 94
+    }
+  ],
+  "95": [
+    {
+      "filename": "0095-1.png",
+      "key": "1",
+      "dexID": 95
+    }
+  ],
+  "96": [
+    {
+      "filename": "0096-1.png",
+      "key": "1",
+      "dexID": 96
+    }
+  ],
+  "97": [
+    {
+      "filename": "0097-1.png",
+      "key": "1",
+      "dexID": 97
+    },
+    {
+      "filename": "0097-2.png",
+      "key": "2",
+      "dexID": 97
+    }
+  ],
+  "98": [
+    {
+      "filename": "0098-1.png",
+      "key": "1",
+      "dexID": 98
+    }
+  ],
+  "99": [
+    {
+      "filename": "0099-1.png",
+      "key": "1",
+      "dexID": 99
+    }
+  ],
+  "100": [
+    {
+      "filename": "0100(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 100
+    },
+    {
+      "filename": "0100-1.png",
+      "key": "1",
+      "dexID": 100
+    },
+    {
+      "filename": "0100-2.png",
+      "key": "2",
+      "dexID": 100
+    }
+  ],
+  "101": [
+    {
+      "filename": "0101(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 101
+    },
+    {
+      "filename": "0101-1.png",
+      "key": "1",
+      "dexID": 101
+    },
+    {
+      "filename": "0101-2.png",
+      "key": "2",
+      "dexID": 101
+    }
+  ],
+  "102": [
+    {
+      "filename": "0102-1.png",
+      "key": "1",
+      "dexID": 102
+    }
+  ],
+  "103": [
+    {
+      "filename": "0103(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 103
+    },
+    {
+      "filename": "0103(R)-2.png",
+      "key": "(R)-2",
+      "dexID": 103
+    },
+    {
+      "filename": "0103-1.png",
+      "key": "1",
+      "dexID": 103
+    }
+  ],
+  "104": [
+    {
+      "filename": "0104-1.png",
+      "key": "1",
+      "dexID": 104
+    }
+  ],
+  "105": [
+    {
+      "filename": "0105(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 105
+    },
+    {
+      "filename": "0105-1.png",
+      "key": "1",
+      "dexID": 105
+    }
+  ],
+  "106": [
+    {
+      "filename": "0106-1.png",
+      "key": "1",
+      "dexID": 106
+    }
+  ],
+  "107": [
+    {
+      "filename": "0107-1.png",
+      "key": "1",
+      "dexID": 107
+    }
+  ],
+  "108": [
+    {
+      "filename": "0108-1.png",
+      "key": "1",
+      "dexID": 108
+    }
+  ],
+  "109": [
+    {
+      "filename": "0109-1.png",
+      "key": "1",
+      "dexID": 109
+    },
+    {
+      "filename": "0109-2.png",
+      "key": "2",
+      "dexID": 109
+    }
+  ],
+  "110": [
+    {
+      "filename": "0110(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 110
+    },
+    {
+      "filename": "0110-1.png",
+      "key": "1",
+      "dexID": 110
+    },
+    {
+      "filename": "0110-2.png",
+      "key": "2",
+      "dexID": 110
+    }
+  ],
+  "111": [
+    {
+      "filename": "0111-1.png",
+      "key": "1",
+      "dexID": 111
+    }
+  ],
+  "112": [
+    {
+      "filename": "0112-1.png",
+      "key": "1",
+      "dexID": 112
+    },
+    {
+      "filename": "0112-2.png",
+      "key": "2",
+      "dexID": 112
+    }
+  ],
+  "113": [
+    {
+      "filename": "0113-1.png",
+      "key": "1",
+      "dexID": 113
+    }
+  ],
+  "114": [
+    {
+      "filename": "0114-1.png",
+      "key": "1",
+      "dexID": 114
+    }
+  ],
+  "115": [
+    {
+      "filename": "0115(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 115
+    },
+    {
+      "filename": "0115(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 115
+    },
+    {
+      "filename": "0115(M)-3.png",
+      "key": "(M)-3",
+      "dexID": 115
+    },
+    {
+      "filename": "0115-1.png",
+      "key": "1",
+      "dexID": 115
+    },
+    {
+      "filename": "0115-2.png",
+      "key": "2",
+      "dexID": 115
+    }
+  ],
+  "116": [
+    {
+      "filename": "0116-1.png",
+      "key": "1",
+      "dexID": 116
+    },
+    {
+      "filename": "0116-2.png",
+      "key": "2",
+      "dexID": 116
+    }
+  ],
+  "117": [
+    {
+      "filename": "0117-1.png",
+      "key": "1",
+      "dexID": 117
+    },
+    {
+      "filename": "0117-2.png",
+      "key": "2",
+      "dexID": 117
+    }
+  ],
+  "118": [
+    {
+      "filename": "0118-1.png",
+      "key": "1",
+      "dexID": 118
+    }
+  ],
+  "119": [
+    {
+      "filename": "0119-1.png",
+      "key": "1",
+      "dexID": 119
+    }
+  ],
+  "120": [
+    {
+      "filename": "0120-1.png",
+      "key": "1",
+      "dexID": 120
+    },
+    {
+      "filename": "0120-2.png",
+      "key": "2",
+      "dexID": 120
+    }
+  ],
+  "121": [
+    {
+      "filename": "0121-1.png",
+      "key": "1",
+      "dexID": 121
+    },
+    {
+      "filename": "0121-2.png",
+      "key": "2",
+      "dexID": 121
+    }
+  ],
+  "122": [
+    {
+      "filename": "0122(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 122
+    },
+    {
+      "filename": "0122-1.png",
+      "key": "1",
+      "dexID": 122
+    }
+  ],
+  "123": [
+    {
+      "filename": "0123-1.png",
+      "key": "1",
+      "dexID": 123
+    },
+    {
+      "filename": "0123-2.png",
+      "key": "2",
+      "dexID": 123
+    },
+    {
+      "filename": "0123-3.png",
+      "key": "3",
+      "dexID": 123
+    }
+  ],
+  "124": [
+    {
+      "filename": "0124-1.png",
+      "key": "1",
+      "dexID": 124
+    }
+  ],
+  "125": [
+    {
+      "filename": "0125-1.png",
+      "key": "1",
+      "dexID": 125
+    }
+  ],
+  "126": [
+    {
+      "filename": "0126-1.png",
+      "key": "1",
+      "dexID": 126
+    }
+  ],
+  "127": [
+    {
+      "filename": "0127(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 127
+    },
+    {
+      "filename": "0127-1.png",
+      "key": "1",
+      "dexID": 127
+    },
+    {
+      "filename": "0127-2.png",
+      "key": "2",
+      "dexID": 127
+    },
+    {
+      "filename": "0127-3.png",
+      "key": "3",
+      "dexID": 127
+    },
+    {
+      "filename": "0127-4.png",
+      "key": "4",
+      "dexID": 127
+    },
+    {
+      "filename": "0127-5.png",
+      "key": "5",
+      "dexID": 127
+    }
+  ],
+  "128": [
+    {
+      "filename": "0128-1.png",
+      "key": "1",
+      "dexID": 128
+    },
+    {
+      "filename": "0128-2.png",
+      "key": "2",
+      "dexID": 128
+    }
+  ],
+  "129": [
+    {
+      "filename": "0129(2ToneO)-1.png",
+      "key": "(2ToneO)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(2ToneP)-1.png",
+      "key": "(2ToneP)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(BubblesG)-1.png",
+      "key": "(BubblesG)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(BubblesP)-1.png",
+      "key": "(BubblesP)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(CalicoOG)-1.png",
+      "key": "(CalicoOG)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(CalicoOW)-1.png",
+      "key": "(CalicoOW)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(CalicoOWB)-1.png",
+      "key": "(CalicoOWB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(CalicoWO)-1.png",
+      "key": "(CalicoWO)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(DapplesO)-1.png",
+      "key": "(DapplesO)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(DapplesP)-1.png",
+      "key": "(DapplesP)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(DiamondsG)-1.png",
+      "key": "(DiamondsG)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(DiamondsP)-1.png",
+      "key": "(DiamondsP)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(ForeheadB)-1.png",
+      "key": "(ForeheadB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(ForeheadO)-1.png",
+      "key": "(ForeheadO)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(MaskB)-1.png",
+      "key": "(MaskB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(MaskO)-1.png",
+      "key": "(MaskO)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(OrcaO)-1.png",
+      "key": "(OrcaO)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(OrcaP)-1.png",
+      "key": "(OrcaP)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(PatchesG)-1.png",
+      "key": "(PatchesG)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(PatchesP)-1.png",
+      "key": "(PatchesP)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(RaindropB)-1.png",
+      "key": "(RaindropB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(RaindropV)-1.png",
+      "key": "(RaindropV)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(SaucyB)-1.png",
+      "key": "(SaucyB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(SaucyV)-1.png",
+      "key": "(SaucyV)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(Skelly)-1.png",
+      "key": "(Skelly)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(StripesA)-1.png",
+      "key": "(StripesA)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(StripesB)-1.png",
+      "key": "(StripesB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(TigerA)-1.png",
+      "key": "(TigerA)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(TigerB)-1.png",
+      "key": "(TigerB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(ZebraA)-1.png",
+      "key": "(ZebraA)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129(ZebraB)-1.png",
+      "key": "(ZebraB)-1",
+      "dexID": 129
+    },
+    {
+      "filename": "0129-1.png",
+      "key": "1",
+      "dexID": 129
+    }
+  ],
+  "130": [
+    {
+      "filename": "0130-1.png",
+      "key": "1",
+      "dexID": 130
+    }
+  ],
+  "131": [
+    {
+      "filename": "0131-1.png",
+      "key": "1",
+      "dexID": 131
+    },
+    {
+      "filename": "0131-2.png",
+      "key": "2",
+      "dexID": 131
+    },
+    {
+      "filename": "0131-3.png",
+      "key": "3",
+      "dexID": 131
+    }
+  ],
+  "132": [
+    {
+      "filename": "0132-1.png",
+      "key": "1",
+      "dexID": 132
+    },
+    {
+      "filename": "0132-2.png",
+      "key": "2",
+      "dexID": 132
+    },
+    {
+      "filename": "0132-3.png",
+      "key": "3",
+      "dexID": 132
+    }
+  ],
+  "133": [
+    {
+      "filename": "0133(Cap)-1.png",
+      "key": "(Cap)-1",
+      "dexID": 133
+    },
+    {
+      "filename": "0133(GMAX)-1.png",
+      "key": "(GMAX)-1",
+      "dexID": 133
+    },
+    {
+      "filename": "0133-1.png",
+      "key": "1",
+      "dexID": 133
+    }
+  ],
+  "134": [
+    {
+      "filename": "0134-1.png",
+      "key": "1",
+      "dexID": 134
+    }
+  ],
+  "135": [
+    {
+      "filename": "0135-1.png",
+      "key": "1",
+      "dexID": 135
+    }
+  ],
+  "136": [
+    {
+      "filename": "0136-1.png",
+      "key": "1",
+      "dexID": 136
+    }
+  ],
+  "137": [
+    {
+      "filename": "0137-1.png",
+      "key": "1",
+      "dexID": 137
+    },
+    {
+      "filename": "0137-2.png",
+      "key": "2",
+      "dexID": 137
+    },
+    {
+      "filename": "0137-3.png",
+      "key": "3",
+      "dexID": 137
+    }
+  ],
+  "138": [
+    {
+      "filename": "0138-1.png",
+      "key": "1",
+      "dexID": 138
+    }
+  ],
+  "139": [
+    {
+      "filename": "0139-1.png",
+      "key": "1",
+      "dexID": 139
+    }
+  ],
+  "140": [
+    {
+      "filename": "0140-1.png",
+      "key": "1",
+      "dexID": 140
+    }
+  ],
+  "141": [
+    {
+      "filename": "0141-1.png",
+      "key": "1",
+      "dexID": 141
+    }
+  ],
+  "142": [
+    {
+      "filename": "0142(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 142
+    },
+    {
+      "filename": "0142(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 142
+    },
+    {
+      "filename": "0142-1.png",
+      "key": "1",
+      "dexID": 142
+    },
+    {
+      "filename": "0142-2.png",
+      "key": "2",
+      "dexID": 142
+    }
+  ],
+  "143": [
+    {
+      "filename": "0143(GMAX)-1.png",
+      "key": "(GMAX)-1",
+      "dexID": 143
+    },
+    {
+      "filename": "0143(GMAX)-2.png",
+      "key": "(GMAX)-2",
+      "dexID": 143
+    },
+    {
+      "filename": "0143-1.png",
+      "key": "1",
+      "dexID": 143
+    },
+    {
+      "filename": "0143-2.png",
+      "key": "2",
+      "dexID": 143
+    }
+  ],
+  "144": [
+    {
+      "filename": "0144-1.png",
+      "key": "1",
+      "dexID": 144
+    }
+  ],
+  "145": [
+    {
+      "filename": "0145-1.png",
+      "key": "1",
+      "dexID": 145
+    }
+  ],
+  "146": [
+    {
+      "filename": "0146-1.png",
+      "key": "1",
+      "dexID": 146
+    }
+  ],
+  "147": [
+    {
+      "filename": "0147-1.png",
+      "key": "1",
+      "dexID": 147
+    }
+  ],
+  "148": [
+    {
+      "filename": "0148-1.png",
+      "key": "1",
+      "dexID": 148
+    }
+  ],
+  "149": [
+    {
+      "filename": "0149-1.png",
+      "key": "1",
+      "dexID": 149
+    },
+    {
+      "filename": "0149-2.png",
+      "key": "2",
+      "dexID": 149
+    }
+  ],
+  "150": [
+    {
+      "filename": "0150(MX)-1.png",
+      "key": "(MX)-1",
+      "dexID": 150
+    },
+    {
+      "filename": "0150(MY)-1.png",
+      "key": "(MY)-1",
+      "dexID": 150
+    },
+    {
+      "filename": "0150-1.png",
+      "key": "1",
+      "dexID": 150
+    }
+  ],
+  "151": [
+    {
+      "filename": "0151-1.png",
+      "key": "1",
+      "dexID": 151
+    },
+    {
+      "filename": "0151-2.png",
+      "key": "2",
+      "dexID": 151
+    }
+  ],
+  "152": [
+    {
+      "filename": "0152-1.png",
+      "key": "1",
+      "dexID": 152
+    }
+  ],
+  "153": [
+    {
+      "filename": "0153-1.png",
+      "key": "1",
+      "dexID": 153
+    }
+  ],
+  "154": [
+    {
+      "filename": "0154-1.png",
+      "key": "1",
+      "dexID": 154
+    },
+    {
+      "filename": "0154-2.png",
+      "key": "2",
+      "dexID": 154
+    }
+  ],
+  "155": [
+    {
+      "filename": "0155-1.png",
+      "key": "1",
+      "dexID": 155
+    }
+  ],
+  "156": [
+    {
+      "filename": "0156-1.png",
+      "key": "1",
+      "dexID": 156
+    }
+  ],
+  "157": [
+    {
+      "filename": "0157(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 157
+    },
+    {
+      "filename": "0157-1.png",
+      "key": "1",
+      "dexID": 157
+    },
+    {
+      "filename": "0157-2.png",
+      "key": "2",
+      "dexID": 157
+    }
+  ],
+  "158": [
+    {
+      "filename": "0158-1.png",
+      "key": "1",
+      "dexID": 158
+    },
+    {
+      "filename": "0158-2.png",
+      "key": "2",
+      "dexID": 158
+    }
+  ],
+  "159": [
+    {
+      "filename": "0159-1.png",
+      "key": "1",
+      "dexID": 159
+    },
+    {
+      "filename": "0159-2.png",
+      "key": "2",
+      "dexID": 159
+    }
+  ],
+  "160": [
+    {
+      "filename": "0160-1.png",
+      "key": "1",
+      "dexID": 160
+    },
+    {
+      "filename": "0160-2.png",
+      "key": "2",
+      "dexID": 160
+    },
+    {
+      "filename": "0160-3.png",
+      "key": "3",
+      "dexID": 160
+    }
+  ],
+  "161": [
+    {
+      "filename": "0161(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 161
+    },
+    {
+      "filename": "0161-1.png",
+      "key": "1",
+      "dexID": 161
+    }
+  ],
+  "162": [
+    {
+      "filename": "0162(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 162
+    },
+    {
+      "filename": "0162-1.png",
+      "key": "1",
+      "dexID": 162
+    }
+  ],
+  "163": [
+    {
+      "filename": "0163-1.png",
+      "key": "1",
+      "dexID": 163
+    },
+    {
+      "filename": "0163-2.png",
+      "key": "2",
+      "dexID": 163
+    }
+  ],
+  "164": [
+    {
+      "filename": "0164-1.png",
+      "key": "1",
+      "dexID": 164
+    },
+    {
+      "filename": "0164-2.png",
+      "key": "2",
+      "dexID": 164
+    }
+  ],
+  "165": [
+    {
+      "filename": "0165-1.png",
+      "key": "1",
+      "dexID": 165
+    }
+  ],
+  "166": [
+    {
+      "filename": "0166-1.png",
+      "key": "1",
+      "dexID": 166
+    },
+    {
+      "filename": "0166-2.png",
+      "key": "2",
+      "dexID": 166
+    }
+  ],
+  "167": [
+    {
+      "filename": "0167-1.png",
+      "key": "1",
+      "dexID": 167
+    }
+  ],
+  "168": [
+    {
+      "filename": "0168-1.png",
+      "key": "1",
+      "dexID": 168
+    }
+  ],
+  "169": [
+    {
+      "filename": "0169(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 169
+    },
+    {
+      "filename": "0169-1.png",
+      "key": "1",
+      "dexID": 169
+    },
+    {
+      "filename": "0169-2.png",
+      "key": "2",
+      "dexID": 169
+    }
+  ],
+  "170": [
+    {
+      "filename": "0170-1.png",
+      "key": "1",
+      "dexID": 170
+    }
+  ],
+  "171": [
+    {
+      "filename": "0171-1.png",
+      "key": "1",
+      "dexID": 171
+    }
+  ],
+  "172": [
+    {
+      "filename": "0172(GS)-1.png",
+      "key": "(GS)-1",
+      "dexID": 172
+    },
+    {
+      "filename": "0172(spiky)-1.png",
+      "key": "(spiky)-1",
+      "dexID": 172
+    },
+    {
+      "filename": "0172-1.png",
+      "key": "1",
+      "dexID": 172
+    }
+  ],
+  "173": [
+    {
+      "filename": "0173-1.png",
+      "key": "1",
+      "dexID": 173
+    }
+  ],
+  "174": [
+    {
+      "filename": "0174-1.png",
+      "key": "1",
+      "dexID": 174
+    }
+  ],
+  "175": [
+    {
+      "filename": "0175-1.png",
+      "key": "1",
+      "dexID": 175
+    }
+  ],
+  "176": [
+    {
+      "filename": "0176-1.png",
+      "key": "1",
+      "dexID": 176
+    }
+  ],
+  "177": [
+    {
+      "filename": "0177-1.png",
+      "key": "1",
+      "dexID": 177
+    }
+  ],
+  "178": [
+    {
+      "filename": "0178-1.png",
+      "key": "1",
+      "dexID": 178
+    }
+  ],
+  "179": [
+    {
+      "filename": "0179-1.png",
+      "key": "1",
+      "dexID": 179
+    }
+  ],
+  "180": [
+    {
+      "filename": "0180-1.png",
+      "key": "1",
+      "dexID": 180
+    }
+  ],
+  "181": [
+    {
+      "filename": "0181(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 181
+    },
+    {
+      "filename": "0181-1.png",
+      "key": "1",
+      "dexID": 181
+    }
+  ],
+  "182": [
+    {
+      "filename": "0182-1.png",
+      "key": "1",
+      "dexID": 182
+    }
+  ],
+  "183": [
+    {
+      "filename": "0183-1.png",
+      "key": "1",
+      "dexID": 183
+    }
+  ],
+  "184": [
+    {
+      "filename": "0184-1.png",
+      "key": "1",
+      "dexID": 184
+    }
+  ],
+  "185": [
+    {
+      "filename": "0185-1.png",
+      "key": "1",
+      "dexID": 185
+    },
+    {
+      "filename": "0185-2.png",
+      "key": "2",
+      "dexID": 185
+    }
+  ],
+  "186": [
+    {
+      "filename": "0186-1.png",
+      "key": "1",
+      "dexID": 186
+    },
+    {
+      "filename": "0186-2.png",
+      "key": "2",
+      "dexID": 186
+    }
+  ],
+  "187": [
+    {
+      "filename": "0187-1.png",
+      "key": "1",
+      "dexID": 187
+    }
+  ],
+  "188": [
+    {
+      "filename": "0188-1.png",
+      "key": "1",
+      "dexID": 188
+    },
+    {
+      "filename": "0188-2.png",
+      "key": "2",
+      "dexID": 188
+    }
+  ],
+  "189": [
+    {
+      "filename": "0189-1.png",
+      "key": "1",
+      "dexID": 189
+    },
+    {
+      "filename": "0189-2.png",
+      "key": "2",
+      "dexID": 189
+    }
+  ],
+  "190": [
+    {
+      "filename": "0190-1.png",
+      "key": "1",
+      "dexID": 190
+    }
+  ],
+  "191": [
+    {
+      "filename": "0191-1.png",
+      "key": "1",
+      "dexID": 191
+    }
+  ],
+  "192": [
+    {
+      "filename": "0192-1.png",
+      "key": "1",
+      "dexID": 192
+    }
+  ],
+  "193": [
+    {
+      "filename": "0193-1.png",
+      "key": "1",
+      "dexID": 193
+    },
+    {
+      "filename": "0193-2.png",
+      "key": "2",
+      "dexID": 193
+    },
+    {
+      "filename": "0193-3.png",
+      "key": "3",
+      "dexID": 193
+    }
+  ],
+  "194": [
+    {
+      "filename": "0194-1.png",
+      "key": "1",
+      "dexID": 194
+    },
+    {
+      "filename": "0194-2.png",
+      "key": "2",
+      "dexID": 194
+    }
+  ],
+  "195": [
+    {
+      "filename": "0195-1.png",
+      "key": "1",
+      "dexID": 195
+    },
+    {
+      "filename": "0195-2.png",
+      "key": "2",
+      "dexID": 195
+    }
+  ],
+  "196": [
+    {
+      "filename": "0196-1.png",
+      "key": "1",
+      "dexID": 196
+    }
+  ],
+  "197": [
+    {
+      "filename": "0197-1.png",
+      "key": "1",
+      "dexID": 197
+    }
+  ],
+  "198": [
+    {
+      "filename": "0198-1.png",
+      "key": "1",
+      "dexID": 198
+    },
+    {
+      "filename": "0198-2.png",
+      "key": "2",
+      "dexID": 198
+    }
+  ],
+  "199": [
+    {
+      "filename": "0199(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 199
+    },
+    {
+      "filename": "0199-1.png",
+      "key": "1",
+      "dexID": 199
+    }
+  ],
+  "200": [
+    {
+      "filename": "0200-1.png",
+      "key": "1",
+      "dexID": 200
+    },
+    {
+      "filename": "0200-2.png",
+      "key": "2",
+      "dexID": 200
+    }
+  ],
+  "202": [
+    {
+      "filename": "0202-1.png",
+      "key": "1",
+      "dexID": 202
+    }
+  ],
+  "203": [
+    {
+      "filename": "0203-1.png",
+      "key": "1",
+      "dexID": 203
+    }
+  ],
+  "204": [
+    {
+      "filename": "0204-1.png",
+      "key": "1",
+      "dexID": 204
+    }
+  ],
+  "205": [
+    {
+      "filename": "0205-1.png",
+      "key": "1",
+      "dexID": 205
+    },
+    {
+      "filename": "0205-2.png",
+      "key": "2",
+      "dexID": 205
+    }
+  ],
+  "206": [
+    {
+      "filename": "0206-1.png",
+      "key": "1",
+      "dexID": 206
+    },
+    {
+      "filename": "0206-2.png",
+      "key": "2",
+      "dexID": 206
+    }
+  ],
+  "207": [
+    {
+      "filename": "0207-1.png",
+      "key": "1",
+      "dexID": 207
+    },
+    {
+      "filename": "0207-2.png",
+      "key": "2",
+      "dexID": 207
+    }
+  ],
+  "208": [
+    {
+      "filename": "0208(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 208
+    },
+    {
+      "filename": "0208-1.png",
+      "key": "1",
+      "dexID": 208
+    }
+  ],
+  "209": [
+    {
+      "filename": "0209-1.png",
+      "key": "1",
+      "dexID": 209
+    },
+    {
+      "filename": "0209-2.png",
+      "key": "2",
+      "dexID": 209
+    }
+  ],
+  "210": [
+    {
+      "filename": "0210-1.png",
+      "key": "1",
+      "dexID": 210
+    },
+    {
+      "filename": "0210-2.png",
+      "key": "2",
+      "dexID": 210
+    },
+    {
+      "filename": "0210-3.png",
+      "key": "3",
+      "dexID": 210
+    }
+  ],
+  "211": [
+    {
+      "filename": "0211-1.png",
+      "key": "1",
+      "dexID": 211
+    }
+  ],
+  "212": [
+    {
+      "filename": "0212(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 212
+    },
+    {
+      "filename": "0212(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 212
+    },
+    {
+      "filename": "0212-1.png",
+      "key": "1",
+      "dexID": 212
+    }
+  ],
+  "213": [
+    {
+      "filename": "0213-1.png",
+      "key": "1",
+      "dexID": 213
+    }
+  ],
+  "214": [
+    {
+      "filename": "0214(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 214
+    },
+    {
+      "filename": "0214-1.png",
+      "key": "1",
+      "dexID": 214
+    }
+  ],
+  "215": [
+    {
+      "filename": "0215(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 215
+    },
+    {
+      "filename": "0215-1.png",
+      "key": "1",
+      "dexID": 215
+    },
+    {
+      "filename": "0215-2.png",
+      "key": "2",
+      "dexID": 215
+    }
+  ],
+  "216": [
+    {
+      "filename": "0216-1.png",
+      "key": "1",
+      "dexID": 216
+    },
+    {
+      "filename": "0216-2.png",
+      "key": "2",
+      "dexID": 216
+    }
+  ],
+  "217": [
+    {
+      "filename": "0217-1.png",
+      "key": "1",
+      "dexID": 217
+    }
+  ],
+  "218": [
+    {
+      "filename": "0218-1.png",
+      "key": "1",
+      "dexID": 218
+    }
+  ],
+  "219": [
+    {
+      "filename": "0219-1.png",
+      "key": "1",
+      "dexID": 219
+    }
+  ],
+  "220": [
+    {
+      "filename": "0220-1.png",
+      "key": "1",
+      "dexID": 220
+    }
+  ],
+  "221": [
+    {
+      "filename": "0221-1.png",
+      "key": "1",
+      "dexID": 221
+    }
+  ],
+  "222": [
+    {
+      "filename": "0222(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 222
+    },
+    {
+      "filename": "0222-1.png",
+      "key": "1",
+      "dexID": 222
+    },
+    {
+      "filename": "0222-2.png",
+      "key": "2",
+      "dexID": 222
+    }
+  ],
+  "223": [
+    {
+      "filename": "0223-1.png",
+      "key": "1",
+      "dexID": 223
+    }
+  ],
+  "224": [
+    {
+      "filename": "0224-1.png",
+      "key": "1",
+      "dexID": 224
+    }
+  ],
+  "225": [
+    {
+      "filename": "0225-1.png",
+      "key": "1",
+      "dexID": 225
+    }
+  ],
+  "226": [
+    {
+      "filename": "0226-1.png",
+      "key": "1",
+      "dexID": 226
+    },
+    {
+      "filename": "0226-2.png",
+      "key": "2",
+      "dexID": 226
+    }
+  ],
+  "227": [
+    {
+      "filename": "0227-1.png",
+      "key": "1",
+      "dexID": 227
+    }
+  ],
+  "228": [
+    {
+      "filename": "0228-1.png",
+      "key": "1",
+      "dexID": 228
+    }
+  ],
+  "229": [
+    {
+      "filename": "0229-1.png",
+      "key": "1",
+      "dexID": 229
+    },
+    {
+      "filename": "0229-2.png",
+      "key": "2",
+      "dexID": 229
+    }
+  ],
+  "230": [
+    {
+      "filename": "0230-1.png",
+      "key": "1",
+      "dexID": 230
+    },
+    {
+      "filename": "0230-2.png",
+      "key": "2",
+      "dexID": 230
+    },
+    {
+      "filename": "0230-3.png",
+      "key": "3",
+      "dexID": 230
+    }
+  ],
+  "231": [
+    {
+      "filename": "0231-1.png",
+      "key": "1",
+      "dexID": 231
+    }
+  ],
+  "232": [
+    {
+      "filename": "0232-1.png",
+      "key": "1",
+      "dexID": 232
+    },
+    {
+      "filename": "0232-2.png",
+      "key": "2",
+      "dexID": 232
+    }
+  ],
+  "233": [
+    {
+      "filename": "0233-1.png",
+      "key": "1",
+      "dexID": 233
+    },
+    {
+      "filename": "233-2.png",
+      "key": "2",
+      "dexID": 233
+    }
+  ],
+  "234": [
+    {
+      "filename": "0234-1.png",
+      "key": "1",
+      "dexID": 234
+    },
+    {
+      "filename": "0234-2.png",
+      "key": "2",
+      "dexID": 234
+    }
+  ],
+  "235": [
+    {
+      "filename": "0235-1.png",
+      "key": "1",
+      "dexID": 235
+    }
+  ],
+  "236": [
+    {
+      "filename": "0236-1.png",
+      "key": "1",
+      "dexID": 236
+    },
+    {
+      "filename": "0236-2.png",
+      "key": "2",
+      "dexID": 236
+    }
+  ],
+  "237": [
+    {
+      "filename": "0237-1.png",
+      "key": "1",
+      "dexID": 237
+    },
+    {
+      "filename": "0237-2.png",
+      "key": "2",
+      "dexID": 237
+    }
+  ],
+  "238": [
+    {
+      "filename": "0238-1.png",
+      "key": "1",
+      "dexID": 238
+    }
+  ],
+  "239": [
+    {
+      "filename": "0239-1.png",
+      "key": "1",
+      "dexID": 239
+    }
+  ],
+  "240": [
+    {
+      "filename": "0240-1.png",
+      "key": "1",
+      "dexID": 240
+    }
+  ],
+  "241": [
+    {
+      "filename": "0241-1.png",
+      "key": "1",
+      "dexID": 241
+    }
+  ],
+  "242": [
+    {
+      "filename": "0242-1.png",
+      "key": "1",
+      "dexID": 242
+    }
+  ],
+  "243": [
+    {
+      "filename": "0243-1.png",
+      "key": "1",
+      "dexID": 243
+    }
+  ],
+  "244": [
+    {
+      "filename": "0244-1.png",
+      "key": "1",
+      "dexID": 244
+    }
+  ],
+  "245": [
+    {
+      "filename": "0245-1.png",
+      "key": "1",
+      "dexID": 245
+    }
+  ],
+  "246": [
+    {
+      "filename": "0246-1.png",
+      "key": "1",
+      "dexID": 246
+    }
+  ],
+  "247": [
+    {
+      "filename": "0247-1.png",
+      "key": "1",
+      "dexID": 247
+    }
+  ],
+  "248": [
+    {
+      "filename": "0248(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 248
+    },
+    {
+      "filename": "0248-1.png",
+      "key": "1",
+      "dexID": 248
+    },
+    {
+      "filename": "0248-2.png",
+      "key": "2",
+      "dexID": 248
+    }
+  ],
+  "249": [
+    {
+      "filename": "0249-1.png",
+      "key": "1",
+      "dexID": 249
+    }
+  ],
+  "250": [
+    {
+      "filename": "0250-1.png",
+      "key": "1",
+      "dexID": 250
+    }
+  ],
+  "251": [
+    {
+      "filename": "0251-1.png",
+      "key": "1",
+      "dexID": 251
+    },
+    {
+      "filename": "0251-2.png",
+      "key": "2",
+      "dexID": 251
+    }
+  ],
+  "252": [
+    {
+      "filename": "0252-1.png",
+      "key": "1",
+      "dexID": 252
+    }
+  ],
+  "253": [
+    {
+      "filename": "0253-1.png",
+      "key": "1",
+      "dexID": 253
+    }
+  ],
+  "254": [
+    {
+      "filename": "0254(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 254
+    },
+    {
+      "filename": "0254-1.png",
+      "key": "1",
+      "dexID": 254
+    }
+  ],
+  "255": [
+    {
+      "filename": "0255(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 255
+    },
+    {
+      "filename": "0255-1.png",
+      "key": "1",
+      "dexID": 255
+    }
+  ],
+  "256": [
+    {
+      "filename": "0256(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 256
+    },
+    {
+      "filename": "0256-1.png",
+      "key": "1",
+      "dexID": 256
+    }
+  ],
+  "257": [
+    {
+      "filename": "257(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 257
+    },
+    {
+      "filename": "0257(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 257
+    },
+    {
+      "filename": "0257(M)(Masc)-1.png",
+      "key": "(M)(Masc)-1",
+      "dexID": 257
+    },
+    {
+      "filename": "0257(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 257
+    },
+    {
+      "filename": "0257-1.png",
+      "key": "1",
+      "dexID": 257
+    }
+  ],
+  "258": [
+    {
+      "filename": "0258(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 258
+    },
+    {
+      "filename": "0258-1.png",
+      "key": "1",
+      "dexID": 258
+    }
+  ],
+  "259": [
+    {
+      "filename": "0259(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 259
+    },
+    {
+      "filename": "0259-1.png",
+      "key": "1",
+      "dexID": 259
+    }
+  ],
+  "260": [
+    {
+      "filename": "0260(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 260
+    },
+    {
+      "filename": "0260(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 260
+    },
+    {
+      "filename": "0260(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 260
+    },
+    {
+      "filename": "0260-1.png",
+      "key": "1",
+      "dexID": 260
+    }
+  ],
+  "261": [
+    {
+      "filename": "0261-1.png",
+      "key": "1",
+      "dexID": 261
+    }
+  ],
+  "262": [
+    {
+      "filename": "0262-1.png",
+      "key": "1",
+      "dexID": 262
+    }
+  ],
+  "263": [
+    {
+      "filename": "0263(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 263
+    },
+    {
+      "filename": "0263-1.png",
+      "key": "1",
+      "dexID": 263
+    }
+  ],
+  "264": [
+    {
+      "filename": "0264(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 264
+    },
+    {
+      "filename": "0264-1.png",
+      "key": "1",
+      "dexID": 264
+    }
+  ],
+  "265": [
+    {
+      "filename": "0265-1.png",
+      "key": "1",
+      "dexID": 265
+    }
+  ],
+  "266": [
+    {
+      "filename": "0266-1.png",
+      "key": "1",
+      "dexID": 266
+    }
+  ],
+  "267": [
+    {
+      "filename": "0267-1.png",
+      "key": "1",
+      "dexID": 267
+    }
+  ],
+  "268": [
+    {
+      "filename": "0268-1.png",
+      "key": "1",
+      "dexID": 268
+    }
+  ],
+  "269": [
+    {
+      "filename": "0269-1.png",
+      "key": "1",
+      "dexID": 269
+    }
+  ],
+  "270": [
+    {
+      "filename": "0270-1.png",
+      "key": "1",
+      "dexID": 270
+    }
+  ],
+  "271": [
+    {
+      "filename": "0271-1.png",
+      "key": "1",
+      "dexID": 271
+    }
+  ],
+  "272": [
+    {
+      "filename": "0272-1.png",
+      "key": "1",
+      "dexID": 272
+    }
+  ],
+  "273": [
+    {
+      "filename": "0273-1.png",
+      "key": "1",
+      "dexID": 273
+    }
+  ],
+  "274": [
+    {
+      "filename": "0274-1.png",
+      "key": "1",
+      "dexID": 274
+    }
+  ],
+  "275": [
+    {
+      "filename": "0275-1.png",
+      "key": "1",
+      "dexID": 275
+    },
+    {
+      "filename": "0275-2.png",
+      "key": "2",
+      "dexID": 275
+    }
+  ],
+  "276": [
+    {
+      "filename": "0276-1.png",
+      "key": "1",
+      "dexID": 276
+    }
+  ],
+  "277": [
+    {
+      "filename": "0277-1.png",
+      "key": "1",
+      "dexID": 277
+    }
+  ],
+  "278": [
+    {
+      "filename": "0278-1.png",
+      "key": "1",
+      "dexID": 278
+    },
+    {
+      "filename": "0278-2.png",
+      "key": "2",
+      "dexID": 278
+    }
+  ],
+  "279": [
+    {
+      "filename": "0279-1.png",
+      "key": "1",
+      "dexID": 279
+    },
+    {
+      "filename": "0279-2.png",
+      "key": "2",
+      "dexID": 279
+    },
+    {
+      "filename": "0279-3.png",
+      "key": "3",
+      "dexID": 279
+    },
+    {
+      "filename": "0279-4.png",
+      "key": "4",
+      "dexID": 279
+    }
+  ],
+  "280": [
+    {
+      "filename": "0280-1.png",
+      "key": "1",
+      "dexID": 280
+    }
+  ],
+  "281": [
+    {
+      "filename": "0281-1.png",
+      "key": "1",
+      "dexID": 281
+    }
+  ],
+  "282": [
+    {
+      "filename": "0282(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 282
+    },
+    {
+      "filename": "0282-1.png",
+      "key": "1",
+      "dexID": 282
+    },
+    {
+      "filename": "0282-2.png",
+      "key": "2",
+      "dexID": 282
+    }
+  ],
+  "283": [
+    {
+      "filename": "0283-1.png",
+      "key": "1",
+      "dexID": 283
+    },
+    {
+      "filename": "0283-2.png",
+      "key": "2",
+      "dexID": 283
+    }
+  ],
+  "284": [
+    {
+      "filename": "0284-1.png",
+      "key": "1",
+      "dexID": 284
+    }
+  ],
+  "285": [
+    {
+      "filename": "0285-1.png",
+      "key": "1",
+      "dexID": 285
+    }
+  ],
+  "286": [
+    {
+      "filename": "0286-1.png",
+      "key": "1",
+      "dexID": 286
+    }
+  ],
+  "287": [
+    {
+      "filename": "0287-1.png",
+      "key": "1",
+      "dexID": 287
+    }
+  ],
+  "288": [
+    {
+      "filename": "0288-1.png",
+      "key": "1",
+      "dexID": 288
+    }
+  ],
+  "289": [
+    {
+      "filename": "0289-1.png",
+      "key": "1",
+      "dexID": 289
+    }
+  ],
+  "290": [
+    {
+      "filename": "0290-1.png",
+      "key": "1",
+      "dexID": 290
+    },
+    {
+      "filename": "0290-2.png",
+      "key": "2",
+      "dexID": 290
+    }
+  ],
+  "291": [
+    {
+      "filename": "0291-1.png",
+      "key": "1",
+      "dexID": 291
+    },
+    {
+      "filename": "0291-2.png",
+      "key": "2",
+      "dexID": 291
+    }
+  ],
+  "292": [
+    {
+      "filename": "0292-1.png",
+      "key": "1",
+      "dexID": 292
+    },
+    {
+      "filename": "0292-2.png",
+      "key": "2",
+      "dexID": 292
+    },
+    {
+      "filename": "0292-3.png",
+      "key": "3",
+      "dexID": 292
+    }
+  ],
+  "293": [
+    {
+      "filename": "0293-1.png",
+      "key": "1",
+      "dexID": 293
+    }
+  ],
+  "294": [
+    {
+      "filename": "0294-1.png",
+      "key": "1",
+      "dexID": 294
+    }
+  ],
+  "295": [
+    {
+      "filename": "0295-1.png",
+      "key": "1",
+      "dexID": 295
+    }
+  ],
+  "296": [
+    {
+      "filename": "0296-1.png",
+      "key": "1",
+      "dexID": 296
+    },
+    {
+      "filename": "0296-2.png",
+      "key": "2",
+      "dexID": 296
+    }
+  ],
+  "297": [
+    {
+      "filename": "0297-1.png",
+      "key": "1",
+      "dexID": 297
+    },
+    {
+      "filename": "0297-2.png",
+      "key": "2",
+      "dexID": 297
+    },
+    {
+      "filename": "0297-3.png",
+      "key": "3",
+      "dexID": 297
+    }
+  ],
+  "298": [
+    {
+      "filename": "0298-1.png",
+      "key": "1",
+      "dexID": 298
+    }
+  ],
+  "299": [
+    {
+      "filename": "0299-1.png",
+      "key": "1",
+      "dexID": 299
+    }
+  ],
+  "300": [
+    {
+      "filename": "0300-1.png",
+      "key": "1",
+      "dexID": 300
+    }
+  ],
+  "301": [
+    {
+      "filename": "0301-1.png",
+      "key": "1",
+      "dexID": 301
+    }
+  ],
+  "302": [
+    {
+      "filename": "0302(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 302
+    },
+    {
+      "filename": "0302-1.png",
+      "key": "1",
+      "dexID": 302
+    }
+  ],
+  "303": [
+    {
+      "filename": "303(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 303
+    },
+    {
+      "filename": "0303-1.png",
+      "key": "1",
+      "dexID": 303
+    },
+    {
+      "filename": "0303-2.png",
+      "key": "2",
+      "dexID": 303
+    }
+  ],
+  "304": [
+    {
+      "filename": "0304-1.png",
+      "key": "1",
+      "dexID": 304
+    },
+    {
+      "filename": "0304-2.png",
+      "key": "2",
+      "dexID": 304
+    },
+    {
+      "filename": "0304-3.png",
+      "key": "3",
+      "dexID": 304
+    }
+  ],
+  "305": [
+    {
+      "filename": "0305-1.png",
+      "key": "1",
+      "dexID": 305
+    },
+    {
+      "filename": "0305-2.png",
+      "key": "2",
+      "dexID": 305
+    },
+    {
+      "filename": "0305-3.png",
+      "key": "3",
+      "dexID": 305
+    }
+  ],
+  "306": [
+    {
+      "filename": "0306(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 306
+    },
+    {
+      "filename": "0306-1.png",
+      "key": "1",
+      "dexID": 306
+    },
+    {
+      "filename": "0306-2.png",
+      "key": "2",
+      "dexID": 306
+    },
+    {
+      "filename": "0306-3.png",
+      "key": "3",
+      "dexID": 306
+    },
+    {
+      "filename": "0306-4.png",
+      "key": "4",
+      "dexID": 306
+    }
+  ],
+  "307": [
+    {
+      "filename": "0307-1.png",
+      "key": "1",
+      "dexID": 307
+    }
+  ],
+  "308": [
+    {
+      "filename": "0308(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 308
+    },
+    {
+      "filename": "0308(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 308
+    },
+    {
+      "filename": "0308-1.png",
+      "key": "1",
+      "dexID": 308
+    }
+  ],
+  "309": [
+    {
+      "filename": "0309-1.png",
+      "key": "1",
+      "dexID": 309
+    }
+  ],
+  "310": [
+    {
+      "filename": "0310(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 310
+    },
+    {
+      "filename": "0310-1.png",
+      "key": "1",
+      "dexID": 310
+    }
+  ],
+  "311": [
+    {
+      "filename": "0311-1.png",
+      "key": "1",
+      "dexID": 311
+    },
+    {
+      "filename": "0311-2.png",
+      "key": "2",
+      "dexID": 311
+    }
+  ],
+  "312": [
+    {
+      "filename": "0312-1.png",
+      "key": "1",
+      "dexID": 312
+    },
+    {
+      "filename": "0312-2.png",
+      "key": "2",
+      "dexID": 312
+    }
+  ],
+  "313": [
+    {
+      "filename": "0313-1.png",
+      "key": "1",
+      "dexID": 313
+    },
+    {
+      "filename": "0313-2.png",
+      "key": "2",
+      "dexID": 313
+    }
+  ],
+  "314": [
+    {
+      "filename": "0314-1.png",
+      "key": "1",
+      "dexID": 314
+    },
+    {
+      "filename": "0314-2.png",
+      "key": "2",
+      "dexID": 314
+    }
+  ],
+  "315": [
+    {
+      "filename": "0315-1.png",
+      "key": "1",
+      "dexID": 315
+    }
+  ],
+  "316": [
+    {
+      "filename": "0316-1.png",
+      "key": "1",
+      "dexID": 316
+    },
+    {
+      "filename": "0316-2.png",
+      "key": "2",
+      "dexID": 316
+    }
+  ],
+  "317": [
+    {
+      "filename": "0317-1.png",
+      "key": "1",
+      "dexID": 317
+    },
+    {
+      "filename": "0317-2.png",
+      "key": "2",
+      "dexID": 317
+    }
+  ],
+  "318": [
+    {
+      "filename": "0318-1.png",
+      "key": "1",
+      "dexID": 318
+    }
+  ],
+  "319": [
+    {
+      "filename": "0319(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 319
+    },
+    {
+      "filename": "0319-1.png",
+      "key": "1",
+      "dexID": 319
+    }
+  ],
+  "320": [
+    {
+      "filename": "0320-1.png",
+      "key": "1",
+      "dexID": 320
+    }
+  ],
+  "321": [
+    {
+      "filename": "0321-1.png",
+      "key": "1",
+      "dexID": 321
+    }
+  ],
+  "322": [
+    {
+      "filename": "0322-1.png",
+      "key": "1",
+      "dexID": 322
+    }
+  ],
+  "323": [
+    {
+      "filename": "0323-1.png",
+      "key": "1",
+      "dexID": 323
+    }
+  ],
+  "324": [
+    {
+      "filename": "0324-1.png",
+      "key": "1",
+      "dexID": 324
+    }
+  ],
+  "325": [
+    {
+      "filename": "0325-1.png",
+      "key": "1",
+      "dexID": 325
+    }
+  ],
+  "326": [
+    {
+      "filename": "0326-1.png",
+      "key": "1",
+      "dexID": 326
+    }
+  ],
+  "327": [
+    {
+      "filename": "0327-1.png",
+      "key": "1",
+      "dexID": 327
+    },
+    {
+      "filename": "0327-2.png",
+      "key": "2",
+      "dexID": 327
+    }
+  ],
+  "328": [
+    {
+      "filename": "0328-1.png",
+      "key": "1",
+      "dexID": 328
+    },
+    {
+      "filename": "0328-2.png",
+      "key": "2",
+      "dexID": 328
+    },
+    {
+      "filename": "0328-3.png",
+      "key": "3",
+      "dexID": 328
+    }
+  ],
+  "329": [
+    {
+      "filename": "0329-1.png",
+      "key": "1",
+      "dexID": 329
+    },
+    {
+      "filename": "0329-2.png",
+      "key": "2",
+      "dexID": 329
+    },
+    {
+      "filename": "0329-3.png",
+      "key": "3",
+      "dexID": 329
+    }
+  ],
+  "330": [
+    {
+      "filename": "0330-1.png",
+      "key": "1",
+      "dexID": 330
+    },
+    {
+      "filename": "0330-2.png",
+      "key": "2",
+      "dexID": 330
+    },
+    {
+      "filename": "0330-3.png",
+      "key": "3",
+      "dexID": 330
+    },
+    {
+      "filename": "0330-4.png",
+      "key": "4",
+      "dexID": 330
+    }
+  ],
+  "331": [
+    {
+      "filename": "0331-1.png",
+      "key": "1",
+      "dexID": 331
+    }
+  ],
+  "332": [
+    {
+      "filename": "0332-1.png",
+      "key": "1",
+      "dexID": 332
+    },
+    {
+      "filename": "0332-2.png",
+      "key": "2",
+      "dexID": 332
+    }
+  ],
+  "333": [
+    {
+      "filename": "0333-1.png",
+      "key": "1",
+      "dexID": 333
+    }
+  ],
+  "334": [
+    {
+      "filename": "0334(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 334
+    },
+    {
+      "filename": "0334-1.png",
+      "key": "1",
+      "dexID": 334
+    }
+  ],
+  "335": [
+    {
+      "filename": "0335-1.png",
+      "key": "1",
+      "dexID": 335
+    }
+  ],
+  "336": [
+    {
+      "filename": "0336-1.png",
+      "key": "1",
+      "dexID": 336
+    }
+  ],
+  "337": [
+    {
+      "filename": "0337-1.png",
+      "key": "1",
+      "dexID": 337
+    },
+    {
+      "filename": "0337-2.png",
+      "key": "2",
+      "dexID": 337
+    }
+  ],
+  "338": [
+    {
+      "filename": "0338-1.png",
+      "key": "1",
+      "dexID": 338
+    },
+    {
+      "filename": "0338-2.png",
+      "key": "2",
+      "dexID": 338
+    }
+  ],
+  "339": [
+    {
+      "filename": "0339-1.png",
+      "key": "1",
+      "dexID": 339
+    }
+  ],
+  "340": [
+    {
+      "filename": "0340-1.png",
+      "key": "1",
+      "dexID": 340
+    },
+    {
+      "filename": "0340-2.png",
+      "key": "2",
+      "dexID": 340
+    }
+  ],
+  "341": [
+    {
+      "filename": "0341-1.png",
+      "key": "1",
+      "dexID": 341
+    },
+    {
+      "filename": "0341-2.png",
+      "key": "2",
+      "dexID": 341
+    },
+    {
+      "filename": "0341-3.png",
+      "key": "3",
+      "dexID": 341
+    }
+  ],
+  "342": [
+    {
+      "filename": "0342-1.png",
+      "key": "1",
+      "dexID": 342
+    },
+    {
+      "filename": "0342-2.png",
+      "key": "2",
+      "dexID": 342
+    },
+    {
+      "filename": "0342-3.png",
+      "key": "3",
+      "dexID": 342
+    }
+  ],
+  "343": [
+    {
+      "filename": "0343-1.png",
+      "key": "1",
+      "dexID": 343
+    },
+    {
+      "filename": "0343-2.png",
+      "key": "2",
+      "dexID": 343
+    }
+  ],
+  "344": [
+    {
+      "filename": "0344-1.png",
+      "key": "1",
+      "dexID": 344
+    },
+    {
+      "filename": "0344-2.png",
+      "key": "2",
+      "dexID": 344
+    }
+  ],
+  "345": [
+    {
+      "filename": "0345-1.png",
+      "key": "1",
+      "dexID": 345
+    }
+  ],
+  "346": [
+    {
+      "filename": "0346-1.png",
+      "key": "1",
+      "dexID": 346
+    }
+  ],
+  "347": [
+    {
+      "filename": "0347-1.png",
+      "key": "1",
+      "dexID": 347
+    }
+  ],
+  "348": [
+    {
+      "filename": "0348-1.png",
+      "key": "1",
+      "dexID": 348
+    },
+    {
+      "filename": "0348-2.png",
+      "key": "2",
+      "dexID": 348
+    }
+  ],
+  "349": [
+    {
+      "filename": "0349(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 349
+    },
+    {
+      "filename": "0349-1.png",
+      "key": "1",
+      "dexID": 349
+    }
+  ],
+  "350": [
+    {
+      "filename": "0350(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 350
+    },
+    {
+      "filename": "0350-1.png",
+      "key": "1",
+      "dexID": 350
+    }
+  ],
+  "351": [
+    {
+      "filename": "0351(rain)-1.png",
+      "key": "(rain)-1",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(rain)-2.png",
+      "key": "(rain)-2",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(sand)-1.png",
+      "key": "(sand)-1",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(sand)-2.png",
+      "key": "(sand)-2",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(snow)-1.png",
+      "key": "(snow)-1",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(snow)-2.png",
+      "key": "(snow)-2",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(Snow)-3.png",
+      "key": "(Snow)-3",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(sun)-1.png",
+      "key": "(sun)-1",
+      "dexID": 351
+    },
+    {
+      "filename": "0351(sun)-2.png",
+      "key": "(sun)-2",
+      "dexID": 351
+    },
+    {
+      "filename": "0351-1.png",
+      "key": "1",
+      "dexID": 351
+    },
+    {
+      "filename": "0351-2.png",
+      "key": "2",
+      "dexID": 351
+    },
+    {
+      "filename": "0351-3.png",
+      "key": "3",
+      "dexID": 351
+    }
+  ],
+  "352": [
+    {
+      "filename": "0352-1.png",
+      "key": "1",
+      "dexID": 352
+    }
+  ],
+  "353": [
+    {
+      "filename": "0353-1.png",
+      "key": "1",
+      "dexID": 353
+    }
+  ],
+  "354": [
+    {
+      "filename": "0354(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 354
+    },
+    {
+      "filename": "0354(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 354
+    },
+    {
+      "filename": "0354-1.png",
+      "key": "1",
+      "dexID": 354
+    }
+  ],
+  "355": [
+    {
+      "filename": "0355-1.png",
+      "key": "1",
+      "dexID": 355
+    },
+    {
+      "filename": "0355-2.png",
+      "key": "2",
+      "dexID": 355
+    }
+  ],
+  "356": [
+    {
+      "filename": "0356-1.png",
+      "key": "1",
+      "dexID": 356
+    },
+    {
+      "filename": "0356-2.png",
+      "key": "2",
+      "dexID": 356
+    }
+  ],
+  "357": [
+    {
+      "filename": "0357-1.png",
+      "key": "1",
+      "dexID": 357
+    },
+    {
+      "filename": "0357-2.png",
+      "key": "2",
+      "dexID": 357
+    }
+  ],
+  "358": [
+    {
+      "filename": "0358-1.png",
+      "key": "1",
+      "dexID": 358
+    }
+  ],
+  "359": [
+    {
+      "filename": "0359(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 359
+    },
+    {
+      "filename": "0359(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 359
+    },
+    {
+      "filename": "0359(M)-3.png",
+      "key": "(M)-3",
+      "dexID": 359
+    },
+    {
+      "filename": "0359-1.png",
+      "key": "1",
+      "dexID": 359
+    }
+  ],
+  "360": [
+    {
+      "filename": "0360-1.png",
+      "key": "1",
+      "dexID": 360
+    }
+  ],
+  "361": [
+    {
+      "filename": "0361-1.png",
+      "key": "1",
+      "dexID": 361
+    }
+  ],
+  "362": [
+    {
+      "filename": "362(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 362
+    },
+    {
+      "filename": "0362-1.png",
+      "key": "1",
+      "dexID": 362
+    }
+  ],
+  "363": [
+    {
+      "filename": "0363-1.png",
+      "key": "1",
+      "dexID": 363
+    }
+  ],
+  "364": [
+    {
+      "filename": "0364-1.png",
+      "key": "1",
+      "dexID": 364
+    }
+  ],
+  "365": [
+    {
+      "filename": "0365-1.png",
+      "key": "1",
+      "dexID": 365
+    }
+  ],
+  "366": [
+    {
+      "filename": "0366-1.png",
+      "key": "1",
+      "dexID": 366
+    }
+  ],
+  "367": [
+    {
+      "filename": "0367-1.png",
+      "key": "1",
+      "dexID": 367
+    }
+  ],
+  "368": [
+    {
+      "filename": "0368-1.png",
+      "key": "1",
+      "dexID": 368
+    }
+  ],
+  "369": [
+    {
+      "filename": "0369-1.png",
+      "key": "1",
+      "dexID": 369
+    },
+    {
+      "filename": "0369-2.png",
+      "key": "2",
+      "dexID": 369
+    }
+  ],
+  "370": [
+    {
+      "filename": "0370-1.png",
+      "key": "1",
+      "dexID": 370
+    }
+  ],
+  "371": [
+    {
+      "filename": "0371-1.png",
+      "key": "1",
+      "dexID": 371
+    }
+  ],
+  "372": [
+    {
+      "filename": "0372-1.png",
+      "key": "1",
+      "dexID": 372
+    }
+  ],
+  "373": [
+    {
+      "filename": "0373(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 373
+    },
+    {
+      "filename": "0373-1.png",
+      "key": "1",
+      "dexID": 373
+    }
+  ],
+  "374": [
+    {
+      "filename": "0374-1.png",
+      "key": "1",
+      "dexID": 374
+    },
+    {
+      "filename": "0374-2.png",
+      "key": "2",
+      "dexID": 374
+    },
+    {
+      "filename": "0374-3.png",
+      "key": "3",
+      "dexID": 374
+    }
+  ],
+  "375": [
+    {
+      "filename": "0375-1.png",
+      "key": "1",
+      "dexID": 375
+    },
+    {
+      "filename": "0375-2.png",
+      "key": "2",
+      "dexID": 375
+    },
+    {
+      "filename": "0375-3.png",
+      "key": "3",
+      "dexID": 375
+    }
+  ],
+  "376": [
+    {
+      "filename": "0376(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 376
+    },
+    {
+      "filename": "0376-1.png",
+      "key": "1",
+      "dexID": 376
+    },
+    {
+      "filename": "0376-2.png",
+      "key": "2",
+      "dexID": 376
+    },
+    {
+      "filename": "0376-3.png",
+      "key": "3",
+      "dexID": 376
+    }
+  ],
+  "377": [
+    {
+      "filename": "0377-1.png",
+      "key": "1",
+      "dexID": 377
+    }
+  ],
+  "378": [
+    {
+      "filename": "0378-1.png",
+      "key": "1",
+      "dexID": 378
+    }
+  ],
+  "379": [
+    {
+      "filename": "0379-1.png",
+      "key": "1",
+      "dexID": 379
+    }
+  ],
+  "380": [
+    {
+      "filename": "0380(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 380
+    },
+    {
+      "filename": "0380-1.png",
+      "key": "1",
+      "dexID": 380
+    },
+    {
+      "filename": "0380-2.png",
+      "key": "2",
+      "dexID": 380
+    }
+  ],
+  "381": [
+    {
+      "filename": "0381(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 381
+    },
+    {
+      "filename": "0381(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 381
+    },
+    {
+      "filename": "0381-1.png",
+      "key": "1",
+      "dexID": 381
+    }
+  ],
+  "382": [
+    {
+      "filename": "0382(P)-1.png",
+      "key": "(P)-1",
+      "dexID": 382
+    },
+    {
+      "filename": "0382-1.png",
+      "key": "1",
+      "dexID": 382
+    }
+  ],
+  "383": [
+    {
+      "filename": "0383(P)-1.png",
+      "key": "(P)-1",
+      "dexID": 383
+    },
+    {
+      "filename": "0383-1.png",
+      "key": "1",
+      "dexID": 383
+    }
+  ],
+  "384": [
+    {
+      "filename": "0384(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 384
+    },
+    {
+      "filename": "0384(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 384
+    },
+    {
+      "filename": "0384-1.png",
+      "key": "1",
+      "dexID": 384
+    }
+  ],
+  "385": [
+    {
+      "filename": "0385-1.png",
+      "key": "1",
+      "dexID": 385
+    },
+    {
+      "filename": "0385-2.png",
+      "key": "2",
+      "dexID": 385
+    }
+  ],
+  "386": [
+    {
+      "filename": "0386(A)-1.png",
+      "key": "(A)-1",
+      "dexID": 386
+    },
+    {
+      "filename": "0386(D)-1.png",
+      "key": "(D)-1",
+      "dexID": 386
+    },
+    {
+      "filename": "0386(S)-1.png",
+      "key": "(S)-1",
+      "dexID": 386
+    },
+    {
+      "filename": "0386-1.png",
+      "key": "1",
+      "dexID": 386
+    }
+  ],
+  "387": [
+    {
+      "filename": "0387-1.png",
+      "key": "1",
+      "dexID": 387
+    },
+    {
+      "filename": "0387-2.png",
+      "key": "2",
+      "dexID": 387
+    }
+  ],
+  "388": [
+    {
+      "filename": "0388-1.png",
+      "key": "1",
+      "dexID": 388
+    },
+    {
+      "filename": "0388-2.png",
+      "key": "2",
+      "dexID": 388
+    },
+    {
+      "filename": "388-3.png",
+      "key": "3",
+      "dexID": 388
+    }
+  ],
+  "389": [
+    {
+      "filename": "0389-1.png",
+      "key": "1",
+      "dexID": 389
+    },
+    {
+      "filename": "0389-2.png",
+      "key": "2",
+      "dexID": 389
+    },
+    {
+      "filename": "0389-3.png",
+      "key": "3",
+      "dexID": 389
+    },
+    {
+      "filename": "0389-4.png",
+      "key": "4",
+      "dexID": 389
+    }
+  ],
+  "390": [
+    {
+      "filename": "0390-1.png",
+      "key": "1",
+      "dexID": 390
+    }
+  ],
+  "391": [
+    {
+      "filename": "0391-1.png",
+      "key": "1",
+      "dexID": 391
+    }
+  ],
+  "392": [
+    {
+      "filename": "0392-1.png",
+      "key": "1",
+      "dexID": 392
+    },
+    {
+      "filename": "0392-2.png",
+      "key": "2",
+      "dexID": 392
+    }
+  ],
+  "393": [
+    {
+      "filename": "0393-1.png",
+      "key": "1",
+      "dexID": 393
+    }
+  ],
+  "394": [
+    {
+      "filename": "0394-1.png",
+      "key": "1",
+      "dexID": 394
+    }
+  ],
+  "395": [
+    {
+      "filename": "0395-1.png",
+      "key": "1",
+      "dexID": 395
+    }
+  ],
+  "396": [
+    {
+      "filename": "0396-1.png",
+      "key": "1",
+      "dexID": 396
+    },
+    {
+      "filename": "0396-2.png",
+      "key": "2",
+      "dexID": 396
+    }
+  ],
+  "397": [
+    {
+      "filename": "0397-1.png",
+      "key": "1",
+      "dexID": 397
+    },
+    {
+      "filename": "0397-2.png",
+      "key": "2",
+      "dexID": 397
+    }
+  ],
+  "398": [
+    {
+      "filename": "0398-1.png",
+      "key": "1",
+      "dexID": 398
+    },
+    {
+      "filename": "0398-2.png",
+      "key": "2",
+      "dexID": 398
+    },
+    {
+      "filename": "0398-3.png",
+      "key": "3",
+      "dexID": 398
+    }
+  ],
+  "399": [
+    {
+      "filename": "0399-1.png",
+      "key": "1",
+      "dexID": 399
+    },
+    {
+      "filename": "0399-2.png",
+      "key": "2",
+      "dexID": 399
+    }
+  ],
+  "400": [
+    {
+      "filename": "0400-1.png",
+      "key": "1",
+      "dexID": 400
+    },
+    {
+      "filename": "0400-2.png",
+      "key": "2",
+      "dexID": 400
+    }
+  ],
+  "401": [
+    {
+      "filename": "0401-1.png",
+      "key": "1",
+      "dexID": 401
+    },
+    {
+      "filename": "401-2.png",
+      "key": "2",
+      "dexID": 401
+    }
+  ],
+  "402": [
+    {
+      "filename": "0402-1.png",
+      "key": "1",
+      "dexID": 402
+    },
+    {
+      "filename": "402-2.png",
+      "key": "2",
+      "dexID": 402
+    }
+  ],
+  "403": [
+    {
+      "filename": "0403-1.png",
+      "key": "1",
+      "dexID": 403
+    }
+  ],
+  "404": [
+    {
+      "filename": "0404-1.png",
+      "key": "1",
+      "dexID": 404
+    }
+  ],
+  "405": [
+    {
+      "filename": "0405-1.png",
+      "key": "1",
+      "dexID": 405
+    }
+  ],
+  "406": [
+    {
+      "filename": "0406-1.png",
+      "key": "1",
+      "dexID": 406
+    },
+    {
+      "filename": "0406-2.png",
+      "key": "2",
+      "dexID": 406
+    }
+  ],
+  "407": [
+    {
+      "filename": "0407-1.png",
+      "key": "1",
+      "dexID": 407
+    }
+  ],
+  "408": [
+    {
+      "filename": "0408-1.png",
+      "key": "1",
+      "dexID": 408
+    },
+    {
+      "filename": "0408-2.png",
+      "key": "2",
+      "dexID": 408
+    }
+  ],
+  "409": [
+    {
+      "filename": "0409-1.png",
+      "key": "1",
+      "dexID": 409
+    },
+    {
+      "filename": "0409-2.png",
+      "key": "2",
+      "dexID": 409
+    }
+  ],
+  "410": [
+    {
+      "filename": "0410-1.png",
+      "key": "1",
+      "dexID": 410
+    }
+  ],
+  "411": [
+    {
+      "filename": "0411-1.png",
+      "key": "1",
+      "dexID": 411
+    }
+  ],
+  "412": [
+    {
+      "filename": "0412(Plant)-1.png",
+      "key": "(Plant)-1",
+      "dexID": 412
+    },
+    {
+      "filename": "0412(Plant)-2.png",
+      "key": "(Plant)-2",
+      "dexID": 412
+    },
+    {
+      "filename": "0412(Sandy)-1.png",
+      "key": "(Sandy)-1",
+      "dexID": 412
+    },
+    {
+      "filename": "0412(Sandy)-2.png",
+      "key": "(Sandy)-2",
+      "dexID": 412
+    },
+    {
+      "filename": "0412(Trash)-1.png",
+      "key": "(Trash)-1",
+      "dexID": 412
+    },
+    {
+      "filename": "0412(Trash)-2.png",
+      "key": "(Trash)-2",
+      "dexID": 412
+    }
+  ],
+  "413": [
+    {
+      "filename": "0413(plant)-1.png",
+      "key": "(plant)-1",
+      "dexID": 413
+    },
+    {
+      "filename": "0413(sandy)-1.png",
+      "key": "(sandy)-1",
+      "dexID": 413
+    },
+    {
+      "filename": "0413(trash)-1.png",
+      "key": "(trash)-1",
+      "dexID": 413
+    }
+  ],
+  "414": [
+    {
+      "filename": "0414(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 414
+    },
+    {
+      "filename": "0414-1.png",
+      "key": "1",
+      "dexID": 414
+    }
+  ],
+  "415": [
+    {
+      "filename": "0415(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 415
+    },
+    {
+      "filename": "0415-1.png",
+      "key": "1",
+      "dexID": 415
+    },
+    {
+      "filename": "0415-2.png",
+      "key": "2",
+      "dexID": 415
+    }
+  ],
+  "416": [
+    {
+      "filename": "0416-1.png",
+      "key": "1",
+      "dexID": 416
+    },
+    {
+      "filename": "0416-2.png",
+      "key": "2",
+      "dexID": 416
+    }
+  ],
+  "417": [
+    {
+      "filename": "0417-1.png",
+      "key": "1",
+      "dexID": 417
+    }
+  ],
+  "418": [
+    {
+      "filename": "0418-1.png",
+      "key": "1",
+      "dexID": 418
+    }
+  ],
+  "419": [
+    {
+      "filename": "0419-1.png",
+      "key": "1",
+      "dexID": 419
+    }
+  ],
+  "420": [
+    {
+      "filename": "0420-1.png",
+      "key": "1",
+      "dexID": 420
+    }
+  ],
+  "421": [
+    {
+      "filename": "0421(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 421
+    },
+    {
+      "filename": "0421(S)-1.png",
+      "key": "(S)-1",
+      "dexID": 421
+    }
+  ],
+  "422": [
+    {
+      "filename": "0422(E)-1.png",
+      "key": "(E)-1",
+      "dexID": 422
+    },
+    {
+      "filename": "0422(E)-2.png",
+      "key": "(E)-2",
+      "dexID": 422
+    },
+    {
+      "filename": "0422(W)-1.png",
+      "key": "(W)-1",
+      "dexID": 422
+    },
+    {
+      "filename": "0422(W)-2.png",
+      "key": "(W)-2",
+      "dexID": 422
+    }
+  ],
+  "423": [
+    {
+      "filename": "0423(E)-1.png",
+      "key": "(E)-1",
+      "dexID": 423
+    },
+    {
+      "filename": "0423(E)-2.png",
+      "key": "(E)-2",
+      "dexID": 423
+    },
+    {
+      "filename": "0423(W)-1.png",
+      "key": "(W)-1",
+      "dexID": 423
+    },
+    {
+      "filename": "0423(W)-2.png",
+      "key": "(W)-2",
+      "dexID": 423
+    }
+  ],
+  "424": [
+    {
+      "filename": "0424-1.png",
+      "key": "1",
+      "dexID": 424
+    }
+  ],
+  "425": [
+    {
+      "filename": "0425-1.png",
+      "key": "1",
+      "dexID": 425
+    },
+    {
+      "filename": "0425-3.png",
+      "key": "3",
+      "dexID": 425
+    }
+  ],
+  "426": [
+    {
+      "filename": "0426-1.png",
+      "key": "1",
+      "dexID": 426
+    },
+    {
+      "filename": "0426-3.png",
+      "key": "3",
+      "dexID": 426
+    }
+  ],
+  "427": [
+    {
+      "filename": "0427-1.png",
+      "key": "1",
+      "dexID": 427
+    }
+  ],
+  "428": [
+    {
+      "filename": "0428(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 428
+    },
+    {
+      "filename": "0428-1.png",
+      "key": "1",
+      "dexID": 428
+    }
+  ],
+  "429": [
+    {
+      "filename": "0429-1.png",
+      "key": "1",
+      "dexID": 429
+    },
+    {
+      "filename": "0429-2.png",
+      "key": "2",
+      "dexID": 429
+    }
+  ],
+  "430": [
+    {
+      "filename": "0430-1.png",
+      "key": "1",
+      "dexID": 430
+    },
+    {
+      "filename": "0430-2.png",
+      "key": "2",
+      "dexID": 430
+    },
+    {
+      "filename": "0430-3.png",
+      "key": "3",
+      "dexID": 430
+    }
+  ],
+  "431": [
+    {
+      "filename": "0431-1.png",
+      "key": "1",
+      "dexID": 431
+    },
+    {
+      "filename": "0431-2.png",
+      "key": "2",
+      "dexID": 431
+    }
+  ],
+  "432": [
+    {
+      "filename": "0432-1.png",
+      "key": "1",
+      "dexID": 432
+    },
+    {
+      "filename": "0432-2.png",
+      "key": "2",
+      "dexID": 432
+    }
+  ],
+  "433": [
+    {
+      "filename": "0433-1.png",
+      "key": "1",
+      "dexID": 433
+    }
+  ],
+  "434": [
+    {
+      "filename": "0434-1.png",
+      "key": "1",
+      "dexID": 434
+    }
+  ],
+  "435": [
+    {
+      "filename": "0435-1.png",
+      "key": "1",
+      "dexID": 435
+    }
+  ],
+  "436": [
+    {
+      "filename": "0436-1.png",
+      "key": "1",
+      "dexID": 436
+    }
+  ],
+  "437": [
+    {
+      "filename": "0437-1.png",
+      "key": "1",
+      "dexID": 437
+    }
+  ],
+  "438": [
+    {
+      "filename": "0438-1.png",
+      "key": "1",
+      "dexID": 438
+    }
+  ],
+  "439": [
+    {
+      "filename": "0439-1.png",
+      "key": "1",
+      "dexID": 439
+    }
+  ],
+  "440": [
+    {
+      "filename": "0440-1.png",
+      "key": "1",
+      "dexID": 440
+    }
+  ],
+  "441": [
+    {
+      "filename": "0441-1.png",
+      "key": "1",
+      "dexID": 441
+    }
+  ],
+  "442": [
+    {
+      "filename": "0442-1.png",
+      "key": "1",
+      "dexID": 442
+    },
+    {
+      "filename": "0442-2.png",
+      "key": "2",
+      "dexID": 442
+    }
+  ],
+  "443": [
+    {
+      "filename": "0443-1.png",
+      "key": "1",
+      "dexID": 443
+    },
+    {
+      "filename": "0443-3.png",
+      "key": "3",
+      "dexID": 443
+    },
+    {
+      "filename": "0443-4.png",
+      "key": "4",
+      "dexID": 443
+    },
+    {
+      "filename": "0443-5.png",
+      "key": "5",
+      "dexID": 443
+    }
+  ],
+  "444": [
+    {
+      "filename": "0444-1.png",
+      "key": "1",
+      "dexID": 444
+    },
+    {
+      "filename": "0444-3.png",
+      "key": "3",
+      "dexID": 444
+    },
+    {
+      "filename": "0444-4.png",
+      "key": "4",
+      "dexID": 444
+    },
+    {
+      "filename": "0444-5.png",
+      "key": "5",
+      "dexID": 444
+    }
+  ],
+  "445": [
+    {
+      "filename": "0445(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 445
+    },
+    {
+      "filename": "0445-1.png",
+      "key": "1",
+      "dexID": 445
+    },
+    {
+      "filename": "0445-3.png",
+      "key": "3",
+      "dexID": 445
+    },
+    {
+      "filename": "0445-4.png",
+      "key": "4",
+      "dexID": 445
+    },
+    {
+      "filename": "0445-5.png",
+      "key": "5",
+      "dexID": 445
+    },
+    {
+      "filename": "0445-6.png",
+      "key": "6",
+      "dexID": 445
+    }
+  ],
+  "446": [
+    {
+      "filename": "0446-1.png",
+      "key": "1",
+      "dexID": 446
+    }
+  ],
+  "447": [
+    {
+      "filename": "0447-1.png",
+      "key": "1",
+      "dexID": 447
+    }
+  ],
+  "448": [
+    {
+      "filename": "0448(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 448
+    },
+    {
+      "filename": "0448-1.png",
+      "key": "1",
+      "dexID": 448
+    },
+    {
+      "filename": "0448-2.png",
+      "key": "2",
+      "dexID": 448
+    },
+    {
+      "filename": "0448-3.png",
+      "key": "3",
+      "dexID": 448
+    }
+  ],
+  "449": [
+    {
+      "filename": "0449(GS)-1.png",
+      "key": "(GS)-1",
+      "dexID": 449
+    },
+    {
+      "filename": "0449-1.png",
+      "key": "1",
+      "dexID": 449
+    },
+    {
+      "filename": "0449-2.png",
+      "key": "2",
+      "dexID": 449
+    }
+  ],
+  "450": [
+    {
+      "filename": "0450(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 450
+    },
+    {
+      "filename": "0450-1.png",
+      "key": "1",
+      "dexID": 450
+    },
+    {
+      "filename": "0450-2.png",
+      "key": "2",
+      "dexID": 450
+    }
+  ],
+  "451": [
+    {
+      "filename": "0451-1.png",
+      "key": "1",
+      "dexID": 451
+    },
+    {
+      "filename": "0451-2.png",
+      "key": "2",
+      "dexID": 451
+    }
+  ],
+  "452": [
+    {
+      "filename": "0452-1.png",
+      "key": "1",
+      "dexID": 452
+    },
+    {
+      "filename": "0452-2.png",
+      "key": "2",
+      "dexID": 452
+    },
+    {
+      "filename": "0452-3.png",
+      "key": "3",
+      "dexID": 452
+    }
+  ],
+  "453": [
+    {
+      "filename": "0453-1.png",
+      "key": "1",
+      "dexID": 453
+    }
+  ],
+  "454": [
+    {
+      "filename": "0454-1.png",
+      "key": "1",
+      "dexID": 454
+    }
+  ],
+  "455": [
+    {
+      "filename": "0455-1.png",
+      "key": "1",
+      "dexID": 455
+    }
+  ],
+  "456": [
+    {
+      "filename": "0456-1.png",
+      "key": "1",
+      "dexID": 456
+    }
+  ],
+  "457": [
+    {
+      "filename": "0457-1.png",
+      "key": "1",
+      "dexID": 457
+    }
+  ],
+  "458": [
+    {
+      "filename": "0458-1.png",
+      "key": "1",
+      "dexID": 458
+    }
+  ],
+  "459": [
+    {
+      "filename": "0459-1.png",
+      "key": "1",
+      "dexID": 459
+    },
+    {
+      "filename": "0459-2.png",
+      "key": "2",
+      "dexID": 459
+    }
+  ],
+  "460": [
+    {
+      "filename": "460(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 460
+    },
+    {
+      "filename": "0460-1.png",
+      "key": "1",
+      "dexID": 460
+    },
+    {
+      "filename": "0460-2.png",
+      "key": "2",
+      "dexID": 460
+    }
+  ],
+  "461": [
+    {
+      "filename": "0461-1.png",
+      "key": "1",
+      "dexID": 461
+    }
+  ],
+  "462": [
+    {
+      "filename": "0462-1.png",
+      "key": "1",
+      "dexID": 462
+    }
+  ],
+  "463": [
+    {
+      "filename": "0463-1.png",
+      "key": "1",
+      "dexID": 463
+    },
+    {
+      "filename": "0463-2.png",
+      "key": "2",
+      "dexID": 463
+    }
+  ],
+  "464": [
+    {
+      "filename": "0464-1.png",
+      "key": "1",
+      "dexID": 464
+    },
+    {
+      "filename": "0464-2.png",
+      "key": "2",
+      "dexID": 464
+    }
+  ],
+  "465": [
+    {
+      "filename": "0465-1.png",
+      "key": "1",
+      "dexID": 465
+    },
+    {
+      "filename": "0465-2.png",
+      "key": "2",
+      "dexID": 465
+    }
+  ],
+  "466": [
+    {
+      "filename": "0466-1.png",
+      "key": "1",
+      "dexID": 466
+    },
+    {
+      "filename": "0466-2.png",
+      "key": "2",
+      "dexID": 466
+    },
+    {
+      "filename": "0466-3.png",
+      "key": "3",
+      "dexID": 466
+    },
+    {
+      "filename": "0466-4.png",
+      "key": "4",
+      "dexID": 466
+    }
+  ],
+  "467": [
+    {
+      "filename": "0467-1.png",
+      "key": "1",
+      "dexID": 467
+    }
+  ],
+  "468": [
+    {
+      "filename": "0468-1.png",
+      "key": "1",
+      "dexID": 468
+    },
+    {
+      "filename": "0468-2.png",
+      "key": "2",
+      "dexID": 468
+    },
+    {
+      "filename": "0468-3.png",
+      "key": "3",
+      "dexID": 468
+    }
+  ],
+  "469": [
+    {
+      "filename": "0469-1.png",
+      "key": "1",
+      "dexID": 469
+    },
+    {
+      "filename": "0469-2.png",
+      "key": "2",
+      "dexID": 469
+    },
+    {
+      "filename": "0469-3.png",
+      "key": "3",
+      "dexID": 469
+    },
+    {
+      "filename": "0469-4.png",
+      "key": "4",
+      "dexID": 469
+    }
+  ],
+  "470": [
+    {
+      "filename": "0470-1.png",
+      "key": "1",
+      "dexID": 470
+    },
+    {
+      "filename": "0470-2.png",
+      "key": "2",
+      "dexID": 470
+    },
+    {
+      "filename": "0470-3.png",
+      "key": "3",
+      "dexID": 470
+    }
+  ],
+  "471": [
+    {
+      "filename": "0471-1.png",
+      "key": "1",
+      "dexID": 471
+    }
+  ],
+  "472": [
+    {
+      "filename": "0472-1.png",
+      "key": "1",
+      "dexID": 472
+    },
+    {
+      "filename": "0472-2.png",
+      "key": "2",
+      "dexID": 472
+    }
+  ],
+  "473": [
+    {
+      "filename": "0473-1.png",
+      "key": "1",
+      "dexID": 473
+    }
+  ],
+  "474": [
+    {
+      "filename": "0474-1.png",
+      "key": "1",
+      "dexID": 474
+    },
+    {
+      "filename": "0474-2.png",
+      "key": "2",
+      "dexID": 474
+    },
+    {
+      "filename": "0474-3.png",
+      "key": "3",
+      "dexID": 474
+    }
+  ],
+  "475": [
+    {
+      "filename": "0475(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 475
+    },
+    {
+      "filename": "0475-1.png",
+      "key": "1",
+      "dexID": 475
+    }
+  ],
+  "476": [
+    {
+      "filename": "0476-1.png",
+      "key": "1",
+      "dexID": 476
+    }
+  ],
+  "477": [
+    {
+      "filename": "0477-1.png",
+      "key": "1",
+      "dexID": 477
+    },
+    {
+      "filename": "0477-2.png",
+      "key": "2",
+      "dexID": 477
+    },
+    {
+      "filename": "0477-3.png",
+      "key": "3",
+      "dexID": 477
+    }
+  ],
+  "478": [
+    {
+      "filename": "0478-1.png",
+      "key": "1",
+      "dexID": 478
+    },
+    {
+      "filename": "0478-2.png",
+      "key": "2",
+      "dexID": 478
+    }
+  ],
+  "479": [
+    {
+      "filename": "0479(Fan)-1.png",
+      "key": "(Fan)-1",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Fan)-2.png",
+      "key": "(Fan)-2",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Frost)-1.png",
+      "key": "(Frost)-1",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Frost)-2.png",
+      "key": "(Frost)-2",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Heat)-1.png",
+      "key": "(Heat)-1",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Heat)-2.png",
+      "key": "(Heat)-2",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Mow)-1.png",
+      "key": "(Mow)-1",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Mow)-2.png",
+      "key": "(Mow)-2",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Wash)-1.png",
+      "key": "(Wash)-1",
+      "dexID": 479
+    },
+    {
+      "filename": "0479(Wash)-2.png",
+      "key": "(Wash)-2",
+      "dexID": 479
+    },
+    {
+      "filename": "0479-1.png",
+      "key": "1",
+      "dexID": 479
+    }
+  ],
+  "480": [
+    {
+      "filename": "0480-1.png",
+      "key": "1",
+      "dexID": 480
+    }
+  ],
+  "481": [
+    {
+      "filename": "0481-1.png",
+      "key": "1",
+      "dexID": 481
+    }
+  ],
+  "482": [
+    {
+      "filename": "0482-1.png",
+      "key": "1",
+      "dexID": 482
+    }
+  ],
+  "483": [
+    {
+      "filename": "0483-1.png",
+      "key": "1",
+      "dexID": 483
+    },
+    {
+      "filename": "0483-2.png",
+      "key": "2",
+      "dexID": 483
+    },
+    {
+      "filename": "0483-3.png",
+      "key": "3",
+      "dexID": 483
+    }
+  ],
+  "484": [
+    {
+      "filename": "0484-1.png",
+      "key": "1",
+      "dexID": 484
+    }
+  ],
+  "485": [
+    {
+      "filename": "0485-1.png",
+      "key": "1",
+      "dexID": 485
+    }
+  ],
+  "486": [
+    {
+      "filename": "0486-1.png",
+      "key": "1",
+      "dexID": 486
+    },
+    {
+      "filename": "0486-2.png",
+      "key": "2",
+      "dexID": 486
+    }
+  ],
+  "487": [
+    {
+      "filename": "0487(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 487
+    },
+    {
+      "filename": "0487-1.png",
+      "key": "1",
+      "dexID": 487
+    }
+  ],
+  "488": [
+    {
+      "filename": "0488-1.png",
+      "key": "1",
+      "dexID": 488
+    },
+    {
+      "filename": "0488-2.png",
+      "key": "2",
+      "dexID": 488
+    }
+  ],
+  "489": [
+    {
+      "filename": "0489-1.png",
+      "key": "1",
+      "dexID": 489
+    },
+    {
+      "filename": "0489-2.png",
+      "key": "2",
+      "dexID": 489
+    }
+  ],
+  "490": [
+    {
+      "filename": "0490-1.png",
+      "key": "1",
+      "dexID": 490
+    },
+    {
+      "filename": "0490-2.png",
+      "key": "2",
+      "dexID": 490
+    }
+  ],
+  "492": [
+    {
+      "filename": "0492(L)-1.png",
+      "key": "(L)-1",
+      "dexID": 492
+    },
+    {
+      "filename": "0492(L)-2.png",
+      "key": "(L)-2",
+      "dexID": 492
+    },
+    {
+      "filename": "0492(S)-1.png",
+      "key": "(S)-1",
+      "dexID": 492
+    },
+    {
+      "filename": "0492(S)-2.png",
+      "key": "(S)-2",
+      "dexID": 492
+    }
+  ],
+  "493": [
+    {
+      "filename": "0493(all)-1.png",
+      "key": "(all)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(bug)-1.png",
+      "key": "(bug)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(bug)-2.png",
+      "key": "(bug)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(dark)-1.png",
+      "key": "(dark)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(dark)-2.png",
+      "key": "(dark)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(dragon)-1.png",
+      "key": "(dragon)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(dragon)-2.png",
+      "key": "(dragon)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(electric)-1.png",
+      "key": "(electric)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(electric)-2.png",
+      "key": "(electric)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fairy)-1.png",
+      "key": "(fairy)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fairy)-2.png",
+      "key": "(fairy)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fight)-1.png",
+      "key": "(fight)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fight)-2.png",
+      "key": "(fight)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fire)-1.png",
+      "key": "(fire)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fire)-2.png",
+      "key": "(fire)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fly)-1.png",
+      "key": "(fly)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(fly)-2.png",
+      "key": "(fly)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(ghost)-1.png",
+      "key": "(ghost)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(ghost)-2.png",
+      "key": "(ghost)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(grass)-1.png",
+      "key": "(grass)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(grass)-2.png",
+      "key": "(grass)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(ground)-1.png",
+      "key": "(ground)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(ground)-2.png",
+      "key": "(ground)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(ice)-1.png",
+      "key": "(ice)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(ice)-2.png",
+      "key": "(ice)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(normal)-1.png",
+      "key": "(normal)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(normal)-2.png",
+      "key": "(normal)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(poison)-1.png",
+      "key": "(poison)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(poison)-2.png",
+      "key": "(poison)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(psychic)-1.png",
+      "key": "(psychic)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(psychic)-2.png",
+      "key": "(psychic)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(rock)-1.png",
+      "key": "(rock)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(rock)-2.png",
+      "key": "(rock)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(steel)-1.png",
+      "key": "(steel)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(steel)-2.png",
+      "key": "(steel)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(unknown)-1.png",
+      "key": "(unknown)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(water)-1.png",
+      "key": "(water)-1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493(water)-2.png",
+      "key": "(water)-2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493-1.png",
+      "key": "1",
+      "dexID": 493
+    },
+    {
+      "filename": "0493-2.png",
+      "key": "2",
+      "dexID": 493
+    },
+    {
+      "filename": "0493-3.png",
+      "key": "3",
+      "dexID": 493
+    },
+    {
+      "filename": "0493-4.png",
+      "key": "4",
+      "dexID": 493
+    }
+  ],
+  "494": [
+    {
+      "filename": "0494-1.png",
+      "key": "1",
+      "dexID": 494
+    },
+    {
+      "filename": "0494-2.png",
+      "key": "2",
+      "dexID": 494
+    },
+    {
+      "filename": "0494-3.png",
+      "key": "3",
+      "dexID": 494
+    }
+  ],
+  "495": [
+    {
+      "filename": "0495-1.png",
+      "key": "1",
+      "dexID": 495
+    },
+    {
+      "filename": "0495-2.png",
+      "key": "2",
+      "dexID": 495
+    }
+  ],
+  "496": [
+    {
+      "filename": "0496-1.png",
+      "key": "1",
+      "dexID": 496
+    },
+    {
+      "filename": "0496-2.png",
+      "key": "2",
+      "dexID": 496
+    }
+  ],
+  "497": [
+    {
+      "filename": "0497-1.png",
+      "key": "1",
+      "dexID": 497
+    }
+  ],
+  "498": [
+    {
+      "filename": "0498-1.png",
+      "key": "1",
+      "dexID": 498
+    }
+  ],
+  "499": [
+    {
+      "filename": "0499-1.png",
+      "key": "1",
+      "dexID": 499
+    }
+  ],
+  "500": [
+    {
+      "filename": "0500-1.png",
+      "key": "1",
+      "dexID": 500
+    },
+    {
+      "filename": "0500-2.png",
+      "key": "2",
+      "dexID": 500
+    }
+  ],
+  "501": [
+    {
+      "filename": "0501-1.png",
+      "key": "1",
+      "dexID": 501
+    }
+  ],
+  "502": [
+    {
+      "filename": "0502-1.png",
+      "key": "1",
+      "dexID": 502
+    }
+  ],
+  "503": [
+    {
+      "filename": "0503(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 503
+    },
+    {
+      "filename": "0503-1.png",
+      "key": "1",
+      "dexID": 503
+    }
+  ],
+  "504": [
+    {
+      "filename": "0504-1.png",
+      "key": "1",
+      "dexID": 504
+    }
+  ],
+  "505": [
+    {
+      "filename": "0505-1.png",
+      "key": "1",
+      "dexID": 505
+    }
+  ],
+  "506": [
+    {
+      "filename": "0506-1.png",
+      "key": "1",
+      "dexID": 506
+    }
+  ],
+  "507": [
+    {
+      "filename": "0507-1.png",
+      "key": "1",
+      "dexID": 507
+    }
+  ],
+  "508": [
+    {
+      "filename": "0508-1.png",
+      "key": "1",
+      "dexID": 508
+    },
+    {
+      "filename": "0508-2.png",
+      "key": "2",
+      "dexID": 508
+    }
+  ],
+  "509": [
+    {
+      "filename": "0509-1.png",
+      "key": "1",
+      "dexID": 509
+    }
+  ],
+  "510": [
+    {
+      "filename": "0510-1.png",
+      "key": "1",
+      "dexID": 510
+    }
+  ],
+  "511": [
+    {
+      "filename": "0511-1.png",
+      "key": "1",
+      "dexID": 511
+    }
+  ],
+  "512": [
+    {
+      "filename": "0512-1.png",
+      "key": "1",
+      "dexID": 512
+    }
+  ],
+  "513": [
+    {
+      "filename": "0513-1.png",
+      "key": "1",
+      "dexID": 513
+    },
+    {
+      "filename": "0513-2.png",
+      "key": "2",
+      "dexID": 513
+    }
+  ],
+  "515": [
+    {
+      "filename": "0515-1.png",
+      "key": "1",
+      "dexID": 515
+    },
+    {
+      "filename": "0515-2.png",
+      "key": "2",
+      "dexID": 515
+    },
+    {
+      "filename": "0515-3.png",
+      "key": "3",
+      "dexID": 515
+    }
+  ],
+  "516": [
+    {
+      "filename": "0516-2.png",
+      "key": "2",
+      "dexID": 516
+    },
+    {
+      "filename": "0516-3.png",
+      "key": "3",
+      "dexID": 516
+    }
+  ],
+  "517": [
+    {
+      "filename": "0517-1.png",
+      "key": "1",
+      "dexID": 517
+    }
+  ],
+  "518": [
+    {
+      "filename": "0518-1.png",
+      "key": "1",
+      "dexID": 518
+    },
+    {
+      "filename": "0518-2.png",
+      "key": "2",
+      "dexID": 518
+    }
+  ],
+  "519": [
+    {
+      "filename": "0519-1.png",
+      "key": "1",
+      "dexID": 519
+    },
+    {
+      "filename": "0519-2.png",
+      "key": "2",
+      "dexID": 519
+    }
+  ],
+  "520": [
+    {
+      "filename": "0520-1.png",
+      "key": "1",
+      "dexID": 520
+    }
+  ],
+  "521": [
+    {
+      "filename": "0521-1.png",
+      "key": "1",
+      "dexID": 521
+    }
+  ],
+  "522": [
+    {
+      "filename": "0522-1.png",
+      "key": "1",
+      "dexID": 522
+    },
+    {
+      "filename": "0522-2.png",
+      "key": "2",
+      "dexID": 522
+    }
+  ],
+  "523": [
+    {
+      "filename": "0523-1.png",
+      "key": "1",
+      "dexID": 523
+    },
+    {
+      "filename": "0523-2.png",
+      "key": "2",
+      "dexID": 523
+    }
+  ],
+  "524": [
+    {
+      "filename": "0524-1.png",
+      "key": "1",
+      "dexID": 524
+    }
+  ],
+  "525": [
+    {
+      "filename": "0525-1.png",
+      "key": "1",
+      "dexID": 525
+    }
+  ],
+  "526": [
+    {
+      "filename": "0526-1.png",
+      "key": "1",
+      "dexID": 526
+    }
+  ],
+  "527": [
+    {
+      "filename": "0527-1.png",
+      "key": "1",
+      "dexID": 527
+    }
+  ],
+  "528": [
+    {
+      "filename": "0528-1.png",
+      "key": "1",
+      "dexID": 528
+    },
+    {
+      "filename": "0528-2.png",
+      "key": "2",
+      "dexID": 528
+    }
+  ],
+  "529": [
+    {
+      "filename": "0529-1.png",
+      "key": "1",
+      "dexID": 529
+    }
+  ],
+  "530": [
+    {
+      "filename": "0530-1.png",
+      "key": "1",
+      "dexID": 530
+    }
+  ],
+  "531": [
+    {
+      "filename": "0531(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 531
+    },
+    {
+      "filename": "0531(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 531
+    },
+    {
+      "filename": "0531-1.png",
+      "key": "1",
+      "dexID": 531
+    },
+    {
+      "filename": "0531-2.png",
+      "key": "2",
+      "dexID": 531
+    }
+  ],
+  "532": [
+    {
+      "filename": "0532-1.png",
+      "key": "1",
+      "dexID": 532
+    }
+  ],
+  "533": [
+    {
+      "filename": "0533-1.png",
+      "key": "1",
+      "dexID": 533
+    }
+  ],
+  "534": [
+    {
+      "filename": "0534-1.png",
+      "key": "1",
+      "dexID": 534
+    }
+  ],
+  "535": [
+    {
+      "filename": "0535-1.png",
+      "key": "1",
+      "dexID": 535
+    },
+    {
+      "filename": "0535-2.png",
+      "key": "2",
+      "dexID": 535
+    }
+  ],
+  "536": [
+    {
+      "filename": "0536-1.png",
+      "key": "1",
+      "dexID": 536
+    },
+    {
+      "filename": "0536-2.png",
+      "key": "2",
+      "dexID": 536
+    }
+  ],
+  "537": [
+    {
+      "filename": "0537-1.png",
+      "key": "1",
+      "dexID": 537
+    },
+    {
+      "filename": "0537-2.png",
+      "key": "2",
+      "dexID": 537
+    }
+  ],
+  "538": [
+    {
+      "filename": "0538-1.png",
+      "key": "1",
+      "dexID": 538
+    }
+  ],
+  "539": [
+    {
+      "filename": "0539(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 539
+    },
+    {
+      "filename": "0539-1.png",
+      "key": "1",
+      "dexID": 539
+    }
+  ],
+  "540": [
+    {
+      "filename": "0540-1.png",
+      "key": "1",
+      "dexID": 540
+    }
+  ],
+  "541": [
+    {
+      "filename": "0541-1.png",
+      "key": "1",
+      "dexID": 541
+    }
+  ],
+  "542": [
+    {
+      "filename": "0542-1.png",
+      "key": "1",
+      "dexID": 542
+    }
+  ],
+  "543": [
+    {
+      "filename": "0543-1.png",
+      "key": "1",
+      "dexID": 543
+    },
+    {
+      "filename": "0543-2.png",
+      "key": "2",
+      "dexID": 543
+    }
+  ],
+  "544": [
+    {
+      "filename": "0544-1.png",
+      "key": "1",
+      "dexID": 544
+    },
+    {
+      "filename": "0544-2.png",
+      "key": "2",
+      "dexID": 544
+    }
+  ],
+  "545": [
+    {
+      "filename": "0545-1.png",
+      "key": "1",
+      "dexID": 545
+    },
+    {
+      "filename": "0545-2.png",
+      "key": "2",
+      "dexID": 545
+    },
+    {
+      "filename": "0545-3.png",
+      "key": "3",
+      "dexID": 545
+    },
+    {
+      "filename": "0545-4.png",
+      "key": "4",
+      "dexID": 545
+    }
+  ],
+  "546": [
+    {
+      "filename": "0546-1.png",
+      "key": "1",
+      "dexID": 546
+    }
+  ],
+  "547": [
+    {
+      "filename": "0547-1.png",
+      "key": "1",
+      "dexID": 547
+    },
+    {
+      "filename": "0547-2.png",
+      "key": "2",
+      "dexID": 547
+    }
+  ],
+  "548": [
+    {
+      "filename": "0548-1.png",
+      "key": "1",
+      "dexID": 548
+    }
+  ],
+  "549": [
+    {
+      "filename": "0549(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 549
+    },
+    {
+      "filename": "0549-1.png",
+      "key": "1",
+      "dexID": 549
+    },
+    {
+      "filename": "0549-2.png",
+      "key": "2",
+      "dexID": 549
+    }
+  ],
+  "550": [
+    {
+      "filename": "0550(blue)-1.png",
+      "key": "(blue)-1",
+      "dexID": 550
+    },
+    {
+      "filename": "0550(red)-1.png",
+      "key": "(red)-1",
+      "dexID": 550
+    },
+    {
+      "filename": "0550(white)-1.png",
+      "key": "(white)-1",
+      "dexID": 550
+    },
+    {
+      "filename": "0550(white)-2.png",
+      "key": "(white)-2",
+      "dexID": 550
+    },
+    {
+      "filename": "0550(white)(Masc)-1.png",
+      "key": "(white)(Masc)-1",
+      "dexID": 550
+    },
+    {
+      "filename": "0550(white)(Masc)-2.png",
+      "key": "(white)(Masc)-2",
+      "dexID": 550
+    }
+  ],
+  "551": [
+    {
+      "filename": "0551-1.png",
+      "key": "1",
+      "dexID": 551
+    }
+  ],
+  "552": [
+    {
+      "filename": "0552-1.png",
+      "key": "1",
+      "dexID": 552
+    }
+  ],
+  "553": [
+    {
+      "filename": "0553-1.png",
+      "key": "1",
+      "dexID": 553
+    }
+  ],
+  "554": [
+    {
+      "filename": "0554(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 554
+    },
+    {
+      "filename": "0554-1.png",
+      "key": "1",
+      "dexID": 554
+    }
+  ],
+  "555": [
+    {
+      "filename": "0555(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 555
+    },
+    {
+      "filename": "0555(R)(Zen)-1.png",
+      "key": "(R)(Zen)-1",
+      "dexID": 555
+    },
+    {
+      "filename": "0555(Zen)-1.png",
+      "key": "(Zen)-1",
+      "dexID": 555
+    },
+    {
+      "filename": "0555-1.png",
+      "key": "1",
+      "dexID": 555
+    }
+  ],
+  "556": [
+    {
+      "filename": "0556(Halloween)-1.png",
+      "key": "(Halloween)-1",
+      "dexID": 556
+    },
+    {
+      "filename": "0556-1.png",
+      "key": "1",
+      "dexID": 556
+    },
+    {
+      "filename": "0556-2.png",
+      "key": "2",
+      "dexID": 556
+    }
+  ],
+  "557": [
+    {
+      "filename": "0557-1.png",
+      "key": "1",
+      "dexID": 557
+    }
+  ],
+  "558": [
+    {
+      "filename": "0558-1.png",
+      "key": "1",
+      "dexID": 558
+    }
+  ],
+  "559": [
+    {
+      "filename": "0559-1.png",
+      "key": "1",
+      "dexID": 559
+    },
+    {
+      "filename": "0559-2.png",
+      "key": "2",
+      "dexID": 559
+    }
+  ],
+  "560": [
+    {
+      "filename": "0560(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 560
+    },
+    {
+      "filename": "0560(M)-2.png",
+      "key": "(M)-2",
+      "dexID": 560
+    },
+    {
+      "filename": "0560-1.png",
+      "key": "1",
+      "dexID": 560
+    },
+    {
+      "filename": "0560-2.png",
+      "key": "2",
+      "dexID": 560
+    }
+  ],
+  "561": [
+    {
+      "filename": "0561-1.png",
+      "key": "1",
+      "dexID": 561
+    }
+  ],
+  "562": [
+    {
+      "filename": "0562(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 562
+    },
+    {
+      "filename": "0562-1.png",
+      "key": "1",
+      "dexID": 562
+    },
+    {
+      "filename": "0562-2.png",
+      "key": "2",
+      "dexID": 562
+    }
+  ],
+  "563": [
+    {
+      "filename": "0563-1.png",
+      "key": "1",
+      "dexID": 563
+    },
+    {
+      "filename": "0563-2.png",
+      "key": "2",
+      "dexID": 563
+    },
+    {
+      "filename": "0563-3.png",
+      "key": "3",
+      "dexID": 563
+    }
+  ],
+  "564": [
+    {
+      "filename": "0564-1.png",
+      "key": "1",
+      "dexID": 564
+    }
+  ],
+  "565": [
+    {
+      "filename": "0565-1.png",
+      "key": "1",
+      "dexID": 565
+    }
+  ],
+  "566": [
+    {
+      "filename": "0566-1.png",
+      "key": "1",
+      "dexID": 566
+    },
+    {
+      "filename": "0566-2.png",
+      "key": "2",
+      "dexID": 566
+    }
+  ],
+  "567": [
+    {
+      "filename": "0567-1.png",
+      "key": "1",
+      "dexID": 567
+    },
+    {
+      "filename": "0567-2.png",
+      "key": "2",
+      "dexID": 567
+    }
+  ],
+  "568": [
+    {
+      "filename": "0568-1.png",
+      "key": "1",
+      "dexID": 568
+    }
+  ],
+  "569": [
+    {
+      "filename": "0569-1.png",
+      "key": "1",
+      "dexID": 569
+    }
+  ],
+  "570": [
+    {
+      "filename": "0570(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 570
+    },
+    {
+      "filename": "0570-1.png",
+      "key": "1",
+      "dexID": 570
+    }
+  ],
+  "571": [
+    {
+      "filename": "0571(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 571
+    },
+    {
+      "filename": "0571-1.png",
+      "key": "1",
+      "dexID": 571
+    }
+  ],
+  "572": [
+    {
+      "filename": "0572-1.png",
+      "key": "1",
+      "dexID": 572
+    }
+  ],
+  "573": [
+    {
+      "filename": "0573-1.png",
+      "key": "1",
+      "dexID": 573
+    }
+  ],
+  "574": [
+    {
+      "filename": "0574-1.png",
+      "key": "1",
+      "dexID": 574
+    }
+  ],
+  "575": [
+    {
+      "filename": "0575-1.png",
+      "key": "1",
+      "dexID": 575
+    }
+  ],
+  "576": [
+    {
+      "filename": "0576-1.png",
+      "key": "1",
+      "dexID": 576
+    }
+  ],
+  "577": [
+    {
+      "filename": "0577-1.png",
+      "key": "1",
+      "dexID": 577
+    },
+    {
+      "filename": "0577-2.png",
+      "key": "2",
+      "dexID": 577
+    }
+  ],
+  "578": [
+    {
+      "filename": "0578-1.png",
+      "key": "1",
+      "dexID": 578
+    },
+    {
+      "filename": "0578-2.png",
+      "key": "2",
+      "dexID": 578
+    }
+  ],
+  "579": [
+    {
+      "filename": "0579-1.png",
+      "key": "1",
+      "dexID": 579
+    },
+    {
+      "filename": "0579-2.png",
+      "key": "2",
+      "dexID": 579
+    }
+  ],
+  "580": [
+    {
+      "filename": "0580-1.png",
+      "key": "1",
+      "dexID": 580
+    }
+  ],
+  "581": [
+    {
+      "filename": "0581-1.png",
+      "key": "1",
+      "dexID": 581
+    }
+  ],
+  "582": [
+    {
+      "filename": "0582-1.png",
+      "key": "1",
+      "dexID": 582
+    }
+  ],
+  "583": [
+    {
+      "filename": "0583-1.png",
+      "key": "1",
+      "dexID": 583
+    }
+  ],
+  "584": [
+    {
+      "filename": "0584-1.png",
+      "key": "1",
+      "dexID": 584
+    },
+    {
+      "filename": "0584-2.png",
+      "key": "2",
+      "dexID": 584
+    }
+  ],
+  "585": [
+    {
+      "filename": "0585(fall)-1.png",
+      "key": "(fall)-1",
+      "dexID": 585
+    },
+    {
+      "filename": "0585(spring)-1.png",
+      "key": "(spring)-1",
+      "dexID": 585
+    },
+    {
+      "filename": "0585(summer)-1.png",
+      "key": "(summer)-1",
+      "dexID": 585
+    },
+    {
+      "filename": "0585(winter)-1.png",
+      "key": "(winter)-1",
+      "dexID": 585
+    }
+  ],
+  "586": [
+    {
+      "filename": "0586(fall)-1.png",
+      "key": "(fall)-1",
+      "dexID": 586
+    },
+    {
+      "filename": "0586(spring)-1.png",
+      "key": "(spring)-1",
+      "dexID": 586
+    },
+    {
+      "filename": "0586(summer)-1.png",
+      "key": "(summer)-1",
+      "dexID": 586
+    },
+    {
+      "filename": "0586(winter)-1.png",
+      "key": "(winter)-1",
+      "dexID": 586
+    }
+  ],
+  "587": [
+    {
+      "filename": "0587-1.png",
+      "key": "1",
+      "dexID": 587
+    }
+  ],
+  "588": [
+    {
+      "filename": "0588-1.png",
+      "key": "1",
+      "dexID": 588
+    },
+    {
+      "filename": "0588-2.png",
+      "key": "2",
+      "dexID": 588
+    },
+    {
+      "filename": "0588-3.png",
+      "key": "3",
+      "dexID": 588
+    }
+  ],
+  "589": [
+    {
+      "filename": "0589-1.png",
+      "key": "1",
+      "dexID": 589
+    },
+    {
+      "filename": "0589-2.png",
+      "key": "2",
+      "dexID": 589
+    },
+    {
+      "filename": "0589-3.png",
+      "key": "3",
+      "dexID": 589
+    },
+    {
+      "filename": "0589-4.png",
+      "key": "4",
+      "dexID": 589
+    }
+  ],
+  "590": [
+    {
+      "filename": "0590-1.png",
+      "key": "1",
+      "dexID": 590
+    },
+    {
+      "filename": "0590-2.png",
+      "key": "2",
+      "dexID": 590
+    }
+  ],
+  "591": [
+    {
+      "filename": "0591-1.png",
+      "key": "1",
+      "dexID": 591
+    },
+    {
+      "filename": "0591-2.png",
+      "key": "2",
+      "dexID": 591
+    }
+  ],
+  "592": [
+    {
+      "filename": "0592(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 592
+    },
+    {
+      "filename": "0592-1.png",
+      "key": "1",
+      "dexID": 592
+    }
+  ],
+  "593": [
+    {
+      "filename": "0593(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 593
+    },
+    {
+      "filename": "0593-1.png",
+      "key": "1",
+      "dexID": 593
+    },
+    {
+      "filename": "0593-2.png",
+      "key": "2",
+      "dexID": 593
+    }
+  ],
+  "594": [
+    {
+      "filename": "0594-1.png",
+      "key": "1",
+      "dexID": 594
+    },
+    {
+      "filename": "0594-2.png",
+      "key": "2",
+      "dexID": 594
+    }
+  ],
+  "595": [
+    {
+      "filename": "0595-1.png",
+      "key": "1",
+      "dexID": 595
+    }
+  ],
+  "596": [
+    {
+      "filename": "0596-1.png",
+      "key": "1",
+      "dexID": 596
+    },
+    {
+      "filename": "0596-2.png",
+      "key": "2",
+      "dexID": 596
+    }
+  ],
+  "597": [
+    {
+      "filename": "0597-1.png",
+      "key": "1",
+      "dexID": 597
+    }
+  ],
+  "598": [
+    {
+      "filename": "0598-1.png",
+      "key": "1",
+      "dexID": 598
+    },
+    {
+      "filename": "0598-2.png",
+      "key": "2",
+      "dexID": 598
+    },
+    {
+      "filename": "0598-3.png",
+      "key": "3",
+      "dexID": 598
+    },
+    {
+      "filename": "0598-4.png",
+      "key": "4",
+      "dexID": 598
+    }
+  ],
+  "599": [
+    {
+      "filename": "0599-1.png",
+      "key": "1",
+      "dexID": 599
+    },
+    {
+      "filename": "0599-2.png",
+      "key": "2",
+      "dexID": 599
+    },
+    {
+      "filename": "0599-3.png",
+      "key": "3",
+      "dexID": 599
+    }
+  ],
+  "600": [
+    {
+      "filename": "0600-1.png",
+      "key": "1",
+      "dexID": 600
+    },
+    {
+      "filename": "0600-2.png",
+      "key": "2",
+      "dexID": 600
+    },
+    {
+      "filename": "0600-3.png",
+      "key": "3",
+      "dexID": 600
+    }
+  ],
+  "601": [
+    {
+      "filename": "0601-1.png",
+      "key": "1",
+      "dexID": 601
+    },
+    {
+      "filename": "0601-2.png",
+      "key": "2",
+      "dexID": 601
+    },
+    {
+      "filename": "0601-3.png",
+      "key": "3",
+      "dexID": 601
+    }
+  ],
+  "602": [
+    {
+      "filename": "0602-1.png",
+      "key": "1",
+      "dexID": 602
+    }
+  ],
+  "603": [
+    {
+      "filename": "0603-1.png",
+      "key": "1",
+      "dexID": 603
+    },
+    {
+      "filename": "0603-2.png",
+      "key": "2",
+      "dexID": 603
+    }
+  ],
+  "604": [
+    {
+      "filename": "0604-1.png",
+      "key": "1",
+      "dexID": 604
+    },
+    {
+      "filename": "0604-2.png",
+      "key": "2",
+      "dexID": 604
+    },
+    {
+      "filename": "0604-3.png",
+      "key": "3",
+      "dexID": 604
+    }
+  ],
+  "605": [
+    {
+      "filename": "0605-1.png",
+      "key": "1",
+      "dexID": 605
+    }
+  ],
+  "606": [
+    {
+      "filename": "0606-1.png",
+      "key": "1",
+      "dexID": 606
+    },
+    {
+      "filename": "0606-2.png",
+      "key": "2",
+      "dexID": 606
+    }
+  ],
+  "607": [
+    {
+      "filename": "0607-1.png",
+      "key": "1",
+      "dexID": 607
+    }
+  ],
+  "608": [
+    {
+      "filename": "0608-1.png",
+      "key": "1",
+      "dexID": 608
+    }
+  ],
+  "609": [
+    {
+      "filename": "0609-1.png",
+      "key": "1",
+      "dexID": 609
+    },
+    {
+      "filename": "0609-2.png",
+      "key": "2",
+      "dexID": 609
+    },
+    {
+      "filename": "0609-3.png",
+      "key": "3",
+      "dexID": 609
+    }
+  ],
+  "610": [
+    {
+      "filename": "0610-1.png",
+      "key": "1",
+      "dexID": 610
+    },
+    {
+      "filename": "0610-2.png",
+      "key": "2",
+      "dexID": 610
+    }
+  ],
+  "611": [
+    {
+      "filename": "0611-1.png",
+      "key": "1",
+      "dexID": 611
+    },
+    {
+      "filename": "0611-2.png",
+      "key": "2",
+      "dexID": 611
+    }
+  ],
+  "612": [
+    {
+      "filename": "0612-1.png",
+      "key": "1",
+      "dexID": 612
+    },
+    {
+      "filename": "0612-2.png",
+      "key": "2",
+      "dexID": 612
+    }
+  ],
+  "613": [
+    {
+      "filename": "0613-1.png",
+      "key": "1",
+      "dexID": 613
+    }
+  ],
+  "614": [
+    {
+      "filename": "0614-1.png",
+      "key": "1",
+      "dexID": 614
+    },
+    {
+      "filename": "0614-2.png",
+      "key": "2",
+      "dexID": 614
+    }
+  ],
+  "615": [
+    {
+      "filename": "0615-1.png",
+      "key": "1",
+      "dexID": 615
+    },
+    {
+      "filename": "0615-2.png",
+      "key": "2",
+      "dexID": 615
+    },
+    {
+      "filename": "0615-3.png",
+      "key": "3",
+      "dexID": 615
+    },
+    {
+      "filename": "0615-4.png",
+      "key": "4",
+      "dexID": 615
+    },
+    {
+      "filename": "0615-5.png",
+      "key": "5",
+      "dexID": 615
+    }
+  ],
+  "616": [
+    {
+      "filename": "0616-1.png",
+      "key": "1",
+      "dexID": 616
+    },
+    {
+      "filename": "0616-2.png",
+      "key": "2",
+      "dexID": 616
+    }
+  ],
+  "617": [
+    {
+      "filename": "0617-1.png",
+      "key": "1",
+      "dexID": 617
+    },
+    {
+      "filename": "0617-2.png",
+      "key": "2",
+      "dexID": 617
+    }
+  ],
+  "618": [
+    {
+      "filename": "0618-1.png",
+      "key": "1",
+      "dexID": 618
+    }
+  ],
+  "619": [
+    {
+      "filename": "0619-1.png",
+      "key": "1",
+      "dexID": 619
+    }
+  ],
+  "620": [
+    {
+      "filename": "0620-1.png",
+      "key": "1",
+      "dexID": 620
+    },
+    {
+      "filename": "0620-2.png",
+      "key": "2",
+      "dexID": 620
+    }
+  ],
+  "621": [
+    {
+      "filename": "0621-1.png",
+      "key": "1",
+      "dexID": 621
+    },
+    {
+      "filename": "0621-2.png",
+      "key": "2",
+      "dexID": 621
+    },
+    {
+      "filename": "0621-3.png",
+      "key": "3",
+      "dexID": 621
+    }
+  ],
+  "622": [
+    {
+      "filename": "0622-1.png",
+      "key": "1",
+      "dexID": 622
+    }
+  ],
+  "623": [
+    {
+      "filename": "0623-1.png",
+      "key": "1",
+      "dexID": 623
+    },
+    {
+      "filename": "0623-2.png",
+      "key": "2",
+      "dexID": 623
+    }
+  ],
+  "624": [
+    {
+      "filename": "0624-1.png",
+      "key": "1",
+      "dexID": 624
+    }
+  ],
+  "625": [
+    {
+      "filename": "0625-1.png",
+      "key": "1",
+      "dexID": 625
+    },
+    {
+      "filename": "0625-2.png",
+      "key": "2",
+      "dexID": 625
+    }
+  ],
+  "626": [
+    {
+      "filename": "0626-1.png",
+      "key": "1",
+      "dexID": 626
+    }
+  ],
+  "627": [
+    {
+      "filename": "0627(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 627
+    },
+    {
+      "filename": "0627-1.png",
+      "key": "1",
+      "dexID": 627
+    }
+  ],
+  "628": [
+    {
+      "filename": "0628(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 628
+    },
+    {
+      "filename": "0628(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 628
+    },
+    {
+      "filename": "0628-1.png",
+      "key": "1",
+      "dexID": 628
+    }
+  ],
+  "629": [
+    {
+      "filename": "0629-1.png",
+      "key": "1",
+      "dexID": 629
+    }
+  ],
+  "630": [
+    {
+      "filename": "0630-1.png",
+      "key": "1",
+      "dexID": 630
+    }
+  ],
+  "631": [
+    {
+      "filename": "0631-1.png",
+      "key": "1",
+      "dexID": 631
+    }
+  ],
+  "632": [
+    {
+      "filename": "0632-1.png",
+      "key": "1",
+      "dexID": 632
+    },
+    {
+      "filename": "0632-2.png",
+      "key": "2",
+      "dexID": 632
+    }
+  ],
+  "633": [
+    {
+      "filename": "0633-1.png",
+      "key": "1",
+      "dexID": 633
+    }
+  ],
+  "634": [
+    {
+      "filename": "0634-1.png",
+      "key": "1",
+      "dexID": 634
+    }
+  ],
+  "635": [
+    {
+      "filename": "0635-1.png",
+      "key": "1",
+      "dexID": 635
+    },
+    {
+      "filename": "0635-2.png",
+      "key": "2",
+      "dexID": 635
+    },
+    {
+      "filename": "0635-3.png",
+      "key": "3",
+      "dexID": 635
+    },
+    {
+      "filename": "0635-4.png",
+      "key": "4",
+      "dexID": 635
+    }
+  ],
+  "636": [
+    {
+      "filename": "0636-1.png",
+      "key": "1",
+      "dexID": 636
+    },
+    {
+      "filename": "0636-2.png",
+      "key": "2",
+      "dexID": 636
+    }
+  ],
+  "637": [
+    {
+      "filename": "0637-1.png",
+      "key": "1",
+      "dexID": 637
+    },
+    {
+      "filename": "0637-2.png",
+      "key": "2",
+      "dexID": 637
+    },
+    {
+      "filename": "0637-3.png",
+      "key": "3",
+      "dexID": 637
+    }
+  ],
+  "638": [
+    {
+      "filename": "0638-1.png",
+      "key": "1",
+      "dexID": 638
+    },
+    {
+      "filename": "0638-2.png",
+      "key": "2",
+      "dexID": 638
+    }
+  ],
+  "639": [
+    {
+      "filename": "0639-1.png",
+      "key": "1",
+      "dexID": 639
+    },
+    {
+      "filename": "639-2.png",
+      "key": "2",
+      "dexID": 639
+    }
+  ],
+  "640": [
+    {
+      "filename": "0640-1.png",
+      "key": "1",
+      "dexID": 640
+    },
+    {
+      "filename": "0640-2.png",
+      "key": "2",
+      "dexID": 640
+    }
+  ],
+  "641": [
+    {
+      "filename": "0641(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 641
+    },
+    {
+      "filename": "0641(therian)(Fem)-1.png",
+      "key": "(therian)(Fem)-1",
+      "dexID": 641
+    }
+  ],
+  "642": [
+    {
+      "filename": "0642(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 642
+    },
+    {
+      "filename": "0642(therian)(Fem)-1.png",
+      "key": "(therian)(Fem)-1",
+      "dexID": 642
+    }
+  ],
+  "643": [
+    {
+      "filename": "0643-1.png",
+      "key": "1",
+      "dexID": 643
+    },
+    {
+      "filename": "0643-2.png",
+      "key": "2",
+      "dexID": 643
+    }
+  ],
+  "644": [
+    {
+      "filename": "0644-1.png",
+      "key": "1",
+      "dexID": 644
+    },
+    {
+      "filename": "0644-2.png",
+      "key": "2",
+      "dexID": 644
+    },
+    {
+      "filename": "0644-3.png",
+      "key": "3",
+      "dexID": 644
+    }
+  ],
+  "645": [
+    {
+      "filename": "0645(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 645
+    },
+    {
+      "filename": "0645(therian)(Fem)-1.png",
+      "key": "(therian)(Fem)-1",
+      "dexID": 645
+    }
+  ],
+  "646": [
+    {
+      "filename": "0646(black)-1.png",
+      "key": "(black)-1",
+      "dexID": 646
+    },
+    {
+      "filename": "0646(white)-1.png",
+      "key": "(white)-1",
+      "dexID": 646
+    },
+    {
+      "filename": "0646-1.png",
+      "key": "1",
+      "dexID": 646
+    }
+  ],
+  "647": [
+    {
+      "filename": "0647(Resolute)-1.png",
+      "key": "(Resolute)-1",
+      "dexID": 647
+    },
+    {
+      "filename": "0647(Resolute)-2.png",
+      "key": "(Resolute)-2",
+      "dexID": 647
+    },
+    {
+      "filename": "0647-1.png",
+      "key": "1",
+      "dexID": 647
+    },
+    {
+      "filename": "0647-2.png",
+      "key": "2",
+      "dexID": 647
+    }
+  ],
+  "648": [
+    {
+      "filename": "0648(A)-1.png",
+      "key": "(A)-1",
+      "dexID": 648
+    },
+    {
+      "filename": "0648(A)-2.png",
+      "key": "(A)-2",
+      "dexID": 648
+    },
+    {
+      "filename": "0648(P)-1.png",
+      "key": "(P)-1",
+      "dexID": 648
+    },
+    {
+      "filename": "0648(P)-2.png",
+      "key": "(P)-2",
+      "dexID": 648
+    }
+  ],
+  "649": [
+    {
+      "filename": "0649(burn)-1.png",
+      "key": "(burn)-1",
+      "dexID": 649
+    },
+    {
+      "filename": "0649(chill)-1.png",
+      "key": "(chill)-1",
+      "dexID": 649
+    },
+    {
+      "filename": "0649(douse)-1.png",
+      "key": "(douse)-1",
+      "dexID": 649
+    },
+    {
+      "filename": "0649(shock)-1.png",
+      "key": "(shock)-1",
+      "dexID": 649
+    },
+    {
+      "filename": "0649-1.png",
+      "key": "1",
+      "dexID": 649
+    }
+  ],
+  "650": [
+    {
+      "filename": "0650-1.png",
+      "key": "1",
+      "dexID": 650
+    }
+  ],
+  "651": [
+    {
+      "filename": "0651-1.png",
+      "key": "1",
+      "dexID": 651
+    }
+  ],
+  "652": [
+    {
+      "filename": "0652-1.png",
+      "key": "1",
+      "dexID": 652
+    }
+  ],
+  "653": [
+    {
+      "filename": "0653-1.png",
+      "key": "1",
+      "dexID": 653
+    }
+  ],
+  "654": [
+    {
+      "filename": "0654-1.png",
+      "key": "1",
+      "dexID": 654
+    },
+    {
+      "filename": "0654-2.png",
+      "key": "2",
+      "dexID": 654
+    }
+  ],
+  "655": [
+    {
+      "filename": "0655-1.png",
+      "key": "1",
+      "dexID": 655
+    },
+    {
+      "filename": "0655-2.png",
+      "key": "2",
+      "dexID": 655
+    }
+  ],
+  "656": [
+    {
+      "filename": "0656-1.png",
+      "key": "1",
+      "dexID": 656
+    }
+  ],
+  "657": [
+    {
+      "filename": "0657-1.png",
+      "key": "1",
+      "dexID": 657
+    }
+  ],
+  "658": [
+    {
+      "filename": "0658(ash)-1.png",
+      "key": "(ash)-1",
+      "dexID": 658
+    },
+    {
+      "filename": "0658(ashrocket)-1.png",
+      "key": "(ashrocket)-1",
+      "dexID": 658
+    },
+    {
+      "filename": "0658-1.png",
+      "key": "1",
+      "dexID": 658
+    }
+  ],
+  "659": [
+    {
+      "filename": "0659-1.png",
+      "key": "1",
+      "dexID": 659
+    },
+    {
+      "filename": "0659-2.png",
+      "key": "2",
+      "dexID": 659
+    }
+  ],
+  "660": [
+    {
+      "filename": "0660-1.png",
+      "key": "1",
+      "dexID": 660
+    },
+    {
+      "filename": "0660-2.png",
+      "key": "2",
+      "dexID": 660
+    }
+  ],
+  "661": [
+    {
+      "filename": "0661-1.png",
+      "key": "1",
+      "dexID": 661
+    }
+  ],
+  "662": [
+    {
+      "filename": "0662-1.png",
+      "key": "1",
+      "dexID": 662
+    }
+  ],
+  "663": [
+    {
+      "filename": "0663-1.png",
+      "key": "1",
+      "dexID": 663
+    },
+    {
+      "filename": "0663-2.png",
+      "key": "2",
+      "dexID": 663
+    },
+    {
+      "filename": "0663-3.png",
+      "key": "3",
+      "dexID": 663
+    }
+  ],
+  "666": [
+    {
+      "filename": "0666(All)-1.png",
+      "key": "(All)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Arc)-1.png",
+      "key": "(Arc)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Bi)-1.png",
+      "key": "(Bi)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Blank)-1.png",
+      "key": "(Blank)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Con)-1.png",
+      "key": "(Con)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Ele)-1.png",
+      "key": "(Ele)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Fan)-1.png",
+      "key": "(Fan)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Gar)-1.png",
+      "key": "(Gar)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Hig)-1.png",
+      "key": "(Hig)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Icy)-1.png",
+      "key": "(Icy)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Jun)-1.png",
+      "key": "(Jun)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Les)-1.png",
+      "key": "(Les)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Mar)-1.png",
+      "key": "(Mar)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Mea)-1.png",
+      "key": "(Mea)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Mea)-1_Gen6-Vivillion_forms.png",
+      "key": "(Mea)-1_Gen6-Vivillion_forms",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Mod)-1.png",
+      "key": "(Mod)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Mon)-1.png",
+      "key": "(Mon)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Oce)-1.png",
+      "key": "(Oce)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Pok)-1.png",
+      "key": "(Pok)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Pol)-1.png",
+      "key": "(Pol)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Riv)-1.png",
+      "key": "(Riv)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(San)-1.png",
+      "key": "(San)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Sav)-1.png",
+      "key": "(Sav)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Sun)-1.png",
+      "key": "(Sun)-1",
+      "dexID": 666
+    },
+    {
+      "filename": "0666(Tun)-1.png",
+      "key": "(Tun)-1",
+      "dexID": 666
+    }
+  ],
+  "667": [
+    {
+      "filename": "0667-1.png",
+      "key": "1",
+      "dexID": 667
+    },
+    {
+      "filename": "0667-2.png",
+      "key": "2",
+      "dexID": 667
+    }
+  ],
+  "668": [
+    {
+      "filename": "0668-1.png",
+      "key": "1",
+      "dexID": 668
+    },
+    {
+      "filename": "0668-2.png",
+      "key": "2",
+      "dexID": 668
+    }
+  ],
+  "669": [
+    {
+      "filename": "0669(B)-1.png",
+      "key": "(B)-1",
+      "dexID": 669
+    },
+    {
+      "filename": "0669(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 669
+    },
+    {
+      "filename": "0669(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 669
+    },
+    {
+      "filename": "0669(W)-1.png",
+      "key": "(W)-1",
+      "dexID": 669
+    },
+    {
+      "filename": "0669(Y)-1.png",
+      "key": "(Y)-1",
+      "dexID": 669
+    }
+  ],
+  "670": [
+    {
+      "filename": "0670(B)-1.png",
+      "key": "(B)-1",
+      "dexID": 670
+    },
+    {
+      "filename": "0670(E)-1.png",
+      "key": "(E)-1",
+      "dexID": 670
+    },
+    {
+      "filename": "0670(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 670
+    },
+    {
+      "filename": "0670(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 670
+    },
+    {
+      "filename": "0670(W)-1.png",
+      "key": "(W)-1",
+      "dexID": 670
+    },
+    {
+      "filename": "0670(Y)-1.png",
+      "key": "(Y)-1",
+      "dexID": 670
+    }
+  ],
+  "671": [
+    {
+      "filename": "0671(B)-1.png",
+      "key": "(B)-1",
+      "dexID": 671
+    },
+    {
+      "filename": "0671(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 671
+    },
+    {
+      "filename": "0671(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 671
+    },
+    {
+      "filename": "0671(W)-1.png",
+      "key": "(W)-1",
+      "dexID": 671
+    },
+    {
+      "filename": "0671(Y)-1.png",
+      "key": "(Y)-1",
+      "dexID": 671
+    }
+  ],
+  "672": [
+    {
+      "filename": "0672-1.png",
+      "key": "1",
+      "dexID": 672
+    }
+  ],
+  "673": [
+    {
+      "filename": "0673-1.png",
+      "key": "1",
+      "dexID": 673
+    }
+  ],
+  "674": [
+    {
+      "filename": "0674-1.png",
+      "key": "1",
+      "dexID": 674
+    }
+  ],
+  "675": [
+    {
+      "filename": "0675-1.png",
+      "key": "1",
+      "dexID": 675
+    }
+  ],
+  "676": [
+    {
+      "filename": "0676(diamond)-1.png",
+      "key": "(diamond)-1",
+      "dexID": 676
+    },
+    {
+      "filename": "0676(heart)-1.png",
+      "key": "(heart)-1",
+      "dexID": 676
+    },
+    {
+      "filename": "0676(kabuki)-1.png",
+      "key": "(kabuki)-1",
+      "dexID": 676
+    },
+    {
+      "filename": "0676(star)-1.png",
+      "key": "(star)-1",
+      "dexID": 676
+    },
+    {
+      "filename": "0676-1.png",
+      "key": "1",
+      "dexID": 676
+    },
+    {
+      "filename": "0676-2.png",
+      "key": "2",
+      "dexID": 676
+    }
+  ],
+  "677": [
+    {
+      "filename": "0677(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 677
+    },
+    {
+      "filename": "0677(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 677
+    }
+  ],
+  "678": [
+    {
+      "filename": "0678(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 678
+    },
+    {
+      "filename": "0678(Fem)-2.png",
+      "key": "(Fem)-2",
+      "dexID": 678
+    },
+    {
+      "filename": "0678(M)(Fem)-1.png",
+      "key": "(M)(Fem)-1",
+      "dexID": 678
+    },
+    {
+      "filename": "0678(M)(Masc).png",
+      "key": "(M)(Masc)",
+      "dexID": 678
+    },
+    {
+      "filename": "0678(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 678
+    },
+    {
+      "filename": "0678(Masc)-2.png",
+      "key": "(Masc)-2",
+      "dexID": 678
+    }
+  ],
+  "679": [
+    {
+      "filename": "0679-1.png",
+      "key": "1",
+      "dexID": 679
+    }
+  ],
+  "680": [
+    {
+      "filename": "0680-1.png",
+      "key": "1",
+      "dexID": 680
+    }
+  ],
+  "681": [
+    {
+      "filename": "0681(blade)-1.png",
+      "key": "(blade)-1",
+      "dexID": 681
+    },
+    {
+      "filename": "0681(blade)-2.png",
+      "key": "(blade)-2",
+      "dexID": 681
+    },
+    {
+      "filename": "0681(shield)-1.png",
+      "key": "(shield)-1",
+      "dexID": 681
+    }
+  ],
+  "684": [
+    {
+      "filename": "0684-1.png",
+      "key": "1",
+      "dexID": 684
+    }
+  ],
+  "685": [
+    {
+      "filename": "0685-1.png",
+      "key": "1",
+      "dexID": 685
+    }
+  ],
+  "686": [
+    {
+      "filename": "0686-1.png",
+      "key": "1",
+      "dexID": 686
+    },
+    {
+      "filename": "0686-2.png",
+      "key": "2",
+      "dexID": 686
+    }
+  ],
+  "687": [
+    {
+      "filename": "0687-1.png",
+      "key": "1",
+      "dexID": 687
+    },
+    {
+      "filename": "0687-2.png",
+      "key": "2",
+      "dexID": 687
+    }
+  ],
+  "688": [
+    {
+      "filename": "0688-1.png",
+      "key": "1",
+      "dexID": 688
+    },
+    {
+      "filename": "0688-2.png",
+      "key": "2",
+      "dexID": 688
+    },
+    {
+      "filename": "0688-3.png",
+      "key": "3",
+      "dexID": 688
+    }
+  ],
+  "689": [
+    {
+      "filename": "0689-1.png",
+      "key": "1",
+      "dexID": 689
+    },
+    {
+      "filename": "0689-2.png",
+      "key": "2",
+      "dexID": 689
+    },
+    {
+      "filename": "0689-3.png",
+      "key": "3",
+      "dexID": 689
+    }
+  ],
+  "690": [
+    {
+      "filename": "0690-1.png",
+      "key": "1",
+      "dexID": 690
+    }
+  ],
+  "691": [
+    {
+      "filename": "0691-1.png",
+      "key": "1",
+      "dexID": 691
+    },
+    {
+      "filename": "0691-2.png",
+      "key": "2",
+      "dexID": 691
+    }
+  ],
+  "692": [
+    {
+      "filename": "0692-1.png",
+      "key": "1",
+      "dexID": 692
+    }
+  ],
+  "693": [
+    {
+      "filename": "0693-1.png",
+      "key": "1",
+      "dexID": 693
+    },
+    {
+      "filename": "0693-2.png",
+      "key": "2",
+      "dexID": 693
+    }
+  ],
+  "694": [
+    {
+      "filename": "0694-1.png",
+      "key": "1",
+      "dexID": 694
+    },
+    {
+      "filename": "0694-2.png",
+      "key": "2",
+      "dexID": 694
+    }
+  ],
+  "695": [
+    {
+      "filename": "0695-1.png",
+      "key": "1",
+      "dexID": 695
+    },
+    {
+      "filename": "0695-2.png",
+      "key": "2",
+      "dexID": 695
+    }
+  ],
+  "696": [
+    {
+      "filename": "0696-1.png",
+      "key": "1",
+      "dexID": 696
+    }
+  ],
+  "697": [
+    {
+      "filename": "0697-1.png",
+      "key": "1",
+      "dexID": 697
+    }
+  ],
+  "698": [
+    {
+      "filename": "0698-1.png",
+      "key": "1",
+      "dexID": 698
+    }
+  ],
+  "699": [
+    {
+      "filename": "0699-1.png",
+      "key": "1",
+      "dexID": 699
+    }
+  ],
+  "700": [
+    {
+      "filename": "0700-1.png",
+      "key": "1",
+      "dexID": 700
+    },
+    {
+      "filename": "0700-2.png",
+      "key": "2",
+      "dexID": 700
+    }
+  ],
+  "701": [
+    {
+      "filename": "0701-1.png",
+      "key": "1",
+      "dexID": 701
+    }
+  ],
+  "702": [
+    {
+      "filename": "0702-1.png",
+      "key": "1",
+      "dexID": 702
+    }
+  ],
+  "703": [
+    {
+      "filename": "0703-1.png",
+      "key": "1",
+      "dexID": 703
+    },
+    {
+      "filename": "0703-2.png",
+      "key": "2",
+      "dexID": 703
+    }
+  ],
+  "704": [
+    {
+      "filename": "0704-1.png",
+      "key": "1",
+      "dexID": 704
+    }
+  ],
+  "705": [
+    {
+      "filename": "0705-1.png",
+      "key": "1",
+      "dexID": 705
+    }
+  ],
+  "706": [
+    {
+      "filename": "0706(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 706
+    },
+    {
+      "filename": "0706-1.png",
+      "key": "1",
+      "dexID": 706
+    }
+  ],
+  "707": [
+    {
+      "filename": "0707-1.png",
+      "key": "1",
+      "dexID": 707
+    },
+    {
+      "filename": "0707-2.png",
+      "key": "2",
+      "dexID": 707
+    }
+  ],
+  "708": [
+    {
+      "filename": "0708-1.png",
+      "key": "1",
+      "dexID": 708
+    }
+  ],
+  "709": [
+    {
+      "filename": "0709-1.png",
+      "key": "1",
+      "dexID": 709
+    }
+  ],
+  "711": [
+    {
+      "filename": "0711(XL)-1.png",
+      "key": "(XL)-1",
+      "dexID": 711
+    }
+  ],
+  "712": [
+    {
+      "filename": "0712-1.png",
+      "key": "1",
+      "dexID": 712
+    },
+    {
+      "filename": "0712-2.png",
+      "key": "2",
+      "dexID": 712
+    }
+  ],
+  "713": [
+    {
+      "filename": "0713-1.png",
+      "key": "1",
+      "dexID": 713
+    },
+    {
+      "filename": "0713-2.png",
+      "key": "2",
+      "dexID": 713
+    }
+  ],
+  "714": [
+    {
+      "filename": "0714-1.png",
+      "key": "1",
+      "dexID": 714
+    }
+  ],
+  "715": [
+    {
+      "filename": "0715-1.png",
+      "key": "1",
+      "dexID": 715
+    },
+    {
+      "filename": "0715-2.png",
+      "key": "2",
+      "dexID": 715
+    }
+  ],
+  "716": [
+    {
+      "filename": "0716(Active)-1.png",
+      "key": "(Active)-1",
+      "dexID": 716
+    },
+    {
+      "filename": "0716(Neutral)-1.png",
+      "key": "(Neutral)-1",
+      "dexID": 716
+    }
+  ],
+  "717": [
+    {
+      "filename": "0717-1.png",
+      "key": "1",
+      "dexID": 717
+    }
+  ],
+  "718": [
+    {
+      "filename": "0718(10_)-1.png",
+      "key": "(10_)-1",
+      "dexID": 718
+    },
+    {
+      "filename": "0718(100_)-1.png",
+      "key": "(100_)-1",
+      "dexID": 718
+    },
+    {
+      "filename": "0718(50_)-1.png",
+      "key": "(50_)-1",
+      "dexID": 718
+    }
+  ],
+  "719": [
+    {
+      "filename": "0719(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 719
+    },
+    {
+      "filename": "0719-1.png",
+      "key": "1",
+      "dexID": 719
+    },
+    {
+      "filename": "0719-2.png",
+      "key": "2",
+      "dexID": 719
+    }
+  ],
+  "720": [
+    {
+      "filename": "0720(unbound)-1.png",
+      "key": "(unbound)-1",
+      "dexID": 720
+    },
+    {
+      "filename": "0720-1.png",
+      "key": "1",
+      "dexID": 720
+    }
+  ],
+  "722": [
+    {
+      "filename": "0722-1.png",
+      "key": "1",
+      "dexID": 722
+    }
+  ],
+  "723": [
+    {
+      "filename": "0723-1.png",
+      "key": "1",
+      "dexID": 723
+    }
+  ],
+  "724": [
+    {
+      "filename": "0724(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 724
+    },
+    {
+      "filename": "0724-1.png",
+      "key": "1",
+      "dexID": 724
+    },
+    {
+      "filename": "0724-2.png",
+      "key": "2",
+      "dexID": 724
+    }
+  ],
+  "725": [
+    {
+      "filename": "0725-1.png",
+      "key": "1",
+      "dexID": 725
+    }
+  ],
+  "726": [
+    {
+      "filename": "0726-1.png",
+      "key": "1",
+      "dexID": 726
+    }
+  ],
+  "727": [
+    {
+      "filename": "0727-1.png",
+      "key": "1",
+      "dexID": 727
+    }
+  ],
+  "728": [
+    {
+      "filename": "0728-1.png",
+      "key": "1",
+      "dexID": 728
+    },
+    {
+      "filename": "0728-2.png",
+      "key": "2",
+      "dexID": 728
+    }
+  ],
+  "729": [
+    {
+      "filename": "0729-1.png",
+      "key": "1",
+      "dexID": 729
+    },
+    {
+      "filename": "0729-2.png",
+      "key": "2",
+      "dexID": 729
+    },
+    {
+      "filename": "0729-3.png",
+      "key": "3",
+      "dexID": 729
+    },
+    {
+      "filename": "0729-4.png",
+      "key": "4",
+      "dexID": 729
+    }
+  ],
+  "730": [
+    {
+      "filename": "0730-1.png",
+      "key": "1",
+      "dexID": 730
+    },
+    {
+      "filename": "0730-2.png",
+      "key": "2",
+      "dexID": 730
+    },
+    {
+      "filename": "0730-3.png",
+      "key": "3",
+      "dexID": 730
+    }
+  ],
+  "731": [
+    {
+      "filename": "0731-1.png",
+      "key": "1",
+      "dexID": 731
+    }
+  ],
+  "732": [
+    {
+      "filename": "0732-1.png",
+      "key": "1",
+      "dexID": 732
+    }
+  ],
+  "733": [
+    {
+      "filename": "0733-1.png",
+      "key": "1",
+      "dexID": 733
+    }
+  ],
+  "734": [
+    {
+      "filename": "0734-1.png",
+      "key": "1",
+      "dexID": 734
+    }
+  ],
+  "735": [
+    {
+      "filename": "0735-1.png",
+      "key": "1",
+      "dexID": 735
+    }
+  ],
+  "736": [
+    {
+      "filename": "0736-1.png",
+      "key": "1",
+      "dexID": 736
+    },
+    {
+      "filename": "0736-2.png",
+      "key": "2",
+      "dexID": 736
+    }
+  ],
+  "737": [
+    {
+      "filename": "0737-1.png",
+      "key": "1",
+      "dexID": 737
+    },
+    {
+      "filename": "0737-2.png",
+      "key": "2",
+      "dexID": 737
+    }
+  ],
+  "738": [
+    {
+      "filename": "0738-1.png",
+      "key": "1",
+      "dexID": 738
+    },
+    {
+      "filename": "0738-2.png",
+      "key": "2",
+      "dexID": 738
+    },
+    {
+      "filename": "0738-3.png",
+      "key": "3",
+      "dexID": 738
+    },
+    {
+      "filename": "0738-4.png",
+      "key": "4",
+      "dexID": 738
+    }
+  ],
+  "739": [
+    {
+      "filename": "0739-1.png",
+      "key": "1",
+      "dexID": 739
+    },
+    {
+      "filename": "0739-2.png",
+      "key": "2",
+      "dexID": 739
+    }
+  ],
+  "740": [
+    {
+      "filename": "0740-1.png",
+      "key": "1",
+      "dexID": 740
+    },
+    {
+      "filename": "740-2.png",
+      "key": "2",
+      "dexID": 740
+    },
+    {
+      "filename": "740-3.png",
+      "key": "3",
+      "dexID": 740
+    }
+  ],
+  "742": [
+    {
+      "filename": "0742-1.png",
+      "key": "1",
+      "dexID": 742
+    }
+  ],
+  "743": [
+    {
+      "filename": "0743-1.png",
+      "key": "1",
+      "dexID": 743
+    },
+    {
+      "filename": "0743-2.png",
+      "key": "2",
+      "dexID": 743
+    }
+  ],
+  "744": [
+    {
+      "filename": "0744-1.png",
+      "key": "1",
+      "dexID": 744
+    }
+  ],
+  "745": [
+    {
+      "filename": "0745(day)-1.png",
+      "key": "(day)-1",
+      "dexID": 745
+    },
+    {
+      "filename": "0745(day)-2.png",
+      "key": "(day)-2",
+      "dexID": 745
+    },
+    {
+      "filename": "0745(dusk)-1.png",
+      "key": "(dusk)-1",
+      "dexID": 745
+    },
+    {
+      "filename": "0745(dusk)-2.png",
+      "key": "(dusk)-2",
+      "dexID": 745
+    },
+    {
+      "filename": "0745(night)-1.png",
+      "key": "(night)-1",
+      "dexID": 745
+    },
+    {
+      "filename": "0745(night)-2.png",
+      "key": "(night)-2",
+      "dexID": 745
+    }
+  ],
+  "746": [
+    {
+      "filename": "0746(S)-1.png",
+      "key": "(S)-1",
+      "dexID": 746
+    },
+    {
+      "filename": "746(S)-2.png",
+      "key": "(S)-2",
+      "dexID": 746
+    },
+    {
+      "filename": "0746-1.png",
+      "key": "1",
+      "dexID": 746
+    },
+    {
+      "filename": "746-2.png",
+      "key": "2",
+      "dexID": 746
+    }
+  ],
+  "747": [
+    {
+      "filename": "0747-1.png",
+      "key": "1",
+      "dexID": 747
+    }
+  ],
+  "748": [
+    {
+      "filename": "0748-1.png",
+      "key": "1",
+      "dexID": 748
+    }
+  ],
+  "749": [
+    {
+      "filename": "0749-1.png",
+      "key": "1",
+      "dexID": 749
+    }
+  ],
+  "750": [
+    {
+      "filename": "0750-1.png",
+      "key": "1",
+      "dexID": 750
+    }
+  ],
+  "751": [
+    {
+      "filename": "0751-1.png",
+      "key": "1",
+      "dexID": 751
+    }
+  ],
+  "752": [
+    {
+      "filename": "0752-1.png",
+      "key": "1",
+      "dexID": 752
+    },
+    {
+      "filename": "0752-2.png",
+      "key": "2",
+      "dexID": 752
+    }
+  ],
+  "753": [
+    {
+      "filename": "0753-1.png",
+      "key": "1",
+      "dexID": 753
+    }
+  ],
+  "754": [
+    {
+      "filename": "0754-1.png",
+      "key": "1",
+      "dexID": 754
+    }
+  ],
+  "755": [
+    {
+      "filename": "0755-1.png",
+      "key": "1",
+      "dexID": 755
+    },
+    {
+      "filename": "0755-2.png",
+      "key": "2",
+      "dexID": 755
+    }
+  ],
+  "756": [
+    {
+      "filename": "0756-1.png",
+      "key": "1",
+      "dexID": 756
+    },
+    {
+      "filename": "0756-2.png",
+      "key": "2",
+      "dexID": 756
+    }
+  ],
+  "757": [
+    {
+      "filename": "0757-1.png",
+      "key": "1",
+      "dexID": 757
+    }
+  ],
+  "758": [
+    {
+      "filename": "0758-1.png",
+      "key": "1",
+      "dexID": 758
+    }
+  ],
+  "759": [
+    {
+      "filename": "0759-1.png",
+      "key": "1",
+      "dexID": 759
+    },
+    {
+      "filename": "0759-2.png",
+      "key": "2",
+      "dexID": 759
+    }
+  ],
+  "760": [
+    {
+      "filename": "0760-1.png",
+      "key": "1",
+      "dexID": 760
+    },
+    {
+      "filename": "0760-2.png",
+      "key": "2",
+      "dexID": 760
+    }
+  ],
+  "761": [
+    {
+      "filename": "0761-1.png",
+      "key": "1",
+      "dexID": 761
+    }
+  ],
+  "762": [
+    {
+      "filename": "0762-1.png",
+      "key": "1",
+      "dexID": 762
+    }
+  ],
+  "763": [
+    {
+      "filename": "0763-1.png",
+      "key": "1",
+      "dexID": 763
+    }
+  ],
+  "764": [
+    {
+      "filename": "0764-1.png",
+      "key": "1",
+      "dexID": 764
+    }
+  ],
+  "765": [
+    {
+      "filename": "0765-1.png",
+      "key": "1",
+      "dexID": 765
+    }
+  ],
+  "766": [
+    {
+      "filename": "0766-1.png",
+      "key": "1",
+      "dexID": 766
+    }
+  ],
+  "767": [
+    {
+      "filename": "0767-1.png",
+      "key": "1",
+      "dexID": 767
+    }
+  ],
+  "768": [
+    {
+      "filename": "0768(M)-1.png",
+      "key": "(M)-1",
+      "dexID": 768
+    },
+    {
+      "filename": "0768-1.png",
+      "key": "1",
+      "dexID": 768
+    }
+  ],
+  "769": [
+    {
+      "filename": "0769-1.png",
+      "key": "1",
+      "dexID": 769
+    }
+  ],
+  "770": [
+    {
+      "filename": "0770-1.png",
+      "key": "1",
+      "dexID": 770
+    }
+  ],
+  "771": [
+    {
+      "filename": "0771-01.png",
+      "key": "01",
+      "dexID": 771
+    }
+  ],
+  "772": [
+    {
+      "filename": "0772-1.png",
+      "key": "1",
+      "dexID": 772
+    }
+  ],
+  "773": [
+    {
+      "filename": "0773(bug)-1.png",
+      "key": "(bug)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(dark)-1.png",
+      "key": "(dark)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(dragon)-1.png",
+      "key": "(dragon)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(electric)-1.png",
+      "key": "(electric)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(fairy)-1.png",
+      "key": "(fairy)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(fight)-1.png",
+      "key": "(fight)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(fire)-1.png",
+      "key": "(fire)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(fly)-1.png",
+      "key": "(fly)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(ghost)-1.png",
+      "key": "(ghost)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(grass)-1.png",
+      "key": "(grass)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(ground)-1.png",
+      "key": "(ground)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(ice)-1.png",
+      "key": "(ice)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(normal)-1.png",
+      "key": "(normal)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(poison)-1.png",
+      "key": "(poison)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(psychic)-1.png",
+      "key": "(psychic)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(rock)-1.png",
+      "key": "(rock)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(steel)-1.png",
+      "key": "(steel)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773(water)-1.png",
+      "key": "(water)-1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773-1.png",
+      "key": "1",
+      "dexID": 773
+    },
+    {
+      "filename": "0773-2.png",
+      "key": "2",
+      "dexID": 773
+    }
+  ],
+  "774": [
+    {
+      "filename": "0774(B)-1.png",
+      "key": "(B)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774(G)-1.png",
+      "key": "(G)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774(I)-1.png",
+      "key": "(I)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774(P)-1.png",
+      "key": "(P)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774(R)-1.png",
+      "key": "(R)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774(Y)-1.png",
+      "key": "(Y)-1",
+      "dexID": 774
+    },
+    {
+      "filename": "0774-1.png",
+      "key": "1",
+      "dexID": 774
+    }
+  ],
+  "775": [
+    {
+      "filename": "0775-1.png",
+      "key": "1",
+      "dexID": 775
+    }
+  ],
+  "777": [
+    {
+      "filename": "0777-1.png",
+      "key": "1",
+      "dexID": 777
+    }
+  ],
+  "778": [
+    {
+      "filename": "0778(broken)-1.png",
+      "key": "(broken)-1",
+      "dexID": 778
+    },
+    {
+      "filename": "0778-1.png",
+      "key": "1",
+      "dexID": 778
+    },
+    {
+      "filename": "0778-2.png",
+      "key": "2",
+      "dexID": 778
+    }
+  ],
+  "779": [
+    {
+      "filename": "0779-1.png",
+      "key": "1",
+      "dexID": 779
+    }
+  ],
+  "780": [
+    {
+      "filename": "0780-1.png",
+      "key": "1",
+      "dexID": 780
+    },
+    {
+      "filename": "0780-2.png",
+      "key": "2",
+      "dexID": 780
+    }
+  ],
+  "781": [
+    {
+      "filename": "0781-1.png",
+      "key": "1",
+      "dexID": 781
+    }
+  ],
+  "782": [
+    {
+      "filename": "0782-1.png",
+      "key": "1",
+      "dexID": 782
+    },
+    {
+      "filename": "0782-2.png",
+      "key": "2",
+      "dexID": 782
+    }
+  ],
+  "783": [
+    {
+      "filename": "0783-1.png",
+      "key": "1",
+      "dexID": 783
+    },
+    {
+      "filename": "0783-2.png",
+      "key": "2",
+      "dexID": 783
+    }
+  ],
+  "784": [
+    {
+      "filename": "0784-1.png",
+      "key": "1",
+      "dexID": 784
+    },
+    {
+      "filename": "0784-2.png",
+      "key": "2",
+      "dexID": 784
+    }
+  ],
+  "785": [
+    {
+      "filename": "0785-1.png",
+      "key": "1",
+      "dexID": 785
+    }
+  ],
+  "786": [
+    {
+      "filename": "0786-1.png",
+      "key": "1",
+      "dexID": 786
+    }
+  ],
+  "787": [
+    {
+      "filename": "0787-1.png",
+      "key": "1",
+      "dexID": 787
+    }
+  ],
+  "788": [
+    {
+      "filename": "0788-1.png",
+      "key": "1",
+      "dexID": 788
+    }
+  ],
+  "789": [
+    {
+      "filename": "0789-1.png",
+      "key": "1",
+      "dexID": 789
+    }
+  ],
+  "791": [
+    {
+      "filename": "0791-1.png",
+      "key": "1",
+      "dexID": 791
+    }
+  ],
+  "792": [
+    {
+      "filename": "0792-1.png",
+      "key": "1",
+      "dexID": 792
+    }
+  ],
+  "793": [
+    {
+      "filename": "0793-1.png",
+      "key": "1",
+      "dexID": 793
+    },
+    {
+      "filename": "0793-2.png",
+      "key": "2",
+      "dexID": 793
+    }
+  ],
+  "794": [
+    {
+      "filename": "0794-1.png",
+      "key": "1",
+      "dexID": 794
+    },
+    {
+      "filename": "0794-2.png",
+      "key": "2",
+      "dexID": 794
+    }
+  ],
+  "795": [
+    {
+      "filename": "0795-1.png",
+      "key": "1",
+      "dexID": 795
+    }
+  ],
+  "796": [
+    {
+      "filename": "0796-1.png",
+      "key": "1",
+      "dexID": 796
+    },
+    {
+      "filename": "0796-2.png",
+      "key": "2",
+      "dexID": 796
+    }
+  ],
+  "798": [
+    {
+      "filename": "0798-1.png",
+      "key": "1",
+      "dexID": 798
+    }
+  ],
+  "799": [
+    {
+      "filename": "0799-1.png",
+      "key": "1",
+      "dexID": 799
+    }
+  ],
+  "800": [
+    {
+      "filename": "0800-1.png",
+      "key": "1",
+      "dexID": 800
+    }
+  ],
+  "801": [
+    {
+      "filename": "0801(O)-1.png",
+      "key": "(O)-1",
+      "dexID": 801
+    },
+    {
+      "filename": "0801-1.png",
+      "key": "1",
+      "dexID": 801
+    }
+  ],
+  "802": [
+    {
+      "filename": "0802-1.png",
+      "key": "1",
+      "dexID": 802
+    }
+  ],
+  "803": [
+    {
+      "filename": "0803-1.png",
+      "key": "1",
+      "dexID": 803
+    },
+    {
+      "filename": "0803-2.png",
+      "key": "2",
+      "dexID": 803
+    }
+  ],
+  "804": [
+    {
+      "filename": "0804-1.png",
+      "key": "1",
+      "dexID": 804
+    },
+    {
+      "filename": "0804-2.png",
+      "key": "2",
+      "dexID": 804
+    }
+  ],
+  "805": [
+    {
+      "filename": "0805-1.png",
+      "key": "1",
+      "dexID": 805
+    }
+  ],
+  "806": [
+    {
+      "filename": "0806-1.png",
+      "key": "1",
+      "dexID": 806
+    }
+  ],
+  "808": [
+    {
+      "filename": "0808-1.png",
+      "key": "1",
+      "dexID": 808
+    }
+  ],
+  "809": [
+    {
+      "filename": "809(GMAX)-1.png",
+      "key": "(GMAX)-1",
+      "dexID": 809
+    },
+    {
+      "filename": "0809-1.png",
+      "key": "1",
+      "dexID": 809
+    }
+  ],
+  "810": [
+    {
+      "filename": "0810-2.png",
+      "key": "2",
+      "dexID": 810
+    },
+    {
+      "filename": "0810-3.png",
+      "key": "3",
+      "dexID": 810
+    }
+  ],
+  "811": [
+    {
+      "filename": "0811-2.png",
+      "key": "2",
+      "dexID": 811
+    }
+  ],
+  "812": [
+    {
+      "filename": "0812-2.png",
+      "key": "2",
+      "dexID": 812
+    }
+  ],
+  "813": [
+    {
+      "filename": "0813-1.png",
+      "key": "1",
+      "dexID": 813
+    }
+  ],
+  "814": [
+    {
+      "filename": "0814-1.png",
+      "key": "1",
+      "dexID": 814
+    }
+  ],
+  "815": [
+    {
+      "filename": "0815-1.png",
+      "key": "1",
+      "dexID": 815
+    }
+  ],
+  "816": [
+    {
+      "filename": "0816-1.png",
+      "key": "1",
+      "dexID": 816
+    }
+  ],
+  "817": [
+    {
+      "filename": "0817-1.png",
+      "key": "1",
+      "dexID": 817
+    }
+  ],
+  "818": [
+    {
+      "filename": "0818-1.png",
+      "key": "1",
+      "dexID": 818
+    }
+  ],
+  "819": [
+    {
+      "filename": "0819-1.png",
+      "key": "1",
+      "dexID": 819
+    }
+  ],
+  "820": [
+    {
+      "filename": "0820-1.png",
+      "key": "1",
+      "dexID": 820
+    }
+  ],
+  "821": [
+    {
+      "filename": "0821-1.png",
+      "key": "1",
+      "dexID": 821
+    }
+  ],
+  "822": [
+    {
+      "filename": "0822-1.png",
+      "key": "1",
+      "dexID": 822
+    }
+  ],
+  "823": [
+    {
+      "filename": "0823-1.png",
+      "key": "1",
+      "dexID": 823
+    },
+    {
+      "filename": "0823-2.png",
+      "key": "2",
+      "dexID": 823
+    }
+  ],
+  "824": [
+    {
+      "filename": "0824-1.png",
+      "key": "1",
+      "dexID": 824
+    }
+  ],
+  "827": [
+    {
+      "filename": "0827-1.png",
+      "key": "1",
+      "dexID": 827
+    }
+  ],
+  "828": [
+    {
+      "filename": "0828-1.png",
+      "key": "1",
+      "dexID": 828
+    }
+  ],
+  "829": [
+    {
+      "filename": "0829-1.png",
+      "key": "1",
+      "dexID": 829
+    }
+  ],
+  "830": [
+    {
+      "filename": "0830-1.png",
+      "key": "1",
+      "dexID": 830
+    }
+  ],
+  "831": [
+    {
+      "filename": "0831-1.png",
+      "key": "1",
+      "dexID": 831
+    }
+  ],
+  "832": [
+    {
+      "filename": "0832-1.png",
+      "key": "1",
+      "dexID": 832
+    }
+  ],
+  "833": [
+    {
+      "filename": "0833-1.png",
+      "key": "1",
+      "dexID": 833
+    }
+  ],
+  "834": [
+    {
+      "filename": "0834-1.png",
+      "key": "1",
+      "dexID": 834
+    }
+  ],
+  "835": [
+    {
+      "filename": "835-1.png",
+      "key": "1",
+      "dexID": 835
+    }
+  ],
+  "836": [
+    {
+      "filename": "836-1.png",
+      "key": "1",
+      "dexID": 836
+    }
+  ],
+  "837": [
+    {
+      "filename": "0837-1.png",
+      "key": "1",
+      "dexID": 837
+    }
+  ],
+  "838": [
+    {
+      "filename": "0838-1.png",
+      "key": "1",
+      "dexID": 838
+    }
+  ],
+  "839": [
+    {
+      "filename": "0839-1.png",
+      "key": "1",
+      "dexID": 839
+    }
+  ],
+  "840": [
+    {
+      "filename": "0840-1.png",
+      "key": "1",
+      "dexID": 840
+    }
+  ],
+  "841": [
+    {
+      "filename": "0841-1.png",
+      "key": "1",
+      "dexID": 841
+    }
+  ],
+  "842": [
+    {
+      "filename": "0842-1.png",
+      "key": "1",
+      "dexID": 842
+    },
+    {
+      "filename": "0842-2.png",
+      "key": "2",
+      "dexID": 842
+    }
+  ],
+  "843": [
+    {
+      "filename": "0843-1.png",
+      "key": "1",
+      "dexID": 843
+    }
+  ],
+  "844": [
+    {
+      "filename": "0844-1.png",
+      "key": "1",
+      "dexID": 844
+    }
+  ],
+  "845": [
+    {
+      "filename": "0845(Gorge)-1.png",
+      "key": "(Gorge)-1",
+      "dexID": 845
+    },
+    {
+      "filename": "0845(Gulp)-1.png",
+      "key": "(Gulp)-1",
+      "dexID": 845
+    },
+    {
+      "filename": "0845-1.png",
+      "key": "1",
+      "dexID": 845
+    }
+  ],
+  "846": [
+    {
+      "filename": "0846-1.png",
+      "key": "1",
+      "dexID": 846
+    },
+    {
+      "filename": "0846-2.png",
+      "key": "2",
+      "dexID": 846
+    }
+  ],
+  "847": [
+    {
+      "filename": "0847-1.png",
+      "key": "1",
+      "dexID": 847
+    },
+    {
+      "filename": "0847-2.png",
+      "key": "2",
+      "dexID": 847
+    }
+  ],
+  "848": [
+    {
+      "filename": "0848-1.png",
+      "key": "1",
+      "dexID": 848
+    }
+  ],
+  "849": [
+    {
+      "filename": "0849(amp)-1.png",
+      "key": "(amp)-1",
+      "dexID": 849
+    },
+    {
+      "filename": "0849(low)-1.png",
+      "key": "(low)-1",
+      "dexID": 849
+    }
+  ],
+  "850": [
+    {
+      "filename": "0850-1.png",
+      "key": "1",
+      "dexID": 850
+    }
+  ],
+  "851": [
+    {
+      "filename": "0851-1.png",
+      "key": "1",
+      "dexID": 851
+    }
+  ],
+  "852": [
+    {
+      "filename": "0852-1.png",
+      "key": "1",
+      "dexID": 852
+    }
+  ],
+  "853": [
+    {
+      "filename": "0853-1.png",
+      "key": "1",
+      "dexID": 853
+    }
+  ],
+  "854": [
+    {
+      "filename": "0854(Antique)-1.png",
+      "key": "(Antique)-1",
+      "dexID": 854
+    },
+    {
+      "filename": "0854(Phony)-1.png",
+      "key": "(Phony)-1",
+      "dexID": 854
+    }
+  ],
+  "856": [
+    {
+      "filename": "0856-2.png",
+      "key": "2",
+      "dexID": 856
+    }
+  ],
+  "857": [
+    {
+      "filename": "0857-2.png",
+      "key": "2",
+      "dexID": 857
+    }
+  ],
+  "858": [
+    {
+      "filename": "0858-1.png",
+      "key": "1",
+      "dexID": 858
+    }
+  ],
+  "859": [
+    {
+      "filename": "0859(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 859
+    },
+    {
+      "filename": "0859-1.png",
+      "key": "1",
+      "dexID": 859
+    }
+  ],
+  "860": [
+    {
+      "filename": "0860(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 860
+    },
+    {
+      "filename": "0860-1.png",
+      "key": "1",
+      "dexID": 860
+    }
+  ],
+  "861": [
+    {
+      "filename": "0861(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 861
+    },
+    {
+      "filename": "0861-1.png",
+      "key": "1",
+      "dexID": 861
+    }
+  ],
+  "862": [
+    {
+      "filename": "0862-1.png",
+      "key": "1",
+      "dexID": 862
+    }
+  ],
+  "863": [
+    {
+      "filename": "0863-1.png",
+      "key": "1",
+      "dexID": 863
+    }
+  ],
+  "864": [
+    {
+      "filename": "0864-1.png",
+      "key": "1",
+      "dexID": 864
+    }
+  ],
+  "865": [
+    {
+      "filename": "0865-1.png",
+      "key": "1",
+      "dexID": 865
+    }
+  ],
+  "866": [
+    {
+      "filename": "0866-1.png",
+      "key": "1",
+      "dexID": 866
+    }
+  ],
+  "867": [
+    {
+      "filename": "0867-1.png",
+      "key": "1",
+      "dexID": 867
+    }
+  ],
+  "868": [
+    {
+      "filename": "0868-1.png",
+      "key": "1",
+      "dexID": 868
+    }
+  ],
+  "869": [
+    {
+      "filename": "0869(CaBer)-1.png",
+      "key": "(CaBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(CaClo)-1.png",
+      "key": "(CaClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(CaFlo)-1.png",
+      "key": "(CaFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(CaLov)-1.png",
+      "key": "(CaLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(CaRib)-1.png",
+      "key": "(CaRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(CaSta)-1.png",
+      "key": "(CaSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(CaStr)-1.png",
+      "key": "(CaStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(GMAX)-1.png",
+      "key": "(GMAX)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeBer)-1.png",
+      "key": "(LeBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeClo)-1.png",
+      "key": "(LeClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeFlo)-1.png",
+      "key": "(LeFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeLov)-1.png",
+      "key": "(LeLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeRib)-1.png",
+      "key": "(LeRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeSta)-1.png",
+      "key": "(LeSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(LeStr)-1.png",
+      "key": "(LeStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaBer)-1.png",
+      "key": "(MaBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaClo)-1.png",
+      "key": "(MaClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaFlo)-1.png",
+      "key": "(MaFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaLov)-1.png",
+      "key": "(MaLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaRib)-1.png",
+      "key": "(MaRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaSta)-1.png",
+      "key": "(MaSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MaStr)-1.png",
+      "key": "(MaStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiBer)-1.png",
+      "key": "(MiBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiClo)-1.png",
+      "key": "(MiClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiFlo)-1.png",
+      "key": "(MiFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiLov)-1.png",
+      "key": "(MiLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiRib)-1.png",
+      "key": "(MiRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiSta)-1.png",
+      "key": "(MiSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(MiStr)-1.png",
+      "key": "(MiStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaBer)-1.png",
+      "key": "(RaBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaClo)-1.png",
+      "key": "(RaClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaFlo)-1.png",
+      "key": "(RaFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaLov)-1.png",
+      "key": "(RaLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaRib)-1.png",
+      "key": "(RaRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaSta)-1.png",
+      "key": "(RaSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RaStr)-1.png",
+      "key": "(RaStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCBer)-1.png",
+      "key": "(RuCBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCClo)-1.png",
+      "key": "(RuCClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCFlo)-1.png",
+      "key": "(RuCFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCLov)-1.png",
+      "key": "(RuCLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCRib)-1.png",
+      "key": "(RuCRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCSta)-1.png",
+      "key": "(RuCSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuCStr)-1.png",
+      "key": "(RuCStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSBer)-1.png",
+      "key": "(RuSBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSClo)-1.png",
+      "key": "(RuSClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSClo)-1(1).png",
+      "key": "(RuSClo)-1(1)",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSLov)-1.png",
+      "key": "(RuSLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSRib)-1.png",
+      "key": "(RuSRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSSta)-1.png",
+      "key": "(RuSSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(RuSStr)-1.png",
+      "key": "(RuSStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaBer)-1.png",
+      "key": "(SaBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaClo)-1.png",
+      "key": "(SaClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaFlo)-1.png",
+      "key": "(SaFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaLov)-1.png",
+      "key": "(SaLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaRib)-1.png",
+      "key": "(SaRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaSta)-1.png",
+      "key": "(SaSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(SaStr)-1.png",
+      "key": "(SaStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaBer)-1.png",
+      "key": "(VaBer)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaClo)-1.png",
+      "key": "(VaClo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaFlo)-1.png",
+      "key": "(VaFlo)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaLov)-1.png",
+      "key": "(VaLov)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaRib)-1.png",
+      "key": "(VaRib)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaSta)-1.png",
+      "key": "(VaSta)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869(VaStr)-1.png",
+      "key": "(VaStr)-1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869-1.png",
+      "key": "1",
+      "dexID": 869
+    },
+    {
+      "filename": "0869-2.png",
+      "key": "2",
+      "dexID": 869
+    },
+    {
+      "filename": "0869-3.png",
+      "key": "3",
+      "dexID": 869
+    }
+  ],
+  "871": [
+    {
+      "filename": "0871-1.png",
+      "key": "1",
+      "dexID": 871
+    }
+  ],
+  "872": [
+    {
+      "filename": "0872-1.png",
+      "key": "1",
+      "dexID": 872
+    }
+  ],
+  "873": [
+    {
+      "filename": "0873-1.png",
+      "key": "1",
+      "dexID": 873
+    }
+  ],
+  "874": [
+    {
+      "filename": "0874-1.png",
+      "key": "1",
+      "dexID": 874
+    }
+  ],
+  "875": [
+    {
+      "filename": "0875(NoIce)-1.png",
+      "key": "(NoIce)-1",
+      "dexID": 875
+    },
+    {
+      "filename": "0875-1.png",
+      "key": "1",
+      "dexID": 875
+    }
+  ],
+  "877": [
+    {
+      "filename": "0877(Hangry)-1.png",
+      "key": "(Hangry)-1",
+      "dexID": 877
+    },
+    {
+      "filename": "0877-1.png",
+      "key": "1",
+      "dexID": 877
+    }
+  ],
+  "878": [
+    {
+      "filename": "0878-1.png",
+      "key": "1",
+      "dexID": 878
+    }
+  ],
+  "879": [
+    {
+      "filename": "0879-1.png",
+      "key": "1",
+      "dexID": 879
+    }
+  ],
+  "880": [
+    {
+      "filename": "0880-1.png",
+      "key": "1",
+      "dexID": 880
+    }
+  ],
+  "881": [
+    {
+      "filename": "0881-1.png",
+      "key": "1",
+      "dexID": 881
+    },
+    {
+      "filename": "0881-2.png",
+      "key": "2",
+      "dexID": 881
+    }
+  ],
+  "882": [
+    {
+      "filename": "0882-1.png",
+      "key": "1",
+      "dexID": 882
+    }
+  ],
+  "883": [
+    {
+      "filename": "0883-1.png",
+      "key": "1",
+      "dexID": 883
+    }
+  ],
+  "884": [
+    {
+      "filename": "0884-1.png",
+      "key": "1",
+      "dexID": 884
+    },
+    {
+      "filename": "0884-2.png",
+      "key": "2",
+      "dexID": 884
+    }
+  ],
+  "885": [
+    {
+      "filename": "0885-1.png",
+      "key": "1",
+      "dexID": 885
+    },
+    {
+      "filename": "0885-2.png",
+      "key": "2",
+      "dexID": 885
+    }
+  ],
+  "886": [
+    {
+      "filename": "0886-1.png",
+      "key": "1",
+      "dexID": 886
+    },
+    {
+      "filename": "0886-2.png",
+      "key": "2",
+      "dexID": 886
+    }
+  ],
+  "887": [
+    {
+      "filename": "0887-1.png",
+      "key": "1",
+      "dexID": 887
+    },
+    {
+      "filename": "0887-2.png",
+      "key": "2",
+      "dexID": 887
+    }
+  ],
+  "888": [
+    {
+      "filename": "0888(Hero)-1.png",
+      "key": "(Hero)-1",
+      "dexID": 888
+    }
+  ],
+  "894": [
+    {
+      "filename": "0894-1.png",
+      "key": "1",
+      "dexID": 894
+    },
+    {
+      "filename": "0894-2.png",
+      "key": "2",
+      "dexID": 894
+    }
+  ],
+  "895": [
+    {
+      "filename": "0895-1.png",
+      "key": "1",
+      "dexID": 895
+    }
+  ],
+  "897": [
+    {
+      "filename": "0897-1.png",
+      "key": "1",
+      "dexID": 897
+    }
+  ],
+  "898": [
+    {
+      "filename": "0898(SR)-1.png",
+      "key": "(SR)-1",
+      "dexID": 898
+    },
+    {
+      "filename": "0898-1.png",
+      "key": "1",
+      "dexID": 898
+    }
+  ],
+  "899": [
+    {
+      "filename": "0899-1.png",
+      "key": "1",
+      "dexID": 899
+    }
+  ],
+  "900": [
+    {
+      "filename": "0900-1.png",
+      "key": "1",
+      "dexID": 900
+    }
+  ],
+  "901": [
+    {
+      "filename": "0901(blood)-1.png",
+      "key": "(blood)-1",
+      "dexID": 901
+    },
+    {
+      "filename": "0901-1.png",
+      "key": "1",
+      "dexID": 901
+    },
+    {
+      "filename": "0901-2.png",
+      "key": "2",
+      "dexID": 901
+    }
+  ],
+  "902": [
+    {
+      "filename": "0902(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 902
+    },
+    {
+      "filename": "0902(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 902
+    },
+    {
+      "filename": "0902-1.png",
+      "key": "1",
+      "dexID": 902
+    },
+    {
+      "filename": "0902-2.png",
+      "key": "2",
+      "dexID": 902
+    }
+  ],
+  "903": [
+    {
+      "filename": "0903-1.png",
+      "key": "1",
+      "dexID": 903
+    }
+  ],
+  "904": [
+    {
+      "filename": "0904-1.png",
+      "key": "1",
+      "dexID": 904
+    }
+  ],
+  "906": [
+    {
+      "filename": "0906-1.png",
+      "key": "1",
+      "dexID": 906
+    }
+  ],
+  "907": [
+    {
+      "filename": "0907-1.png",
+      "key": "1",
+      "dexID": 907
+    }
+  ],
+  "908": [
+    {
+      "filename": "0908-1.png",
+      "key": "1",
+      "dexID": 908
+    }
+  ],
+  "909": [
+    {
+      "filename": "0909-1.png",
+      "key": "1",
+      "dexID": 909
+    },
+    {
+      "filename": "0909-2.png",
+      "key": "2",
+      "dexID": 909
+    }
+  ],
+  "910": [
+    {
+      "filename": "0910-1.png",
+      "key": "1",
+      "dexID": 910
+    }
+  ],
+  "911": [
+    {
+      "filename": "0911-1.png",
+      "key": "1",
+      "dexID": 911
+    }
+  ],
+  "916": [
+    {
+      "filename": "0916(Fem)-1.png",
+      "key": "(Fem)-1",
+      "dexID": 916
+    }
+  ],
+  "917": [
+    {
+      "filename": "0917-1.png",
+      "key": "1",
+      "dexID": 917
+    }
+  ],
+  "918": [
+    {
+      "filename": "0918-1.png",
+      "key": "1",
+      "dexID": 918
+    }
+  ],
+  "919": [
+    {
+      "filename": "0919-1.png",
+      "key": "1",
+      "dexID": 919
+    }
+  ],
+  "920": [
+    {
+      "filename": "0920-1.png",
+      "key": "1",
+      "dexID": 920
+    },
+    {
+      "filename": "0920-2.png",
+      "key": "2",
+      "dexID": 920
+    },
+    {
+      "filename": "0920-3.png",
+      "key": "3",
+      "dexID": 920
+    }
+  ],
+  "921": [
+    {
+      "filename": "0921-1.png",
+      "key": "1",
+      "dexID": 921
+    }
+  ],
+  "922": [
+    {
+      "filename": "0922-1.png",
+      "key": "1",
+      "dexID": 922
+    }
+  ],
+  "923": [
+    {
+      "filename": "0923-1.png",
+      "key": "1",
+      "dexID": 923
+    }
+  ],
+  "924": [
+    {
+      "filename": "0924-1.png",
+      "key": "1",
+      "dexID": 924
+    }
+  ],
+  "925": [
+    {
+      "filename": "0925(3)-1.png",
+      "key": "(3)-1",
+      "dexID": 925
+    },
+    {
+      "filename": "0925(4)-1.png",
+      "key": "(4)-1",
+      "dexID": 925
+    }
+  ],
+  "926": [
+    {
+      "filename": "0926-1.png",
+      "key": "1",
+      "dexID": 926
+    }
+  ],
+  "927": [
+    {
+      "filename": "0927-1.png",
+      "key": "1",
+      "dexID": 927
+    }
+  ],
+  "928": [
+    {
+      "filename": "0928-1.png",
+      "key": "1",
+      "dexID": 928
+    }
+  ],
+  "929": [
+    {
+      "filename": "0929-1.png",
+      "key": "1",
+      "dexID": 929
+    }
+  ],
+  "930": [
+    {
+      "filename": "0930-1.png",
+      "key": "1",
+      "dexID": 930
+    }
+  ],
+  "932": [
+    {
+      "filename": "0932-1.png",
+      "key": "1",
+      "dexID": 932
+    }
+  ],
+  "933": [
+    {
+      "filename": "0933-1.png",
+      "key": "1",
+      "dexID": 933
+    }
+  ],
+  "934": [
+    {
+      "filename": "0934-1.png",
+      "key": "1",
+      "dexID": 934
+    }
+  ],
+  "936": [
+    {
+      "filename": "0936-1.png",
+      "key": "1",
+      "dexID": 936
+    }
+  ],
+  "937": [
+    {
+      "filename": "0937-1.png",
+      "key": "1",
+      "dexID": 937
+    }
+  ],
+  "938": [
+    {
+      "filename": "0938-1.png",
+      "key": "1",
+      "dexID": 938
+    }
+  ],
+  "939": [
+    {
+      "filename": "0939-1.png",
+      "key": "1",
+      "dexID": 939
+    },
+    {
+      "filename": "0939-2.png",
+      "key": "2",
+      "dexID": 939
+    }
+  ],
+  "940": [
+    {
+      "filename": "0940-1.png",
+      "key": "1",
+      "dexID": 940
+    }
+  ],
+  "941": [
+    {
+      "filename": "0941-1.png",
+      "key": "1",
+      "dexID": 941
+    }
+  ],
+  "942": [
+    {
+      "filename": "0942-1.png",
+      "key": "1",
+      "dexID": 942
+    }
+  ],
+  "943": [
+    {
+      "filename": "0943-1.png",
+      "key": "1",
+      "dexID": 943
+    }
+  ],
+  "944": [
+    {
+      "filename": "0944-1.png",
+      "key": "1",
+      "dexID": 944
+    },
+    {
+      "filename": "0944-2.png",
+      "key": "2",
+      "dexID": 944
+    }
+  ],
+  "945": [
+    {
+      "filename": "0945-1.png",
+      "key": "1",
+      "dexID": 945
+    },
+    {
+      "filename": "0945-2.png",
+      "key": "2",
+      "dexID": 945
+    }
+  ],
+  "948": [
+    {
+      "filename": "0948-1.png",
+      "key": "1",
+      "dexID": 948
+    }
+  ],
+  "949": [
+    {
+      "filename": "0949-1.png",
+      "key": "1",
+      "dexID": 949
+    }
+  ],
+  "950": [
+    {
+      "filename": "0950-1.png",
+      "key": "1",
+      "dexID": 950
+    }
+  ],
+  "951": [
+    {
+      "filename": "0951-1.png",
+      "key": "1",
+      "dexID": 951
+    }
+  ],
+  "952": [
+    {
+      "filename": "0952-1.png",
+      "key": "1",
+      "dexID": 952
+    }
+  ],
+  "953": [
+    {
+      "filename": "0953-1.png",
+      "key": "1",
+      "dexID": 953
+    }
+  ],
+  "954": [
+    {
+      "filename": "0954-1.png",
+      "key": "1",
+      "dexID": 954
+    }
+  ],
+  "955": [
+    {
+      "filename": "0955-1.png",
+      "key": "1",
+      "dexID": 955
+    }
+  ],
+  "956": [
+    {
+      "filename": "0956-1.png",
+      "key": "1",
+      "dexID": 956
+    }
+  ],
+  "957": [
+    {
+      "filename": "0957-1.png",
+      "key": "1",
+      "dexID": 957
+    }
+  ],
+  "958": [
+    {
+      "filename": "0958-1.png",
+      "key": "1",
+      "dexID": 958
+    }
+  ],
+  "959": [
+    {
+      "filename": "0959-1.png",
+      "key": "1",
+      "dexID": 959
+    }
+  ],
+  "962": [
+    {
+      "filename": "0962-1.png",
+      "key": "1",
+      "dexID": 962
+    }
+  ],
+  "963": [
+    {
+      "filename": "0963-1.png",
+      "key": "1",
+      "dexID": 963
+    }
+  ],
+  "964": [
+    {
+      "filename": "0964(hero)-1.png",
+      "key": "(hero)-1",
+      "dexID": 964
+    },
+    {
+      "filename": "0964-1.png",
+      "key": "1",
+      "dexID": 964
+    }
+  ],
+  "965": [
+    {
+      "filename": "0965-1.png",
+      "key": "1",
+      "dexID": 965
+    }
+  ],
+  "966": [
+    {
+      "filename": "0966-1.png",
+      "key": "1",
+      "dexID": 966
+    }
+  ],
+  "969": [
+    {
+      "filename": "0969-1.png",
+      "key": "1",
+      "dexID": 969
+    },
+    {
+      "filename": "0969-2.png",
+      "key": "2",
+      "dexID": 969
+    }
+  ],
+  "970": [
+    {
+      "filename": "0970-1.png",
+      "key": "1",
+      "dexID": 970
+    },
+    {
+      "filename": "0970-2.png",
+      "key": "2",
+      "dexID": 970
+    }
+  ],
+  "971": [
+    {
+      "filename": "0971-1.png",
+      "key": "1",
+      "dexID": 971
+    }
+  ],
+  "974": [
+    {
+      "filename": "0974-1.png",
+      "key": "1",
+      "dexID": 974
+    }
+  ],
+  "975": [
+    {
+      "filename": "0975-1.png",
+      "key": "1",
+      "dexID": 975
+    }
+  ],
+  "976": [
+    {
+      "filename": "0976-1.png",
+      "key": "1",
+      "dexID": 976
+    },
+    {
+      "filename": "0976-2.png",
+      "key": "2",
+      "dexID": 976
+    }
+  ],
+  "977": [
+    {
+      "filename": "0977-1.png",
+      "key": "1",
+      "dexID": 977
+    },
+    {
+      "filename": "977-2.png",
+      "key": "2",
+      "dexID": 977
+    }
+  ],
+  "978": [
+    {
+      "filename": "0978-1.png",
+      "key": "1",
+      "dexID": 978
+    }
+  ],
+  "979": [
+    {
+      "filename": "0979(Masc)-1.png",
+      "key": "(Masc)-1",
+      "dexID": 979
+    },
+    {
+      "filename": "0979-1.png",
+      "key": "1",
+      "dexID": 979
+    }
+  ],
+  "981": [
+    {
+      "filename": "0981-1.png",
+      "key": "1",
+      "dexID": 981
+    }
+  ],
+  "982": [
+    {
+      "filename": "0982(3Seg)-1.png",
+      "key": "(3Seg)-1",
+      "dexID": 982
+    },
+    {
+      "filename": "0982-1.png",
+      "key": "1",
+      "dexID": 982
+    }
+  ],
+  "983": [
+    {
+      "filename": "0983-1.png",
+      "key": "1",
+      "dexID": 983
+    },
+    {
+      "filename": "0983-2.png",
+      "key": "2",
+      "dexID": 983
+    }
+  ],
+  "984": [
+    {
+      "filename": "0984-1.png",
+      "key": "1",
+      "dexID": 984
+    }
+  ],
+  "985": [
+    {
+      "filename": "0985-1.png",
+      "key": "1",
+      "dexID": 985
+    }
+  ],
+  "986": [
+    {
+      "filename": "0986-1.png",
+      "key": "1",
+      "dexID": 986
+    }
+  ],
+  "987": [
+    {
+      "filename": "0987-1.png",
+      "key": "1",
+      "dexID": 987
+    }
+  ],
+  "988": [
+    {
+      "filename": "0988-2.png",
+      "key": "2",
+      "dexID": 988
+    }
+  ],
+  "989": [
+    {
+      "filename": "0989-1.png",
+      "key": "1",
+      "dexID": 989
+    }
+  ],
+  "990": [
+    {
+      "filename": "0990-1.png",
+      "key": "1",
+      "dexID": 990
+    }
+  ],
+  "991": [
+    {
+      "filename": "0991-1.png",
+      "key": "1",
+      "dexID": 991
+    }
+  ],
+  "992": [
+    {
+      "filename": "0992-1.png",
+      "key": "1",
+      "dexID": 992
+    }
+  ],
+  "993": [
+    {
+      "filename": "0993-1.png",
+      "key": "1",
+      "dexID": 993
+    }
+  ],
+  "994": [
+    {
+      "filename": "0994-1.png",
+      "key": "1",
+      "dexID": 994
+    },
+    {
+      "filename": "0994-2.png",
+      "key": "2",
+      "dexID": 994
+    },
+    {
+      "filename": "0994-3.png",
+      "key": "3",
+      "dexID": 994
+    }
+  ],
+  "995": [
+    {
+      "filename": "0995-1.png",
+      "key": "1",
+      "dexID": 995
+    }
+  ],
+  "996": [
+    {
+      "filename": "0996-1.png",
+      "key": "1",
+      "dexID": 996
+    }
+  ],
+  "997": [
+    {
+      "filename": "0997-1.png",
+      "key": "1",
+      "dexID": 997
+    }
+  ],
+  "998": [
+    {
+      "filename": "0998-1.png",
+      "key": "1",
+      "dexID": 998
+    }
+  ],
+  "999": [
+    {
+      "filename": "0999(chest)-1.png",
+      "key": "(chest)-1",
+      "dexID": 999
+    }
+  ],
+  "1000": [
+    {
+      "filename": "1000-1.png",
+      "key": "1",
+      "dexID": 1000
+    }
+  ],
+  "1002": [
+    {
+      "filename": "1002-1.png",
+      "key": "1",
+      "dexID": 1002
+    }
+  ],
+  "1003": [
+    {
+      "filename": "1003-1.png",
+      "key": "1",
+      "dexID": 1003
+    }
+  ],
+  "1004": [
+    {
+      "filename": "1004-1.png",
+      "key": "1",
+      "dexID": 1004
+    }
+  ],
+  "1005": [
+    {
+      "filename": "1005-1.png",
+      "key": "1",
+      "dexID": 1005
+    },
+    {
+      "filename": "1005-2.png",
+      "key": "2",
+      "dexID": 1005
+    }
+  ],
+  "1006": [
+    {
+      "filename": "1006-1.png",
+      "key": "1",
+      "dexID": 1006
+    }
+  ],
+  "1009": [
+    {
+      "filename": "1009-1.png",
+      "key": "1",
+      "dexID": 1009
+    },
+    {
+      "filename": "1009-2.png",
+      "key": "2",
+      "dexID": 1009
+    }
+  ],
+  "1011": [
+    {
+      "filename": "1011-1.png",
+      "key": "1",
+      "dexID": 1011
+    },
+    {
+      "filename": "1011-2.png",
+      "key": "2",
+      "dexID": 1011
+    }
+  ],
+  "1012": [
+    {
+      "filename": "1012-1.png",
+      "key": "1",
+      "dexID": 1012
+    }
+  ],
+  "1013": [
+    {
+      "filename": "1013-1.png",
+      "key": "1",
+      "dexID": 1013
+    }
+  ],
+  "1014": [
+    {
+      "filename": "1014-1.png",
+      "key": "1",
+      "dexID": 1014
+    }
+  ],
+  "1015": [
+    {
+      "filename": "1015-1.png",
+      "key": "1",
+      "dexID": 1015
+    }
+  ],
+  "1016": [
+    {
+      "filename": "1016-1.png",
+      "key": "1",
+      "dexID": 1016
+    }
+  ],
+  "1018": [
+    {
+      "filename": "1018-1.png",
+      "key": "1",
+      "dexID": 1018
+    }
+  ],
+  "1019": [
+    {
+      "filename": "1019-1.png",
+      "key": "1",
+      "dexID": 1019
+    },
+    {
+      "filename": "1019-2.png",
+      "key": "2",
+      "dexID": 1019
+    }
+  ],
+  "1020": [
+    {
+      "filename": "1020-1.png",
+      "key": "1",
+      "dexID": 1020
+    }
+  ],
+  "1021": [
+    {
+      "filename": "1021-1.png",
+      "key": "1",
+      "dexID": 1021
+    }
+  ]
+}

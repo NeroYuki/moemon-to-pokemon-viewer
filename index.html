@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon & Moemon Sprite Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+
+        header {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .controls input, .controls select {
+            padding: 10px 15px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .controls input:focus, .controls select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .controls label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+        }
+
+        .stats {
+            background: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .dex-entry {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            margin-bottom: 25px;
+        }
+
+        .dex-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .dex-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            min-width: 80px;
+        }
+
+        .dex-info h2 {
+            color: #333;
+            font-size: 1.8em;
+            margin-bottom: 5px;
+        }
+
+        .split-view {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+        }
+
+        .section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #e9ecef;
+        }
+
+        .section.pokemon-section {
+            border-color: #dc3545;
+        }
+
+        .section.moemon-section {
+            border-color: #28a745;
+        }
+
+        .section-header {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+        }
+
+        .pokemon-section .section-header {
+            color: #dc3545;
+        }
+
+        .moemon-section .section-header {
+            color: #28a745;
+        }
+
+        .forms-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .form-card {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .form-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        .form-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+        }
+
+        .form-key {
+            font-weight: bold;
+            color: #495057;
+            font-size: 1.0em;
+            word-break: break-word;
+        }
+
+        .form-id {
+            background: #667eea;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .form-id.canonical {
+            background: #ffc107;
+            color: #333;
+        }
+
+        .form-meta {
+            font-size: 0.85em;
+            color: #6c757d;
+            margin-bottom: 10px;
+            min-height: 20px;
+        }
+
+        .sprite-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .sprite-box {
+            background: white;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            padding: 8px;
+            text-align: center;
+            transition: transform 0.2s ease;
+        }
+
+        .sprite-box:hover {
+            transform: scale(1.05);
+            border-color: #667eea;
+        }
+
+        .sprite-box img {
+            width: 64px;
+            height: 64px;
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+        }
+
+        .sprite-label {
+            font-size: 0.75em;
+            color: #6c757d;
+            margin-top: 5px;
+            font-weight: 600;
+        }
+
+        .sprite-box.missing img {
+            opacity: 0.3;
+        }
+
+        .sprite-box.missing {
+            background: #f8f9fa;
+        }
+
+        .sprite-box img {
+            cursor: pointer;
+        }
+
+        /* Zoom Modal */
+        .zoom-modal {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.9);
+            animation: fadeIn 0.2s;
+        }
+
+        .zoom-modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .zoom-content {
+            position: relative;
+            max-width: 90%;
+            max-height: 90%;
+            text-align: center;
+        }
+
+        .zoom-content img {
+            width: 512px;
+            height: 512px;
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+            border: 3px solid white;
+            border-radius: 10px;
+            box-shadow: 0 10px 50px rgba(0,0,0,0.5);
+        }
+
+        @media (max-height: 600px) {
+            .zoom-content img {
+                width: 320px;
+                height: 320px;
+            }
+        }
+
+        .zoom-info {
+            color: white;
+            margin-top: 15px;
+            font-size: 1.2em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+        }
+
+        .zoom-close {
+            position: absolute;
+            top: 20px;
+            right: 35px;
+            color: white;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+            z-index: 10000;
+        }
+
+        .zoom-close:hover {
+            color: #ff4444;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.5em;
+            color: white;
+        }
+
+        .error-msg {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .empty-section {
+            text-align: center;
+            padding: 30px;
+            color: #999;
+            font-style: italic;
+        }
+
+        @media (max-width: 1200px) {
+            .split-view {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 Pokemon & Moemon Sprite Viewer</h1>
+            <p class="subtitle">Side-by-side comparison of Radical Red Pokemon and Moemon sprites</p>
+        </header>
+
+        <div class="stats" id="stats">
+            <div class="stat-item">
+                <div class="stat-number" id="totalDex">-</div>
+                <div class="stat-label">Pokédex Entries</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="totalPokemonForms">-</div>
+                <div class="stat-label">Pokemon Forms</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="totalMoemonForms">-</div>
+                <div class="stat-label">Moemon Forms</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="displayedCount">-</div>
+                <div class="stat-label">Displayed</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search by name, key, or Dex ID...">
+            <select id="filterSelect">
+                <option value="all">Show All</option>
+                <option value="both">Has Both Pokemon & Moemon</option>
+                <option value="pokemon-only">Pokemon Only</option>
+                <option value="moemon-only">Moemon Only</option>
+            </select>
+            <label>
+                <input type="checkbox" id="showShiny" checked>
+                Show Shiny Sprites
+            </label>
+            <label>
+                <input type="checkbox" id="showBack" checked>
+                Show Back Sprites
+            </label>
+        </div>
+
+        <div id="loading" class="loading">Loading data...</div>
+        <div id="error" class="error-msg" style="display: none;"></div>
+        <div id="content"></div>
+    </div>
+
+    <!-- Zoom Modal -->
+    <div id="zoomModal" class="zoom-modal">
+        <span class="zoom-close" onclick="closeZoom()">&times;</span>
+        <div class="zoom-content">
+            <img id="zoomImage" src="" alt="Zoomed sprite">
+            <div class="zoom-info" id="zoomInfo"></div>
+        </div>
+    </div>
+
+    <script>
+        let pokemonMapping = {};
+        let moemonMapping = {};
+        let filteredData = {};
+        let showShiny = true;
+        let showBack = true;
+
+        // Zoom modal functions
+        function openZoom(imgSrc, label, name) {
+            const modal = document.getElementById('zoomModal');
+            const zoomImage = document.getElementById('zoomImage');
+            const zoomInfo = document.getElementById('zoomInfo');
+            
+            zoomImage.src = imgSrc;
+            zoomInfo.textContent = `${name} - ${label}`;
+            modal.classList.add('active');
+        }
+
+        function closeZoom() {
+            const modal = document.getElementById('zoomModal');
+            modal.classList.remove('active');
+        }
+
+        // Close on click outside
+        window.onclick = function(event) {
+            const modal = document.getElementById('zoomModal');
+            if (event.target === modal) {
+                closeZoom();
+            }
+        }
+
+        // Close on ESC key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                closeZoom();
+            }
+        });
+
+        // Load both mapping files
+        async function loadData() {
+            try {
+                // Load Pokemon mapping
+                const pokemonResponse = await fetch('./dex-to-rr-mapping.json');
+                if (!pokemonResponse.ok) {
+                    throw new Error('Failed to load Pokemon mapping');
+                }
+                pokemonMapping = await pokemonResponse.json();
+                
+                // Load Moemon mapping
+                const moemonResponse = await fetch('./dex-to-moemon-mapping-processed.json');
+                if (!moemonResponse.ok) {
+                    throw new Error('Failed to load Moemon mapping');
+                }
+                moemonMapping = await moemonResponse.json();
+                
+                // Get all unique dexIDs from both mappings
+                const allDexIds = new Set([
+                    ...Object.keys(pokemonMapping),
+                    ...Object.keys(moemonMapping)
+                ]);
+                
+                // Update stats
+                const totalDex = allDexIds.size;
+                const totalPokemonForms = Object.values(pokemonMapping).reduce((sum, forms) => sum + forms.length, 0);
+                const totalMoemonForms = Object.values(moemonMapping).reduce((sum, forms) => sum + forms.length, 0);
+                
+                document.getElementById('totalDex').textContent = totalDex;
+                document.getElementById('totalPokemonForms').textContent = totalPokemonForms;
+                document.getElementById('totalMoemonForms').textContent = totalMoemonForms;
+                
+                applyFilters();
+                
+                document.getElementById('loading').style.display = 'none';
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').textContent = `Error: ${error.message}. Make sure both mapping files are in the same directory.`;
+            }
+        }
+
+        // Get sprite path
+        function getPokemonSpritePath(id, type) {
+            const paths = {
+                'front': `./Radical-Red-Pokedex-master/graphics/species/front/${id}.png`,
+                'front-shiny': `./Radical-Red-Pokedex-master/graphics/species/front shiny/${id}.png`,
+                'back': `./Radical-Red-Pokedex-master/graphics/species/back/${id}.png`,
+                'back-shiny': `./Radical-Red-Pokedex-master/graphics/species/back shiny/${id}.png`
+            };
+            return paths[type];
+        }
+
+        function getMoemonSpritePath(filename, type) {
+            const paths = {
+                'front': `./moemon-sprites-split/front/${filename}`,
+                'front-shiny': `./moemon-sprites-split/front shiny/${filename}`,
+                'back': `./moemon-sprites-split/back/${filename}`,
+                'back-shiny': `./moemon-sprites-split/back shiny/${filename}`
+            };
+            return paths[type];
+        }
+
+        // Apply filters
+        function applyFilters() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const filterType = document.getElementById('filterSelect').value;
+            
+            // Get all unique dexIDs
+            const allDexIds = new Set([
+                ...Object.keys(pokemonMapping),
+                ...Object.keys(moemonMapping)
+            ]);
+            
+            filteredData = {};
+            
+            for (const dexId of allDexIds) {
+                const pokemonForms = pokemonMapping[dexId] || [];
+                const moemonForms = moemonMapping[dexId] || [];
+                
+                // Apply filter type
+                if (filterType === 'both' && (pokemonForms.length === 0 || moemonForms.length === 0)) {
+                    continue;
+                }
+                if (filterType === 'pokemon-only' && (pokemonForms.length === 0 || moemonForms.length > 0)) {
+                    continue;
+                }
+                if (filterType === 'moemon-only' && (moemonForms.length === 0 || pokemonForms.length > 0)) {
+                    continue;
+                }
+                
+                // Apply search filter
+                if (searchTerm) {
+                    const pokemonMatch = pokemonForms.some(form => 
+                        form.name.toLowerCase().includes(searchTerm) ||
+                        form.key.toLowerCase().includes(searchTerm) ||
+                        form.ID.toString().includes(searchTerm)
+                    );
+                    
+                    const moemonMatch = moemonForms.some(form =>
+                        form.name.toLowerCase().includes(searchTerm) ||
+                        form.key.toLowerCase().includes(searchTerm) ||
+                        form.filename.toLowerCase().includes(searchTerm)
+                    );
+                    
+                    const dexMatch = dexId.toString().includes(searchTerm);
+                    
+                    if (!pokemonMatch && !moemonMatch && !dexMatch) {
+                        continue;
+                    }
+                }
+                
+                filteredData[dexId] = {
+                    pokemon: pokemonForms,
+                    moemon: moemonForms
+                };
+            }
+            
+            renderContent();
+        }
+
+        // Render content
+        function renderContent() {
+            const content = document.getElementById('content');
+            content.innerHTML = '';
+
+            let displayedCount = 0;
+            const sortedDexIds = Object.keys(filteredData).map(Number).sort((a, b) => a - b);
+
+            for (const dexId of sortedDexIds) {
+                const data = filteredData[dexId];
+                displayedCount++;
+                const dexEntry = createDexEntry(dexId, data);
+                content.appendChild(dexEntry);
+            }
+
+            document.getElementById('displayedCount').textContent = displayedCount;
+        }
+
+        // Create a dex entry element
+        function createDexEntry(dexId, data) {
+            const entry = document.createElement('div');
+            entry.className = 'dex-entry';
+
+            const header = document.createElement('div');
+            header.className = 'dex-header';
+            
+            const dexNumber = document.createElement('div');
+            dexNumber.className = 'dex-number';
+            dexNumber.textContent = `#${String(dexId).padStart(4, '0')}`;
+            
+            const dexInfo = document.createElement('div');
+            dexInfo.className = 'dex-info';
+            
+            const name = document.createElement('h2');
+            const pokemonName = data.pokemon.length > 0 ? data.pokemon[0].name : `Dex #${dexId}`;
+            name.textContent = pokemonName;
+            dexInfo.appendChild(name);
+            
+            header.appendChild(dexNumber);
+            header.appendChild(dexInfo);
+            
+            const splitView = document.createElement('div');
+            splitView.className = 'split-view';
+            
+            // Pokemon section
+            const pokemonSection = createSection('Pokemon', data.pokemon, 'pokemon', dexId);
+            splitView.appendChild(pokemonSection);
+            
+            // Moemon section
+            const moemonSection = createSection('Moemon', data.moemon, 'moemon', dexId);
+            splitView.appendChild(moemonSection);
+            
+            entry.appendChild(header);
+            entry.appendChild(splitView);
+            
+            return entry;
+        }
+
+        // Create a section (Pokemon or Moemon)
+        function createSection(title, forms, type, dexId) {
+            const section = document.createElement('div');
+            section.className = `section ${type}-section`;
+            
+            const sectionHeader = document.createElement('div');
+            sectionHeader.className = 'section-header';
+            const formCount = forms.length === 1 ? '1 form' : `${forms.length} forms`;
+            sectionHeader.textContent = `${title} (${formCount})`;
+            section.appendChild(sectionHeader);
+            
+            if (forms.length === 0) {
+                const empty = document.createElement('div');
+                empty.className = 'empty-section';
+                empty.textContent = `No ${title} sprites found`;
+                section.appendChild(empty);
+                return section;
+            }
+            
+            const formsContainer = document.createElement('div');
+            formsContainer.className = 'forms-container';
+            
+            for (const form of forms) {
+                const formCard = type === 'pokemon' 
+                    ? createPokemonFormCard(form)
+                    : createMoemonFormCard(form);
+                formsContainer.appendChild(formCard);
+            }
+            
+            section.appendChild(formsContainer);
+            return section;
+        }
+
+        // Create Pokemon form card
+        function createPokemonFormCard(form) {
+            const card = document.createElement('div');
+            card.className = 'form-card';
+            
+            const formHeader = document.createElement('div');
+            formHeader.className = 'form-header';
+            
+            const formKey = document.createElement('div');
+            formKey.className = 'form-key';
+            formKey.textContent = form.key;
+            
+            const formId = document.createElement('div');
+            formId.className = 'form-id';
+            formId.textContent = `ID: ${form.ID}`;
+            
+            formHeader.appendChild(formKey);
+            formHeader.appendChild(formId);
+            
+            const formMeta = document.createElement('div');
+            formMeta.className = 'form-meta';
+            const orderText = form.order !== null ? `Order: ${form.order}` : 'No order';
+            formMeta.textContent = `${orderText} • Ancestor: ${form.ancestor}`;
+            
+            const spriteGrid = createSpriteGrid(form.ID, 'pokemon', form.key);
+            
+            card.appendChild(formHeader);
+            card.appendChild(formMeta);
+            card.appendChild(spriteGrid);
+            
+            return card;
+        }
+
+        // Create Moemon form card
+        function createMoemonFormCard(form) {
+            const card = document.createElement('div');
+            card.className = 'form-card';
+            
+            const formHeader = document.createElement('div');
+            formHeader.className = 'form-header';
+            
+            const formKey = document.createElement('div');
+            formKey.className = 'form-key';
+            formKey.textContent = form.name; // Use processed name
+            
+            const formId = document.createElement('div');
+            formId.className = form.isCanonical ? 'form-id canonical' : 'form-id';
+            formId.textContent = form.isCanonical ? '★ CANONICAL' : form.key;
+            
+            formHeader.appendChild(formKey);
+            formHeader.appendChild(formId);
+            
+            // Add metadata line for alignment with Pokemon cards
+            const formMeta = document.createElement('div');
+            formMeta.className = 'form-meta';
+            formMeta.textContent = `File: ${form.filename}`;
+            
+            const spriteGrid = createSpriteGrid(form.filename, 'moemon', form.name);
+            
+            card.appendChild(formHeader);
+            card.appendChild(formMeta);
+            card.appendChild(spriteGrid);
+            
+            return card;
+        }
+
+        // Create sprite grid
+        function createSpriteGrid(identifier, type, name) {
+            const spriteGrid = document.createElement('div');
+            spriteGrid.className = 'sprite-grid';
+            
+            const sprites = [
+                { type: 'front', label: 'Front' },
+                { type: 'front-shiny', label: 'Shiny', show: showShiny },
+                { type: 'back', label: 'Back', show: showBack },
+                { type: 'back-shiny', label: 'Back Shiny', show: showShiny && showBack }
+            ];
+            
+            for (const sprite of sprites) {
+                if (sprite.show === false) continue;
+                
+                const spriteBox = document.createElement('div');
+                spriteBox.className = 'sprite-box';
+                
+                const img = document.createElement('img');
+                const imgSrc = type === 'pokemon' 
+                    ? getPokemonSpritePath(identifier, sprite.type)
+                    : getMoemonSpritePath(identifier, sprite.type);
+                img.src = imgSrc;
+                img.alt = `${identifier} - ${sprite.label}`;
+                img.onclick = function() {
+                    if (!spriteBox.classList.contains('missing')) {
+                        openZoom(imgSrc, sprite.label, name || identifier);
+                    }
+                };
+                img.onerror = function() {
+                    this.src = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="64" height="64" fill="%23ddd"/><text x="32" y="32" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="%23999">?</text></svg>';
+                    spriteBox.classList.add('missing');
+                    img.style.cursor = 'default';
+                };
+                
+                const label = document.createElement('div');
+                label.className = 'sprite-label';
+                label.textContent = sprite.label;
+                
+                spriteBox.appendChild(img);
+                spriteBox.appendChild(label);
+                spriteGrid.appendChild(spriteBox);
+            }
+            
+            return spriteGrid;
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', applyFilters);
+        document.getElementById('filterSelect').addEventListener('change', applyFilters);
+        
+        document.getElementById('showShiny').addEventListener('change', function() {
+            showShiny = this.checked;
+            renderContent();
+        });
+        
+        document.getElementById('showBack').addEventListener('change', function() {
+            showBack = this.checked;
+            renderContent();
+        });
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs (if any)
+*.map
+
+# Keep the processed outputs but ignore raw sprite folders that are too large
+Spritesets-20260212T231043Z-3-001/
+moemon_sprite/
+
+# Radical Red - only include graphics/species folder
+Radical-Red-Pokedex-master/*
+!Radical-Red-Pokedex-master/graphics/
+Radical-Red-Pokedex-master/graphics/*
+!Radical-Red-Pokedex-master/graphics/species/
+!Radical-Red-Pokedex-master/graphics/species/**
+
+# Keep these important files:
+# - moemon-sprites-split/ (split sprites)
+# - Radical-Red-Pokedex-master/graphics/species/ (pokemon sprites only)
+# - *.json (mapping files)
+# - *.html (viewer pages)
+# - *.js (scripts)

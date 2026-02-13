@@ -1,0 +1,11455 @@
+{
+  "1": [
+    {
+      "ID": 1,
+      "key": "Bulbasaur",
+      "order": null,
+      "ancestor": 1,
+      "name": "Bulbasaur"
+    }
+  ],
+  "2": [
+    {
+      "ID": 2,
+      "key": "Ivysaur",
+      "order": null,
+      "ancestor": 1,
+      "name": "Ivysaur"
+    }
+  ],
+  "3": [
+    {
+      "ID": 3,
+      "key": "Venusaur",
+      "order": 0,
+      "ancestor": 1,
+      "name": "Venusaur"
+    },
+    {
+      "ID": 869,
+      "key": "Venusaur-Mega",
+      "order": 1,
+      "ancestor": 1,
+      "name": "Venusaur"
+    }
+  ],
+  "4": [
+    {
+      "ID": 4,
+      "key": "Charmander",
+      "order": null,
+      "ancestor": 4,
+      "name": "Charmander"
+    }
+  ],
+  "5": [
+    {
+      "ID": 5,
+      "key": "Charmeleon",
+      "order": null,
+      "ancestor": 4,
+      "name": "Charmeleon"
+    }
+  ],
+  "6": [
+    {
+      "ID": 6,
+      "key": "Charizard",
+      "order": 0,
+      "ancestor": 4,
+      "name": "Charizard"
+    },
+    {
+      "ID": 870,
+      "key": "Charizard-Mega-X",
+      "order": 1,
+      "ancestor": 4,
+      "name": "Charizard"
+    },
+    {
+      "ID": 871,
+      "key": "Charizard-Mega-Y",
+      "order": 2,
+      "ancestor": 4,
+      "name": "Charizard"
+    }
+  ],
+  "7": [
+    {
+      "ID": 7,
+      "key": "Squirtle",
+      "order": null,
+      "ancestor": 7,
+      "name": "Squirtle"
+    }
+  ],
+  "8": [
+    {
+      "ID": 8,
+      "key": "Wartortle",
+      "order": null,
+      "ancestor": 7,
+      "name": "Wartortle"
+    }
+  ],
+  "9": [
+    {
+      "ID": 9,
+      "key": "Blastoise",
+      "order": 0,
+      "ancestor": 7,
+      "name": "Blastoise"
+    },
+    {
+      "ID": 872,
+      "key": "Blastoise-Mega",
+      "order": 1,
+      "ancestor": 7,
+      "name": "Blastoise"
+    }
+  ],
+  "10": [
+    {
+      "ID": 10,
+      "key": "Caterpie",
+      "order": null,
+      "ancestor": 10,
+      "name": "Caterpie"
+    }
+  ],
+  "11": [
+    {
+      "ID": 11,
+      "key": "Metapod",
+      "order": null,
+      "ancestor": 10,
+      "name": "Metapod"
+    }
+  ],
+  "12": [
+    {
+      "ID": 12,
+      "key": "Butterfree",
+      "order": 0,
+      "ancestor": 10,
+      "name": "Butterfree"
+    },
+    {
+      "ID": 1233,
+      "key": "Butterfree-Mega",
+      "order": 1,
+      "ancestor": 10,
+      "name": "Butterfree"
+    }
+  ],
+  "13": [
+    {
+      "ID": 13,
+      "key": "Weedle",
+      "order": null,
+      "ancestor": 13,
+      "name": "Weedle"
+    }
+  ],
+  "14": [
+    {
+      "ID": 14,
+      "key": "Kakuna",
+      "order": null,
+      "ancestor": 13,
+      "name": "Kakuna"
+    }
+  ],
+  "15": [
+    {
+      "ID": 15,
+      "key": "Beedrill",
+      "order": 0,
+      "ancestor": 13,
+      "name": "Beedrill"
+    },
+    {
+      "ID": 873,
+      "key": "Beedrill-Mega",
+      "order": 1,
+      "ancestor": 13,
+      "name": "Beedrill"
+    }
+  ],
+  "16": [
+    {
+      "ID": 16,
+      "key": "Pidgey",
+      "order": null,
+      "ancestor": 16,
+      "name": "Pidgey"
+    }
+  ],
+  "17": [
+    {
+      "ID": 17,
+      "key": "Pidgeotto",
+      "order": null,
+      "ancestor": 16,
+      "name": "Pidgeotto"
+    }
+  ],
+  "18": [
+    {
+      "ID": 18,
+      "key": "Pidgeot",
+      "order": 0,
+      "ancestor": 16,
+      "name": "Pidgeot"
+    },
+    {
+      "ID": 874,
+      "key": "Pidgeot-Mega",
+      "order": 1,
+      "ancestor": 16,
+      "name": "Pidgeot"
+    }
+  ],
+  "19": [
+    {
+      "ID": 19,
+      "key": "Rattata",
+      "order": 0,
+      "ancestor": 19,
+      "name": "Rattata"
+    },
+    {
+      "ID": 1020,
+      "key": "Rattata-Alola",
+      "order": 1,
+      "ancestor": 1020,
+      "name": "Rattata"
+    }
+  ],
+  "20": [
+    {
+      "ID": 20,
+      "key": "Raticate",
+      "order": 0,
+      "ancestor": 19,
+      "name": "Raticate"
+    },
+    {
+      "ID": 1021,
+      "key": "Raticate-Alola",
+      "order": 1,
+      "ancestor": 1020,
+      "name": "Raticate"
+    }
+  ],
+  "21": [
+    {
+      "ID": 21,
+      "key": "Spearow",
+      "order": null,
+      "ancestor": 21,
+      "name": "Spearow"
+    }
+  ],
+  "22": [
+    {
+      "ID": 22,
+      "key": "Fearow",
+      "order": null,
+      "ancestor": 21,
+      "name": "Fearow"
+    }
+  ],
+  "23": [
+    {
+      "ID": 23,
+      "key": "Ekans",
+      "order": null,
+      "ancestor": 23,
+      "name": "Ekans"
+    }
+  ],
+  "24": [
+    {
+      "ID": 24,
+      "key": "Arbok",
+      "order": null,
+      "ancestor": 23,
+      "name": "Arbok"
+    }
+  ],
+  "25": [
+    {
+      "ID": 25,
+      "key": "Pikachu",
+      "order": 0,
+      "ancestor": 172,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1085,
+      "key": "Pikachu-Surfing",
+      "order": 1,
+      "ancestor": 1085,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1086,
+      "key": "Pikachu-Flying",
+      "order": 2,
+      "ancestor": 1086,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1087,
+      "key": "Pikachu-Cosplay",
+      "order": 3,
+      "ancestor": 1087,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1088,
+      "key": "Pikachu-Libre",
+      "order": 4,
+      "ancestor": 1088,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1089,
+      "key": "Pikachu-Pop-Star",
+      "order": 5,
+      "ancestor": 1089,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1090,
+      "key": "Pikachu-Rock-Star",
+      "order": 6,
+      "ancestor": 1090,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1091,
+      "key": "Pikachu-Belle",
+      "order": 7,
+      "ancestor": 1091,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1092,
+      "key": "Pikachu-PhD",
+      "order": 8,
+      "ancestor": 1092,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1093,
+      "key": "Pikachu-Original",
+      "order": 9,
+      "ancestor": 1093,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1094,
+      "key": "Pikachu-Hoenn",
+      "order": 10,
+      "ancestor": 1094,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1095,
+      "key": "Pikachu-Sinnoh",
+      "order": 11,
+      "ancestor": 1095,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1096,
+      "key": "Pikachu-Unova",
+      "order": 12,
+      "ancestor": 1096,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1097,
+      "key": "Pikachu-Kalos",
+      "order": 13,
+      "ancestor": 1097,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1098,
+      "key": "Pikachu-Alola",
+      "order": 14,
+      "ancestor": 1098,
+      "name": "Pikachu"
+    },
+    {
+      "ID": 1099,
+      "key": "Pikachu-Partner",
+      "order": 15,
+      "ancestor": 1099,
+      "name": "Pikachu"
+    }
+  ],
+  "26": [
+    {
+      "ID": 26,
+      "key": "Raichu",
+      "order": 0,
+      "ancestor": 172,
+      "name": "Raichu"
+    },
+    {
+      "ID": 1022,
+      "key": "Raichu-Alola",
+      "order": 1,
+      "ancestor": 172,
+      "name": "Raichu"
+    }
+  ],
+  "27": [
+    {
+      "ID": 27,
+      "key": "Sandshrew",
+      "order": 0,
+      "ancestor": 27,
+      "name": "Sandshrew"
+    },
+    {
+      "ID": 1023,
+      "key": "Sandshrew-Alola",
+      "order": 1,
+      "ancestor": 1023,
+      "name": "Sandshrew"
+    }
+  ],
+  "28": [
+    {
+      "ID": 28,
+      "key": "Sandslash",
+      "order": 0,
+      "ancestor": 27,
+      "name": "Sandslash"
+    },
+    {
+      "ID": 1024,
+      "key": "Sandslash-Alola",
+      "order": 1,
+      "ancestor": 1023,
+      "name": "Sandslash"
+    }
+  ],
+  "29": [
+    {
+      "ID": 29,
+      "key": "Nidoran-F",
+      "order": null,
+      "ancestor": 29,
+      "name": "Nidoran♀"
+    }
+  ],
+  "30": [
+    {
+      "ID": 30,
+      "key": "Nidorina",
+      "order": null,
+      "ancestor": 29,
+      "name": "Nidorina"
+    }
+  ],
+  "31": [
+    {
+      "ID": 31,
+      "key": "Nidoqueen",
+      "order": null,
+      "ancestor": 29,
+      "name": "Nidoqueen"
+    }
+  ],
+  "32": [
+    {
+      "ID": 32,
+      "key": "Nidoran-M",
+      "order": null,
+      "ancestor": 32,
+      "name": "Nidoran♂"
+    }
+  ],
+  "33": [
+    {
+      "ID": 33,
+      "key": "Nidorino",
+      "order": null,
+      "ancestor": 32,
+      "name": "Nidorino"
+    }
+  ],
+  "34": [
+    {
+      "ID": 34,
+      "key": "Nidoking",
+      "order": null,
+      "ancestor": 32,
+      "name": "Nidoking"
+    }
+  ],
+  "35": [
+    {
+      "ID": 35,
+      "key": "Clefairy",
+      "order": null,
+      "ancestor": 173,
+      "name": "Clefairy"
+    }
+  ],
+  "36": [
+    {
+      "ID": 36,
+      "key": "Clefable",
+      "order": null,
+      "ancestor": 173,
+      "name": "Clefable"
+    }
+  ],
+  "37": [
+    {
+      "ID": 37,
+      "key": "Vulpix",
+      "order": 0,
+      "ancestor": 37,
+      "name": "Vulpix"
+    },
+    {
+      "ID": 1025,
+      "key": "Vulpix-Alola",
+      "order": 1,
+      "ancestor": 1025,
+      "name": "Vulpix"
+    }
+  ],
+  "38": [
+    {
+      "ID": 38,
+      "key": "Ninetales",
+      "order": 0,
+      "ancestor": 37,
+      "name": "Ninetales"
+    },
+    {
+      "ID": 1026,
+      "key": "Ninetales-Alola",
+      "order": 1,
+      "ancestor": 1025,
+      "name": "Ninetales"
+    }
+  ],
+  "39": [
+    {
+      "ID": 39,
+      "key": "Jigglypuff",
+      "order": null,
+      "ancestor": 174,
+      "name": "Jigglypuff"
+    }
+  ],
+  "40": [
+    {
+      "ID": 40,
+      "key": "Wigglytuff",
+      "order": null,
+      "ancestor": 174,
+      "name": "Wigglytuff"
+    }
+  ],
+  "41": [
+    {
+      "ID": 41,
+      "key": "Zubat",
+      "order": null,
+      "ancestor": 41,
+      "name": "Zubat"
+    }
+  ],
+  "42": [
+    {
+      "ID": 42,
+      "key": "Golbat",
+      "order": null,
+      "ancestor": 41,
+      "name": "Golbat"
+    }
+  ],
+  "43": [
+    {
+      "ID": 43,
+      "key": "Oddish",
+      "order": null,
+      "ancestor": 43,
+      "name": "Oddish"
+    }
+  ],
+  "44": [
+    {
+      "ID": 44,
+      "key": "Gloom",
+      "order": null,
+      "ancestor": 43,
+      "name": "Gloom"
+    }
+  ],
+  "45": [
+    {
+      "ID": 45,
+      "key": "Vileplume",
+      "order": null,
+      "ancestor": 43,
+      "name": "Vileplume"
+    }
+  ],
+  "46": [
+    {
+      "ID": 46,
+      "key": "Paras",
+      "order": null,
+      "ancestor": 46,
+      "name": "Paras"
+    }
+  ],
+  "47": [
+    {
+      "ID": 47,
+      "key": "Parasect",
+      "order": null,
+      "ancestor": 46,
+      "name": "Parasect"
+    }
+  ],
+  "48": [
+    {
+      "ID": 48,
+      "key": "Venonat",
+      "order": null,
+      "ancestor": 48,
+      "name": "Venonat"
+    }
+  ],
+  "49": [
+    {
+      "ID": 49,
+      "key": "Venomoth",
+      "order": null,
+      "ancestor": 48,
+      "name": "Venomoth"
+    }
+  ],
+  "50": [
+    {
+      "ID": 50,
+      "key": "Diglett",
+      "order": 0,
+      "ancestor": 50,
+      "name": "Diglett"
+    },
+    {
+      "ID": 1027,
+      "key": "Diglett-Alola",
+      "order": 1,
+      "ancestor": 1027,
+      "name": "Diglett"
+    }
+  ],
+  "51": [
+    {
+      "ID": 51,
+      "key": "Dugtrio",
+      "order": 0,
+      "ancestor": 50,
+      "name": "Dugtrio"
+    },
+    {
+      "ID": 1028,
+      "key": "Dugtrio-Alola",
+      "order": 1,
+      "ancestor": 1027,
+      "name": "Dugtrio"
+    }
+  ],
+  "52": [
+    {
+      "ID": 52,
+      "key": "Meowth",
+      "order": 0,
+      "ancestor": 52,
+      "name": "Meowth"
+    },
+    {
+      "ID": 1029,
+      "key": "Meowth-Alola",
+      "order": 1,
+      "ancestor": 1029,
+      "name": "Meowth"
+    },
+    {
+      "ID": 1208,
+      "key": "Meowth-Galar",
+      "order": 2,
+      "ancestor": 1208,
+      "name": "Meowth"
+    }
+  ],
+  "53": [
+    {
+      "ID": 53,
+      "key": "Persian",
+      "order": 0,
+      "ancestor": 52,
+      "name": "Persian"
+    },
+    {
+      "ID": 1030,
+      "key": "Persian-Alola",
+      "order": 1,
+      "ancestor": 1029,
+      "name": "Persian"
+    }
+  ],
+  "54": [
+    {
+      "ID": 54,
+      "key": "Psyduck",
+      "order": null,
+      "ancestor": 54,
+      "name": "Psyduck"
+    }
+  ],
+  "55": [
+    {
+      "ID": 55,
+      "key": "Golduck",
+      "order": null,
+      "ancestor": 54,
+      "name": "Golduck"
+    }
+  ],
+  "56": [
+    {
+      "ID": 56,
+      "key": "Mankey",
+      "order": null,
+      "ancestor": 56,
+      "name": "Mankey"
+    }
+  ],
+  "57": [
+    {
+      "ID": 57,
+      "key": "Primeape",
+      "order": null,
+      "ancestor": 56,
+      "name": "Primeape"
+    }
+  ],
+  "58": [
+    {
+      "ID": 58,
+      "key": "Growlithe",
+      "order": 0,
+      "ancestor": 58,
+      "name": "Growlithe"
+    },
+    {
+      "ID": 1271,
+      "key": "Growlithe-Hisui",
+      "order": 1,
+      "ancestor": 1271,
+      "name": "Growlithe"
+    }
+  ],
+  "59": [
+    {
+      "ID": 59,
+      "key": "Arcanine",
+      "order": 0,
+      "ancestor": 58,
+      "name": "Arcanine"
+    },
+    {
+      "ID": 1272,
+      "key": "Arcanine-Hisui",
+      "order": 1,
+      "ancestor": 1271,
+      "name": "Arcanine"
+    }
+  ],
+  "60": [
+    {
+      "ID": 60,
+      "key": "Poliwag",
+      "order": null,
+      "ancestor": 60,
+      "name": "Poliwag"
+    }
+  ],
+  "61": [
+    {
+      "ID": 61,
+      "key": "Poliwhirl",
+      "order": null,
+      "ancestor": 60,
+      "name": "Poliwhirl"
+    }
+  ],
+  "62": [
+    {
+      "ID": 62,
+      "key": "Poliwrath",
+      "order": null,
+      "ancestor": 60,
+      "name": "Poliwrath"
+    }
+  ],
+  "63": [
+    {
+      "ID": 63,
+      "key": "Abra",
+      "order": null,
+      "ancestor": 63,
+      "name": "Abra"
+    }
+  ],
+  "64": [
+    {
+      "ID": 64,
+      "key": "Kadabra",
+      "order": null,
+      "ancestor": 63,
+      "name": "Kadabra"
+    }
+  ],
+  "65": [
+    {
+      "ID": 65,
+      "key": "Alakazam",
+      "order": 0,
+      "ancestor": 63,
+      "name": "Alakazam"
+    },
+    {
+      "ID": 875,
+      "key": "Alakazam-Mega",
+      "order": 1,
+      "ancestor": 63,
+      "name": "Alakazam"
+    }
+  ],
+  "66": [
+    {
+      "ID": 66,
+      "key": "Machop",
+      "order": null,
+      "ancestor": 66,
+      "name": "Machop"
+    }
+  ],
+  "67": [
+    {
+      "ID": 67,
+      "key": "Machoke",
+      "order": null,
+      "ancestor": 66,
+      "name": "Machoke"
+    }
+  ],
+  "68": [
+    {
+      "ID": 68,
+      "key": "Machamp",
+      "order": 0,
+      "ancestor": 66,
+      "name": "Machamp"
+    },
+    {
+      "ID": 1236,
+      "key": "Machamp-Mega",
+      "order": 1,
+      "ancestor": 66,
+      "name": "Machamp"
+    }
+  ],
+  "69": [
+    {
+      "ID": 69,
+      "key": "Bellsprout",
+      "order": null,
+      "ancestor": 69,
+      "name": "Bellsprout"
+    }
+  ],
+  "70": [
+    {
+      "ID": 70,
+      "key": "Weepinbell",
+      "order": null,
+      "ancestor": 69,
+      "name": "Weepinbell"
+    }
+  ],
+  "71": [
+    {
+      "ID": 71,
+      "key": "Victreebel",
+      "order": null,
+      "ancestor": 69,
+      "name": "Victreebel"
+    }
+  ],
+  "72": [
+    {
+      "ID": 72,
+      "key": "Tentacool",
+      "order": null,
+      "ancestor": 72,
+      "name": "Tentacool"
+    }
+  ],
+  "73": [
+    {
+      "ID": 73,
+      "key": "Tentacruel",
+      "order": null,
+      "ancestor": 72,
+      "name": "Tentacruel"
+    }
+  ],
+  "74": [
+    {
+      "ID": 74,
+      "key": "Geodude",
+      "order": 0,
+      "ancestor": 74,
+      "name": "Geodude"
+    },
+    {
+      "ID": 1031,
+      "key": "Geodude-Alola",
+      "order": 1,
+      "ancestor": 1031,
+      "name": "Geodude"
+    }
+  ],
+  "75": [
+    {
+      "ID": 75,
+      "key": "Graveler",
+      "order": 0,
+      "ancestor": 74,
+      "name": "Graveler"
+    },
+    {
+      "ID": 1032,
+      "key": "Graveler-Alola",
+      "order": 1,
+      "ancestor": 1031,
+      "name": "Graveler"
+    }
+  ],
+  "76": [
+    {
+      "ID": 76,
+      "key": "Golem",
+      "order": 0,
+      "ancestor": 74,
+      "name": "Golem"
+    },
+    {
+      "ID": 1033,
+      "key": "Golem-Alola",
+      "order": 1,
+      "ancestor": 1031,
+      "name": "Golem"
+    }
+  ],
+  "77": [
+    {
+      "ID": 77,
+      "key": "Ponyta",
+      "order": 0,
+      "ancestor": 77,
+      "name": "Ponyta"
+    },
+    {
+      "ID": 1209,
+      "key": "Ponyta-Galar",
+      "order": 1,
+      "ancestor": 1209,
+      "name": "Ponyta"
+    }
+  ],
+  "78": [
+    {
+      "ID": 78,
+      "key": "Rapidash",
+      "order": 0,
+      "ancestor": 77,
+      "name": "Rapidash"
+    },
+    {
+      "ID": 1210,
+      "key": "Rapidash-Galar",
+      "order": 1,
+      "ancestor": 1209,
+      "name": "Rapidash"
+    }
+  ],
+  "79": [
+    {
+      "ID": 79,
+      "key": "Slowpoke",
+      "order": 0,
+      "ancestor": 79,
+      "name": "Slowpoke"
+    },
+    {
+      "ID": 1211,
+      "key": "Slowpoke-Galar",
+      "order": 1,
+      "ancestor": 1211,
+      "name": "Slowpoke"
+    }
+  ],
+  "80": [
+    {
+      "ID": 80,
+      "key": "Slowbro",
+      "order": 0,
+      "ancestor": 79,
+      "name": "Slowbro"
+    },
+    {
+      "ID": 876,
+      "key": "Slowbro-Mega",
+      "order": 1,
+      "ancestor": 79,
+      "name": "Slowbro"
+    },
+    {
+      "ID": 1212,
+      "key": "Slowbro-Galar",
+      "order": 2,
+      "ancestor": 1211,
+      "name": "Slowbro"
+    }
+  ],
+  "81": [
+    {
+      "ID": 81,
+      "key": "Magnemite",
+      "order": null,
+      "ancestor": 81,
+      "name": "Magnemite"
+    }
+  ],
+  "82": [
+    {
+      "ID": 82,
+      "key": "Magneton",
+      "order": null,
+      "ancestor": 81,
+      "name": "Magneton"
+    }
+  ],
+  "83": [
+    {
+      "ID": 83,
+      "key": "Farfetch’d",
+      "order": 0,
+      "ancestor": 83,
+      "name": "Farfetch’d"
+    },
+    {
+      "ID": 1213,
+      "key": "Farfetch’d-Galar",
+      "order": 1,
+      "ancestor": 1213,
+      "name": "Farfetch’d"
+    }
+  ],
+  "84": [
+    {
+      "ID": 84,
+      "key": "Doduo",
+      "order": 0,
+      "ancestor": 84,
+      "name": "Doduo"
+    },
+    {
+      "ID": 1276,
+      "key": "Doduo-Sevii",
+      "order": 1,
+      "ancestor": 1276,
+      "name": "Doduo"
+    }
+  ],
+  "85": [
+    {
+      "ID": 85,
+      "key": "Dodrio",
+      "order": 0,
+      "ancestor": 84,
+      "name": "Dodrio"
+    },
+    {
+      "ID": 1277,
+      "key": "Dodrio-Sevii",
+      "order": 1,
+      "ancestor": 1276,
+      "name": "Dodrio"
+    }
+  ],
+  "86": [
+    {
+      "ID": 86,
+      "key": "Seel",
+      "order": null,
+      "ancestor": 86,
+      "name": "Seel"
+    }
+  ],
+  "87": [
+    {
+      "ID": 87,
+      "key": "Dewgong",
+      "order": null,
+      "ancestor": 86,
+      "name": "Dewgong"
+    }
+  ],
+  "88": [
+    {
+      "ID": 88,
+      "key": "Grimer",
+      "order": 0,
+      "ancestor": 88,
+      "name": "Grimer"
+    },
+    {
+      "ID": 1034,
+      "key": "Grimer-Alola",
+      "order": 1,
+      "ancestor": 1034,
+      "name": "Grimer"
+    }
+  ],
+  "89": [
+    {
+      "ID": 89,
+      "key": "Muk",
+      "order": 0,
+      "ancestor": 88,
+      "name": "Muk"
+    },
+    {
+      "ID": 1035,
+      "key": "Muk-Alola",
+      "order": 1,
+      "ancestor": 1034,
+      "name": "Muk"
+    }
+  ],
+  "90": [
+    {
+      "ID": 90,
+      "key": "Shellder",
+      "order": null,
+      "ancestor": 90,
+      "name": "Shellder"
+    }
+  ],
+  "91": [
+    {
+      "ID": 91,
+      "key": "Cloyster",
+      "order": null,
+      "ancestor": 90,
+      "name": "Cloyster"
+    }
+  ],
+  "92": [
+    {
+      "ID": 92,
+      "key": "Gastly",
+      "order": null,
+      "ancestor": 92,
+      "name": "Gastly"
+    }
+  ],
+  "93": [
+    {
+      "ID": 93,
+      "key": "Haunter",
+      "order": null,
+      "ancestor": 92,
+      "name": "Haunter"
+    }
+  ],
+  "94": [
+    {
+      "ID": 94,
+      "key": "Gengar",
+      "order": 0,
+      "ancestor": 92,
+      "name": "Gengar"
+    },
+    {
+      "ID": 877,
+      "key": "Gengar-Mega",
+      "order": 1,
+      "ancestor": 92,
+      "name": "Gengar"
+    }
+  ],
+  "95": [
+    {
+      "ID": 95,
+      "key": "Onix",
+      "order": null,
+      "ancestor": 95,
+      "name": "Onix"
+    }
+  ],
+  "96": [
+    {
+      "ID": 96,
+      "key": "Drowzee",
+      "order": null,
+      "ancestor": 96,
+      "name": "Drowzee"
+    }
+  ],
+  "97": [
+    {
+      "ID": 97,
+      "key": "Hypno",
+      "order": null,
+      "ancestor": 96,
+      "name": "Hypno"
+    }
+  ],
+  "98": [
+    {
+      "ID": 98,
+      "key": "Krabby",
+      "order": null,
+      "ancestor": 98,
+      "name": "Krabby"
+    }
+  ],
+  "99": [
+    {
+      "ID": 99,
+      "key": "Kingler",
+      "order": 0,
+      "ancestor": 98,
+      "name": "Kingler"
+    },
+    {
+      "ID": 1238,
+      "key": "Kingler-Mega",
+      "order": 1,
+      "ancestor": 98,
+      "name": "Kingler"
+    }
+  ],
+  "100": [
+    {
+      "ID": 100,
+      "key": "Voltorb",
+      "order": 0,
+      "ancestor": 100,
+      "name": "Voltorb"
+    },
+    {
+      "ID": 1295,
+      "key": "Voltorb-Hisui",
+      "order": 1,
+      "ancestor": 1295,
+      "name": "Voltorb"
+    }
+  ],
+  "101": [
+    {
+      "ID": 101,
+      "key": "Electrode",
+      "order": 0,
+      "ancestor": 100,
+      "name": "Electrode"
+    },
+    {
+      "ID": 1296,
+      "key": "Electrode-Hisui",
+      "order": 1,
+      "ancestor": 1295,
+      "name": "Electrode"
+    }
+  ],
+  "102": [
+    {
+      "ID": 102,
+      "key": "Exeggcute",
+      "order": null,
+      "ancestor": 102,
+      "name": "Exeggcute"
+    }
+  ],
+  "103": [
+    {
+      "ID": 103,
+      "key": "Exeggutor",
+      "order": 0,
+      "ancestor": 102,
+      "name": "Exeggutor"
+    },
+    {
+      "ID": 1037,
+      "key": "Exeggutor-Alola",
+      "order": 1,
+      "ancestor": 102,
+      "name": "Exeggutor"
+    }
+  ],
+  "104": [
+    {
+      "ID": 104,
+      "key": "Cubone",
+      "order": null,
+      "ancestor": 104,
+      "name": "Cubone"
+    }
+  ],
+  "105": [
+    {
+      "ID": 105,
+      "key": "Marowak",
+      "order": 0,
+      "ancestor": 104,
+      "name": "Marowak"
+    },
+    {
+      "ID": 1039,
+      "key": "Marowak-Alola",
+      "order": 1,
+      "ancestor": 104,
+      "name": "Marowak"
+    }
+  ],
+  "106": [
+    {
+      "ID": 106,
+      "key": "Hitmonlee",
+      "order": null,
+      "ancestor": 236,
+      "name": "Hitmonlee"
+    }
+  ],
+  "107": [
+    {
+      "ID": 107,
+      "key": "Hitmonchan",
+      "order": null,
+      "ancestor": 236,
+      "name": "Hitmonchan"
+    }
+  ],
+  "108": [
+    {
+      "ID": 108,
+      "key": "Lickitung",
+      "order": null,
+      "ancestor": 108,
+      "name": "Lickitung"
+    }
+  ],
+  "109": [
+    {
+      "ID": 109,
+      "key": "Koffing",
+      "order": null,
+      "ancestor": 109,
+      "name": "Koffing"
+    }
+  ],
+  "110": [
+    {
+      "ID": 110,
+      "key": "Weezing",
+      "order": 0,
+      "ancestor": 109,
+      "name": "Weezing"
+    },
+    {
+      "ID": 1215,
+      "key": "Weezing-Galar",
+      "order": 1,
+      "ancestor": 109,
+      "name": "Weezing"
+    }
+  ],
+  "111": [
+    {
+      "ID": 111,
+      "key": "Rhyhorn",
+      "order": null,
+      "ancestor": 111,
+      "name": "Rhyhorn"
+    }
+  ],
+  "112": [
+    {
+      "ID": 112,
+      "key": "Rhydon",
+      "order": null,
+      "ancestor": 111,
+      "name": "Rhydon"
+    }
+  ],
+  "113": [
+    {
+      "ID": 113,
+      "key": "Chansey",
+      "order": null,
+      "ancestor": 493,
+      "name": "Chansey"
+    }
+  ],
+  "114": [
+    {
+      "ID": 114,
+      "key": "Tangela",
+      "order": null,
+      "ancestor": 114,
+      "name": "Tangela"
+    }
+  ],
+  "115": [
+    {
+      "ID": 115,
+      "key": "Kangaskhan",
+      "order": 0,
+      "ancestor": 115,
+      "name": "Kangaskhan"
+    },
+    {
+      "ID": 878,
+      "key": "Kangaskhan-Mega",
+      "order": 1,
+      "ancestor": 115,
+      "name": "Kangaskhan"
+    }
+  ],
+  "116": [
+    {
+      "ID": 116,
+      "key": "Horsea",
+      "order": null,
+      "ancestor": 116,
+      "name": "Horsea"
+    }
+  ],
+  "117": [
+    {
+      "ID": 117,
+      "key": "Seadra",
+      "order": null,
+      "ancestor": 116,
+      "name": "Seadra"
+    }
+  ],
+  "118": [
+    {
+      "ID": 118,
+      "key": "Goldeen",
+      "order": null,
+      "ancestor": 118,
+      "name": "Goldeen"
+    }
+  ],
+  "119": [
+    {
+      "ID": 119,
+      "key": "Seaking",
+      "order": null,
+      "ancestor": 118,
+      "name": "Seaking"
+    }
+  ],
+  "120": [
+    {
+      "ID": 120,
+      "key": "Staryu",
+      "order": null,
+      "ancestor": 120,
+      "name": "Staryu"
+    }
+  ],
+  "121": [
+    {
+      "ID": 121,
+      "key": "Starmie",
+      "order": null,
+      "ancestor": 120,
+      "name": "Starmie"
+    }
+  ],
+  "122": [
+    {
+      "ID": 122,
+      "key": "Mr. Mime",
+      "order": 0,
+      "ancestor": 492,
+      "name": "Mr. Mime"
+    },
+    {
+      "ID": 1216,
+      "key": "Mr. Mime-Galar",
+      "order": 1,
+      "ancestor": 492,
+      "name": "Mr. Mime"
+    }
+  ],
+  "123": [
+    {
+      "ID": 123,
+      "key": "Scyther",
+      "order": null,
+      "ancestor": 123,
+      "name": "Scyther"
+    }
+  ],
+  "124": [
+    {
+      "ID": 124,
+      "key": "Jynx",
+      "order": null,
+      "ancestor": 238,
+      "name": "Jynx"
+    }
+  ],
+  "125": [
+    {
+      "ID": 125,
+      "key": "Electabuzz",
+      "order": null,
+      "ancestor": 239,
+      "name": "Electabuzz"
+    }
+  ],
+  "126": [
+    {
+      "ID": 126,
+      "key": "Magmar",
+      "order": null,
+      "ancestor": 240,
+      "name": "Magmar"
+    }
+  ],
+  "127": [
+    {
+      "ID": 127,
+      "key": "Pinsir",
+      "order": 0,
+      "ancestor": 127,
+      "name": "Pinsir"
+    },
+    {
+      "ID": 879,
+      "key": "Pinsir-Mega",
+      "order": 1,
+      "ancestor": 127,
+      "name": "Pinsir"
+    }
+  ],
+  "128": [
+    {
+      "ID": 128,
+      "key": "Tauros",
+      "order": 0,
+      "ancestor": 128,
+      "name": "Tauros"
+    },
+    {
+      "ID": 1234,
+      "key": "Tauros-Paldea-Combat",
+      "order": 1,
+      "ancestor": 1234,
+      "name": "Tauros"
+    },
+    {
+      "ID": 1235,
+      "key": "Tauros-Paldea-Aqua",
+      "order": 2,
+      "ancestor": 1235,
+      "name": "Tauros"
+    },
+    {
+      "ID": 1240,
+      "key": "Tauros-Paldea-Blaze",
+      "order": 3,
+      "ancestor": 1240,
+      "name": "Tauros"
+    }
+  ],
+  "129": [
+    {
+      "ID": 129,
+      "key": "Magikarp",
+      "order": null,
+      "ancestor": 129,
+      "name": "Magikarp"
+    }
+  ],
+  "130": [
+    {
+      "ID": 130,
+      "key": "Gyarados",
+      "order": 0,
+      "ancestor": 129,
+      "name": "Gyarados"
+    },
+    {
+      "ID": 880,
+      "key": "Gyarados-Mega",
+      "order": 1,
+      "ancestor": 129,
+      "name": "Gyarados"
+    }
+  ],
+  "131": [
+    {
+      "ID": 131,
+      "key": "Lapras",
+      "order": 0,
+      "ancestor": 131,
+      "name": "Lapras"
+    },
+    {
+      "ID": 1239,
+      "key": "Lapras-Mega",
+      "order": 1,
+      "ancestor": 131,
+      "name": "Lapras"
+    }
+  ],
+  "132": [
+    {
+      "ID": 132,
+      "key": "Ditto",
+      "order": null,
+      "ancestor": 132,
+      "name": "Ditto"
+    }
+  ],
+  "133": [
+    {
+      "ID": 133,
+      "key": "Eevee",
+      "order": null,
+      "ancestor": 133,
+      "name": "Eevee"
+    }
+  ],
+  "134": [
+    {
+      "ID": 134,
+      "key": "Vaporeon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Vaporeon"
+    }
+  ],
+  "135": [
+    {
+      "ID": 135,
+      "key": "Jolteon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Jolteon"
+    }
+  ],
+  "136": [
+    {
+      "ID": 136,
+      "key": "Flareon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Flareon"
+    }
+  ],
+  "137": [
+    {
+      "ID": 137,
+      "key": "Porygon",
+      "order": null,
+      "ancestor": 137,
+      "name": "Porygon"
+    }
+  ],
+  "138": [
+    {
+      "ID": 138,
+      "key": "Omanyte",
+      "order": null,
+      "ancestor": 138,
+      "name": "Omanyte"
+    }
+  ],
+  "139": [
+    {
+      "ID": 139,
+      "key": "Omastar",
+      "order": null,
+      "ancestor": 138,
+      "name": "Omastar"
+    }
+  ],
+  "140": [
+    {
+      "ID": 140,
+      "key": "Kabuto",
+      "order": null,
+      "ancestor": 140,
+      "name": "Kabuto"
+    }
+  ],
+  "141": [
+    {
+      "ID": 141,
+      "key": "Kabutops",
+      "order": null,
+      "ancestor": 140,
+      "name": "Kabutops"
+    }
+  ],
+  "142": [
+    {
+      "ID": 142,
+      "key": "Aerodactyl",
+      "order": 0,
+      "ancestor": 142,
+      "name": "Aerodactyl"
+    },
+    {
+      "ID": 881,
+      "key": "Aerodactyl-Mega",
+      "order": 1,
+      "ancestor": 142,
+      "name": "Aerodactyl"
+    }
+  ],
+  "143": [
+    {
+      "ID": 143,
+      "key": "Snorlax",
+      "order": 0,
+      "ancestor": 499,
+      "name": "Snorlax"
+    },
+    {
+      "ID": 1241,
+      "key": "Snorlax-Mega",
+      "order": 1,
+      "ancestor": 499,
+      "name": "Snorlax"
+    }
+  ],
+  "144": [
+    {
+      "ID": 144,
+      "key": "Articuno",
+      "order": 0,
+      "ancestor": 144,
+      "name": "Articuno"
+    },
+    {
+      "ID": 1217,
+      "key": "Articuno-Galar",
+      "order": 1,
+      "ancestor": 1217,
+      "name": "Articuno"
+    }
+  ],
+  "145": [
+    {
+      "ID": 145,
+      "key": "Zapdos",
+      "order": 0,
+      "ancestor": 145,
+      "name": "Zapdos"
+    },
+    {
+      "ID": 1218,
+      "key": "Zapdos-Galar",
+      "order": 1,
+      "ancestor": 1218,
+      "name": "Zapdos"
+    }
+  ],
+  "146": [
+    {
+      "ID": 146,
+      "key": "Moltres",
+      "order": 0,
+      "ancestor": 146,
+      "name": "Moltres"
+    },
+    {
+      "ID": 1219,
+      "key": "Moltres-Galar",
+      "order": 1,
+      "ancestor": 1219,
+      "name": "Moltres"
+    }
+  ],
+  "147": [
+    {
+      "ID": 147,
+      "key": "Dratini",
+      "order": null,
+      "ancestor": 147,
+      "name": "Dratini"
+    }
+  ],
+  "148": [
+    {
+      "ID": 148,
+      "key": "Dragonair",
+      "order": null,
+      "ancestor": 147,
+      "name": "Dragonair"
+    }
+  ],
+  "149": [
+    {
+      "ID": 149,
+      "key": "Dragonite",
+      "order": null,
+      "ancestor": 147,
+      "name": "Dragonite"
+    }
+  ],
+  "150": [
+    {
+      "ID": 150,
+      "key": "Mewtwo",
+      "order": 0,
+      "ancestor": 150,
+      "name": "Mewtwo"
+    },
+    {
+      "ID": 882,
+      "key": "Mewtwo-Mega-X",
+      "order": 1,
+      "ancestor": 150,
+      "name": "Mewtwo"
+    },
+    {
+      "ID": 883,
+      "key": "Mewtwo-Mega-Y",
+      "order": 2,
+      "ancestor": 150,
+      "name": "Mewtwo"
+    }
+  ],
+  "151": [
+    {
+      "ID": 151,
+      "key": "Mew",
+      "order": null,
+      "ancestor": 151,
+      "name": "Mew"
+    }
+  ],
+  "152": [
+    {
+      "ID": 152,
+      "key": "Chikorita",
+      "order": null,
+      "ancestor": 152,
+      "name": "Chikorita"
+    }
+  ],
+  "153": [
+    {
+      "ID": 153,
+      "key": "Bayleef",
+      "order": null,
+      "ancestor": 152,
+      "name": "Bayleef"
+    }
+  ],
+  "154": [
+    {
+      "ID": 154,
+      "key": "Meganium",
+      "order": null,
+      "ancestor": 152,
+      "name": "Meganium"
+    }
+  ],
+  "155": [
+    {
+      "ID": 155,
+      "key": "Cyndaquil",
+      "order": null,
+      "ancestor": 155,
+      "name": "Cyndaquil"
+    }
+  ],
+  "156": [
+    {
+      "ID": 156,
+      "key": "Quilava",
+      "order": null,
+      "ancestor": 155,
+      "name": "Quilava"
+    }
+  ],
+  "157": [
+    {
+      "ID": 157,
+      "key": "Typhlosion",
+      "order": 0,
+      "ancestor": 155,
+      "name": "Typhlosion"
+    },
+    {
+      "ID": 1299,
+      "key": "Typhlosion-Hisui",
+      "order": 1,
+      "ancestor": 155,
+      "name": "Typhlosion"
+    }
+  ],
+  "158": [
+    {
+      "ID": 158,
+      "key": "Totodile",
+      "order": null,
+      "ancestor": 158,
+      "name": "Totodile"
+    }
+  ],
+  "159": [
+    {
+      "ID": 159,
+      "key": "Croconaw",
+      "order": null,
+      "ancestor": 158,
+      "name": "Croconaw"
+    }
+  ],
+  "160": [
+    {
+      "ID": 160,
+      "key": "Feraligatr",
+      "order": null,
+      "ancestor": 158,
+      "name": "Feraligatr"
+    }
+  ],
+  "161": [
+    {
+      "ID": 161,
+      "key": "Sentret",
+      "order": null,
+      "ancestor": 161,
+      "name": "Sentret"
+    }
+  ],
+  "162": [
+    {
+      "ID": 162,
+      "key": "Furret",
+      "order": null,
+      "ancestor": 161,
+      "name": "Furret"
+    }
+  ],
+  "163": [
+    {
+      "ID": 163,
+      "key": "Hoothoot",
+      "order": null,
+      "ancestor": 163,
+      "name": "Hoothoot"
+    }
+  ],
+  "164": [
+    {
+      "ID": 164,
+      "key": "Noctowl",
+      "order": null,
+      "ancestor": 163,
+      "name": "Noctowl"
+    }
+  ],
+  "165": [
+    {
+      "ID": 165,
+      "key": "Ledyba",
+      "order": null,
+      "ancestor": 165,
+      "name": "Ledyba"
+    }
+  ],
+  "166": [
+    {
+      "ID": 166,
+      "key": "Ledian",
+      "order": null,
+      "ancestor": 165,
+      "name": "Ledian"
+    }
+  ],
+  "167": [
+    {
+      "ID": 167,
+      "key": "Spinarak",
+      "order": null,
+      "ancestor": 167,
+      "name": "Spinarak"
+    }
+  ],
+  "168": [
+    {
+      "ID": 168,
+      "key": "Ariados",
+      "order": null,
+      "ancestor": 167,
+      "name": "Ariados"
+    }
+  ],
+  "169": [
+    {
+      "ID": 169,
+      "key": "Crobat",
+      "order": null,
+      "ancestor": 41,
+      "name": "Crobat"
+    }
+  ],
+  "170": [
+    {
+      "ID": 170,
+      "key": "Chinchou",
+      "order": null,
+      "ancestor": 170,
+      "name": "Chinchou"
+    }
+  ],
+  "171": [
+    {
+      "ID": 171,
+      "key": "Lanturn",
+      "order": null,
+      "ancestor": 170,
+      "name": "Lanturn"
+    }
+  ],
+  "172": [
+    {
+      "ID": 172,
+      "key": "Pichu",
+      "order": null,
+      "ancestor": 172,
+      "name": "Pichu"
+    }
+  ],
+  "173": [
+    {
+      "ID": 173,
+      "key": "Cleffa",
+      "order": null,
+      "ancestor": 173,
+      "name": "Cleffa"
+    }
+  ],
+  "174": [
+    {
+      "ID": 174,
+      "key": "Igglybuff",
+      "order": null,
+      "ancestor": 174,
+      "name": "Igglybuff"
+    }
+  ],
+  "175": [
+    {
+      "ID": 175,
+      "key": "Togepi",
+      "order": null,
+      "ancestor": 175,
+      "name": "Togepi"
+    }
+  ],
+  "176": [
+    {
+      "ID": 176,
+      "key": "Togetic",
+      "order": null,
+      "ancestor": 175,
+      "name": "Togetic"
+    }
+  ],
+  "177": [
+    {
+      "ID": 177,
+      "key": "Natu",
+      "order": null,
+      "ancestor": 177,
+      "name": "Natu"
+    }
+  ],
+  "178": [
+    {
+      "ID": 178,
+      "key": "Xatu",
+      "order": null,
+      "ancestor": 177,
+      "name": "Xatu"
+    }
+  ],
+  "179": [
+    {
+      "ID": 179,
+      "key": "Mareep",
+      "order": null,
+      "ancestor": 179,
+      "name": "Mareep"
+    }
+  ],
+  "180": [
+    {
+      "ID": 180,
+      "key": "Flaaffy",
+      "order": null,
+      "ancestor": 179,
+      "name": "Flaaffy"
+    }
+  ],
+  "181": [
+    {
+      "ID": 181,
+      "key": "Ampharos",
+      "order": 0,
+      "ancestor": 179,
+      "name": "Ampharos"
+    },
+    {
+      "ID": 884,
+      "key": "Ampharos-Mega",
+      "order": 1,
+      "ancestor": 179,
+      "name": "Ampharos"
+    }
+  ],
+  "182": [
+    {
+      "ID": 182,
+      "key": "Bellossom",
+      "order": null,
+      "ancestor": 43,
+      "name": "Bellossom"
+    }
+  ],
+  "183": [
+    {
+      "ID": 183,
+      "key": "Marill",
+      "order": null,
+      "ancestor": 350,
+      "name": "Marill"
+    }
+  ],
+  "184": [
+    {
+      "ID": 184,
+      "key": "Azumarill",
+      "order": null,
+      "ancestor": 350,
+      "name": "Azumarill"
+    }
+  ],
+  "185": [
+    {
+      "ID": 185,
+      "key": "Sudowoodo",
+      "order": null,
+      "ancestor": 491,
+      "name": "Sudowoodo"
+    }
+  ],
+  "186": [
+    {
+      "ID": 186,
+      "key": "Politoed",
+      "order": null,
+      "ancestor": 60,
+      "name": "Politoed"
+    }
+  ],
+  "187": [
+    {
+      "ID": 187,
+      "key": "Hoppip",
+      "order": null,
+      "ancestor": 187,
+      "name": "Hoppip"
+    }
+  ],
+  "188": [
+    {
+      "ID": 188,
+      "key": "Skiploom",
+      "order": null,
+      "ancestor": 187,
+      "name": "Skiploom"
+    }
+  ],
+  "189": [
+    {
+      "ID": 189,
+      "key": "Jumpluff",
+      "order": null,
+      "ancestor": 187,
+      "name": "Jumpluff"
+    }
+  ],
+  "190": [
+    {
+      "ID": 190,
+      "key": "Aipom",
+      "order": null,
+      "ancestor": 190,
+      "name": "Aipom"
+    }
+  ],
+  "191": [
+    {
+      "ID": 191,
+      "key": "Sunkern",
+      "order": null,
+      "ancestor": 191,
+      "name": "Sunkern"
+    }
+  ],
+  "192": [
+    {
+      "ID": 192,
+      "key": "Sunflora",
+      "order": null,
+      "ancestor": 191,
+      "name": "Sunflora"
+    }
+  ],
+  "193": [
+    {
+      "ID": 193,
+      "key": "Yanma",
+      "order": null,
+      "ancestor": 193,
+      "name": "Yanma"
+    }
+  ],
+  "194": [
+    {
+      "ID": 194,
+      "key": "Wooper",
+      "order": 0,
+      "ancestor": 194,
+      "name": "Wooper"
+    },
+    {
+      "ID": 930,
+      "key": "Wooper-Paldea",
+      "order": 1,
+      "ancestor": 930,
+      "name": "Wooper"
+    }
+  ],
+  "195": [
+    {
+      "ID": 195,
+      "key": "Quagsire",
+      "order": null,
+      "ancestor": 194,
+      "name": "Quagsire"
+    }
+  ],
+  "196": [
+    {
+      "ID": 196,
+      "key": "Espeon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Espeon"
+    }
+  ],
+  "197": [
+    {
+      "ID": 197,
+      "key": "Umbreon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Umbreon"
+    }
+  ],
+  "198": [
+    {
+      "ID": 198,
+      "key": "Murkrow",
+      "order": null,
+      "ancestor": 198,
+      "name": "Murkrow"
+    }
+  ],
+  "199": [
+    {
+      "ID": 199,
+      "key": "Slowking",
+      "order": 0,
+      "ancestor": 79,
+      "name": "Slowking"
+    },
+    {
+      "ID": 1220,
+      "key": "Slowking-Galar",
+      "order": 1,
+      "ancestor": 1211,
+      "name": "Slowking"
+    }
+  ],
+  "200": [
+    {
+      "ID": 200,
+      "key": "Misdreavus",
+      "order": null,
+      "ancestor": 200,
+      "name": "Misdreavus"
+    }
+  ],
+  "201": [
+    {
+      "ID": 201,
+      "key": "Unown",
+      "order": 0,
+      "ancestor": 201,
+      "name": "Unown"
+    },
+    {
+      "ID": 413,
+      "key": "Unown",
+      "order": 1,
+      "ancestor": 413,
+      "name": "Unown"
+    },
+    {
+      "ID": 414,
+      "key": "Unown",
+      "order": 2,
+      "ancestor": 414,
+      "name": "Unown"
+    },
+    {
+      "ID": 415,
+      "key": "Unown",
+      "order": 3,
+      "ancestor": 415,
+      "name": "Unown"
+    },
+    {
+      "ID": 416,
+      "key": "Unown",
+      "order": 4,
+      "ancestor": 416,
+      "name": "Unown"
+    },
+    {
+      "ID": 417,
+      "key": "Unown",
+      "order": 5,
+      "ancestor": 417,
+      "name": "Unown"
+    },
+    {
+      "ID": 418,
+      "key": "Unown",
+      "order": 6,
+      "ancestor": 418,
+      "name": "Unown"
+    },
+    {
+      "ID": 419,
+      "key": "Unown",
+      "order": 7,
+      "ancestor": 419,
+      "name": "Unown"
+    },
+    {
+      "ID": 420,
+      "key": "Unown",
+      "order": 8,
+      "ancestor": 420,
+      "name": "Unown"
+    },
+    {
+      "ID": 421,
+      "key": "Unown",
+      "order": 9,
+      "ancestor": 421,
+      "name": "Unown"
+    },
+    {
+      "ID": 422,
+      "key": "Unown",
+      "order": 10,
+      "ancestor": 422,
+      "name": "Unown"
+    },
+    {
+      "ID": 423,
+      "key": "Unown",
+      "order": 11,
+      "ancestor": 423,
+      "name": "Unown"
+    },
+    {
+      "ID": 424,
+      "key": "Unown",
+      "order": 12,
+      "ancestor": 424,
+      "name": "Unown"
+    },
+    {
+      "ID": 425,
+      "key": "Unown",
+      "order": 13,
+      "ancestor": 425,
+      "name": "Unown"
+    },
+    {
+      "ID": 426,
+      "key": "Unown",
+      "order": 14,
+      "ancestor": 426,
+      "name": "Unown"
+    },
+    {
+      "ID": 427,
+      "key": "Unown",
+      "order": 15,
+      "ancestor": 427,
+      "name": "Unown"
+    },
+    {
+      "ID": 428,
+      "key": "Unown",
+      "order": 16,
+      "ancestor": 428,
+      "name": "Unown"
+    },
+    {
+      "ID": 429,
+      "key": "Unown",
+      "order": 17,
+      "ancestor": 429,
+      "name": "Unown"
+    },
+    {
+      "ID": 430,
+      "key": "Unown",
+      "order": 18,
+      "ancestor": 430,
+      "name": "Unown"
+    },
+    {
+      "ID": 431,
+      "key": "Unown",
+      "order": 19,
+      "ancestor": 431,
+      "name": "Unown"
+    },
+    {
+      "ID": 432,
+      "key": "Unown",
+      "order": 20,
+      "ancestor": 432,
+      "name": "Unown"
+    },
+    {
+      "ID": 433,
+      "key": "Unown",
+      "order": 21,
+      "ancestor": 433,
+      "name": "Unown"
+    },
+    {
+      "ID": 434,
+      "key": "Unown",
+      "order": 22,
+      "ancestor": 434,
+      "name": "Unown"
+    },
+    {
+      "ID": 435,
+      "key": "Unown",
+      "order": 23,
+      "ancestor": 435,
+      "name": "Unown"
+    },
+    {
+      "ID": 436,
+      "key": "Unown",
+      "order": 24,
+      "ancestor": 436,
+      "name": "Unown"
+    },
+    {
+      "ID": 437,
+      "key": "Unown",
+      "order": 25,
+      "ancestor": 437,
+      "name": "Unown"
+    },
+    {
+      "ID": 438,
+      "key": "Unown",
+      "order": 26,
+      "ancestor": 438,
+      "name": "Unown"
+    },
+    {
+      "ID": 439,
+      "key": "Unown",
+      "order": 27,
+      "ancestor": 439,
+      "name": "Unown"
+    }
+  ],
+  "202": [
+    {
+      "ID": 202,
+      "key": "Wobbuffet",
+      "order": null,
+      "ancestor": 360,
+      "name": "Wobbuffet"
+    }
+  ],
+  "203": [
+    {
+      "ID": 203,
+      "key": "Girafarig",
+      "order": null,
+      "ancestor": 203,
+      "name": "Girafarig"
+    }
+  ],
+  "204": [
+    {
+      "ID": 204,
+      "key": "Pineco",
+      "order": null,
+      "ancestor": 204,
+      "name": "Pineco"
+    }
+  ],
+  "205": [
+    {
+      "ID": 205,
+      "key": "Forretress",
+      "order": null,
+      "ancestor": 204,
+      "name": "Forretress"
+    }
+  ],
+  "206": [
+    {
+      "ID": 206,
+      "key": "Dunsparce",
+      "order": null,
+      "ancestor": 206,
+      "name": "Dunsparce"
+    }
+  ],
+  "207": [
+    {
+      "ID": 207,
+      "key": "Gligar",
+      "order": null,
+      "ancestor": 207,
+      "name": "Gligar"
+    }
+  ],
+  "208": [
+    {
+      "ID": 208,
+      "key": "Steelix",
+      "order": 0,
+      "ancestor": 95,
+      "name": "Steelix"
+    },
+    {
+      "ID": 885,
+      "key": "Steelix-Mega",
+      "order": 1,
+      "ancestor": 95,
+      "name": "Steelix"
+    }
+  ],
+  "209": [
+    {
+      "ID": 209,
+      "key": "Snubbull",
+      "order": null,
+      "ancestor": 209,
+      "name": "Snubbull"
+    }
+  ],
+  "210": [
+    {
+      "ID": 210,
+      "key": "Granbull",
+      "order": null,
+      "ancestor": 209,
+      "name": "Granbull"
+    }
+  ],
+  "211": [
+    {
+      "ID": 211,
+      "key": "Qwilfish",
+      "order": 0,
+      "ancestor": 211,
+      "name": "Qwilfish"
+    },
+    {
+      "ID": 1307,
+      "key": "Qwilfish-Hisui",
+      "order": 1,
+      "ancestor": 1307,
+      "name": "Qwilfish"
+    }
+  ],
+  "212": [
+    {
+      "ID": 212,
+      "key": "Scizor",
+      "order": 0,
+      "ancestor": 123,
+      "name": "Scizor"
+    },
+    {
+      "ID": 886,
+      "key": "Scizor-Mega",
+      "order": 1,
+      "ancestor": 123,
+      "name": "Scizor"
+    }
+  ],
+  "213": [
+    {
+      "ID": 213,
+      "key": "Shuckle",
+      "order": null,
+      "ancestor": 213,
+      "name": "Shuckle"
+    }
+  ],
+  "214": [
+    {
+      "ID": 214,
+      "key": "Heracross",
+      "order": 0,
+      "ancestor": 214,
+      "name": "Heracross"
+    },
+    {
+      "ID": 887,
+      "key": "Heracross-Mega",
+      "order": 1,
+      "ancestor": 214,
+      "name": "Heracross"
+    }
+  ],
+  "215": [
+    {
+      "ID": 215,
+      "key": "Sneasel",
+      "order": 0,
+      "ancestor": 215,
+      "name": "Sneasel"
+    },
+    {
+      "ID": 1304,
+      "key": "Sneasel-Hisui",
+      "order": 1,
+      "ancestor": 1304,
+      "name": "Sneasel"
+    }
+  ],
+  "216": [
+    {
+      "ID": 216,
+      "key": "Teddiursa",
+      "order": 0,
+      "ancestor": 216,
+      "name": "Teddiursa"
+    },
+    {
+      "ID": 1278,
+      "key": "Teddiursa-Sevii",
+      "order": 1,
+      "ancestor": 1278,
+      "name": "Teddiursa"
+    }
+  ],
+  "217": [
+    {
+      "ID": 217,
+      "key": "Ursaring",
+      "order": 0,
+      "ancestor": 216,
+      "name": "Ursaring"
+    },
+    {
+      "ID": 1279,
+      "key": "Ursaring-Sevii",
+      "order": 1,
+      "ancestor": 1278,
+      "name": "Ursaring"
+    }
+  ],
+  "218": [
+    {
+      "ID": 218,
+      "key": "Slugma",
+      "order": null,
+      "ancestor": 218,
+      "name": "Slugma"
+    }
+  ],
+  "219": [
+    {
+      "ID": 219,
+      "key": "Magcargo",
+      "order": null,
+      "ancestor": 218,
+      "name": "Magcargo"
+    }
+  ],
+  "220": [
+    {
+      "ID": 220,
+      "key": "Swinub",
+      "order": null,
+      "ancestor": 220,
+      "name": "Swinub"
+    }
+  ],
+  "221": [
+    {
+      "ID": 221,
+      "key": "Piloswine",
+      "order": null,
+      "ancestor": 220,
+      "name": "Piloswine"
+    }
+  ],
+  "222": [
+    {
+      "ID": 222,
+      "key": "Corsola",
+      "order": 0,
+      "ancestor": 222,
+      "name": "Corsola"
+    },
+    {
+      "ID": 1221,
+      "key": "Corsola-Galar",
+      "order": 1,
+      "ancestor": 1221,
+      "name": "Corsola"
+    }
+  ],
+  "223": [
+    {
+      "ID": 223,
+      "key": "Remoraid",
+      "order": null,
+      "ancestor": 223,
+      "name": "Remoraid"
+    }
+  ],
+  "224": [
+    {
+      "ID": 224,
+      "key": "Octillery",
+      "order": null,
+      "ancestor": 223,
+      "name": "Octillery"
+    }
+  ],
+  "225": [
+    {
+      "ID": 225,
+      "key": "Delibird",
+      "order": null,
+      "ancestor": 225,
+      "name": "Delibird"
+    }
+  ],
+  "226": [
+    {
+      "ID": 226,
+      "key": "Mantine",
+      "order": 0,
+      "ancestor": 511,
+      "name": "Mantine"
+    },
+    {
+      "ID": 1284,
+      "key": "Mantine-Sevii",
+      "order": 1,
+      "ancestor": 1283,
+      "name": "Mantine"
+    }
+  ],
+  "227": [
+    {
+      "ID": 227,
+      "key": "Skarmory",
+      "order": null,
+      "ancestor": 227,
+      "name": "Skarmory"
+    }
+  ],
+  "228": [
+    {
+      "ID": 228,
+      "key": "Houndour",
+      "order": null,
+      "ancestor": 228,
+      "name": "Houndour"
+    }
+  ],
+  "229": [
+    {
+      "ID": 229,
+      "key": "Houndoom",
+      "order": 0,
+      "ancestor": 228,
+      "name": "Houndoom"
+    },
+    {
+      "ID": 888,
+      "key": "Houndoom-Mega",
+      "order": 1,
+      "ancestor": 228,
+      "name": "Houndoom"
+    }
+  ],
+  "230": [
+    {
+      "ID": 230,
+      "key": "Kingdra",
+      "order": null,
+      "ancestor": 116,
+      "name": "Kingdra"
+    }
+  ],
+  "231": [
+    {
+      "ID": 231,
+      "key": "Phanpy",
+      "order": null,
+      "ancestor": 231,
+      "name": "Phanpy"
+    }
+  ],
+  "232": [
+    {
+      "ID": 232,
+      "key": "Donphan",
+      "order": null,
+      "ancestor": 231,
+      "name": "Donphan"
+    }
+  ],
+  "233": [
+    {
+      "ID": 233,
+      "key": "Porygon2",
+      "order": null,
+      "ancestor": 137,
+      "name": "Porygon2"
+    }
+  ],
+  "234": [
+    {
+      "ID": 234,
+      "key": "Stantler",
+      "order": null,
+      "ancestor": 234,
+      "name": "Stantler"
+    }
+  ],
+  "235": [
+    {
+      "ID": 235,
+      "key": "Smeargle",
+      "order": null,
+      "ancestor": 235,
+      "name": "Smeargle"
+    }
+  ],
+  "236": [
+    {
+      "ID": 236,
+      "key": "Tyrogue",
+      "order": null,
+      "ancestor": 236,
+      "name": "Tyrogue"
+    }
+  ],
+  "237": [
+    {
+      "ID": 237,
+      "key": "Hitmontop",
+      "order": null,
+      "ancestor": 236,
+      "name": "Hitmontop"
+    }
+  ],
+  "238": [
+    {
+      "ID": 238,
+      "key": "Smoochum",
+      "order": null,
+      "ancestor": 238,
+      "name": "Smoochum"
+    }
+  ],
+  "239": [
+    {
+      "ID": 239,
+      "key": "Elekid",
+      "order": null,
+      "ancestor": 239,
+      "name": "Elekid"
+    }
+  ],
+  "240": [
+    {
+      "ID": 240,
+      "key": "Magby",
+      "order": null,
+      "ancestor": 240,
+      "name": "Magby"
+    }
+  ],
+  "241": [
+    {
+      "ID": 241,
+      "key": "Miltank",
+      "order": null,
+      "ancestor": 241,
+      "name": "Miltank"
+    }
+  ],
+  "242": [
+    {
+      "ID": 242,
+      "key": "Blissey",
+      "order": null,
+      "ancestor": 493,
+      "name": "Blissey"
+    }
+  ],
+  "243": [
+    {
+      "ID": 243,
+      "key": "Raikou",
+      "order": null,
+      "ancestor": 243,
+      "name": "Raikou"
+    }
+  ],
+  "244": [
+    {
+      "ID": 244,
+      "key": "Entei",
+      "order": null,
+      "ancestor": 244,
+      "name": "Entei"
+    }
+  ],
+  "245": [
+    {
+      "ID": 245,
+      "key": "Suicune",
+      "order": null,
+      "ancestor": 245,
+      "name": "Suicune"
+    }
+  ],
+  "246": [
+    {
+      "ID": 246,
+      "key": "Larvitar",
+      "order": null,
+      "ancestor": 246,
+      "name": "Larvitar"
+    }
+  ],
+  "247": [
+    {
+      "ID": 247,
+      "key": "Pupitar",
+      "order": null,
+      "ancestor": 246,
+      "name": "Pupitar"
+    }
+  ],
+  "248": [
+    {
+      "ID": 248,
+      "key": "Tyranitar",
+      "order": 0,
+      "ancestor": 246,
+      "name": "Tyranitar"
+    },
+    {
+      "ID": 889,
+      "key": "Tyranitar-Mega",
+      "order": 1,
+      "ancestor": 246,
+      "name": "Tyranitar"
+    }
+  ],
+  "249": [
+    {
+      "ID": 249,
+      "key": "Lugia",
+      "order": null,
+      "ancestor": 249,
+      "name": "Lugia"
+    }
+  ],
+  "250": [
+    {
+      "ID": 250,
+      "key": "Ho-Oh",
+      "order": null,
+      "ancestor": 250,
+      "name": "Ho-Oh"
+    }
+  ],
+  "251": [
+    {
+      "ID": 251,
+      "key": "Celebi",
+      "order": null,
+      "ancestor": 251,
+      "name": "Celebi"
+    }
+  ],
+  "252": [
+    {
+      "ID": 277,
+      "key": "Treecko",
+      "order": null,
+      "ancestor": 277,
+      "name": "Treecko"
+    }
+  ],
+  "253": [
+    {
+      "ID": 278,
+      "key": "Grovyle",
+      "order": null,
+      "ancestor": 277,
+      "name": "Grovyle"
+    }
+  ],
+  "254": [
+    {
+      "ID": 279,
+      "key": "Sceptile",
+      "order": 0,
+      "ancestor": 277,
+      "name": "Sceptile"
+    },
+    {
+      "ID": 890,
+      "key": "Sceptile-Mega",
+      "order": 1,
+      "ancestor": 277,
+      "name": "Sceptile"
+    }
+  ],
+  "255": [
+    {
+      "ID": 280,
+      "key": "Torchic",
+      "order": null,
+      "ancestor": 280,
+      "name": "Torchic"
+    }
+  ],
+  "256": [
+    {
+      "ID": 281,
+      "key": "Combusken",
+      "order": null,
+      "ancestor": 280,
+      "name": "Combusken"
+    }
+  ],
+  "257": [
+    {
+      "ID": 282,
+      "key": "Blaziken",
+      "order": 0,
+      "ancestor": 280,
+      "name": "Blaziken"
+    },
+    {
+      "ID": 891,
+      "key": "Blaziken-Mega",
+      "order": 1,
+      "ancestor": 280,
+      "name": "Blaziken"
+    }
+  ],
+  "258": [
+    {
+      "ID": 283,
+      "key": "Mudkip",
+      "order": null,
+      "ancestor": 283,
+      "name": "Mudkip"
+    }
+  ],
+  "259": [
+    {
+      "ID": 284,
+      "key": "Marshtomp",
+      "order": null,
+      "ancestor": 283,
+      "name": "Marshtomp"
+    }
+  ],
+  "260": [
+    {
+      "ID": 285,
+      "key": "Swampert",
+      "order": 0,
+      "ancestor": 283,
+      "name": "Swampert"
+    },
+    {
+      "ID": 892,
+      "key": "Swampert-Mega",
+      "order": 1,
+      "ancestor": 283,
+      "name": "Swampert"
+    }
+  ],
+  "261": [
+    {
+      "ID": 286,
+      "key": "Poochyena",
+      "order": null,
+      "ancestor": 286,
+      "name": "Poochyena"
+    }
+  ],
+  "262": [
+    {
+      "ID": 287,
+      "key": "Mightyena",
+      "order": null,
+      "ancestor": 286,
+      "name": "Mightyena"
+    }
+  ],
+  "263": [
+    {
+      "ID": 288,
+      "key": "Zigzagoon",
+      "order": 0,
+      "ancestor": 288,
+      "name": "Zigzagoon"
+    },
+    {
+      "ID": 1222,
+      "key": "Zigzagoon-Galar",
+      "order": 1,
+      "ancestor": 1222,
+      "name": "Zigzagoon"
+    }
+  ],
+  "264": [
+    {
+      "ID": 289,
+      "key": "Linoone",
+      "order": 0,
+      "ancestor": 288,
+      "name": "Linoone"
+    },
+    {
+      "ID": 1223,
+      "key": "Linoone-Galar",
+      "order": 1,
+      "ancestor": 1222,
+      "name": "Linoone"
+    }
+  ],
+  "265": [
+    {
+      "ID": 290,
+      "key": "Wurmple",
+      "order": null,
+      "ancestor": 290,
+      "name": "Wurmple"
+    }
+  ],
+  "266": [
+    {
+      "ID": 291,
+      "key": "Silcoon",
+      "order": null,
+      "ancestor": 290,
+      "name": "Silcoon"
+    }
+  ],
+  "267": [
+    {
+      "ID": 292,
+      "key": "Beautifly",
+      "order": null,
+      "ancestor": 290,
+      "name": "Beautifly"
+    }
+  ],
+  "268": [
+    {
+      "ID": 293,
+      "key": "Cascoon",
+      "order": null,
+      "ancestor": 290,
+      "name": "Cascoon"
+    }
+  ],
+  "269": [
+    {
+      "ID": 294,
+      "key": "Dustox",
+      "order": null,
+      "ancestor": 290,
+      "name": "Dustox"
+    }
+  ],
+  "270": [
+    {
+      "ID": 295,
+      "key": "Lotad",
+      "order": null,
+      "ancestor": 295,
+      "name": "Lotad"
+    }
+  ],
+  "271": [
+    {
+      "ID": 296,
+      "key": "Lombre",
+      "order": null,
+      "ancestor": 295,
+      "name": "Lombre"
+    }
+  ],
+  "272": [
+    {
+      "ID": 297,
+      "key": "Ludicolo",
+      "order": null,
+      "ancestor": 295,
+      "name": "Ludicolo"
+    }
+  ],
+  "273": [
+    {
+      "ID": 298,
+      "key": "Seedot",
+      "order": null,
+      "ancestor": 298,
+      "name": "Seedot"
+    }
+  ],
+  "274": [
+    {
+      "ID": 299,
+      "key": "Nuzleaf",
+      "order": null,
+      "ancestor": 298,
+      "name": "Nuzleaf"
+    }
+  ],
+  "275": [
+    {
+      "ID": 300,
+      "key": "Shiftry",
+      "order": null,
+      "ancestor": 298,
+      "name": "Shiftry"
+    }
+  ],
+  "276": [
+    {
+      "ID": 304,
+      "key": "Taillow",
+      "order": null,
+      "ancestor": 304,
+      "name": "Taillow"
+    }
+  ],
+  "277": [
+    {
+      "ID": 305,
+      "key": "Swellow",
+      "order": null,
+      "ancestor": 304,
+      "name": "Swellow"
+    }
+  ],
+  "278": [
+    {
+      "ID": 309,
+      "key": "Wingull",
+      "order": null,
+      "ancestor": 309,
+      "name": "Wingull"
+    }
+  ],
+  "279": [
+    {
+      "ID": 310,
+      "key": "Pelipper",
+      "order": null,
+      "ancestor": 309,
+      "name": "Pelipper"
+    }
+  ],
+  "280": [
+    {
+      "ID": 392,
+      "key": "Ralts",
+      "order": null,
+      "ancestor": 392,
+      "name": "Ralts"
+    }
+  ],
+  "281": [
+    {
+      "ID": 393,
+      "key": "Kirlia",
+      "order": null,
+      "ancestor": 392,
+      "name": "Kirlia"
+    }
+  ],
+  "282": [
+    {
+      "ID": 394,
+      "key": "Gardevoir",
+      "order": 0,
+      "ancestor": 392,
+      "name": "Gardevoir"
+    },
+    {
+      "ID": 893,
+      "key": "Gardevoir-Mega",
+      "order": 1,
+      "ancestor": 392,
+      "name": "Gardevoir"
+    }
+  ],
+  "283": [
+    {
+      "ID": 311,
+      "key": "Surskit",
+      "order": null,
+      "ancestor": 311,
+      "name": "Surskit"
+    }
+  ],
+  "284": [
+    {
+      "ID": 312,
+      "key": "Masquerain",
+      "order": null,
+      "ancestor": 311,
+      "name": "Masquerain"
+    }
+  ],
+  "285": [
+    {
+      "ID": 306,
+      "key": "Shroomish",
+      "order": null,
+      "ancestor": 306,
+      "name": "Shroomish"
+    }
+  ],
+  "286": [
+    {
+      "ID": 307,
+      "key": "Breloom",
+      "order": null,
+      "ancestor": 306,
+      "name": "Breloom"
+    }
+  ],
+  "287": [
+    {
+      "ID": 364,
+      "key": "Slakoth",
+      "order": null,
+      "ancestor": 364,
+      "name": "Slakoth"
+    }
+  ],
+  "288": [
+    {
+      "ID": 365,
+      "key": "Vigoroth",
+      "order": null,
+      "ancestor": 364,
+      "name": "Vigoroth"
+    }
+  ],
+  "289": [
+    {
+      "ID": 366,
+      "key": "Slaking",
+      "order": null,
+      "ancestor": 364,
+      "name": "Slaking"
+    }
+  ],
+  "290": [
+    {
+      "ID": 301,
+      "key": "Nincada",
+      "order": null,
+      "ancestor": 301,
+      "name": "Nincada"
+    }
+  ],
+  "291": [
+    {
+      "ID": 302,
+      "key": "Ninjask",
+      "order": null,
+      "ancestor": 301,
+      "name": "Ninjask"
+    }
+  ],
+  "292": [
+    {
+      "ID": 303,
+      "key": "Shedinja",
+      "order": null,
+      "ancestor": 301,
+      "name": "Shedinja"
+    }
+  ],
+  "293": [
+    {
+      "ID": 370,
+      "key": "Whismur",
+      "order": null,
+      "ancestor": 370,
+      "name": "Whismur"
+    }
+  ],
+  "294": [
+    {
+      "ID": 371,
+      "key": "Loudred",
+      "order": null,
+      "ancestor": 370,
+      "name": "Loudred"
+    }
+  ],
+  "295": [
+    {
+      "ID": 372,
+      "key": "Exploud",
+      "order": null,
+      "ancestor": 370,
+      "name": "Exploud"
+    }
+  ],
+  "296": [
+    {
+      "ID": 335,
+      "key": "Makuhita",
+      "order": null,
+      "ancestor": 335,
+      "name": "Makuhita"
+    }
+  ],
+  "297": [
+    {
+      "ID": 336,
+      "key": "Hariyama",
+      "order": null,
+      "ancestor": 335,
+      "name": "Hariyama"
+    }
+  ],
+  "298": [
+    {
+      "ID": 350,
+      "key": "Azurill",
+      "order": null,
+      "ancestor": 350,
+      "name": "Azurill"
+    }
+  ],
+  "299": [
+    {
+      "ID": 320,
+      "key": "Nosepass",
+      "order": null,
+      "ancestor": 320,
+      "name": "Nosepass"
+    }
+  ],
+  "300": [
+    {
+      "ID": 315,
+      "key": "Skitty",
+      "order": null,
+      "ancestor": 315,
+      "name": "Skitty"
+    }
+  ],
+  "301": [
+    {
+      "ID": 316,
+      "key": "Delcatty",
+      "order": null,
+      "ancestor": 315,
+      "name": "Delcatty"
+    }
+  ],
+  "302": [
+    {
+      "ID": 322,
+      "key": "Sableye",
+      "order": 0,
+      "ancestor": 322,
+      "name": "Sableye"
+    },
+    {
+      "ID": 894,
+      "key": "Sableye-Mega",
+      "order": 1,
+      "ancestor": 322,
+      "name": "Sableye"
+    }
+  ],
+  "303": [
+    {
+      "ID": 355,
+      "key": "Mawile",
+      "order": 0,
+      "ancestor": 355,
+      "name": "Mawile"
+    },
+    {
+      "ID": 895,
+      "key": "Mawile-Mega",
+      "order": 1,
+      "ancestor": 355,
+      "name": "Mawile"
+    }
+  ],
+  "304": [
+    {
+      "ID": 382,
+      "key": "Aron",
+      "order": null,
+      "ancestor": 382,
+      "name": "Aron"
+    }
+  ],
+  "305": [
+    {
+      "ID": 383,
+      "key": "Lairon",
+      "order": null,
+      "ancestor": 382,
+      "name": "Lairon"
+    }
+  ],
+  "306": [
+    {
+      "ID": 384,
+      "key": "Aggron",
+      "order": 0,
+      "ancestor": 382,
+      "name": "Aggron"
+    },
+    {
+      "ID": 896,
+      "key": "Aggron-Mega",
+      "order": 1,
+      "ancestor": 382,
+      "name": "Aggron"
+    }
+  ],
+  "307": [
+    {
+      "ID": 356,
+      "key": "Meditite",
+      "order": null,
+      "ancestor": 356,
+      "name": "Meditite"
+    }
+  ],
+  "308": [
+    {
+      "ID": 357,
+      "key": "Medicham",
+      "order": 0,
+      "ancestor": 356,
+      "name": "Medicham"
+    },
+    {
+      "ID": 897,
+      "key": "Medicham-Mega",
+      "order": 1,
+      "ancestor": 356,
+      "name": "Medicham"
+    }
+  ],
+  "309": [
+    {
+      "ID": 337,
+      "key": "Electrike",
+      "order": null,
+      "ancestor": 337,
+      "name": "Electrike"
+    }
+  ],
+  "310": [
+    {
+      "ID": 338,
+      "key": "Manectric",
+      "order": 0,
+      "ancestor": 337,
+      "name": "Manectric"
+    },
+    {
+      "ID": 898,
+      "key": "Manectric-Mega",
+      "order": 1,
+      "ancestor": 337,
+      "name": "Manectric"
+    }
+  ],
+  "311": [
+    {
+      "ID": 353,
+      "key": "Plusle",
+      "order": null,
+      "ancestor": 353,
+      "name": "Plusle"
+    }
+  ],
+  "312": [
+    {
+      "ID": 354,
+      "key": "Minun",
+      "order": null,
+      "ancestor": 354,
+      "name": "Minun"
+    }
+  ],
+  "313": [
+    {
+      "ID": 386,
+      "key": "Volbeat",
+      "order": null,
+      "ancestor": 386,
+      "name": "Volbeat"
+    }
+  ],
+  "314": [
+    {
+      "ID": 387,
+      "key": "Illumise",
+      "order": null,
+      "ancestor": 387,
+      "name": "Illumise"
+    }
+  ],
+  "315": [
+    {
+      "ID": 363,
+      "key": "Roselia",
+      "order": null,
+      "ancestor": 459,
+      "name": "Roselia"
+    }
+  ],
+  "316": [
+    {
+      "ID": 367,
+      "key": "Gulpin",
+      "order": null,
+      "ancestor": 367,
+      "name": "Gulpin"
+    }
+  ],
+  "317": [
+    {
+      "ID": 368,
+      "key": "Swalot",
+      "order": null,
+      "ancestor": 367,
+      "name": "Swalot"
+    }
+  ],
+  "318": [
+    {
+      "ID": 330,
+      "key": "Carvanha",
+      "order": null,
+      "ancestor": 330,
+      "name": "Carvanha"
+    }
+  ],
+  "319": [
+    {
+      "ID": 331,
+      "key": "Sharpedo",
+      "order": 0,
+      "ancestor": 330,
+      "name": "Sharpedo"
+    },
+    {
+      "ID": 899,
+      "key": "Sharpedo-Mega",
+      "order": 1,
+      "ancestor": 330,
+      "name": "Sharpedo"
+    }
+  ],
+  "320": [
+    {
+      "ID": 313,
+      "key": "Wailmer",
+      "order": null,
+      "ancestor": 313,
+      "name": "Wailmer"
+    }
+  ],
+  "321": [
+    {
+      "ID": 314,
+      "key": "Wailord",
+      "order": null,
+      "ancestor": 313,
+      "name": "Wailord"
+    }
+  ],
+  "322": [
+    {
+      "ID": 339,
+      "key": "Numel",
+      "order": null,
+      "ancestor": 339,
+      "name": "Numel"
+    }
+  ],
+  "323": [
+    {
+      "ID": 340,
+      "key": "Camerupt",
+      "order": 0,
+      "ancestor": 339,
+      "name": "Camerupt"
+    },
+    {
+      "ID": 900,
+      "key": "Camerupt-Mega",
+      "order": 1,
+      "ancestor": 339,
+      "name": "Camerupt"
+    }
+  ],
+  "324": [
+    {
+      "ID": 321,
+      "key": "Torkoal",
+      "order": null,
+      "ancestor": 321,
+      "name": "Torkoal"
+    }
+  ],
+  "325": [
+    {
+      "ID": 351,
+      "key": "Spoink",
+      "order": null,
+      "ancestor": 351,
+      "name": "Spoink"
+    }
+  ],
+  "326": [
+    {
+      "ID": 352,
+      "key": "Grumpig",
+      "order": null,
+      "ancestor": 351,
+      "name": "Grumpig"
+    }
+  ],
+  "327": [
+    {
+      "ID": 308,
+      "key": "Spinda",
+      "order": null,
+      "ancestor": 308,
+      "name": "Spinda"
+    }
+  ],
+  "328": [
+    {
+      "ID": 332,
+      "key": "Trapinch",
+      "order": null,
+      "ancestor": 332,
+      "name": "Trapinch"
+    }
+  ],
+  "329": [
+    {
+      "ID": 333,
+      "key": "Vibrava",
+      "order": null,
+      "ancestor": 332,
+      "name": "Vibrava"
+    }
+  ],
+  "330": [
+    {
+      "ID": 334,
+      "key": "Flygon",
+      "order": null,
+      "ancestor": 332,
+      "name": "Flygon"
+    }
+  ],
+  "331": [
+    {
+      "ID": 344,
+      "key": "Cacnea",
+      "order": null,
+      "ancestor": 344,
+      "name": "Cacnea"
+    }
+  ],
+  "332": [
+    {
+      "ID": 345,
+      "key": "Cacturne",
+      "order": null,
+      "ancestor": 344,
+      "name": "Cacturne"
+    }
+  ],
+  "333": [
+    {
+      "ID": 358,
+      "key": "Swablu",
+      "order": null,
+      "ancestor": 358,
+      "name": "Swablu"
+    }
+  ],
+  "334": [
+    {
+      "ID": 359,
+      "key": "Altaria",
+      "order": 0,
+      "ancestor": 358,
+      "name": "Altaria"
+    },
+    {
+      "ID": 901,
+      "key": "Altaria-Mega",
+      "order": 1,
+      "ancestor": 358,
+      "name": "Altaria"
+    }
+  ],
+  "335": [
+    {
+      "ID": 380,
+      "key": "Zangoose",
+      "order": null,
+      "ancestor": 380,
+      "name": "Zangoose"
+    }
+  ],
+  "336": [
+    {
+      "ID": 379,
+      "key": "Seviper",
+      "order": null,
+      "ancestor": 379,
+      "name": "Seviper"
+    }
+  ],
+  "337": [
+    {
+      "ID": 348,
+      "key": "Lunatone",
+      "order": null,
+      "ancestor": 348,
+      "name": "Lunatone"
+    }
+  ],
+  "338": [
+    {
+      "ID": 349,
+      "key": "Solrock",
+      "order": null,
+      "ancestor": 349,
+      "name": "Solrock"
+    }
+  ],
+  "339": [
+    {
+      "ID": 323,
+      "key": "Barboach",
+      "order": null,
+      "ancestor": 323,
+      "name": "Barboach"
+    }
+  ],
+  "340": [
+    {
+      "ID": 324,
+      "key": "Whiscash",
+      "order": null,
+      "ancestor": 323,
+      "name": "Whiscash"
+    }
+  ],
+  "341": [
+    {
+      "ID": 326,
+      "key": "Corphish",
+      "order": null,
+      "ancestor": 326,
+      "name": "Corphish"
+    }
+  ],
+  "342": [
+    {
+      "ID": 327,
+      "key": "Crawdaunt",
+      "order": null,
+      "ancestor": 326,
+      "name": "Crawdaunt"
+    }
+  ],
+  "343": [
+    {
+      "ID": 318,
+      "key": "Baltoy",
+      "order": null,
+      "ancestor": 318,
+      "name": "Baltoy"
+    }
+  ],
+  "344": [
+    {
+      "ID": 319,
+      "key": "Claydol",
+      "order": null,
+      "ancestor": 318,
+      "name": "Claydol"
+    }
+  ],
+  "345": [
+    {
+      "ID": 388,
+      "key": "Lileep",
+      "order": null,
+      "ancestor": 388,
+      "name": "Lileep"
+    }
+  ],
+  "346": [
+    {
+      "ID": 389,
+      "key": "Cradily",
+      "order": null,
+      "ancestor": 388,
+      "name": "Cradily"
+    }
+  ],
+  "347": [
+    {
+      "ID": 390,
+      "key": "Anorith",
+      "order": null,
+      "ancestor": 390,
+      "name": "Anorith"
+    }
+  ],
+  "348": [
+    {
+      "ID": 391,
+      "key": "Armaldo",
+      "order": null,
+      "ancestor": 390,
+      "name": "Armaldo"
+    }
+  ],
+  "349": [
+    {
+      "ID": 328,
+      "key": "Feebas",
+      "order": 0,
+      "ancestor": 328,
+      "name": "Feebas"
+    },
+    {
+      "ID": 1285,
+      "key": "Feebas-Sevii",
+      "order": 1,
+      "ancestor": 1285,
+      "name": "Feebas"
+    }
+  ],
+  "350": [
+    {
+      "ID": 329,
+      "key": "Milotic",
+      "order": 0,
+      "ancestor": 328,
+      "name": "Milotic"
+    },
+    {
+      "ID": 1286,
+      "key": "Milotic-Sevii",
+      "order": 1,
+      "ancestor": 1285,
+      "name": "Milotic"
+    }
+  ],
+  "351": [
+    {
+      "ID": 385,
+      "key": "Castform",
+      "order": null,
+      "ancestor": 385,
+      "name": "Castform"
+    }
+  ],
+  "352": [
+    {
+      "ID": 317,
+      "key": "Kecleon",
+      "order": null,
+      "ancestor": 317,
+      "name": "Kecleon"
+    }
+  ],
+  "353": [
+    {
+      "ID": 377,
+      "key": "Shuppet",
+      "order": null,
+      "ancestor": 377,
+      "name": "Shuppet"
+    }
+  ],
+  "354": [
+    {
+      "ID": 378,
+      "key": "Banette",
+      "order": 0,
+      "ancestor": 377,
+      "name": "Banette"
+    },
+    {
+      "ID": 902,
+      "key": "Banette-Mega",
+      "order": 1,
+      "ancestor": 377,
+      "name": "Banette"
+    }
+  ],
+  "355": [
+    {
+      "ID": 361,
+      "key": "Duskull",
+      "order": null,
+      "ancestor": 361,
+      "name": "Duskull"
+    }
+  ],
+  "356": [
+    {
+      "ID": 362,
+      "key": "Dusclops",
+      "order": null,
+      "ancestor": 361,
+      "name": "Dusclops"
+    }
+  ],
+  "357": [
+    {
+      "ID": 369,
+      "key": "Tropius",
+      "order": null,
+      "ancestor": 369,
+      "name": "Tropius"
+    }
+  ],
+  "358": [
+    {
+      "ID": 411,
+      "key": "Chimecho",
+      "order": null,
+      "ancestor": 486,
+      "name": "Chimecho"
+    }
+  ],
+  "359": [
+    {
+      "ID": 376,
+      "key": "Absol",
+      "order": 0,
+      "ancestor": 376,
+      "name": "Absol"
+    },
+    {
+      "ID": 903,
+      "key": "Absol-Mega",
+      "order": 1,
+      "ancestor": 376,
+      "name": "Absol"
+    }
+  ],
+  "360": [
+    {
+      "ID": 360,
+      "key": "Wynaut",
+      "order": null,
+      "ancestor": 360,
+      "name": "Wynaut"
+    }
+  ],
+  "361": [
+    {
+      "ID": 346,
+      "key": "Snorunt",
+      "order": null,
+      "ancestor": 346,
+      "name": "Snorunt"
+    }
+  ],
+  "362": [
+    {
+      "ID": 347,
+      "key": "Glalie",
+      "order": 0,
+      "ancestor": 346,
+      "name": "Glalie"
+    },
+    {
+      "ID": 904,
+      "key": "Glalie-Mega",
+      "order": 1,
+      "ancestor": 346,
+      "name": "Glalie"
+    }
+  ],
+  "363": [
+    {
+      "ID": 341,
+      "key": "Spheal",
+      "order": null,
+      "ancestor": 341,
+      "name": "Spheal"
+    }
+  ],
+  "364": [
+    {
+      "ID": 342,
+      "key": "Sealeo",
+      "order": null,
+      "ancestor": 341,
+      "name": "Sealeo"
+    }
+  ],
+  "365": [
+    {
+      "ID": 343,
+      "key": "Walrein",
+      "order": null,
+      "ancestor": 341,
+      "name": "Walrein"
+    }
+  ],
+  "366": [
+    {
+      "ID": 373,
+      "key": "Clamperl",
+      "order": null,
+      "ancestor": 373,
+      "name": "Clamperl"
+    }
+  ],
+  "367": [
+    {
+      "ID": 374,
+      "key": "Huntail",
+      "order": null,
+      "ancestor": 373,
+      "name": "Huntail"
+    }
+  ],
+  "368": [
+    {
+      "ID": 375,
+      "key": "Gorebyss",
+      "order": null,
+      "ancestor": 373,
+      "name": "Gorebyss"
+    }
+  ],
+  "369": [
+    {
+      "ID": 381,
+      "key": "Relicanth",
+      "order": null,
+      "ancestor": 381,
+      "name": "Relicanth"
+    }
+  ],
+  "370": [
+    {
+      "ID": 325,
+      "key": "Luvdisc",
+      "order": null,
+      "ancestor": 325,
+      "name": "Luvdisc"
+    }
+  ],
+  "371": [
+    {
+      "ID": 395,
+      "key": "Bagon",
+      "order": null,
+      "ancestor": 395,
+      "name": "Bagon"
+    }
+  ],
+  "372": [
+    {
+      "ID": 396,
+      "key": "Shelgon",
+      "order": null,
+      "ancestor": 395,
+      "name": "Shelgon"
+    }
+  ],
+  "373": [
+    {
+      "ID": 397,
+      "key": "Salamence",
+      "order": 0,
+      "ancestor": 395,
+      "name": "Salamence"
+    },
+    {
+      "ID": 905,
+      "key": "Salamence-Mega",
+      "order": 1,
+      "ancestor": 395,
+      "name": "Salamence"
+    }
+  ],
+  "374": [
+    {
+      "ID": 398,
+      "key": "Beldum",
+      "order": null,
+      "ancestor": 398,
+      "name": "Beldum"
+    }
+  ],
+  "375": [
+    {
+      "ID": 399,
+      "key": "Metang",
+      "order": null,
+      "ancestor": 398,
+      "name": "Metang"
+    }
+  ],
+  "376": [
+    {
+      "ID": 400,
+      "key": "Metagross",
+      "order": 0,
+      "ancestor": 398,
+      "name": "Metagross"
+    },
+    {
+      "ID": 906,
+      "key": "Metagross-Mega",
+      "order": 1,
+      "ancestor": 398,
+      "name": "Metagross"
+    }
+  ],
+  "377": [
+    {
+      "ID": 401,
+      "key": "Regirock",
+      "order": null,
+      "ancestor": 401,
+      "name": "Regirock"
+    }
+  ],
+  "378": [
+    {
+      "ID": 402,
+      "key": "Regice",
+      "order": null,
+      "ancestor": 402,
+      "name": "Regice"
+    }
+  ],
+  "379": [
+    {
+      "ID": 403,
+      "key": "Registeel",
+      "order": null,
+      "ancestor": 403,
+      "name": "Registeel"
+    }
+  ],
+  "380": [
+    {
+      "ID": 407,
+      "key": "Latias",
+      "order": 0,
+      "ancestor": 407,
+      "name": "Latias"
+    },
+    {
+      "ID": 907,
+      "key": "Latias-Mega",
+      "order": 1,
+      "ancestor": 407,
+      "name": "Latias"
+    }
+  ],
+  "381": [
+    {
+      "ID": 408,
+      "key": "Latios",
+      "order": 0,
+      "ancestor": 408,
+      "name": "Latios"
+    },
+    {
+      "ID": 908,
+      "key": "Latios-Mega",
+      "order": 1,
+      "ancestor": 408,
+      "name": "Latios"
+    }
+  ],
+  "382": [
+    {
+      "ID": 404,
+      "key": "Kyogre",
+      "order": 0,
+      "ancestor": 404,
+      "name": "Kyogre"
+    },
+    {
+      "ID": 910,
+      "key": "Kyogre-Primal",
+      "order": 1,
+      "ancestor": 404,
+      "name": "Kyogre"
+    }
+  ],
+  "383": [
+    {
+      "ID": 405,
+      "key": "Groudon",
+      "order": 0,
+      "ancestor": 405,
+      "name": "Groudon"
+    },
+    {
+      "ID": 909,
+      "key": "Groudon-Primal",
+      "order": 1,
+      "ancestor": 405,
+      "name": "Groudon"
+    }
+  ],
+  "384": [
+    {
+      "ID": 406,
+      "key": "Rayquaza",
+      "order": 0,
+      "ancestor": 406,
+      "name": "Rayquaza"
+    },
+    {
+      "ID": 911,
+      "key": "Rayquaza-Mega",
+      "order": 1,
+      "ancestor": 406,
+      "name": "Rayquaza"
+    }
+  ],
+  "385": [
+    {
+      "ID": 409,
+      "key": "Jirachi",
+      "order": null,
+      "ancestor": 409,
+      "name": "Jirachi"
+    }
+  ],
+  "386": [
+    {
+      "ID": 410,
+      "key": "Deoxys",
+      "order": 0,
+      "ancestor": 410,
+      "name": "Deoxys"
+    },
+    {
+      "ID": 1040,
+      "key": "Deoxys-Attack",
+      "order": 1,
+      "ancestor": 1040,
+      "name": "Deoxys"
+    },
+    {
+      "ID": 1041,
+      "key": "Deoxys-Defense",
+      "order": 2,
+      "ancestor": 1041,
+      "name": "Deoxys"
+    },
+    {
+      "ID": 1042,
+      "key": "Deoxys-Speed",
+      "order": 3,
+      "ancestor": 1042,
+      "name": "Deoxys"
+    }
+  ],
+  "387": [
+    {
+      "ID": 440,
+      "key": "Turtwig",
+      "order": null,
+      "ancestor": 440,
+      "name": "Turtwig"
+    }
+  ],
+  "388": [
+    {
+      "ID": 441,
+      "key": "Grotle",
+      "order": null,
+      "ancestor": 440,
+      "name": "Grotle"
+    }
+  ],
+  "389": [
+    {
+      "ID": 442,
+      "key": "Torterra",
+      "order": null,
+      "ancestor": 440,
+      "name": "Torterra"
+    }
+  ],
+  "390": [
+    {
+      "ID": 443,
+      "key": "Chimchar",
+      "order": null,
+      "ancestor": 443,
+      "name": "Chimchar"
+    }
+  ],
+  "391": [
+    {
+      "ID": 444,
+      "key": "Monferno",
+      "order": null,
+      "ancestor": 443,
+      "name": "Monferno"
+    }
+  ],
+  "392": [
+    {
+      "ID": 445,
+      "key": "Infernape",
+      "order": null,
+      "ancestor": 443,
+      "name": "Infernape"
+    }
+  ],
+  "393": [
+    {
+      "ID": 446,
+      "key": "Piplup",
+      "order": null,
+      "ancestor": 446,
+      "name": "Piplup"
+    }
+  ],
+  "394": [
+    {
+      "ID": 447,
+      "key": "Prinplup",
+      "order": null,
+      "ancestor": 446,
+      "name": "Prinplup"
+    }
+  ],
+  "395": [
+    {
+      "ID": 448,
+      "key": "Empoleon",
+      "order": null,
+      "ancestor": 446,
+      "name": "Empoleon"
+    }
+  ],
+  "396": [
+    {
+      "ID": 449,
+      "key": "Starly",
+      "order": null,
+      "ancestor": 449,
+      "name": "Starly"
+    }
+  ],
+  "397": [
+    {
+      "ID": 450,
+      "key": "Staravia",
+      "order": null,
+      "ancestor": 449,
+      "name": "Staravia"
+    }
+  ],
+  "398": [
+    {
+      "ID": 451,
+      "key": "Staraptor",
+      "order": null,
+      "ancestor": 449,
+      "name": "Staraptor"
+    }
+  ],
+  "399": [
+    {
+      "ID": 452,
+      "key": "Bidoof",
+      "order": null,
+      "ancestor": 452,
+      "name": "Bidoof"
+    }
+  ],
+  "400": [
+    {
+      "ID": 453,
+      "key": "Bibarel",
+      "order": null,
+      "ancestor": 452,
+      "name": "Bibarel"
+    }
+  ],
+  "401": [
+    {
+      "ID": 454,
+      "key": "Kricketot",
+      "order": null,
+      "ancestor": 454,
+      "name": "Kricketot"
+    }
+  ],
+  "402": [
+    {
+      "ID": 455,
+      "key": "Kricketune",
+      "order": null,
+      "ancestor": 454,
+      "name": "Kricketune"
+    }
+  ],
+  "403": [
+    {
+      "ID": 456,
+      "key": "Shinx",
+      "order": null,
+      "ancestor": 456,
+      "name": "Shinx"
+    }
+  ],
+  "404": [
+    {
+      "ID": 457,
+      "key": "Luxio",
+      "order": null,
+      "ancestor": 456,
+      "name": "Luxio"
+    }
+  ],
+  "405": [
+    {
+      "ID": 458,
+      "key": "Luxray",
+      "order": null,
+      "ancestor": 456,
+      "name": "Luxray"
+    }
+  ],
+  "406": [
+    {
+      "ID": 459,
+      "key": "Budew",
+      "order": null,
+      "ancestor": 459,
+      "name": "Budew"
+    }
+  ],
+  "407": [
+    {
+      "ID": 460,
+      "key": "Roserade",
+      "order": null,
+      "ancestor": 459,
+      "name": "Roserade"
+    }
+  ],
+  "408": [
+    {
+      "ID": 461,
+      "key": "Cranidos",
+      "order": null,
+      "ancestor": 461,
+      "name": "Cranidos"
+    }
+  ],
+  "409": [
+    {
+      "ID": 462,
+      "key": "Rampardos",
+      "order": null,
+      "ancestor": 461,
+      "name": "Rampardos"
+    }
+  ],
+  "410": [
+    {
+      "ID": 463,
+      "key": "Shieldon",
+      "order": null,
+      "ancestor": 463,
+      "name": "Shieldon"
+    }
+  ],
+  "411": [
+    {
+      "ID": 464,
+      "key": "Bastiodon",
+      "order": null,
+      "ancestor": 463,
+      "name": "Bastiodon"
+    }
+  ],
+  "412": [
+    {
+      "ID": 465,
+      "key": "Burmy",
+      "order": 0,
+      "ancestor": 465,
+      "name": "Burmy"
+    },
+    {
+      "ID": 707,
+      "key": "Burmy",
+      "order": 1,
+      "ancestor": 707,
+      "name": "Burmy"
+    },
+    {
+      "ID": 708,
+      "key": "Burmy",
+      "order": 2,
+      "ancestor": 708,
+      "name": "Burmy"
+    }
+  ],
+  "413": [
+    {
+      "ID": 466,
+      "key": "Wormadam",
+      "order": 0,
+      "ancestor": 465,
+      "name": "Wormadam"
+    },
+    {
+      "ID": 709,
+      "key": "Wormadam-Sandy",
+      "order": 1,
+      "ancestor": 707,
+      "name": "Wormadam"
+    },
+    {
+      "ID": 710,
+      "key": "Wormadam-Trash",
+      "order": 2,
+      "ancestor": 708,
+      "name": "Wormadam"
+    }
+  ],
+  "414": [
+    {
+      "ID": 467,
+      "key": "Mothim",
+      "order": null,
+      "ancestor": 708,
+      "name": "Mothim"
+    }
+  ],
+  "415": [
+    {
+      "ID": 468,
+      "key": "Combee",
+      "order": null,
+      "ancestor": 468,
+      "name": "Combee"
+    }
+  ],
+  "416": [
+    {
+      "ID": 469,
+      "key": "Vespiquen",
+      "order": null,
+      "ancestor": 468,
+      "name": "Vespiquen"
+    }
+  ],
+  "417": [
+    {
+      "ID": 470,
+      "key": "Pachirisu",
+      "order": null,
+      "ancestor": 470,
+      "name": "Pachirisu"
+    }
+  ],
+  "418": [
+    {
+      "ID": 471,
+      "key": "Buizel",
+      "order": null,
+      "ancestor": 471,
+      "name": "Buizel"
+    }
+  ],
+  "419": [
+    {
+      "ID": 472,
+      "key": "Floatzel",
+      "order": null,
+      "ancestor": 471,
+      "name": "Floatzel"
+    }
+  ],
+  "420": [
+    {
+      "ID": 473,
+      "key": "Cherubi",
+      "order": null,
+      "ancestor": 473,
+      "name": "Cherubi"
+    }
+  ],
+  "421": [
+    {
+      "ID": 474,
+      "key": "Cherrim",
+      "order": 0,
+      "ancestor": 473,
+      "name": "Cherrim"
+    },
+    {
+      "ID": 751,
+      "key": "Cherrim-Sunshine",
+      "order": 1,
+      "ancestor": 751,
+      "name": "Cherrim"
+    }
+  ],
+  "422": [
+    {
+      "ID": 475,
+      "key": "Shellos",
+      "order": 0,
+      "ancestor": 475,
+      "name": "Shellos"
+    },
+    {
+      "ID": 711,
+      "key": "Shellos",
+      "order": 1,
+      "ancestor": 711,
+      "name": "Shellos"
+    }
+  ],
+  "423": [
+    {
+      "ID": 476,
+      "key": "Gastrodon",
+      "order": 0,
+      "ancestor": 475,
+      "name": "Gastrodon"
+    },
+    {
+      "ID": 712,
+      "key": "Gastrodon",
+      "order": 1,
+      "ancestor": 711,
+      "name": "Gastrodon"
+    }
+  ],
+  "424": [
+    {
+      "ID": 477,
+      "key": "Ambipom",
+      "order": null,
+      "ancestor": 190,
+      "name": "Ambipom"
+    }
+  ],
+  "425": [
+    {
+      "ID": 478,
+      "key": "Drifloon",
+      "order": null,
+      "ancestor": 478,
+      "name": "Drifloon"
+    }
+  ],
+  "426": [
+    {
+      "ID": 479,
+      "key": "Drifblim",
+      "order": null,
+      "ancestor": 478,
+      "name": "Drifblim"
+    }
+  ],
+  "427": [
+    {
+      "ID": 480,
+      "key": "Buneary",
+      "order": null,
+      "ancestor": 480,
+      "name": "Buneary"
+    }
+  ],
+  "428": [
+    {
+      "ID": 481,
+      "key": "Lopunny",
+      "order": 0,
+      "ancestor": 480,
+      "name": "Lopunny"
+    },
+    {
+      "ID": 912,
+      "key": "Lopunny-Mega",
+      "order": 1,
+      "ancestor": 480,
+      "name": "Lopunny"
+    }
+  ],
+  "429": [
+    {
+      "ID": 482,
+      "key": "Mismagius",
+      "order": null,
+      "ancestor": 200,
+      "name": "Mismagius"
+    }
+  ],
+  "430": [
+    {
+      "ID": 483,
+      "key": "Honchkrow",
+      "order": null,
+      "ancestor": 198,
+      "name": "Honchkrow"
+    }
+  ],
+  "431": [
+    {
+      "ID": 484,
+      "key": "Glameow",
+      "order": null,
+      "ancestor": 484,
+      "name": "Glameow"
+    }
+  ],
+  "432": [
+    {
+      "ID": 485,
+      "key": "Purugly",
+      "order": null,
+      "ancestor": 484,
+      "name": "Purugly"
+    }
+  ],
+  "433": [
+    {
+      "ID": 486,
+      "key": "Chingling",
+      "order": null,
+      "ancestor": 486,
+      "name": "Chingling"
+    }
+  ],
+  "434": [
+    {
+      "ID": 487,
+      "key": "Stunky",
+      "order": null,
+      "ancestor": 487,
+      "name": "Stunky"
+    }
+  ],
+  "435": [
+    {
+      "ID": 488,
+      "key": "Skuntank",
+      "order": null,
+      "ancestor": 487,
+      "name": "Skuntank"
+    }
+  ],
+  "436": [
+    {
+      "ID": 489,
+      "key": "Bronzor",
+      "order": null,
+      "ancestor": 489,
+      "name": "Bronzor"
+    }
+  ],
+  "437": [
+    {
+      "ID": 490,
+      "key": "Bronzong",
+      "order": null,
+      "ancestor": 489,
+      "name": "Bronzong"
+    }
+  ],
+  "438": [
+    {
+      "ID": 491,
+      "key": "Bonsly",
+      "order": null,
+      "ancestor": 491,
+      "name": "Bonsly"
+    }
+  ],
+  "439": [
+    {
+      "ID": 492,
+      "key": "Mime Jr.",
+      "order": null,
+      "ancestor": 492,
+      "name": "Mime Jr."
+    }
+  ],
+  "440": [
+    {
+      "ID": 493,
+      "key": "Happiny",
+      "order": null,
+      "ancestor": 493,
+      "name": "Happiny"
+    }
+  ],
+  "441": [
+    {
+      "ID": 494,
+      "key": "Chatot",
+      "order": null,
+      "ancestor": 494,
+      "name": "Chatot"
+    }
+  ],
+  "442": [
+    {
+      "ID": 495,
+      "key": "Spiritomb",
+      "order": null,
+      "ancestor": 495,
+      "name": "Spiritomb"
+    }
+  ],
+  "443": [
+    {
+      "ID": 496,
+      "key": "Gible",
+      "order": null,
+      "ancestor": 496,
+      "name": "Gible"
+    }
+  ],
+  "444": [
+    {
+      "ID": 497,
+      "key": "Gabite",
+      "order": null,
+      "ancestor": 496,
+      "name": "Gabite"
+    }
+  ],
+  "445": [
+    {
+      "ID": 498,
+      "key": "Garchomp",
+      "order": 0,
+      "ancestor": 496,
+      "name": "Garchomp"
+    },
+    {
+      "ID": 913,
+      "key": "Garchomp-Mega",
+      "order": 1,
+      "ancestor": 496,
+      "name": "Garchomp"
+    }
+  ],
+  "446": [
+    {
+      "ID": 499,
+      "key": "Munchlax",
+      "order": null,
+      "ancestor": 499,
+      "name": "Munchlax"
+    }
+  ],
+  "447": [
+    {
+      "ID": 500,
+      "key": "Riolu",
+      "order": null,
+      "ancestor": 500,
+      "name": "Riolu"
+    }
+  ],
+  "448": [
+    {
+      "ID": 501,
+      "key": "Lucario",
+      "order": 0,
+      "ancestor": 500,
+      "name": "Lucario"
+    },
+    {
+      "ID": 914,
+      "key": "Lucario-Mega",
+      "order": 1,
+      "ancestor": 500,
+      "name": "Lucario"
+    }
+  ],
+  "449": [
+    {
+      "ID": 502,
+      "key": "Hippopotas",
+      "order": 0,
+      "ancestor": 502,
+      "name": "Hippopotas"
+    },
+    {
+      "ID": 744,
+      "key": "Hippopotas",
+      "order": 1,
+      "ancestor": 744,
+      "name": "Hippopotas"
+    }
+  ],
+  "450": [
+    {
+      "ID": 503,
+      "key": "Hippowdon",
+      "order": 0,
+      "ancestor": 502,
+      "name": "Hippowdon"
+    },
+    {
+      "ID": 745,
+      "key": "Hippowdon",
+      "order": 1,
+      "ancestor": 744,
+      "name": "Hippowdon"
+    }
+  ],
+  "451": [
+    {
+      "ID": 504,
+      "key": "Skorupi",
+      "order": null,
+      "ancestor": 504,
+      "name": "Skorupi"
+    }
+  ],
+  "452": [
+    {
+      "ID": 505,
+      "key": "Drapion",
+      "order": null,
+      "ancestor": 504,
+      "name": "Drapion"
+    }
+  ],
+  "453": [
+    {
+      "ID": 506,
+      "key": "Croagunk",
+      "order": null,
+      "ancestor": 506,
+      "name": "Croagunk"
+    }
+  ],
+  "454": [
+    {
+      "ID": 507,
+      "key": "Toxicroak",
+      "order": null,
+      "ancestor": 506,
+      "name": "Toxicroak"
+    }
+  ],
+  "455": [
+    {
+      "ID": 508,
+      "key": "Carnivine",
+      "order": 0,
+      "ancestor": 508,
+      "name": "Carnivine"
+    },
+    {
+      "ID": 1282,
+      "key": "Carnivine-Sevii",
+      "order": 1,
+      "ancestor": 1282,
+      "name": "Carnivine"
+    }
+  ],
+  "456": [
+    {
+      "ID": 509,
+      "key": "Finneon",
+      "order": null,
+      "ancestor": 509,
+      "name": "Finneon"
+    }
+  ],
+  "457": [
+    {
+      "ID": 510,
+      "key": "Lumineon",
+      "order": null,
+      "ancestor": 509,
+      "name": "Lumineon"
+    }
+  ],
+  "458": [
+    {
+      "ID": 511,
+      "key": "Mantyke",
+      "order": 0,
+      "ancestor": 511,
+      "name": "Mantyke"
+    },
+    {
+      "ID": 1283,
+      "key": "Mantyke-Sevii",
+      "order": 1,
+      "ancestor": 1283,
+      "name": "Mantyke"
+    }
+  ],
+  "459": [
+    {
+      "ID": 512,
+      "key": "Snover",
+      "order": null,
+      "ancestor": 512,
+      "name": "Snover"
+    }
+  ],
+  "460": [
+    {
+      "ID": 513,
+      "key": "Abomasnow",
+      "order": 0,
+      "ancestor": 512,
+      "name": "Abomasnow"
+    },
+    {
+      "ID": 915,
+      "key": "Abomasnow-Mega",
+      "order": 1,
+      "ancestor": 512,
+      "name": "Abomasnow"
+    }
+  ],
+  "461": [
+    {
+      "ID": 514,
+      "key": "Weavile",
+      "order": null,
+      "ancestor": 215,
+      "name": "Weavile"
+    }
+  ],
+  "462": [
+    {
+      "ID": 515,
+      "key": "Magnezone",
+      "order": null,
+      "ancestor": 81,
+      "name": "Magnezone"
+    }
+  ],
+  "463": [
+    {
+      "ID": 516,
+      "key": "Lickilicky",
+      "order": null,
+      "ancestor": 108,
+      "name": "Lickilicky"
+    }
+  ],
+  "464": [
+    {
+      "ID": 517,
+      "key": "Rhyperior",
+      "order": null,
+      "ancestor": 111,
+      "name": "Rhyperior"
+    }
+  ],
+  "465": [
+    {
+      "ID": 518,
+      "key": "Tangrowth",
+      "order": null,
+      "ancestor": 114,
+      "name": "Tangrowth"
+    }
+  ],
+  "466": [
+    {
+      "ID": 519,
+      "key": "Electivire",
+      "order": null,
+      "ancestor": 239,
+      "name": "Electivire"
+    }
+  ],
+  "467": [
+    {
+      "ID": 520,
+      "key": "Magmortar",
+      "order": null,
+      "ancestor": 240,
+      "name": "Magmortar"
+    }
+  ],
+  "468": [
+    {
+      "ID": 521,
+      "key": "Togekiss",
+      "order": null,
+      "ancestor": 175,
+      "name": "Togekiss"
+    }
+  ],
+  "469": [
+    {
+      "ID": 522,
+      "key": "Yanmega",
+      "order": null,
+      "ancestor": 193,
+      "name": "Yanmega"
+    }
+  ],
+  "470": [
+    {
+      "ID": 523,
+      "key": "Leafeon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Leafeon"
+    }
+  ],
+  "471": [
+    {
+      "ID": 524,
+      "key": "Glaceon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Glaceon"
+    }
+  ],
+  "472": [
+    {
+      "ID": 525,
+      "key": "Gliscor",
+      "order": null,
+      "ancestor": 207,
+      "name": "Gliscor"
+    }
+  ],
+  "473": [
+    {
+      "ID": 526,
+      "key": "Mamoswine",
+      "order": null,
+      "ancestor": 220,
+      "name": "Mamoswine"
+    }
+  ],
+  "474": [
+    {
+      "ID": 527,
+      "key": "Porygon-Z",
+      "order": null,
+      "ancestor": 137,
+      "name": "Porygon-Z"
+    }
+  ],
+  "475": [
+    {
+      "ID": 528,
+      "key": "Gallade",
+      "order": 0,
+      "ancestor": 392,
+      "name": "Gallade"
+    },
+    {
+      "ID": 916,
+      "key": "Gallade-Mega",
+      "order": 1,
+      "ancestor": 392,
+      "name": "Gallade"
+    }
+  ],
+  "476": [
+    {
+      "ID": 529,
+      "key": "Probopass",
+      "order": null,
+      "ancestor": 320,
+      "name": "Probopass"
+    }
+  ],
+  "477": [
+    {
+      "ID": 530,
+      "key": "Dusknoir",
+      "order": null,
+      "ancestor": 361,
+      "name": "Dusknoir"
+    }
+  ],
+  "478": [
+    {
+      "ID": 531,
+      "key": "Froslass",
+      "order": null,
+      "ancestor": 346,
+      "name": "Froslass"
+    }
+  ],
+  "479": [
+    {
+      "ID": 532,
+      "key": "Rotom",
+      "order": 0,
+      "ancestor": 532,
+      "name": "Rotom"
+    },
+    {
+      "ID": 713,
+      "key": "Rotom-Heat",
+      "order": 1,
+      "ancestor": 713,
+      "name": "Rotom"
+    },
+    {
+      "ID": 714,
+      "key": "Rotom-Wash",
+      "order": 2,
+      "ancestor": 714,
+      "name": "Rotom"
+    },
+    {
+      "ID": 715,
+      "key": "Rotom-Frost",
+      "order": 3,
+      "ancestor": 715,
+      "name": "Rotom"
+    },
+    {
+      "ID": 716,
+      "key": "Rotom-Fan",
+      "order": 4,
+      "ancestor": 716,
+      "name": "Rotom"
+    },
+    {
+      "ID": 717,
+      "key": "Rotom-Mow",
+      "order": 5,
+      "ancestor": 717,
+      "name": "Rotom"
+    }
+  ],
+  "480": [
+    {
+      "ID": 533,
+      "key": "Uxie",
+      "order": null,
+      "ancestor": 533,
+      "name": "Uxie"
+    }
+  ],
+  "481": [
+    {
+      "ID": 534,
+      "key": "Mesprit",
+      "order": null,
+      "ancestor": 534,
+      "name": "Mesprit"
+    }
+  ],
+  "482": [
+    {
+      "ID": 535,
+      "key": "Azelf",
+      "order": null,
+      "ancestor": 535,
+      "name": "Azelf"
+    }
+  ],
+  "483": [
+    {
+      "ID": 536,
+      "key": "Dialga",
+      "order": 0,
+      "ancestor": 536,
+      "name": "Dialga"
+    },
+    {
+      "ID": 1310,
+      "key": "Dialga-Origin",
+      "order": 1,
+      "ancestor": 1310,
+      "name": "Dialga"
+    },
+    {
+      "ID": 919,
+      "key": "Dialga-Primal",
+      "order": 2,
+      "ancestor": 536,
+      "name": "Dialga"
+    }
+  ],
+  "484": [
+    {
+      "ID": 537,
+      "key": "Palkia",
+      "order": 0,
+      "ancestor": 537,
+      "name": "Palkia"
+    },
+    {
+      "ID": 1311,
+      "key": "Palkia-Origin",
+      "order": 1,
+      "ancestor": 1311,
+      "name": "Palkia"
+    }
+  ],
+  "485": [
+    {
+      "ID": 538,
+      "key": "Heatran",
+      "order": null,
+      "ancestor": 538,
+      "name": "Heatran"
+    }
+  ],
+  "486": [
+    {
+      "ID": 539,
+      "key": "Regigigas",
+      "order": null,
+      "ancestor": 539,
+      "name": "Regigigas"
+    }
+  ],
+  "487": [
+    {
+      "ID": 540,
+      "key": "Giratina",
+      "order": 0,
+      "ancestor": 540,
+      "name": "Giratina"
+    },
+    {
+      "ID": 718,
+      "key": "Giratina-Origin",
+      "order": 1,
+      "ancestor": 718,
+      "name": "Giratina"
+    }
+  ],
+  "488": [
+    {
+      "ID": 541,
+      "key": "Cresselia",
+      "order": null,
+      "ancestor": 541,
+      "name": "Cresselia"
+    }
+  ],
+  "489": [
+    {
+      "ID": 542,
+      "key": "Phione",
+      "order": null,
+      "ancestor": 542,
+      "name": "Phione"
+    }
+  ],
+  "490": [
+    {
+      "ID": 543,
+      "key": "Manaphy",
+      "order": null,
+      "ancestor": 543,
+      "name": "Manaphy"
+    }
+  ],
+  "491": [
+    {
+      "ID": 544,
+      "key": "Darkrai",
+      "order": null,
+      "ancestor": 544,
+      "name": "Darkrai"
+    }
+  ],
+  "492": [
+    {
+      "ID": 545,
+      "key": "Shaymin",
+      "order": 0,
+      "ancestor": 545,
+      "name": "Shaymin"
+    },
+    {
+      "ID": 719,
+      "key": "Shaymin-Sky",
+      "order": 1,
+      "ancestor": 719,
+      "name": "Shaymin"
+    }
+  ],
+  "493": [
+    {
+      "ID": 546,
+      "key": "Arceus",
+      "order": 0,
+      "ancestor": 546,
+      "name": "Arceus"
+    },
+    {
+      "ID": 720,
+      "key": "Arceus-Fighting",
+      "order": 1,
+      "ancestor": 720,
+      "name": "Arceus"
+    },
+    {
+      "ID": 721,
+      "key": "Arceus-Flying",
+      "order": 2,
+      "ancestor": 721,
+      "name": "Arceus"
+    },
+    {
+      "ID": 722,
+      "key": "Arceus-Poison",
+      "order": 3,
+      "ancestor": 722,
+      "name": "Arceus"
+    },
+    {
+      "ID": 723,
+      "key": "Arceus-Ground",
+      "order": 4,
+      "ancestor": 723,
+      "name": "Arceus"
+    },
+    {
+      "ID": 724,
+      "key": "Arceus-Rock",
+      "order": 5,
+      "ancestor": 724,
+      "name": "Arceus"
+    },
+    {
+      "ID": 725,
+      "key": "Arceus-Bug",
+      "order": 6,
+      "ancestor": 725,
+      "name": "Arceus"
+    },
+    {
+      "ID": 726,
+      "key": "Arceus-Ghost",
+      "order": 7,
+      "ancestor": 726,
+      "name": "Arceus"
+    },
+    {
+      "ID": 727,
+      "key": "Arceus-Steel",
+      "order": 8,
+      "ancestor": 727,
+      "name": "Arceus"
+    },
+    {
+      "ID": 728,
+      "key": "Arceus-Fire",
+      "order": 9,
+      "ancestor": 728,
+      "name": "Arceus"
+    },
+    {
+      "ID": 729,
+      "key": "Arceus-Water",
+      "order": 10,
+      "ancestor": 729,
+      "name": "Arceus"
+    },
+    {
+      "ID": 730,
+      "key": "Arceus-Grass",
+      "order": 11,
+      "ancestor": 730,
+      "name": "Arceus"
+    },
+    {
+      "ID": 731,
+      "key": "Arceus-Electric",
+      "order": 12,
+      "ancestor": 731,
+      "name": "Arceus"
+    },
+    {
+      "ID": 732,
+      "key": "Arceus-Psychic",
+      "order": 13,
+      "ancestor": 732,
+      "name": "Arceus"
+    },
+    {
+      "ID": 733,
+      "key": "Arceus-Ice",
+      "order": 14,
+      "ancestor": 733,
+      "name": "Arceus"
+    },
+    {
+      "ID": 734,
+      "key": "Arceus-Dragon",
+      "order": 15,
+      "ancestor": 734,
+      "name": "Arceus"
+    },
+    {
+      "ID": 735,
+      "key": "Arceus-Dark",
+      "order": 16,
+      "ancestor": 735,
+      "name": "Arceus"
+    },
+    {
+      "ID": 834,
+      "key": "Arceus-Fairy",
+      "order": 17,
+      "ancestor": 834,
+      "name": "Arceus"
+    }
+  ],
+  "494": [
+    {
+      "ID": 547,
+      "key": "Victini",
+      "order": null,
+      "ancestor": 547,
+      "name": "Victini"
+    }
+  ],
+  "495": [
+    {
+      "ID": 548,
+      "key": "Snivy",
+      "order": null,
+      "ancestor": 548,
+      "name": "Snivy"
+    }
+  ],
+  "496": [
+    {
+      "ID": 549,
+      "key": "Servine",
+      "order": null,
+      "ancestor": 548,
+      "name": "Servine"
+    }
+  ],
+  "497": [
+    {
+      "ID": 550,
+      "key": "Serperior",
+      "order": null,
+      "ancestor": 548,
+      "name": "Serperior"
+    }
+  ],
+  "498": [
+    {
+      "ID": 551,
+      "key": "Tepig",
+      "order": null,
+      "ancestor": 551,
+      "name": "Tepig"
+    }
+  ],
+  "499": [
+    {
+      "ID": 552,
+      "key": "Pignite",
+      "order": null,
+      "ancestor": 551,
+      "name": "Pignite"
+    }
+  ],
+  "500": [
+    {
+      "ID": 553,
+      "key": "Emboar",
+      "order": null,
+      "ancestor": 551,
+      "name": "Emboar"
+    }
+  ],
+  "501": [
+    {
+      "ID": 554,
+      "key": "Oshawott",
+      "order": null,
+      "ancestor": 554,
+      "name": "Oshawott"
+    }
+  ],
+  "502": [
+    {
+      "ID": 555,
+      "key": "Dewott",
+      "order": null,
+      "ancestor": 554,
+      "name": "Dewott"
+    }
+  ],
+  "503": [
+    {
+      "ID": 556,
+      "key": "Samurott",
+      "order": 0,
+      "ancestor": 554,
+      "name": "Samurott"
+    },
+    {
+      "ID": 1300,
+      "key": "Samurott-Hisui",
+      "order": 1,
+      "ancestor": 554,
+      "name": "Samurott"
+    }
+  ],
+  "504": [
+    {
+      "ID": 557,
+      "key": "Patrat",
+      "order": null,
+      "ancestor": 557,
+      "name": "Patrat"
+    }
+  ],
+  "505": [
+    {
+      "ID": 558,
+      "key": "Watchog",
+      "order": null,
+      "ancestor": 557,
+      "name": "Watchog"
+    }
+  ],
+  "506": [
+    {
+      "ID": 559,
+      "key": "Lillipup",
+      "order": null,
+      "ancestor": 559,
+      "name": "Lillipup"
+    }
+  ],
+  "507": [
+    {
+      "ID": 560,
+      "key": "Herdier",
+      "order": null,
+      "ancestor": 559,
+      "name": "Herdier"
+    }
+  ],
+  "508": [
+    {
+      "ID": 561,
+      "key": "Stoutland",
+      "order": null,
+      "ancestor": 559,
+      "name": "Stoutland"
+    }
+  ],
+  "509": [
+    {
+      "ID": 562,
+      "key": "Purrloin",
+      "order": null,
+      "ancestor": 562,
+      "name": "Purrloin"
+    }
+  ],
+  "510": [
+    {
+      "ID": 563,
+      "key": "Liepard",
+      "order": null,
+      "ancestor": 562,
+      "name": "Liepard"
+    }
+  ],
+  "511": [
+    {
+      "ID": 564,
+      "key": "Pansage",
+      "order": null,
+      "ancestor": 564,
+      "name": "Pansage"
+    }
+  ],
+  "512": [
+    {
+      "ID": 565,
+      "key": "Simisage",
+      "order": null,
+      "ancestor": 564,
+      "name": "Simisage"
+    }
+  ],
+  "513": [
+    {
+      "ID": 566,
+      "key": "Pansear",
+      "order": null,
+      "ancestor": 566,
+      "name": "Pansear"
+    }
+  ],
+  "514": [
+    {
+      "ID": 567,
+      "key": "Simisear",
+      "order": null,
+      "ancestor": 566,
+      "name": "Simisear"
+    }
+  ],
+  "515": [
+    {
+      "ID": 568,
+      "key": "Panpour",
+      "order": null,
+      "ancestor": 568,
+      "name": "Panpour"
+    }
+  ],
+  "516": [
+    {
+      "ID": 569,
+      "key": "Simipour",
+      "order": null,
+      "ancestor": 568,
+      "name": "Simipour"
+    }
+  ],
+  "517": [
+    {
+      "ID": 570,
+      "key": "Munna",
+      "order": null,
+      "ancestor": 570,
+      "name": "Munna"
+    }
+  ],
+  "518": [
+    {
+      "ID": 571,
+      "key": "Musharna",
+      "order": null,
+      "ancestor": 570,
+      "name": "Musharna"
+    }
+  ],
+  "519": [
+    {
+      "ID": 572,
+      "key": "Pidove",
+      "order": null,
+      "ancestor": 572,
+      "name": "Pidove"
+    }
+  ],
+  "520": [
+    {
+      "ID": 573,
+      "key": "Tranquill",
+      "order": null,
+      "ancestor": 572,
+      "name": "Tranquill"
+    }
+  ],
+  "521": [
+    {
+      "ID": 574,
+      "key": "Unfezant",
+      "order": 0,
+      "ancestor": 572,
+      "name": "Unfezant"
+    },
+    {
+      "ID": 703,
+      "key": "Unfezant",
+      "order": 1,
+      "ancestor": 703,
+      "name": "Unfezant"
+    }
+  ],
+  "522": [
+    {
+      "ID": 575,
+      "key": "Blitzle",
+      "order": 0,
+      "ancestor": 575,
+      "name": "Blitzle"
+    },
+    {
+      "ID": 1274,
+      "key": "Blitzle-Sevii",
+      "order": 1,
+      "ancestor": 1274,
+      "name": "Blitzle"
+    }
+  ],
+  "523": [
+    {
+      "ID": 576,
+      "key": "Zebstrika",
+      "order": 0,
+      "ancestor": 575,
+      "name": "Zebstrika"
+    },
+    {
+      "ID": 1275,
+      "key": "Zebstrika-Sevii",
+      "order": 1,
+      "ancestor": 1274,
+      "name": "Zebstrika"
+    }
+  ],
+  "524": [
+    {
+      "ID": 577,
+      "key": "Roggenrola",
+      "order": null,
+      "ancestor": 577,
+      "name": "Roggenrola"
+    }
+  ],
+  "525": [
+    {
+      "ID": 578,
+      "key": "Boldore",
+      "order": null,
+      "ancestor": 577,
+      "name": "Boldore"
+    }
+  ],
+  "526": [
+    {
+      "ID": 579,
+      "key": "Gigalith",
+      "order": null,
+      "ancestor": 577,
+      "name": "Gigalith"
+    }
+  ],
+  "527": [
+    {
+      "ID": 580,
+      "key": "Woobat",
+      "order": null,
+      "ancestor": 580,
+      "name": "Woobat"
+    }
+  ],
+  "528": [
+    {
+      "ID": 581,
+      "key": "Swoobat",
+      "order": null,
+      "ancestor": 580,
+      "name": "Swoobat"
+    }
+  ],
+  "529": [
+    {
+      "ID": 582,
+      "key": "Drilbur",
+      "order": null,
+      "ancestor": 582,
+      "name": "Drilbur"
+    }
+  ],
+  "530": [
+    {
+      "ID": 583,
+      "key": "Excadrill",
+      "order": null,
+      "ancestor": 582,
+      "name": "Excadrill"
+    }
+  ],
+  "531": [
+    {
+      "ID": 584,
+      "key": "Audino",
+      "order": 0,
+      "ancestor": 584,
+      "name": "Audino"
+    },
+    {
+      "ID": 917,
+      "key": "Audino-Mega",
+      "order": 1,
+      "ancestor": 584,
+      "name": "Audino"
+    }
+  ],
+  "532": [
+    {
+      "ID": 585,
+      "key": "Timburr",
+      "order": null,
+      "ancestor": 585,
+      "name": "Timburr"
+    }
+  ],
+  "533": [
+    {
+      "ID": 586,
+      "key": "Gurdurr",
+      "order": null,
+      "ancestor": 585,
+      "name": "Gurdurr"
+    }
+  ],
+  "534": [
+    {
+      "ID": 587,
+      "key": "Conkeldurr",
+      "order": null,
+      "ancestor": 585,
+      "name": "Conkeldurr"
+    }
+  ],
+  "535": [
+    {
+      "ID": 588,
+      "key": "Tympole",
+      "order": null,
+      "ancestor": 588,
+      "name": "Tympole"
+    }
+  ],
+  "536": [
+    {
+      "ID": 589,
+      "key": "Palpitoad",
+      "order": null,
+      "ancestor": 588,
+      "name": "Palpitoad"
+    }
+  ],
+  "537": [
+    {
+      "ID": 590,
+      "key": "Seismitoad",
+      "order": null,
+      "ancestor": 588,
+      "name": "Seismitoad"
+    }
+  ],
+  "538": [
+    {
+      "ID": 591,
+      "key": "Throh",
+      "order": null,
+      "ancestor": 591,
+      "name": "Throh"
+    }
+  ],
+  "539": [
+    {
+      "ID": 592,
+      "key": "Sawk",
+      "order": null,
+      "ancestor": 592,
+      "name": "Sawk"
+    }
+  ],
+  "540": [
+    {
+      "ID": 593,
+      "key": "Sewaddle",
+      "order": null,
+      "ancestor": 593,
+      "name": "Sewaddle"
+    }
+  ],
+  "541": [
+    {
+      "ID": 594,
+      "key": "Swadloon",
+      "order": null,
+      "ancestor": 593,
+      "name": "Swadloon"
+    }
+  ],
+  "542": [
+    {
+      "ID": 595,
+      "key": "Leavanny",
+      "order": null,
+      "ancestor": 593,
+      "name": "Leavanny"
+    }
+  ],
+  "543": [
+    {
+      "ID": 596,
+      "key": "Venipede",
+      "order": null,
+      "ancestor": 596,
+      "name": "Venipede"
+    }
+  ],
+  "544": [
+    {
+      "ID": 597,
+      "key": "Whirlipede",
+      "order": null,
+      "ancestor": 596,
+      "name": "Whirlipede"
+    }
+  ],
+  "545": [
+    {
+      "ID": 598,
+      "key": "Scolipede",
+      "order": null,
+      "ancestor": 596,
+      "name": "Scolipede"
+    }
+  ],
+  "546": [
+    {
+      "ID": 599,
+      "key": "Cottonee",
+      "order": null,
+      "ancestor": 599,
+      "name": "Cottonee"
+    }
+  ],
+  "547": [
+    {
+      "ID": 600,
+      "key": "Whimsicott",
+      "order": null,
+      "ancestor": 599,
+      "name": "Whimsicott"
+    }
+  ],
+  "548": [
+    {
+      "ID": 601,
+      "key": "Petilil",
+      "order": null,
+      "ancestor": 601,
+      "name": "Petilil"
+    }
+  ],
+  "549": [
+    {
+      "ID": 602,
+      "key": "Lilligant",
+      "order": 0,
+      "ancestor": 601,
+      "name": "Lilligant"
+    },
+    {
+      "ID": 1303,
+      "key": "Lilligant-Hisui",
+      "order": 1,
+      "ancestor": 601,
+      "name": "Lilligant"
+    }
+  ],
+  "550": [
+    {
+      "ID": 603,
+      "key": "Basculin",
+      "order": 0,
+      "ancestor": 603,
+      "name": "Basculin"
+    },
+    {
+      "ID": 736,
+      "key": "Basculin-Blue-Striped",
+      "order": 1,
+      "ancestor": 736,
+      "name": "Basculin"
+    }
+  ],
+  "551": [
+    {
+      "ID": 604,
+      "key": "Sandile",
+      "order": null,
+      "ancestor": 604,
+      "name": "Sandile"
+    }
+  ],
+  "552": [
+    {
+      "ID": 605,
+      "key": "Krokorok",
+      "order": null,
+      "ancestor": 604,
+      "name": "Krokorok"
+    }
+  ],
+  "553": [
+    {
+      "ID": 606,
+      "key": "Krookodile",
+      "order": null,
+      "ancestor": 604,
+      "name": "Krookodile"
+    }
+  ],
+  "554": [
+    {
+      "ID": 607,
+      "key": "Darumaka",
+      "order": 0,
+      "ancestor": 607,
+      "name": "Darumaka"
+    },
+    {
+      "ID": 1225,
+      "key": "Darumaka-Galar",
+      "order": 1,
+      "ancestor": 1225,
+      "name": "Darumaka"
+    }
+  ],
+  "555": [
+    {
+      "ID": 608,
+      "key": "Darmanitan",
+      "order": 0,
+      "ancestor": 607,
+      "name": "Darmanitan"
+    },
+    {
+      "ID": 737,
+      "key": "Darmanitan-Zen",
+      "order": 1,
+      "ancestor": 737,
+      "name": "Darmanitan"
+    },
+    {
+      "ID": 1226,
+      "key": "Darmanitan-Galar",
+      "order": 2,
+      "ancestor": 1225,
+      "name": "Darmanitan"
+    },
+    {
+      "ID": 1227,
+      "key": "Darmanitan-Galar-Zen",
+      "order": 3,
+      "ancestor": 1227,
+      "name": "Darmanitan"
+    }
+  ],
+  "556": [
+    {
+      "ID": 609,
+      "key": "Maractus",
+      "order": null,
+      "ancestor": 609,
+      "name": "Maractus"
+    }
+  ],
+  "557": [
+    {
+      "ID": 610,
+      "key": "Dwebble",
+      "order": null,
+      "ancestor": 610,
+      "name": "Dwebble"
+    }
+  ],
+  "558": [
+    {
+      "ID": 611,
+      "key": "Crustle",
+      "order": null,
+      "ancestor": 610,
+      "name": "Crustle"
+    }
+  ],
+  "559": [
+    {
+      "ID": 612,
+      "key": "Scraggy",
+      "order": null,
+      "ancestor": 612,
+      "name": "Scraggy"
+    }
+  ],
+  "560": [
+    {
+      "ID": 613,
+      "key": "Scrafty",
+      "order": null,
+      "ancestor": 612,
+      "name": "Scrafty"
+    }
+  ],
+  "561": [
+    {
+      "ID": 614,
+      "key": "Sigilyph",
+      "order": null,
+      "ancestor": 614,
+      "name": "Sigilyph"
+    }
+  ],
+  "562": [
+    {
+      "ID": 615,
+      "key": "Yamask",
+      "order": 0,
+      "ancestor": 615,
+      "name": "Yamask"
+    },
+    {
+      "ID": 1228,
+      "key": "Yamask-Galar",
+      "order": 1,
+      "ancestor": 1228,
+      "name": "Yamask"
+    }
+  ],
+  "563": [
+    {
+      "ID": 616,
+      "key": "Cofagrigus",
+      "order": null,
+      "ancestor": 615,
+      "name": "Cofagrigus"
+    }
+  ],
+  "564": [
+    {
+      "ID": 617,
+      "key": "Tirtouga",
+      "order": null,
+      "ancestor": 617,
+      "name": "Tirtouga"
+    }
+  ],
+  "565": [
+    {
+      "ID": 618,
+      "key": "Carracosta",
+      "order": null,
+      "ancestor": 617,
+      "name": "Carracosta"
+    }
+  ],
+  "566": [
+    {
+      "ID": 619,
+      "key": "Archen",
+      "order": null,
+      "ancestor": 619,
+      "name": "Archen"
+    }
+  ],
+  "567": [
+    {
+      "ID": 620,
+      "key": "Archeops",
+      "order": null,
+      "ancestor": 619,
+      "name": "Archeops"
+    }
+  ],
+  "568": [
+    {
+      "ID": 621,
+      "key": "Trubbish",
+      "order": null,
+      "ancestor": 621,
+      "name": "Trubbish"
+    }
+  ],
+  "569": [
+    {
+      "ID": 622,
+      "key": "Garbodor",
+      "order": 0,
+      "ancestor": 621,
+      "name": "Garbodor"
+    },
+    {
+      "ID": 1242,
+      "key": "Garbodor-Mega",
+      "order": 1,
+      "ancestor": 621,
+      "name": "Garbodor"
+    }
+  ],
+  "570": [
+    {
+      "ID": 623,
+      "key": "Zorua",
+      "order": 0,
+      "ancestor": 623,
+      "name": "Zorua"
+    },
+    {
+      "ID": 1280,
+      "key": "Zorua-Hisui",
+      "order": 1,
+      "ancestor": 1280,
+      "name": "Zorua"
+    }
+  ],
+  "571": [
+    {
+      "ID": 624,
+      "key": "Zoroark",
+      "order": 0,
+      "ancestor": 623,
+      "name": "Zoroark"
+    },
+    {
+      "ID": 1281,
+      "key": "Zoroark-Hisui",
+      "order": 1,
+      "ancestor": 1280,
+      "name": "Zoroark"
+    }
+  ],
+  "572": [
+    {
+      "ID": 625,
+      "key": "Minccino",
+      "order": null,
+      "ancestor": 625,
+      "name": "Minccino"
+    }
+  ],
+  "573": [
+    {
+      "ID": 626,
+      "key": "Cinccino",
+      "order": null,
+      "ancestor": 625,
+      "name": "Cinccino"
+    }
+  ],
+  "574": [
+    {
+      "ID": 627,
+      "key": "Gothita",
+      "order": null,
+      "ancestor": 627,
+      "name": "Gothita"
+    }
+  ],
+  "575": [
+    {
+      "ID": 628,
+      "key": "Gothorita",
+      "order": null,
+      "ancestor": 627,
+      "name": "Gothorita"
+    }
+  ],
+  "576": [
+    {
+      "ID": 629,
+      "key": "Gothitelle",
+      "order": null,
+      "ancestor": 627,
+      "name": "Gothitelle"
+    }
+  ],
+  "577": [
+    {
+      "ID": 630,
+      "key": "Solosis",
+      "order": null,
+      "ancestor": 630,
+      "name": "Solosis"
+    }
+  ],
+  "578": [
+    {
+      "ID": 631,
+      "key": "Duosion",
+      "order": null,
+      "ancestor": 630,
+      "name": "Duosion"
+    }
+  ],
+  "579": [
+    {
+      "ID": 632,
+      "key": "Reuniclus",
+      "order": null,
+      "ancestor": 630,
+      "name": "Reuniclus"
+    }
+  ],
+  "580": [
+    {
+      "ID": 633,
+      "key": "Ducklett",
+      "order": null,
+      "ancestor": 633,
+      "name": "Ducklett"
+    }
+  ],
+  "581": [
+    {
+      "ID": 634,
+      "key": "Swanna",
+      "order": null,
+      "ancestor": 633,
+      "name": "Swanna"
+    }
+  ],
+  "582": [
+    {
+      "ID": 635,
+      "key": "Vanillite",
+      "order": null,
+      "ancestor": 635,
+      "name": "Vanillite"
+    }
+  ],
+  "583": [
+    {
+      "ID": 636,
+      "key": "Vanillish",
+      "order": null,
+      "ancestor": 635,
+      "name": "Vanillish"
+    }
+  ],
+  "584": [
+    {
+      "ID": 637,
+      "key": "Vanilluxe",
+      "order": null,
+      "ancestor": 635,
+      "name": "Vanilluxe"
+    }
+  ],
+  "585": [
+    {
+      "ID": 638,
+      "key": "Deerling",
+      "order": 0,
+      "ancestor": 638,
+      "name": "Deerling"
+    },
+    {
+      "ID": 738,
+      "key": "Deerling",
+      "order": 1,
+      "ancestor": 738,
+      "name": "Deerling"
+    },
+    {
+      "ID": 739,
+      "key": "Deerling",
+      "order": 2,
+      "ancestor": 739,
+      "name": "Deerling"
+    },
+    {
+      "ID": 740,
+      "key": "Deerling",
+      "order": 3,
+      "ancestor": 740,
+      "name": "Deerling"
+    }
+  ],
+  "586": [
+    {
+      "ID": 639,
+      "key": "Sawsbuck",
+      "order": 0,
+      "ancestor": 638,
+      "name": "Sawsbuck"
+    },
+    {
+      "ID": 741,
+      "key": "Sawsbuck",
+      "order": 1,
+      "ancestor": 738,
+      "name": "Sawsbuck"
+    },
+    {
+      "ID": 742,
+      "key": "Sawsbuck",
+      "order": 2,
+      "ancestor": 739,
+      "name": "Sawsbuck"
+    },
+    {
+      "ID": 743,
+      "key": "Sawsbuck",
+      "order": 3,
+      "ancestor": 740,
+      "name": "Sawsbuck"
+    }
+  ],
+  "587": [
+    {
+      "ID": 640,
+      "key": "Emolga",
+      "order": null,
+      "ancestor": 640,
+      "name": "Emolga"
+    }
+  ],
+  "588": [
+    {
+      "ID": 641,
+      "key": "Karrablast",
+      "order": null,
+      "ancestor": 641,
+      "name": "Karrablast"
+    }
+  ],
+  "589": [
+    {
+      "ID": 642,
+      "key": "Escavalier",
+      "order": null,
+      "ancestor": 641,
+      "name": "Escavalier"
+    }
+  ],
+  "590": [
+    {
+      "ID": 643,
+      "key": "Foongus",
+      "order": null,
+      "ancestor": 643,
+      "name": "Foongus"
+    }
+  ],
+  "591": [
+    {
+      "ID": 644,
+      "key": "Amoonguss",
+      "order": null,
+      "ancestor": 643,
+      "name": "Amoonguss"
+    }
+  ],
+  "592": [
+    {
+      "ID": 645,
+      "key": "Frillish",
+      "order": 0,
+      "ancestor": 645,
+      "name": "Frillish"
+    },
+    {
+      "ID": 704,
+      "key": "Frillish",
+      "order": 1,
+      "ancestor": 704,
+      "name": "Frillish"
+    }
+  ],
+  "593": [
+    {
+      "ID": 646,
+      "key": "Jellicent",
+      "order": 0,
+      "ancestor": 645,
+      "name": "Jellicent"
+    },
+    {
+      "ID": 705,
+      "key": "Jellicent",
+      "order": 1,
+      "ancestor": 704,
+      "name": "Jellicent"
+    }
+  ],
+  "594": [
+    {
+      "ID": 647,
+      "key": "Alomomola",
+      "order": null,
+      "ancestor": 647,
+      "name": "Alomomola"
+    }
+  ],
+  "595": [
+    {
+      "ID": 648,
+      "key": "Joltik",
+      "order": null,
+      "ancestor": 648,
+      "name": "Joltik"
+    }
+  ],
+  "596": [
+    {
+      "ID": 649,
+      "key": "Galvantula",
+      "order": null,
+      "ancestor": 648,
+      "name": "Galvantula"
+    }
+  ],
+  "597": [
+    {
+      "ID": 650,
+      "key": "Ferroseed",
+      "order": null,
+      "ancestor": 650,
+      "name": "Ferroseed"
+    }
+  ],
+  "598": [
+    {
+      "ID": 651,
+      "key": "Ferrothorn",
+      "order": null,
+      "ancestor": 650,
+      "name": "Ferrothorn"
+    }
+  ],
+  "599": [
+    {
+      "ID": 652,
+      "key": "Klink",
+      "order": null,
+      "ancestor": 652,
+      "name": "Klink"
+    }
+  ],
+  "600": [
+    {
+      "ID": 653,
+      "key": "Klang",
+      "order": null,
+      "ancestor": 652,
+      "name": "Klang"
+    }
+  ],
+  "601": [
+    {
+      "ID": 654,
+      "key": "Klinklang",
+      "order": null,
+      "ancestor": 652,
+      "name": "Klinklang"
+    }
+  ],
+  "602": [
+    {
+      "ID": 655,
+      "key": "Tynamo",
+      "order": null,
+      "ancestor": 655,
+      "name": "Tynamo"
+    }
+  ],
+  "603": [
+    {
+      "ID": 656,
+      "key": "Eelektrik",
+      "order": null,
+      "ancestor": 655,
+      "name": "Eelektrik"
+    }
+  ],
+  "604": [
+    {
+      "ID": 657,
+      "key": "Eelektross",
+      "order": null,
+      "ancestor": 655,
+      "name": "Eelektross"
+    }
+  ],
+  "605": [
+    {
+      "ID": 658,
+      "key": "Elgyem",
+      "order": null,
+      "ancestor": 658,
+      "name": "Elgyem"
+    }
+  ],
+  "606": [
+    {
+      "ID": 659,
+      "key": "Beheeyem",
+      "order": null,
+      "ancestor": 658,
+      "name": "Beheeyem"
+    }
+  ],
+  "607": [
+    {
+      "ID": 660,
+      "key": "Litwick",
+      "order": null,
+      "ancestor": 660,
+      "name": "Litwick"
+    }
+  ],
+  "608": [
+    {
+      "ID": 661,
+      "key": "Lampent",
+      "order": null,
+      "ancestor": 660,
+      "name": "Lampent"
+    }
+  ],
+  "609": [
+    {
+      "ID": 662,
+      "key": "Chandelure",
+      "order": null,
+      "ancestor": 660,
+      "name": "Chandelure"
+    }
+  ],
+  "610": [
+    {
+      "ID": 663,
+      "key": "Axew",
+      "order": null,
+      "ancestor": 663,
+      "name": "Axew"
+    }
+  ],
+  "611": [
+    {
+      "ID": 664,
+      "key": "Fraxure",
+      "order": null,
+      "ancestor": 663,
+      "name": "Fraxure"
+    }
+  ],
+  "612": [
+    {
+      "ID": 665,
+      "key": "Haxorus",
+      "order": null,
+      "ancestor": 663,
+      "name": "Haxorus"
+    }
+  ],
+  "613": [
+    {
+      "ID": 666,
+      "key": "Cubchoo",
+      "order": null,
+      "ancestor": 666,
+      "name": "Cubchoo"
+    }
+  ],
+  "614": [
+    {
+      "ID": 667,
+      "key": "Beartic",
+      "order": null,
+      "ancestor": 666,
+      "name": "Beartic"
+    }
+  ],
+  "615": [
+    {
+      "ID": 668,
+      "key": "Cryogonal",
+      "order": null,
+      "ancestor": 668,
+      "name": "Cryogonal"
+    }
+  ],
+  "616": [
+    {
+      "ID": 669,
+      "key": "Shelmet",
+      "order": null,
+      "ancestor": 669,
+      "name": "Shelmet"
+    }
+  ],
+  "617": [
+    {
+      "ID": 670,
+      "key": "Accelgor",
+      "order": null,
+      "ancestor": 669,
+      "name": "Accelgor"
+    }
+  ],
+  "618": [
+    {
+      "ID": 671,
+      "key": "Stunfisk",
+      "order": 0,
+      "ancestor": 671,
+      "name": "Stunfisk"
+    },
+    {
+      "ID": 1229,
+      "key": "Stunfisk-Galar",
+      "order": 1,
+      "ancestor": 1229,
+      "name": "Stunfisk"
+    }
+  ],
+  "619": [
+    {
+      "ID": 672,
+      "key": "Mienfoo",
+      "order": null,
+      "ancestor": 672,
+      "name": "Mienfoo"
+    }
+  ],
+  "620": [
+    {
+      "ID": 673,
+      "key": "Mienshao",
+      "order": null,
+      "ancestor": 672,
+      "name": "Mienshao"
+    }
+  ],
+  "621": [
+    {
+      "ID": 674,
+      "key": "Druddigon",
+      "order": null,
+      "ancestor": 674,
+      "name": "Druddigon"
+    }
+  ],
+  "622": [
+    {
+      "ID": 675,
+      "key": "Golett",
+      "order": null,
+      "ancestor": 675,
+      "name": "Golett"
+    }
+  ],
+  "623": [
+    {
+      "ID": 676,
+      "key": "Golurk",
+      "order": null,
+      "ancestor": 675,
+      "name": "Golurk"
+    }
+  ],
+  "624": [
+    {
+      "ID": 677,
+      "key": "Pawniard",
+      "order": null,
+      "ancestor": 677,
+      "name": "Pawniard"
+    }
+  ],
+  "625": [
+    {
+      "ID": 678,
+      "key": "Bisharp",
+      "order": null,
+      "ancestor": 677,
+      "name": "Bisharp"
+    }
+  ],
+  "626": [
+    {
+      "ID": 679,
+      "key": "Bouffalant",
+      "order": null,
+      "ancestor": 679,
+      "name": "Bouffalant"
+    }
+  ],
+  "627": [
+    {
+      "ID": 680,
+      "key": "Rufflet",
+      "order": null,
+      "ancestor": 680,
+      "name": "Rufflet"
+    }
+  ],
+  "628": [
+    {
+      "ID": 681,
+      "key": "Braviary",
+      "order": 0,
+      "ancestor": 680,
+      "name": "Braviary"
+    },
+    {
+      "ID": 1269,
+      "key": "Braviary-Hisui",
+      "order": 1,
+      "ancestor": 680,
+      "name": "Braviary"
+    }
+  ],
+  "629": [
+    {
+      "ID": 682,
+      "key": "Vullaby",
+      "order": null,
+      "ancestor": 682,
+      "name": "Vullaby"
+    }
+  ],
+  "630": [
+    {
+      "ID": 683,
+      "key": "Mandibuzz",
+      "order": null,
+      "ancestor": 682,
+      "name": "Mandibuzz"
+    }
+  ],
+  "631": [
+    {
+      "ID": 684,
+      "key": "Heatmor",
+      "order": null,
+      "ancestor": 684,
+      "name": "Heatmor"
+    }
+  ],
+  "632": [
+    {
+      "ID": 685,
+      "key": "Durant",
+      "order": null,
+      "ancestor": 685,
+      "name": "Durant"
+    }
+  ],
+  "633": [
+    {
+      "ID": 686,
+      "key": "Deino",
+      "order": null,
+      "ancestor": 686,
+      "name": "Deino"
+    }
+  ],
+  "634": [
+    {
+      "ID": 687,
+      "key": "Zweilous",
+      "order": null,
+      "ancestor": 686,
+      "name": "Zweilous"
+    }
+  ],
+  "635": [
+    {
+      "ID": 688,
+      "key": "Hydreigon",
+      "order": null,
+      "ancestor": 686,
+      "name": "Hydreigon"
+    }
+  ],
+  "636": [
+    {
+      "ID": 689,
+      "key": "Larvesta",
+      "order": null,
+      "ancestor": 689,
+      "name": "Larvesta"
+    }
+  ],
+  "637": [
+    {
+      "ID": 690,
+      "key": "Volcarona",
+      "order": null,
+      "ancestor": 689,
+      "name": "Volcarona"
+    }
+  ],
+  "638": [
+    {
+      "ID": 691,
+      "key": "Cobalion",
+      "order": null,
+      "ancestor": 691,
+      "name": "Cobalion"
+    }
+  ],
+  "639": [
+    {
+      "ID": 692,
+      "key": "Terrakion",
+      "order": null,
+      "ancestor": 692,
+      "name": "Terrakion"
+    }
+  ],
+  "640": [
+    {
+      "ID": 693,
+      "key": "Virizion",
+      "order": null,
+      "ancestor": 693,
+      "name": "Virizion"
+    }
+  ],
+  "641": [
+    {
+      "ID": 694,
+      "key": "Tornadus",
+      "order": 0,
+      "ancestor": 694,
+      "name": "Tornadus"
+    },
+    {
+      "ID": 754,
+      "key": "Tornadus-Therian",
+      "order": 1,
+      "ancestor": 754,
+      "name": "Tornadus"
+    }
+  ],
+  "642": [
+    {
+      "ID": 695,
+      "key": "Thundurus",
+      "order": 0,
+      "ancestor": 695,
+      "name": "Thundurus"
+    },
+    {
+      "ID": 755,
+      "key": "Thundurus-Therian",
+      "order": 1,
+      "ancestor": 755,
+      "name": "Thundurus"
+    }
+  ],
+  "643": [
+    {
+      "ID": 696,
+      "key": "Reshiram",
+      "order": null,
+      "ancestor": 696,
+      "name": "Reshiram"
+    }
+  ],
+  "644": [
+    {
+      "ID": 697,
+      "key": "Zekrom",
+      "order": null,
+      "ancestor": 697,
+      "name": "Zekrom"
+    }
+  ],
+  "645": [
+    {
+      "ID": 698,
+      "key": "Landorus",
+      "order": 0,
+      "ancestor": 698,
+      "name": "Landorus"
+    },
+    {
+      "ID": 756,
+      "key": "Landorus-Therian",
+      "order": 1,
+      "ancestor": 756,
+      "name": "Landorus"
+    }
+  ],
+  "646": [
+    {
+      "ID": 699,
+      "key": "Kyurem",
+      "order": 0,
+      "ancestor": 699,
+      "name": "Kyurem"
+    },
+    {
+      "ID": 753,
+      "key": "Kyurem-White",
+      "order": 1,
+      "ancestor": 753,
+      "name": "Kyurem"
+    },
+    {
+      "ID": 752,
+      "key": "Kyurem-Black",
+      "order": 2,
+      "ancestor": 752,
+      "name": "Kyurem"
+    }
+  ],
+  "647": [
+    {
+      "ID": 700,
+      "key": "Keldeo",
+      "order": 0,
+      "ancestor": 700,
+      "name": "Keldeo"
+    },
+    {
+      "ID": 757,
+      "key": "Keldeo-Resolute",
+      "order": 1,
+      "ancestor": 757,
+      "name": "Keldeo"
+    }
+  ],
+  "648": [
+    {
+      "ID": 701,
+      "key": "Meloetta",
+      "order": 0,
+      "ancestor": 701,
+      "name": "Meloetta"
+    },
+    {
+      "ID": 746,
+      "key": "Meloetta-Pirouette",
+      "order": 1,
+      "ancestor": 746,
+      "name": "Meloetta"
+    }
+  ],
+  "649": [
+    {
+      "ID": 702,
+      "key": "Genesect",
+      "order": null,
+      "ancestor": 702,
+      "name": "Genesect"
+    }
+  ],
+  "650": [
+    {
+      "ID": 758,
+      "key": "Chespin",
+      "order": null,
+      "ancestor": 758,
+      "name": "Chespin"
+    }
+  ],
+  "651": [
+    {
+      "ID": 759,
+      "key": "Quilladin",
+      "order": null,
+      "ancestor": 758,
+      "name": "Quilladin"
+    }
+  ],
+  "652": [
+    {
+      "ID": 760,
+      "key": "Chesnaught",
+      "order": null,
+      "ancestor": 758,
+      "name": "Chesnaught"
+    }
+  ],
+  "653": [
+    {
+      "ID": 761,
+      "key": "Fennekin",
+      "order": null,
+      "ancestor": 761,
+      "name": "Fennekin"
+    }
+  ],
+  "654": [
+    {
+      "ID": 762,
+      "key": "Braixen",
+      "order": null,
+      "ancestor": 761,
+      "name": "Braixen"
+    }
+  ],
+  "655": [
+    {
+      "ID": 763,
+      "key": "Delphox",
+      "order": null,
+      "ancestor": 761,
+      "name": "Delphox"
+    }
+  ],
+  "656": [
+    {
+      "ID": 764,
+      "key": "Froakie",
+      "order": null,
+      "ancestor": 764,
+      "name": "Froakie"
+    }
+  ],
+  "657": [
+    {
+      "ID": 765,
+      "key": "Frogadier",
+      "order": null,
+      "ancestor": 764,
+      "name": "Frogadier"
+    }
+  ],
+  "658": [
+    {
+      "ID": 766,
+      "key": "Greninja",
+      "order": 0,
+      "ancestor": 764,
+      "name": "Greninja"
+    },
+    {
+      "ID": 839,
+      "key": "Greninja-Ash",
+      "order": 1,
+      "ancestor": 839,
+      "name": "Greninja"
+    }
+  ],
+  "659": [
+    {
+      "ID": 767,
+      "key": "Bunnelby",
+      "order": null,
+      "ancestor": 767,
+      "name": "Bunnelby"
+    }
+  ],
+  "660": [
+    {
+      "ID": 768,
+      "key": "Diggersby",
+      "order": null,
+      "ancestor": 767,
+      "name": "Diggersby"
+    }
+  ],
+  "661": [
+    {
+      "ID": 769,
+      "key": "Fletchling",
+      "order": null,
+      "ancestor": 769,
+      "name": "Fletchling"
+    }
+  ],
+  "662": [
+    {
+      "ID": 770,
+      "key": "Fletchinder",
+      "order": null,
+      "ancestor": 769,
+      "name": "Fletchinder"
+    }
+  ],
+  "663": [
+    {
+      "ID": 771,
+      "key": "Talonflame",
+      "order": null,
+      "ancestor": 769,
+      "name": "Talonflame"
+    }
+  ],
+  "664": [
+    {
+      "ID": 772,
+      "key": "Scatterbug",
+      "order": null,
+      "ancestor": 772,
+      "name": "Scatterbug"
+    }
+  ],
+  "665": [
+    {
+      "ID": 773,
+      "key": "Spewpa",
+      "order": null,
+      "ancestor": 772,
+      "name": "Spewpa"
+    }
+  ],
+  "666": [
+    {
+      "ID": 774,
+      "key": "Vivillon",
+      "order": null,
+      "ancestor": 772,
+      "name": "Vivillon"
+    }
+  ],
+  "667": [
+    {
+      "ID": 775,
+      "key": "Litleo",
+      "order": null,
+      "ancestor": 775,
+      "name": "Litleo"
+    }
+  ],
+  "668": [
+    {
+      "ID": 776,
+      "key": "Pyroar",
+      "order": 0,
+      "ancestor": 775,
+      "name": "Pyroar"
+    },
+    {
+      "ID": 831,
+      "key": "Pyroar",
+      "order": 1,
+      "ancestor": 831,
+      "name": "Pyroar"
+    }
+  ],
+  "669": [
+    {
+      "ID": 777,
+      "key": "Flabébé",
+      "order": null,
+      "ancestor": 777,
+      "name": "Flabébé"
+    }
+  ],
+  "670": [
+    {
+      "ID": 778,
+      "key": "Floette",
+      "order": 0,
+      "ancestor": 777,
+      "name": "Floette"
+    },
+    {
+      "ID": 848,
+      "key": "Floette-Eternal",
+      "order": 1,
+      "ancestor": 848,
+      "name": "Floette"
+    }
+  ],
+  "671": [
+    {
+      "ID": 779,
+      "key": "Florges",
+      "order": null,
+      "ancestor": 777,
+      "name": "Florges"
+    }
+  ],
+  "672": [
+    {
+      "ID": 780,
+      "key": "Skiddo",
+      "order": null,
+      "ancestor": 780,
+      "name": "Skiddo"
+    }
+  ],
+  "673": [
+    {
+      "ID": 781,
+      "key": "Gogoat",
+      "order": null,
+      "ancestor": 780,
+      "name": "Gogoat"
+    }
+  ],
+  "674": [
+    {
+      "ID": 782,
+      "key": "Pancham",
+      "order": null,
+      "ancestor": 782,
+      "name": "Pancham"
+    }
+  ],
+  "675": [
+    {
+      "ID": 783,
+      "key": "Pangoro",
+      "order": null,
+      "ancestor": 782,
+      "name": "Pangoro"
+    }
+  ],
+  "676": [
+    {
+      "ID": 784,
+      "key": "Furfrou",
+      "order": null,
+      "ancestor": 784,
+      "name": "Furfrou"
+    }
+  ],
+  "677": [
+    {
+      "ID": 785,
+      "key": "Espurr",
+      "order": null,
+      "ancestor": 785,
+      "name": "Espurr"
+    }
+  ],
+  "678": [
+    {
+      "ID": 786,
+      "key": "Meowstic",
+      "order": 0,
+      "ancestor": 785,
+      "name": "Meowstic"
+    },
+    {
+      "ID": 832,
+      "key": "Meowstic-F",
+      "order": 1,
+      "ancestor": 785,
+      "name": "Meowstic"
+    }
+  ],
+  "679": [
+    {
+      "ID": 787,
+      "key": "Honedge",
+      "order": null,
+      "ancestor": 787,
+      "name": "Honedge"
+    }
+  ],
+  "680": [
+    {
+      "ID": 788,
+      "key": "Doublade",
+      "order": null,
+      "ancestor": 787,
+      "name": "Doublade"
+    }
+  ],
+  "681": [
+    {
+      "ID": 789,
+      "key": "Aegislash-Shield",
+      "order": 0,
+      "ancestor": 787,
+      "name": "Aegislash"
+    },
+    {
+      "ID": 833,
+      "key": "Aegislash-Blade",
+      "order": 1,
+      "ancestor": 833,
+      "name": "Aegislash"
+    }
+  ],
+  "682": [
+    {
+      "ID": 790,
+      "key": "Spritzee",
+      "order": null,
+      "ancestor": 790,
+      "name": "Spritzee"
+    }
+  ],
+  "683": [
+    {
+      "ID": 791,
+      "key": "Aromatisse",
+      "order": null,
+      "ancestor": 790,
+      "name": "Aromatisse"
+    }
+  ],
+  "684": [
+    {
+      "ID": 792,
+      "key": "Swirlix",
+      "order": null,
+      "ancestor": 792,
+      "name": "Swirlix"
+    }
+  ],
+  "685": [
+    {
+      "ID": 793,
+      "key": "Slurpuff",
+      "order": null,
+      "ancestor": 792,
+      "name": "Slurpuff"
+    }
+  ],
+  "686": [
+    {
+      "ID": 794,
+      "key": "Inkay",
+      "order": null,
+      "ancestor": 794,
+      "name": "Inkay"
+    }
+  ],
+  "687": [
+    {
+      "ID": 795,
+      "key": "Malamar",
+      "order": null,
+      "ancestor": 794,
+      "name": "Malamar"
+    }
+  ],
+  "688": [
+    {
+      "ID": 796,
+      "key": "Binacle",
+      "order": null,
+      "ancestor": 796,
+      "name": "Binacle"
+    }
+  ],
+  "689": [
+    {
+      "ID": 797,
+      "key": "Barbaracle",
+      "order": null,
+      "ancestor": 796,
+      "name": "Barbaracle"
+    }
+  ],
+  "690": [
+    {
+      "ID": 798,
+      "key": "Skrelp",
+      "order": null,
+      "ancestor": 798,
+      "name": "Skrelp"
+    }
+  ],
+  "691": [
+    {
+      "ID": 799,
+      "key": "Dragalge",
+      "order": null,
+      "ancestor": 798,
+      "name": "Dragalge"
+    }
+  ],
+  "692": [
+    {
+      "ID": 800,
+      "key": "Clauncher",
+      "order": 0,
+      "ancestor": 800,
+      "name": "Clauncher"
+    },
+    {
+      "ID": 1287,
+      "key": "Clauncher-Sevii",
+      "order": 1,
+      "ancestor": 1287,
+      "name": "Clauncher"
+    }
+  ],
+  "693": [
+    {
+      "ID": 801,
+      "key": "Clawitzer",
+      "order": 0,
+      "ancestor": 800,
+      "name": "Clawitzer"
+    },
+    {
+      "ID": 1288,
+      "key": "Clawitzer-Sevii",
+      "order": 1,
+      "ancestor": 1287,
+      "name": "Clawitzer"
+    }
+  ],
+  "694": [
+    {
+      "ID": 802,
+      "key": "Helioptile",
+      "order": null,
+      "ancestor": 802,
+      "name": "Helioptile"
+    }
+  ],
+  "695": [
+    {
+      "ID": 803,
+      "key": "Heliolisk",
+      "order": null,
+      "ancestor": 802,
+      "name": "Heliolisk"
+    }
+  ],
+  "696": [
+    {
+      "ID": 804,
+      "key": "Tyrunt",
+      "order": null,
+      "ancestor": 804,
+      "name": "Tyrunt"
+    }
+  ],
+  "697": [
+    {
+      "ID": 805,
+      "key": "Tyrantrum",
+      "order": null,
+      "ancestor": 804,
+      "name": "Tyrantrum"
+    }
+  ],
+  "698": [
+    {
+      "ID": 806,
+      "key": "Amaura",
+      "order": null,
+      "ancestor": 806,
+      "name": "Amaura"
+    }
+  ],
+  "699": [
+    {
+      "ID": 807,
+      "key": "Aurorus",
+      "order": null,
+      "ancestor": 806,
+      "name": "Aurorus"
+    }
+  ],
+  "700": [
+    {
+      "ID": 808,
+      "key": "Sylveon",
+      "order": null,
+      "ancestor": 133,
+      "name": "Sylveon"
+    }
+  ],
+  "701": [
+    {
+      "ID": 809,
+      "key": "Hawlucha",
+      "order": null,
+      "ancestor": 809,
+      "name": "Hawlucha"
+    }
+  ],
+  "702": [
+    {
+      "ID": 810,
+      "key": "Dedenne",
+      "order": null,
+      "ancestor": 810,
+      "name": "Dedenne"
+    }
+  ],
+  "703": [
+    {
+      "ID": 811,
+      "key": "Carbink",
+      "order": null,
+      "ancestor": 811,
+      "name": "Carbink"
+    }
+  ],
+  "704": [
+    {
+      "ID": 812,
+      "key": "Goomy",
+      "order": null,
+      "ancestor": 812,
+      "name": "Goomy"
+    }
+  ],
+  "705": [
+    {
+      "ID": 813,
+      "key": "Sliggoo",
+      "order": 0,
+      "ancestor": 812,
+      "name": "Sliggoo"
+    },
+    {
+      "ID": 1297,
+      "key": "Sliggoo-Hisui",
+      "order": 1,
+      "ancestor": 812,
+      "name": "Sliggoo"
+    }
+  ],
+  "706": [
+    {
+      "ID": 814,
+      "key": "Goodra",
+      "order": 0,
+      "ancestor": 812,
+      "name": "Goodra"
+    },
+    {
+      "ID": 1298,
+      "key": "Goodra-Hisui",
+      "order": 1,
+      "ancestor": 812,
+      "name": "Goodra"
+    }
+  ],
+  "707": [
+    {
+      "ID": 815,
+      "key": "Klefki",
+      "order": null,
+      "ancestor": 815,
+      "name": "Klefki"
+    }
+  ],
+  "708": [
+    {
+      "ID": 816,
+      "key": "Phantump",
+      "order": null,
+      "ancestor": 816,
+      "name": "Phantump"
+    }
+  ],
+  "709": [
+    {
+      "ID": 817,
+      "key": "Trevenant",
+      "order": null,
+      "ancestor": 816,
+      "name": "Trevenant"
+    }
+  ],
+  "710": [
+    {
+      "ID": 855,
+      "key": "Pumpkaboo",
+      "order": 0,
+      "ancestor": 855,
+      "name": "Pumpkaboo"
+    },
+    {
+      "ID": 818,
+      "key": "Pumpkaboo",
+      "order": 1,
+      "ancestor": 818,
+      "name": "Pumpkaboo"
+    },
+    {
+      "ID": 854,
+      "key": "Pumpkaboo",
+      "order": 2,
+      "ancestor": 854,
+      "name": "Pumpkaboo"
+    },
+    {
+      "ID": 853,
+      "key": "Pumpkaboo",
+      "order": 3,
+      "ancestor": 853,
+      "name": "Pumpkaboo"
+    }
+  ],
+  "711": [
+    {
+      "ID": 858,
+      "key": "Gourgeist",
+      "order": 0,
+      "ancestor": 855,
+      "name": "Gourgeist"
+    },
+    {
+      "ID": 819,
+      "key": "Gourgeist",
+      "order": 1,
+      "ancestor": 818,
+      "name": "Gourgeist"
+    },
+    {
+      "ID": 857,
+      "key": "Gourgeist",
+      "order": 2,
+      "ancestor": 854,
+      "name": "Gourgeist"
+    },
+    {
+      "ID": 856,
+      "key": "Gourgeist",
+      "order": 3,
+      "ancestor": 853,
+      "name": "Gourgeist"
+    }
+  ],
+  "712": [
+    {
+      "ID": 820,
+      "key": "Bergmite",
+      "order": null,
+      "ancestor": 820,
+      "name": "Bergmite"
+    }
+  ],
+  "713": [
+    {
+      "ID": 821,
+      "key": "Avalugg",
+      "order": 0,
+      "ancestor": 820,
+      "name": "Avalugg"
+    },
+    {
+      "ID": 1309,
+      "key": "Avalugg-Hisui",
+      "order": 1,
+      "ancestor": 820,
+      "name": "Avalugg"
+    }
+  ],
+  "714": [
+    {
+      "ID": 822,
+      "key": "Noibat",
+      "order": 0,
+      "ancestor": 822,
+      "name": "Noibat"
+    },
+    {
+      "ID": 866,
+      "key": "Noibat-Sevii",
+      "order": 1,
+      "ancestor": 866,
+      "name": "Noibat"
+    }
+  ],
+  "715": [
+    {
+      "ID": 823,
+      "key": "Noivern",
+      "order": 0,
+      "ancestor": 822,
+      "name": "Noivern"
+    },
+    {
+      "ID": 867,
+      "key": "Noivern-Sevii",
+      "order": 1,
+      "ancestor": 866,
+      "name": "Noivern"
+    }
+  ],
+  "716": [
+    {
+      "ID": 824,
+      "key": "Xerneas",
+      "order": null,
+      "ancestor": 824,
+      "name": "Xerneas"
+    }
+  ],
+  "717": [
+    {
+      "ID": 825,
+      "key": "Yveltal",
+      "order": null,
+      "ancestor": 825,
+      "name": "Yveltal"
+    }
+  ],
+  "718": [
+    {
+      "ID": 826,
+      "key": "Zygarde",
+      "order": 0,
+      "ancestor": 826,
+      "name": "Zygarde"
+    },
+    {
+      "ID": 837,
+      "key": "Zygarde-10%",
+      "order": 1,
+      "ancestor": 837,
+      "name": "Zygarde"
+    },
+    {
+      "ID": 838,
+      "key": "Zygarde-Complete",
+      "order": 2,
+      "ancestor": 838,
+      "name": "Zygarde"
+    }
+  ],
+  "719": [
+    {
+      "ID": 827,
+      "key": "Diancie",
+      "order": 0,
+      "ancestor": 827,
+      "name": "Diancie"
+    },
+    {
+      "ID": 918,
+      "key": "Diancie-Mega",
+      "order": 1,
+      "ancestor": 827,
+      "name": "Diancie"
+    }
+  ],
+  "720": [
+    {
+      "ID": 828,
+      "key": "Hoopa",
+      "order": 0,
+      "ancestor": 828,
+      "name": "Hoopa"
+    },
+    {
+      "ID": 829,
+      "key": "Hoopa-Unbound",
+      "order": 1,
+      "ancestor": 829,
+      "name": "Hoopa"
+    }
+  ],
+  "721": [
+    {
+      "ID": 830,
+      "key": "Volcanion",
+      "order": null,
+      "ancestor": 830,
+      "name": "Volcanion"
+    }
+  ],
+  "722": [
+    {
+      "ID": 939,
+      "key": "Rowlet",
+      "order": null,
+      "ancestor": 939,
+      "name": "Rowlet"
+    }
+  ],
+  "723": [
+    {
+      "ID": 940,
+      "key": "Dartrix",
+      "order": null,
+      "ancestor": 939,
+      "name": "Dartrix"
+    }
+  ],
+  "724": [
+    {
+      "ID": 941,
+      "key": "Decidueye",
+      "order": 0,
+      "ancestor": 939,
+      "name": "Decidueye"
+    },
+    {
+      "ID": 1301,
+      "key": "Decidueye-Hisui",
+      "order": 1,
+      "ancestor": 939,
+      "name": "Decidueye"
+    }
+  ],
+  "725": [
+    {
+      "ID": 942,
+      "key": "Litten",
+      "order": null,
+      "ancestor": 942,
+      "name": "Litten"
+    }
+  ],
+  "726": [
+    {
+      "ID": 943,
+      "key": "Torracat",
+      "order": null,
+      "ancestor": 942,
+      "name": "Torracat"
+    }
+  ],
+  "727": [
+    {
+      "ID": 944,
+      "key": "Incineroar",
+      "order": null,
+      "ancestor": 942,
+      "name": "Incineroar"
+    }
+  ],
+  "728": [
+    {
+      "ID": 945,
+      "key": "Popplio",
+      "order": null,
+      "ancestor": 945,
+      "name": "Popplio"
+    }
+  ],
+  "729": [
+    {
+      "ID": 946,
+      "key": "Brionne",
+      "order": null,
+      "ancestor": 945,
+      "name": "Brionne"
+    }
+  ],
+  "730": [
+    {
+      "ID": 947,
+      "key": "Primarina",
+      "order": null,
+      "ancestor": 945,
+      "name": "Primarina"
+    }
+  ],
+  "731": [
+    {
+      "ID": 948,
+      "key": "Pikipek",
+      "order": null,
+      "ancestor": 948,
+      "name": "Pikipek"
+    }
+  ],
+  "732": [
+    {
+      "ID": 949,
+      "key": "Trumbeak",
+      "order": null,
+      "ancestor": 948,
+      "name": "Trumbeak"
+    }
+  ],
+  "733": [
+    {
+      "ID": 950,
+      "key": "Toucannon",
+      "order": null,
+      "ancestor": 948,
+      "name": "Toucannon"
+    }
+  ],
+  "734": [
+    {
+      "ID": 951,
+      "key": "Yungoos",
+      "order": null,
+      "ancestor": 951,
+      "name": "Yungoos"
+    }
+  ],
+  "735": [
+    {
+      "ID": 952,
+      "key": "Gumshoos",
+      "order": null,
+      "ancestor": 951,
+      "name": "Gumshoos"
+    }
+  ],
+  "736": [
+    {
+      "ID": 953,
+      "key": "Grubbin",
+      "order": null,
+      "ancestor": 953,
+      "name": "Grubbin"
+    }
+  ],
+  "737": [
+    {
+      "ID": 954,
+      "key": "Charjabug",
+      "order": null,
+      "ancestor": 953,
+      "name": "Charjabug"
+    }
+  ],
+  "738": [
+    {
+      "ID": 955,
+      "key": "Vikavolt",
+      "order": null,
+      "ancestor": 953,
+      "name": "Vikavolt"
+    }
+  ],
+  "739": [
+    {
+      "ID": 956,
+      "key": "Crabrawler",
+      "order": null,
+      "ancestor": 956,
+      "name": "Crabrawler"
+    }
+  ],
+  "740": [
+    {
+      "ID": 957,
+      "key": "Crabominable",
+      "order": null,
+      "ancestor": 956,
+      "name": "Crabominable"
+    }
+  ],
+  "741": [
+    {
+      "ID": 958,
+      "key": "Oricorio",
+      "order": 0,
+      "ancestor": 958,
+      "name": "Oricorio"
+    },
+    {
+      "ID": 1043,
+      "key": "Oricorio-Pom-Pom",
+      "order": 1,
+      "ancestor": 1043,
+      "name": "Oricorio"
+    },
+    {
+      "ID": 1044,
+      "key": "Oricorio-Pa'u",
+      "order": 2,
+      "ancestor": 1044,
+      "name": "Oricorio"
+    },
+    {
+      "ID": 1045,
+      "key": "Oricorio-Sensu",
+      "order": 3,
+      "ancestor": 1045,
+      "name": "Oricorio"
+    }
+  ],
+  "742": [
+    {
+      "ID": 959,
+      "key": "Cutiefly",
+      "order": null,
+      "ancestor": 959,
+      "name": "Cutiefly"
+    }
+  ],
+  "743": [
+    {
+      "ID": 960,
+      "key": "Ribombee",
+      "order": null,
+      "ancestor": 959,
+      "name": "Ribombee"
+    }
+  ],
+  "744": [
+    {
+      "ID": 961,
+      "key": "Rockruff",
+      "order": null,
+      "ancestor": 961,
+      "name": "Rockruff"
+    }
+  ],
+  "745": [
+    {
+      "ID": 962,
+      "key": "Lycanroc",
+      "order": 0,
+      "ancestor": 961,
+      "name": "Lycanroc"
+    },
+    {
+      "ID": 1046,
+      "key": "Lycanroc-Midnight",
+      "order": 1,
+      "ancestor": 961,
+      "name": "Lycanroc"
+    },
+    {
+      "ID": 1082,
+      "key": "Lycanroc-Dusk",
+      "order": 2,
+      "ancestor": 961,
+      "name": "Lycanroc"
+    }
+  ],
+  "746": [
+    {
+      "ID": 963,
+      "key": "Wishiwashi",
+      "order": 0,
+      "ancestor": 963,
+      "name": "Wishiwashi"
+    },
+    {
+      "ID": 1047,
+      "key": "Wishiwashi-School",
+      "order": 1,
+      "ancestor": 1047,
+      "name": "Wishiwashi"
+    },
+    {
+      "ID": 1292,
+      "key": "Wishiwashi-Sevii",
+      "order": 2,
+      "ancestor": 1292,
+      "name": "Wishiwashi"
+    },
+    {
+      "ID": 1293,
+      "key": "Wishiwashi-Sevii-School",
+      "order": 3,
+      "ancestor": 1293,
+      "name": "Wishiwashi"
+    }
+  ],
+  "747": [
+    {
+      "ID": 964,
+      "key": "Mareanie",
+      "order": null,
+      "ancestor": 964,
+      "name": "Mareanie"
+    }
+  ],
+  "748": [
+    {
+      "ID": 965,
+      "key": "Toxapex",
+      "order": null,
+      "ancestor": 964,
+      "name": "Toxapex"
+    }
+  ],
+  "749": [
+    {
+      "ID": 966,
+      "key": "Mudbray",
+      "order": null,
+      "ancestor": 966,
+      "name": "Mudbray"
+    }
+  ],
+  "750": [
+    {
+      "ID": 967,
+      "key": "Mudsdale",
+      "order": null,
+      "ancestor": 966,
+      "name": "Mudsdale"
+    }
+  ],
+  "751": [
+    {
+      "ID": 968,
+      "key": "Dewpider",
+      "order": null,
+      "ancestor": 968,
+      "name": "Dewpider"
+    }
+  ],
+  "752": [
+    {
+      "ID": 969,
+      "key": "Araquanid",
+      "order": null,
+      "ancestor": 968,
+      "name": "Araquanid"
+    }
+  ],
+  "753": [
+    {
+      "ID": 970,
+      "key": "Fomantis",
+      "order": null,
+      "ancestor": 970,
+      "name": "Fomantis"
+    }
+  ],
+  "754": [
+    {
+      "ID": 971,
+      "key": "Lurantis",
+      "order": null,
+      "ancestor": 970,
+      "name": "Lurantis"
+    }
+  ],
+  "755": [
+    {
+      "ID": 972,
+      "key": "Morelull",
+      "order": null,
+      "ancestor": 972,
+      "name": "Morelull"
+    }
+  ],
+  "756": [
+    {
+      "ID": 973,
+      "key": "Shiinotic",
+      "order": null,
+      "ancestor": 972,
+      "name": "Shiinotic"
+    }
+  ],
+  "757": [
+    {
+      "ID": 974,
+      "key": "Salandit",
+      "order": null,
+      "ancestor": 974,
+      "name": "Salandit"
+    }
+  ],
+  "758": [
+    {
+      "ID": 975,
+      "key": "Salazzle",
+      "order": null,
+      "ancestor": 974,
+      "name": "Salazzle"
+    }
+  ],
+  "759": [
+    {
+      "ID": 976,
+      "key": "Stufful",
+      "order": null,
+      "ancestor": 976,
+      "name": "Stufful"
+    }
+  ],
+  "760": [
+    {
+      "ID": 977,
+      "key": "Bewear",
+      "order": null,
+      "ancestor": 976,
+      "name": "Bewear"
+    }
+  ],
+  "761": [
+    {
+      "ID": 978,
+      "key": "Bounsweet",
+      "order": null,
+      "ancestor": 978,
+      "name": "Bounsweet"
+    }
+  ],
+  "762": [
+    {
+      "ID": 979,
+      "key": "Steenee",
+      "order": null,
+      "ancestor": 978,
+      "name": "Steenee"
+    }
+  ],
+  "763": [
+    {
+      "ID": 980,
+      "key": "Tsareena",
+      "order": null,
+      "ancestor": 978,
+      "name": "Tsareena"
+    }
+  ],
+  "764": [
+    {
+      "ID": 981,
+      "key": "Comfey",
+      "order": null,
+      "ancestor": 981,
+      "name": "Comfey"
+    }
+  ],
+  "765": [
+    {
+      "ID": 982,
+      "key": "Oranguru",
+      "order": null,
+      "ancestor": 982,
+      "name": "Oranguru"
+    }
+  ],
+  "766": [
+    {
+      "ID": 983,
+      "key": "Passimian",
+      "order": null,
+      "ancestor": 983,
+      "name": "Passimian"
+    }
+  ],
+  "767": [
+    {
+      "ID": 984,
+      "key": "Wimpod",
+      "order": null,
+      "ancestor": 984,
+      "name": "Wimpod"
+    }
+  ],
+  "768": [
+    {
+      "ID": 985,
+      "key": "Golisopod",
+      "order": null,
+      "ancestor": 984,
+      "name": "Golisopod"
+    }
+  ],
+  "769": [
+    {
+      "ID": 986,
+      "key": "Sandygast",
+      "order": null,
+      "ancestor": 986,
+      "name": "Sandygast"
+    }
+  ],
+  "770": [
+    {
+      "ID": 987,
+      "key": "Palossand",
+      "order": null,
+      "ancestor": 986,
+      "name": "Palossand"
+    }
+  ],
+  "771": [
+    {
+      "ID": 988,
+      "key": "Pyukumuku",
+      "order": null,
+      "ancestor": 988,
+      "name": "Pyukumuku"
+    }
+  ],
+  "772": [
+    {
+      "ID": 989,
+      "key": "Type: Null",
+      "order": null,
+      "ancestor": 989,
+      "name": "Type: Null"
+    }
+  ],
+  "773": [
+    {
+      "ID": 990,
+      "key": "Silvally",
+      "order": 0,
+      "ancestor": 989,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1048,
+      "key": "Silvally-Fighting",
+      "order": 1,
+      "ancestor": 1048,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1049,
+      "key": "Silvally-Flying",
+      "order": 2,
+      "ancestor": 1049,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1050,
+      "key": "Silvally-Poison",
+      "order": 3,
+      "ancestor": 1050,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1051,
+      "key": "Silvally-Ground",
+      "order": 4,
+      "ancestor": 1051,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1052,
+      "key": "Silvally-Rock",
+      "order": 5,
+      "ancestor": 1052,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1053,
+      "key": "Silvally-Bug",
+      "order": 6,
+      "ancestor": 1053,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1054,
+      "key": "Silvally-Ghost",
+      "order": 7,
+      "ancestor": 1054,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1055,
+      "key": "Silvally-Steel",
+      "order": 8,
+      "ancestor": 1055,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1056,
+      "key": "Silvally-Fire",
+      "order": 9,
+      "ancestor": 1056,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1057,
+      "key": "Silvally-Water",
+      "order": 10,
+      "ancestor": 1057,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1058,
+      "key": "Silvally-Grass",
+      "order": 11,
+      "ancestor": 1058,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1059,
+      "key": "Silvally-Electric",
+      "order": 12,
+      "ancestor": 1059,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1060,
+      "key": "Silvally-Psychic",
+      "order": 13,
+      "ancestor": 1060,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1061,
+      "key": "Silvally-Ice",
+      "order": 14,
+      "ancestor": 1061,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1062,
+      "key": "Silvally-Dragon",
+      "order": 15,
+      "ancestor": 1062,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1063,
+      "key": "Silvally-Dark",
+      "order": 16,
+      "ancestor": 1063,
+      "name": "Silvally"
+    },
+    {
+      "ID": 1064,
+      "key": "Silvally-Fairy",
+      "order": 17,
+      "ancestor": 1064,
+      "name": "Silvally"
+    }
+  ],
+  "774": [
+    {
+      "ID": 1066,
+      "key": "Minior",
+      "order": null,
+      "ancestor": 1066,
+      "name": "Minior"
+    },
+    {
+      "ID": 1067,
+      "key": "Minior",
+      "order": null,
+      "ancestor": 1067,
+      "name": "Minior"
+    },
+    {
+      "ID": 1068,
+      "key": "Minior",
+      "order": null,
+      "ancestor": 1068,
+      "name": "Minior"
+    },
+    {
+      "ID": 1069,
+      "key": "Minior",
+      "order": null,
+      "ancestor": 1069,
+      "name": "Minior"
+    },
+    {
+      "ID": 1070,
+      "key": "Minior",
+      "order": null,
+      "ancestor": 1070,
+      "name": "Minior"
+    },
+    {
+      "ID": 1071,
+      "key": "Minior",
+      "order": null,
+      "ancestor": 1071,
+      "name": "Minior"
+    },
+    {
+      "ID": 1065,
+      "key": "Minior",
+      "order": 0,
+      "ancestor": 1065,
+      "name": "Minior"
+    },
+    {
+      "ID": 991,
+      "key": "Minior-Meteor",
+      "order": 1,
+      "ancestor": 991,
+      "name": "Minior"
+    }
+  ],
+  "775": [
+    {
+      "ID": 992,
+      "key": "Komala",
+      "order": null,
+      "ancestor": 992,
+      "name": "Komala"
+    }
+  ],
+  "776": [
+    {
+      "ID": 993,
+      "key": "Turtonator",
+      "order": null,
+      "ancestor": 993,
+      "name": "Turtonator"
+    }
+  ],
+  "777": [
+    {
+      "ID": 994,
+      "key": "Togedemaru",
+      "order": null,
+      "ancestor": 994,
+      "name": "Togedemaru"
+    }
+  ],
+  "778": [
+    {
+      "ID": 995,
+      "key": "Mimikyu",
+      "order": 0,
+      "ancestor": 995,
+      "name": "Mimikyu"
+    },
+    {
+      "ID": 1072,
+      "key": "Mimikyu-Busted",
+      "order": 1,
+      "ancestor": 1072,
+      "name": "Mimikyu"
+    }
+  ],
+  "779": [
+    {
+      "ID": 996,
+      "key": "Bruxish",
+      "order": null,
+      "ancestor": 996,
+      "name": "Bruxish"
+    }
+  ],
+  "780": [
+    {
+      "ID": 997,
+      "key": "Drampa",
+      "order": null,
+      "ancestor": 997,
+      "name": "Drampa"
+    }
+  ],
+  "781": [
+    {
+      "ID": 998,
+      "key": "Dhelmise",
+      "order": 0,
+      "ancestor": 998,
+      "name": "Dhelmise"
+    },
+    {
+      "ID": 1294,
+      "key": "Dhelmise-Sevii",
+      "order": 1,
+      "ancestor": 1294,
+      "name": "Dhelmise"
+    }
+  ],
+  "782": [
+    {
+      "ID": 999,
+      "key": "Jangmo-o",
+      "order": null,
+      "ancestor": 999,
+      "name": "Jangmo-o"
+    }
+  ],
+  "783": [
+    {
+      "ID": 1000,
+      "key": "Hakamo-o",
+      "order": null,
+      "ancestor": 999,
+      "name": "Hakamo-o"
+    }
+  ],
+  "784": [
+    {
+      "ID": 1001,
+      "key": "Kommo-o",
+      "order": null,
+      "ancestor": 999,
+      "name": "Kommo-o"
+    }
+  ],
+  "785": [
+    {
+      "ID": 1002,
+      "key": "Tapu Koko",
+      "order": null,
+      "ancestor": 1002,
+      "name": "Tapu Koko"
+    }
+  ],
+  "786": [
+    {
+      "ID": 1003,
+      "key": "Tapu Lele",
+      "order": null,
+      "ancestor": 1003,
+      "name": "Tapu Lele"
+    }
+  ],
+  "787": [
+    {
+      "ID": 1004,
+      "key": "Tapu Bulu",
+      "order": null,
+      "ancestor": 1004,
+      "name": "Tapu Bulu"
+    }
+  ],
+  "788": [
+    {
+      "ID": 1005,
+      "key": "Tapu Fini",
+      "order": null,
+      "ancestor": 1005,
+      "name": "Tapu Fini"
+    }
+  ],
+  "789": [
+    {
+      "ID": 1006,
+      "key": "Cosmog",
+      "order": null,
+      "ancestor": 1006,
+      "name": "Cosmog"
+    }
+  ],
+  "790": [
+    {
+      "ID": 1007,
+      "key": "Cosmoem",
+      "order": null,
+      "ancestor": 1006,
+      "name": "Cosmoem"
+    }
+  ],
+  "791": [
+    {
+      "ID": 1008,
+      "key": "Solgaleo",
+      "order": null,
+      "ancestor": 1006,
+      "name": "Solgaleo"
+    }
+  ],
+  "792": [
+    {
+      "ID": 1009,
+      "key": "Lunala",
+      "order": null,
+      "ancestor": 1006,
+      "name": "Lunala"
+    }
+  ],
+  "793": [
+    {
+      "ID": 1010,
+      "key": "Nihilego",
+      "order": null,
+      "ancestor": 1010,
+      "name": "Nihilego"
+    }
+  ],
+  "794": [
+    {
+      "ID": 1011,
+      "key": "Buzzwole",
+      "order": null,
+      "ancestor": 1011,
+      "name": "Buzzwole"
+    }
+  ],
+  "795": [
+    {
+      "ID": 1012,
+      "key": "Pheromosa",
+      "order": null,
+      "ancestor": 1012,
+      "name": "Pheromosa"
+    }
+  ],
+  "796": [
+    {
+      "ID": 1013,
+      "key": "Xurkitree",
+      "order": null,
+      "ancestor": 1013,
+      "name": "Xurkitree"
+    }
+  ],
+  "797": [
+    {
+      "ID": 1014,
+      "key": "Celesteela",
+      "order": null,
+      "ancestor": 1014,
+      "name": "Celesteela"
+    }
+  ],
+  "798": [
+    {
+      "ID": 1015,
+      "key": "Kartana",
+      "order": null,
+      "ancestor": 1015,
+      "name": "Kartana"
+    }
+  ],
+  "799": [
+    {
+      "ID": 1016,
+      "key": "Guzzlord",
+      "order": null,
+      "ancestor": 1016,
+      "name": "Guzzlord"
+    }
+  ],
+  "800": [
+    {
+      "ID": 1017,
+      "key": "Necrozma",
+      "order": 0,
+      "ancestor": 1017,
+      "name": "Necrozma"
+    },
+    {
+      "ID": 1079,
+      "key": "Necrozma-Dusk-Mane",
+      "order": 1,
+      "ancestor": 1079,
+      "name": "Necrozma"
+    },
+    {
+      "ID": 1080,
+      "key": "Necrozma-Dawn-Wings",
+      "order": 2,
+      "ancestor": 1080,
+      "name": "Necrozma"
+    },
+    {
+      "ID": 1081,
+      "key": "Necrozma-Ultra",
+      "order": 3,
+      "ancestor": 1080,
+      "name": "Necrozma"
+    }
+  ],
+  "801": [
+    {
+      "ID": 1018,
+      "key": "Magearna",
+      "order": 0,
+      "ancestor": 1018,
+      "name": "Magearna"
+    },
+    {
+      "ID": 1073,
+      "key": "Magearna",
+      "order": 1,
+      "ancestor": 1073,
+      "name": "Magearna"
+    }
+  ],
+  "802": [
+    {
+      "ID": 1019,
+      "key": "Marshadow",
+      "order": null,
+      "ancestor": 1019,
+      "name": "Marshadow"
+    }
+  ],
+  "803": [
+    {
+      "ID": 1074,
+      "key": "Poipole",
+      "order": null,
+      "ancestor": 1074,
+      "name": "Poipole"
+    }
+  ],
+  "804": [
+    {
+      "ID": 1075,
+      "key": "Naganadel",
+      "order": null,
+      "ancestor": 1074,
+      "name": "Naganadel"
+    }
+  ],
+  "805": [
+    {
+      "ID": 1076,
+      "key": "Stakataka",
+      "order": null,
+      "ancestor": 1076,
+      "name": "Stakataka"
+    }
+  ],
+  "806": [
+    {
+      "ID": 1077,
+      "key": "Blacephalon",
+      "order": null,
+      "ancestor": 1077,
+      "name": "Blacephalon"
+    }
+  ],
+  "807": [
+    {
+      "ID": 1078,
+      "key": "Zeraora",
+      "order": null,
+      "ancestor": 1078,
+      "name": "Zeraora"
+    }
+  ],
+  "808": [
+    {
+      "ID": 1083,
+      "key": "Meltan",
+      "order": null,
+      "ancestor": 1083,
+      "name": "Meltan"
+    }
+  ],
+  "809": [
+    {
+      "ID": 1084,
+      "key": "Melmetal",
+      "order": null,
+      "ancestor": 1083,
+      "name": "Melmetal"
+    }
+  ],
+  "810": [
+    {
+      "ID": 1102,
+      "key": "Grookey",
+      "order": null,
+      "ancestor": 1102,
+      "name": "Grookey"
+    }
+  ],
+  "811": [
+    {
+      "ID": 1103,
+      "key": "Thwackey",
+      "order": null,
+      "ancestor": 1102,
+      "name": "Thwackey"
+    }
+  ],
+  "812": [
+    {
+      "ID": 1104,
+      "key": "Rillaboom",
+      "order": null,
+      "ancestor": 1102,
+      "name": "Rillaboom"
+    }
+  ],
+  "813": [
+    {
+      "ID": 1105,
+      "key": "Scorbunny",
+      "order": null,
+      "ancestor": 1105,
+      "name": "Scorbunny"
+    }
+  ],
+  "814": [
+    {
+      "ID": 1106,
+      "key": "Raboot",
+      "order": null,
+      "ancestor": 1105,
+      "name": "Raboot"
+    }
+  ],
+  "815": [
+    {
+      "ID": 1107,
+      "key": "Cinderace",
+      "order": null,
+      "ancestor": 1105,
+      "name": "Cinderace"
+    }
+  ],
+  "816": [
+    {
+      "ID": 1108,
+      "key": "Sobble",
+      "order": null,
+      "ancestor": 1108,
+      "name": "Sobble"
+    }
+  ],
+  "817": [
+    {
+      "ID": 1109,
+      "key": "Drizzile",
+      "order": null,
+      "ancestor": 1108,
+      "name": "Drizzile"
+    }
+  ],
+  "818": [
+    {
+      "ID": 1110,
+      "key": "Inteleon",
+      "order": null,
+      "ancestor": 1108,
+      "name": "Inteleon"
+    }
+  ],
+  "819": [
+    {
+      "ID": 1111,
+      "key": "Skwovet",
+      "order": null,
+      "ancestor": 1111,
+      "name": "Skwovet"
+    }
+  ],
+  "820": [
+    {
+      "ID": 1112,
+      "key": "Greedent",
+      "order": null,
+      "ancestor": 1111,
+      "name": "Greedent"
+    }
+  ],
+  "821": [
+    {
+      "ID": 1113,
+      "key": "Rookidee",
+      "order": null,
+      "ancestor": 1113,
+      "name": "Rookidee"
+    }
+  ],
+  "822": [
+    {
+      "ID": 1114,
+      "key": "Corvisquire",
+      "order": null,
+      "ancestor": 1113,
+      "name": "Corvisquire"
+    }
+  ],
+  "823": [
+    {
+      "ID": 1115,
+      "key": "Corviknight",
+      "order": null,
+      "ancestor": 1113,
+      "name": "Corviknight"
+    }
+  ],
+  "824": [
+    {
+      "ID": 1116,
+      "key": "Blipbug",
+      "order": null,
+      "ancestor": 1116,
+      "name": "Blipbug"
+    }
+  ],
+  "825": [
+    {
+      "ID": 1117,
+      "key": "Dottler",
+      "order": null,
+      "ancestor": 1116,
+      "name": "Dottler"
+    }
+  ],
+  "826": [
+    {
+      "ID": 1118,
+      "key": "Orbeetle",
+      "order": 0,
+      "ancestor": 1116,
+      "name": "Orbeetle"
+    },
+    {
+      "ID": 1248,
+      "key": "Orbeetle-Mega",
+      "order": 1,
+      "ancestor": 1116,
+      "name": "Orbeetle"
+    }
+  ],
+  "827": [
+    {
+      "ID": 1119,
+      "key": "Nickit",
+      "order": null,
+      "ancestor": 1119,
+      "name": "Nickit"
+    }
+  ],
+  "828": [
+    {
+      "ID": 1120,
+      "key": "Thievul",
+      "order": null,
+      "ancestor": 1119,
+      "name": "Thievul"
+    }
+  ],
+  "829": [
+    {
+      "ID": 1121,
+      "key": "Gossifleur",
+      "order": null,
+      "ancestor": 1121,
+      "name": "Gossifleur"
+    }
+  ],
+  "830": [
+    {
+      "ID": 1122,
+      "key": "Eldegoss",
+      "order": null,
+      "ancestor": 1121,
+      "name": "Eldegoss"
+    }
+  ],
+  "831": [
+    {
+      "ID": 1123,
+      "key": "Wooloo",
+      "order": null,
+      "ancestor": 1123,
+      "name": "Wooloo"
+    }
+  ],
+  "832": [
+    {
+      "ID": 1124,
+      "key": "Dubwool",
+      "order": null,
+      "ancestor": 1123,
+      "name": "Dubwool"
+    }
+  ],
+  "833": [
+    {
+      "ID": 1125,
+      "key": "Chewtle",
+      "order": null,
+      "ancestor": 1125,
+      "name": "Chewtle"
+    }
+  ],
+  "834": [
+    {
+      "ID": 1126,
+      "key": "Drednaw",
+      "order": 0,
+      "ancestor": 1125,
+      "name": "Drednaw"
+    },
+    {
+      "ID": 1249,
+      "key": "Drednaw-Mega",
+      "order": 1,
+      "ancestor": 1125,
+      "name": "Drednaw"
+    }
+  ],
+  "835": [
+    {
+      "ID": 1127,
+      "key": "Yamper",
+      "order": null,
+      "ancestor": 1127,
+      "name": "Yamper"
+    }
+  ],
+  "836": [
+    {
+      "ID": 1128,
+      "key": "Boltund",
+      "order": null,
+      "ancestor": 1127,
+      "name": "Boltund"
+    }
+  ],
+  "837": [
+    {
+      "ID": 1129,
+      "key": "Rolycoly",
+      "order": null,
+      "ancestor": 1129,
+      "name": "Rolycoly"
+    }
+  ],
+  "838": [
+    {
+      "ID": 1130,
+      "key": "Carkol",
+      "order": null,
+      "ancestor": 1129,
+      "name": "Carkol"
+    }
+  ],
+  "839": [
+    {
+      "ID": 1131,
+      "key": "Coalossal",
+      "order": 0,
+      "ancestor": 1129,
+      "name": "Coalossal"
+    },
+    {
+      "ID": 1250,
+      "key": "Coalossal-Mega",
+      "order": 1,
+      "ancestor": 1129,
+      "name": "Coalossal"
+    }
+  ],
+  "840": [
+    {
+      "ID": 1132,
+      "key": "Applin",
+      "order": null,
+      "ancestor": 1132,
+      "name": "Applin"
+    }
+  ],
+  "841": [
+    {
+      "ID": 1133,
+      "key": "Flapple",
+      "order": 0,
+      "ancestor": 1132,
+      "name": "Flapple"
+    },
+    {
+      "ID": 1251,
+      "key": "Flapple-Mega",
+      "order": 1,
+      "ancestor": 1132,
+      "name": "Flapple"
+    }
+  ],
+  "842": [
+    {
+      "ID": 1134,
+      "key": "Appletun",
+      "order": 0,
+      "ancestor": 1132,
+      "name": "Appletun"
+    },
+    {
+      "ID": 1252,
+      "key": "Appletun-Mega",
+      "order": 1,
+      "ancestor": 1132,
+      "name": "Appletun"
+    }
+  ],
+  "843": [
+    {
+      "ID": 1135,
+      "key": "Silicobra",
+      "order": null,
+      "ancestor": 1135,
+      "name": "Silicobra"
+    }
+  ],
+  "844": [
+    {
+      "ID": 1136,
+      "key": "Sandaconda",
+      "order": 0,
+      "ancestor": 1135,
+      "name": "Sandaconda"
+    },
+    {
+      "ID": 1253,
+      "key": "Sandaconda-Mega",
+      "order": 1,
+      "ancestor": 1135,
+      "name": "Sandaconda"
+    }
+  ],
+  "845": [
+    {
+      "ID": 1137,
+      "key": "Cramorant",
+      "order": 0,
+      "ancestor": 1137,
+      "name": "Cramorant"
+    },
+    {
+      "ID": 1190,
+      "key": "Cramorant-Gulping",
+      "order": 1,
+      "ancestor": 1190,
+      "name": "Cramorant"
+    },
+    {
+      "ID": 1191,
+      "key": "Cramorant-Gorging",
+      "order": 2,
+      "ancestor": 1191,
+      "name": "Cramorant"
+    }
+  ],
+  "846": [
+    {
+      "ID": 1138,
+      "key": "Arrokuda",
+      "order": null,
+      "ancestor": 1138,
+      "name": "Arrokuda"
+    }
+  ],
+  "847": [
+    {
+      "ID": 1139,
+      "key": "Barraskewda",
+      "order": null,
+      "ancestor": 1138,
+      "name": "Barraskewda"
+    }
+  ],
+  "848": [
+    {
+      "ID": 1140,
+      "key": "Toxel",
+      "order": null,
+      "ancestor": 1140,
+      "name": "Toxel"
+    }
+  ],
+  "849": [
+    {
+      "ID": 1141,
+      "key": "Toxtricity",
+      "order": 0,
+      "ancestor": 1140,
+      "name": "Toxtricity"
+    },
+    {
+      "ID": 1192,
+      "key": "Toxtricity-Low-Key",
+      "order": 1,
+      "ancestor": 1140,
+      "name": "Toxtricity"
+    },
+    {
+      "ID": 1254,
+      "key": "Toxtricity-Mega",
+      "order": 2,
+      "ancestor": 1140,
+      "name": "Toxtricity"
+    }
+  ],
+  "850": [
+    {
+      "ID": 1142,
+      "key": "Sizzlipede",
+      "order": 0,
+      "ancestor": 1142,
+      "name": "Sizzlipede"
+    },
+    {
+      "ID": 1289,
+      "key": "Sizzlipede-Sevii",
+      "order": 1,
+      "ancestor": 1289,
+      "name": "Sizzlipede"
+    }
+  ],
+  "851": [
+    {
+      "ID": 1143,
+      "key": "Centiskorch",
+      "order": 0,
+      "ancestor": 1142,
+      "name": "Centiskorch"
+    },
+    {
+      "ID": 1256,
+      "key": "Centiskorch-Mega",
+      "order": 1,
+      "ancestor": 1142,
+      "name": "Centiskorch"
+    },
+    {
+      "ID": 1290,
+      "key": "Centiskorch-Sevii",
+      "order": 2,
+      "ancestor": 1289,
+      "name": "Centiskorch"
+    },
+    {
+      "ID": 1291,
+      "key": "Centiskorch-Sevii-Mega",
+      "order": 3,
+      "ancestor": 1289,
+      "name": "Centiskorch"
+    }
+  ],
+  "852": [
+    {
+      "ID": 1144,
+      "key": "Clobbopus",
+      "order": null,
+      "ancestor": 1144,
+      "name": "Clobbopus"
+    }
+  ],
+  "853": [
+    {
+      "ID": 1145,
+      "key": "Grapploct",
+      "order": null,
+      "ancestor": 1144,
+      "name": "Grapploct"
+    }
+  ],
+  "854": [
+    {
+      "ID": 1146,
+      "key": "Sinistea",
+      "order": null,
+      "ancestor": 1146,
+      "name": "Sinistea"
+    }
+  ],
+  "855": [
+    {
+      "ID": 1147,
+      "key": "Polteageist",
+      "order": null,
+      "ancestor": 1146,
+      "name": "Polteageist"
+    }
+  ],
+  "856": [
+    {
+      "ID": 1148,
+      "key": "Hatenna",
+      "order": null,
+      "ancestor": 1148,
+      "name": "Hatenna"
+    }
+  ],
+  "857": [
+    {
+      "ID": 1149,
+      "key": "Hattrem",
+      "order": null,
+      "ancestor": 1148,
+      "name": "Hattrem"
+    }
+  ],
+  "858": [
+    {
+      "ID": 1150,
+      "key": "Hatterene",
+      "order": null,
+      "ancestor": 1148,
+      "name": "Hatterene"
+    }
+  ],
+  "859": [
+    {
+      "ID": 1151,
+      "key": "Impidimp",
+      "order": null,
+      "ancestor": 1151,
+      "name": "Impidimp"
+    }
+  ],
+  "860": [
+    {
+      "ID": 1152,
+      "key": "Morgrem",
+      "order": null,
+      "ancestor": 1151,
+      "name": "Morgrem"
+    }
+  ],
+  "861": [
+    {
+      "ID": 1153,
+      "key": "Grimmsnarl",
+      "order": null,
+      "ancestor": 1151,
+      "name": "Grimmsnarl"
+    }
+  ],
+  "862": [
+    {
+      "ID": 1154,
+      "key": "Obstagoon",
+      "order": null,
+      "ancestor": 1222,
+      "name": "Obstagoon"
+    }
+  ],
+  "863": [
+    {
+      "ID": 1155,
+      "key": "Perrserker",
+      "order": null,
+      "ancestor": 1208,
+      "name": "Perrserker"
+    }
+  ],
+  "864": [
+    {
+      "ID": 1156,
+      "key": "Cursola",
+      "order": null,
+      "ancestor": 1221,
+      "name": "Cursola"
+    }
+  ],
+  "865": [
+    {
+      "ID": 1157,
+      "key": "Sirfetch’d",
+      "order": null,
+      "ancestor": 1213,
+      "name": "Sirfetch’d"
+    }
+  ],
+  "866": [
+    {
+      "ID": 1158,
+      "key": "Mr. Rime",
+      "order": null,
+      "ancestor": 492,
+      "name": "Mr. Rime"
+    }
+  ],
+  "867": [
+    {
+      "ID": 1159,
+      "key": "Runerigus",
+      "order": null,
+      "ancestor": 1228,
+      "name": "Runerigus"
+    }
+  ],
+  "868": [
+    {
+      "ID": 1160,
+      "key": "Milcery",
+      "order": null,
+      "ancestor": 1160,
+      "name": "Milcery"
+    }
+  ],
+  "869": [
+    {
+      "ID": 1161,
+      "key": "Alcremie",
+      "order": 0,
+      "ancestor": 1160,
+      "name": "Alcremie"
+    },
+    {
+      "ID": 1259,
+      "key": "Alcremie-Mega",
+      "order": 1,
+      "ancestor": 1160,
+      "name": "Alcremie"
+    }
+  ],
+  "870": [
+    {
+      "ID": 1162,
+      "key": "Falinks",
+      "order": null,
+      "ancestor": 1162,
+      "name": "Falinks"
+    }
+  ],
+  "871": [
+    {
+      "ID": 1163,
+      "key": "Pincurchin",
+      "order": null,
+      "ancestor": 1163,
+      "name": "Pincurchin"
+    }
+  ],
+  "872": [
+    {
+      "ID": 1164,
+      "key": "Snom",
+      "order": null,
+      "ancestor": 1164,
+      "name": "Snom"
+    }
+  ],
+  "873": [
+    {
+      "ID": 1165,
+      "key": "Frosmoth",
+      "order": null,
+      "ancestor": 1164,
+      "name": "Frosmoth"
+    }
+  ],
+  "874": [
+    {
+      "ID": 1166,
+      "key": "Stonjourner",
+      "order": null,
+      "ancestor": 1166,
+      "name": "Stonjourner"
+    }
+  ],
+  "875": [
+    {
+      "ID": 1167,
+      "key": "Eiscue",
+      "order": 0,
+      "ancestor": 1167,
+      "name": "Eiscue"
+    },
+    {
+      "ID": 1201,
+      "key": "Eiscue-Noice",
+      "order": 1,
+      "ancestor": 1201,
+      "name": "Eiscue"
+    }
+  ],
+  "876": [
+    {
+      "ID": 1168,
+      "key": "Indeedee",
+      "order": 0,
+      "ancestor": 1168,
+      "name": "Indeedee"
+    },
+    {
+      "ID": 1202,
+      "key": "Indeedee-F",
+      "order": 1,
+      "ancestor": 1202,
+      "name": "Indeedee"
+    }
+  ],
+  "877": [
+    {
+      "ID": 1169,
+      "key": "Morpeko",
+      "order": 0,
+      "ancestor": 1169,
+      "name": "Morpeko"
+    },
+    {
+      "ID": 1203,
+      "key": "Morpeko-Hangry",
+      "order": 1,
+      "ancestor": 1203,
+      "name": "Morpeko"
+    }
+  ],
+  "878": [
+    {
+      "ID": 1170,
+      "key": "Cufant",
+      "order": null,
+      "ancestor": 1170,
+      "name": "Cufant"
+    }
+  ],
+  "879": [
+    {
+      "ID": 1171,
+      "key": "Copperajah",
+      "order": 0,
+      "ancestor": 1170,
+      "name": "Copperajah"
+    },
+    {
+      "ID": 1260,
+      "key": "Copperajah-Mega",
+      "order": 1,
+      "ancestor": 1170,
+      "name": "Copperajah"
+    }
+  ],
+  "880": [
+    {
+      "ID": 1172,
+      "key": "Dracozolt",
+      "order": null,
+      "ancestor": 1172,
+      "name": "Dracozolt"
+    }
+  ],
+  "881": [
+    {
+      "ID": 1173,
+      "key": "Arctozolt",
+      "order": null,
+      "ancestor": 1173,
+      "name": "Arctozolt"
+    }
+  ],
+  "882": [
+    {
+      "ID": 1174,
+      "key": "Dracovish",
+      "order": null,
+      "ancestor": 1174,
+      "name": "Dracovish"
+    }
+  ],
+  "883": [
+    {
+      "ID": 1175,
+      "key": "Arctovish",
+      "order": null,
+      "ancestor": 1175,
+      "name": "Arctovish"
+    }
+  ],
+  "884": [
+    {
+      "ID": 1176,
+      "key": "Duraludon",
+      "order": 0,
+      "ancestor": 1176,
+      "name": "Duraludon"
+    }
+  ],
+  "885": [
+    {
+      "ID": 1177,
+      "key": "Dreepy",
+      "order": null,
+      "ancestor": 1177,
+      "name": "Dreepy"
+    }
+  ],
+  "886": [
+    {
+      "ID": 1178,
+      "key": "Drakloak",
+      "order": null,
+      "ancestor": 1177,
+      "name": "Drakloak"
+    }
+  ],
+  "887": [
+    {
+      "ID": 1179,
+      "key": "Dragapult",
+      "order": null,
+      "ancestor": 1177,
+      "name": "Dragapult"
+    }
+  ],
+  "888": [
+    {
+      "ID": 1180,
+      "key": "Zacian",
+      "order": 0,
+      "ancestor": 1180,
+      "name": "Zacian"
+    },
+    {
+      "ID": 1204,
+      "key": "Zacian-Crowned",
+      "order": 1,
+      "ancestor": 1204,
+      "name": "Zacian"
+    }
+  ],
+  "889": [
+    {
+      "ID": 1181,
+      "key": "Zamazenta",
+      "order": 0,
+      "ancestor": 1181,
+      "name": "Zamazenta"
+    },
+    {
+      "ID": 1205,
+      "key": "Zamazenta-Crowned",
+      "order": 1,
+      "ancestor": 1205,
+      "name": "Zamazenta"
+    }
+  ],
+  "890": [
+    {
+      "ID": 1182,
+      "key": "Eternatus",
+      "order": 0,
+      "ancestor": 1182,
+      "name": "Eternatus"
+    },
+    {
+      "ID": 1206,
+      "key": "Eternatus-Eternamax",
+      "order": 1,
+      "ancestor": 1182,
+      "name": "Eternatus"
+    }
+  ],
+  "891": [
+    {
+      "ID": 1183,
+      "key": "Kubfu",
+      "order": null,
+      "ancestor": 1183,
+      "name": "Kubfu"
+    }
+  ],
+  "892": [
+    {
+      "ID": 1184,
+      "key": "Urshifu",
+      "order": 0,
+      "ancestor": 1183,
+      "name": "Urshifu"
+    },
+    {
+      "ID": 1207,
+      "key": "Urshifu-Rapid-Strike",
+      "order": 1,
+      "ancestor": 1183,
+      "name": "Urshifu"
+    }
+  ],
+  "893": [
+    {
+      "ID": 1185,
+      "key": "Zarude",
+      "order": null,
+      "ancestor": 1185,
+      "name": "Zarude"
+    }
+  ],
+  "894": [
+    {
+      "ID": 1188,
+      "key": "Regieleki",
+      "order": null,
+      "ancestor": 1188,
+      "name": "Regieleki"
+    }
+  ],
+  "895": [
+    {
+      "ID": 1189,
+      "key": "Regidrago",
+      "order": null,
+      "ancestor": 1189,
+      "name": "Regidrago"
+    }
+  ],
+  "896": [
+    {
+      "ID": 1267,
+      "key": "Glastrier",
+      "order": null,
+      "ancestor": 1267,
+      "name": "Glastrier"
+    }
+  ],
+  "897": [
+    {
+      "ID": 1266,
+      "key": "Spectrier",
+      "order": null,
+      "ancestor": 1266,
+      "name": "Spectrier"
+    }
+  ],
+  "898": [
+    {
+      "ID": 1187,
+      "key": "Calyrex",
+      "order": 0,
+      "ancestor": 1187,
+      "name": "Calyrex"
+    },
+    {
+      "ID": 1264,
+      "key": "Calyrex-Ice",
+      "order": 1,
+      "ancestor": 1264,
+      "name": "Calyrex"
+    },
+    {
+      "ID": 1265,
+      "key": "Calyrex-Shadow",
+      "order": 2,
+      "ancestor": 1265,
+      "name": "Calyrex"
+    }
+  ],
+  "899": [
+    {
+      "ID": 1270,
+      "key": "Wyrdeer",
+      "order": null,
+      "ancestor": 234,
+      "name": "Wyrdeer"
+    }
+  ],
+  "900": [
+    {
+      "ID": 1273,
+      "key": "Kleavor",
+      "order": null,
+      "ancestor": 123,
+      "name": "Kleavor"
+    }
+  ],
+  "901": [
+    {
+      "ID": 1302,
+      "key": "Ursaluna",
+      "order": 0,
+      "ancestor": 216,
+      "name": "Ursaluna"
+    },
+    {
+      "ID": 1356,
+      "key": "Ursaluna-Bloodmoon",
+      "order": 1,
+      "ancestor": 1356,
+      "name": "Ursaluna"
+    }
+  ],
+  "902": [
+    {
+      "ID": 1268,
+      "key": "Basculegion",
+      "order": 0,
+      "ancestor": 736,
+      "name": "Basculegion"
+    },
+    {
+      "ID": 1306,
+      "key": "Basculegion-F",
+      "order": 1,
+      "ancestor": 736,
+      "name": "Basculegion"
+    }
+  ],
+  "903": [
+    {
+      "ID": 1305,
+      "key": "Sneasler",
+      "order": null,
+      "ancestor": 1304,
+      "name": "Sneasler"
+    }
+  ],
+  "904": [
+    {
+      "ID": 1308,
+      "key": "Overqwil",
+      "order": null,
+      "ancestor": 1307,
+      "name": "Overqwil"
+    }
+  ],
+  "905": [
+    {
+      "ID": 1312,
+      "key": "Enamorus",
+      "order": 0,
+      "ancestor": 1312,
+      "name": "Enamorus"
+    },
+    {
+      "ID": 1313,
+      "key": "Enamorus-Therian",
+      "order": 1,
+      "ancestor": 1313,
+      "name": "Enamorus"
+    }
+  ],
+  "906": [
+    {
+      "ID": 921,
+      "key": "Sprigatito",
+      "order": null,
+      "ancestor": 921,
+      "name": "Sprigatito"
+    }
+  ],
+  "907": [
+    {
+      "ID": 922,
+      "key": "Floragato",
+      "order": null,
+      "ancestor": 921,
+      "name": "Floragato"
+    }
+  ],
+  "908": [
+    {
+      "ID": 923,
+      "key": "Meowscarada",
+      "order": null,
+      "ancestor": 921,
+      "name": "Meowscarada"
+    }
+  ],
+  "909": [
+    {
+      "ID": 924,
+      "key": "Fuecoco",
+      "order": null,
+      "ancestor": 924,
+      "name": "Fuecoco"
+    }
+  ],
+  "910": [
+    {
+      "ID": 925,
+      "key": "Crocalor",
+      "order": null,
+      "ancestor": 924,
+      "name": "Crocalor"
+    }
+  ],
+  "911": [
+    {
+      "ID": 926,
+      "key": "Skeledirge",
+      "order": null,
+      "ancestor": 924,
+      "name": "Skeledirge"
+    }
+  ],
+  "912": [
+    {
+      "ID": 927,
+      "key": "Quaxly",
+      "order": null,
+      "ancestor": 927,
+      "name": "Quaxly"
+    }
+  ],
+  "913": [
+    {
+      "ID": 928,
+      "key": "Quaxwell",
+      "order": null,
+      "ancestor": 927,
+      "name": "Quaxwell"
+    }
+  ],
+  "914": [
+    {
+      "ID": 929,
+      "key": "Quaquaval",
+      "order": null,
+      "ancestor": 927,
+      "name": "Quaquaval"
+    }
+  ],
+  "915": [
+    {
+      "ID": 846,
+      "key": "Lechonk",
+      "order": null,
+      "ancestor": 846,
+      "name": "Lechonk"
+    }
+  ],
+  "916": [
+    {
+      "ID": 847,
+      "key": "Oinkologne",
+      "order": 0,
+      "ancestor": 846,
+      "name": "Oinkologne"
+    },
+    {
+      "ID": 849,
+      "key": "Oinkologne-F",
+      "order": 1,
+      "ancestor": 846,
+      "name": "Oinkologne"
+    }
+  ],
+  "917": [
+    {
+      "ID": 1314,
+      "key": "Tarountula",
+      "order": null,
+      "ancestor": 1314,
+      "name": "Tarountula"
+    }
+  ],
+  "918": [
+    {
+      "ID": 1315,
+      "key": "Spidops",
+      "order": null,
+      "ancestor": 1314,
+      "name": "Spidops"
+    }
+  ],
+  "919": [
+    {
+      "ID": 1316,
+      "key": "Nymble",
+      "order": 0,
+      "ancestor": 1316,
+      "name": "Nymble"
+    },
+    {
+      "ID": 1200,
+      "key": "Nymble-Sevii",
+      "order": 1,
+      "ancestor": 1200,
+      "name": "Nymble"
+    }
+  ],
+  "920": [
+    {
+      "ID": 1317,
+      "key": "Lokix",
+      "order": 0,
+      "ancestor": 1316,
+      "name": "Lokix"
+    },
+    {
+      "ID": 1186,
+      "key": "Lokix-Sevii",
+      "order": 1,
+      "ancestor": 1200,
+      "name": "Lokix"
+    }
+  ],
+  "921": [
+    {
+      "ID": 843,
+      "key": "Pawmi",
+      "order": null,
+      "ancestor": 843,
+      "name": "Pawmi"
+    }
+  ],
+  "922": [
+    {
+      "ID": 844,
+      "key": "Pawmo",
+      "order": null,
+      "ancestor": 843,
+      "name": "Pawmo"
+    }
+  ],
+  "923": [
+    {
+      "ID": 845,
+      "key": "Pawmot",
+      "order": null,
+      "ancestor": 843,
+      "name": "Pawmot"
+    }
+  ],
+  "924": [
+    {
+      "ID": 1330,
+      "key": "Tandemaus",
+      "order": null,
+      "ancestor": 1330,
+      "name": "Tandemaus"
+    }
+  ],
+  "925": [
+    {
+      "ID": 1331,
+      "key": "Maushold",
+      "order": null,
+      "ancestor": 1330,
+      "name": "Maushold"
+    }
+  ],
+  "926": [
+    {
+      "ID": 1347,
+      "key": "Fidough",
+      "order": null,
+      "ancestor": 1347,
+      "name": "Fidough"
+    }
+  ],
+  "927": [
+    {
+      "ID": 1348,
+      "key": "Dachsbun",
+      "order": null,
+      "ancestor": 1347,
+      "name": "Dachsbun"
+    }
+  ],
+  "928": [
+    {
+      "ID": 1324,
+      "key": "Smoliv",
+      "order": null,
+      "ancestor": 1324,
+      "name": "Smoliv"
+    }
+  ],
+  "929": [
+    {
+      "ID": 1325,
+      "key": "Dolliv",
+      "order": null,
+      "ancestor": 1324,
+      "name": "Dolliv"
+    }
+  ],
+  "930": [
+    {
+      "ID": 1326,
+      "key": "Arboliva",
+      "order": null,
+      "ancestor": 1324,
+      "name": "Arboliva"
+    }
+  ],
+  "931": [
+    {
+      "ID": 1338,
+      "key": "Squawkabilly",
+      "order": 0,
+      "ancestor": 1338,
+      "name": "Squawkabilly"
+    },
+    {
+      "ID": 1355,
+      "key": "Squawkabilly-White",
+      "order": 1,
+      "ancestor": 1355,
+      "name": "Squawkabilly"
+    }
+  ],
+  "932": [
+    {
+      "ID": 1340,
+      "key": "Nacli",
+      "order": null,
+      "ancestor": 1340,
+      "name": "Nacli"
+    }
+  ],
+  "933": [
+    {
+      "ID": 1341,
+      "key": "Naclstack",
+      "order": null,
+      "ancestor": 1340,
+      "name": "Naclstack"
+    }
+  ],
+  "934": [
+    {
+      "ID": 1342,
+      "key": "Garganacl",
+      "order": null,
+      "ancestor": 1340,
+      "name": "Garganacl"
+    }
+  ],
+  "935": [
+    {
+      "ID": 938,
+      "key": "Charcadet",
+      "order": null,
+      "ancestor": 938,
+      "name": "Charcadet"
+    }
+  ],
+  "936": [
+    {
+      "ID": 935,
+      "key": "Armarouge",
+      "order": null,
+      "ancestor": 938,
+      "name": "Armarouge"
+    }
+  ],
+  "937": [
+    {
+      "ID": 934,
+      "key": "Ceruledge",
+      "order": null,
+      "ancestor": 938,
+      "name": "Ceruledge"
+    }
+  ],
+  "938": [
+    {
+      "ID": 861,
+      "key": "Tadbulb",
+      "order": null,
+      "ancestor": 861,
+      "name": "Tadbulb"
+    }
+  ],
+  "939": [
+    {
+      "ID": 862,
+      "key": "Bellibolt",
+      "order": null,
+      "ancestor": 861,
+      "name": "Bellibolt"
+    }
+  ],
+  "940": [
+    {
+      "ID": 1335,
+      "key": "Wattrel",
+      "order": null,
+      "ancestor": 1335,
+      "name": "Wattrel"
+    }
+  ],
+  "941": [
+    {
+      "ID": 1336,
+      "key": "Kilowattrel",
+      "order": null,
+      "ancestor": 1335,
+      "name": "Kilowattrel"
+    }
+  ],
+  "942": [
+    {
+      "ID": 1349,
+      "key": "Maschiff",
+      "order": null,
+      "ancestor": 1349,
+      "name": "Maschiff"
+    }
+  ],
+  "943": [
+    {
+      "ID": 1350,
+      "key": "Mabosstiff",
+      "order": null,
+      "ancestor": 1349,
+      "name": "Mabosstiff"
+    }
+  ],
+  "944": [
+    {
+      "ID": 1345,
+      "key": "Shroodle",
+      "order": null,
+      "ancestor": 1345,
+      "name": "Shroodle"
+    }
+  ],
+  "945": [
+    {
+      "ID": 1346,
+      "key": "Grafaiai",
+      "order": null,
+      "ancestor": 1345,
+      "name": "Grafaiai"
+    }
+  ],
+  "946": [
+    {
+      "ID": 1351,
+      "key": "Bramblin",
+      "order": null,
+      "ancestor": 1351,
+      "name": "Bramblin"
+    }
+  ],
+  "947": [
+    {
+      "ID": 1352,
+      "key": "Brambleghast",
+      "order": null,
+      "ancestor": 1351,
+      "name": "Brambleghast"
+    }
+  ],
+  "948": [
+    {
+      "ID": 1198,
+      "key": "Toedscool",
+      "order": null,
+      "ancestor": 1198,
+      "name": "Toedscool"
+    }
+  ],
+  "949": [
+    {
+      "ID": 1199,
+      "key": "Toedscruel",
+      "order": null,
+      "ancestor": 1198,
+      "name": "Toedscruel"
+    }
+  ],
+  "950": [
+    {
+      "ID": 706,
+      "key": "Klawf",
+      "order": null,
+      "ancestor": 706,
+      "name": "Klawf"
+    }
+  ],
+  "951": [
+    {
+      "ID": 1327,
+      "key": "Capsakid",
+      "order": null,
+      "ancestor": 1327,
+      "name": "Capsakid"
+    }
+  ],
+  "952": [
+    {
+      "ID": 1328,
+      "key": "Scovillain",
+      "order": null,
+      "ancestor": 1327,
+      "name": "Scovillain"
+    }
+  ],
+  "953": [
+    {
+      "ID": 1318,
+      "key": "Rellor",
+      "order": null,
+      "ancestor": 1318,
+      "name": "Rellor"
+    }
+  ],
+  "954": [
+    {
+      "ID": 1319,
+      "key": "Rabsca",
+      "order": null,
+      "ancestor": 1318,
+      "name": "Rabsca"
+    }
+  ],
+  "955": [
+    {
+      "ID": 1320,
+      "key": "Flittle",
+      "order": null,
+      "ancestor": 1320,
+      "name": "Flittle"
+    }
+  ],
+  "956": [
+    {
+      "ID": 1321,
+      "key": "Espathra",
+      "order": null,
+      "ancestor": 1320,
+      "name": "Espathra"
+    }
+  ],
+  "957": [
+    {
+      "ID": 840,
+      "key": "Tinkatink",
+      "order": null,
+      "ancestor": 840,
+      "name": "Tinkatink"
+    }
+  ],
+  "958": [
+    {
+      "ID": 841,
+      "key": "Tinkatuff",
+      "order": null,
+      "ancestor": 840,
+      "name": "Tinkatuff"
+    }
+  ],
+  "959": [
+    {
+      "ID": 842,
+      "key": "Tinkaton",
+      "order": null,
+      "ancestor": 840,
+      "name": "Tinkaton"
+    }
+  ],
+  "960": [
+    {
+      "ID": 932,
+      "key": "Wiglett",
+      "order": null,
+      "ancestor": 932,
+      "name": "Wiglett"
+    }
+  ],
+  "961": [
+    {
+      "ID": 933,
+      "key": "Wugtrio",
+      "order": null,
+      "ancestor": 932,
+      "name": "Wugtrio"
+    }
+  ],
+  "962": [
+    {
+      "ID": 1337,
+      "key": "Bombirdier",
+      "order": null,
+      "ancestor": 1337,
+      "name": "Bombirdier"
+    }
+  ],
+  "963": [
+    {
+      "ID": 863,
+      "key": "Finizen",
+      "order": null,
+      "ancestor": 863,
+      "name": "Finizen"
+    }
+  ],
+  "964": [
+    {
+      "ID": 864,
+      "key": "Palafin",
+      "order": 0,
+      "ancestor": 863,
+      "name": "Palafin"
+    },
+    {
+      "ID": 865,
+      "key": "Palafin-Hero",
+      "order": 1,
+      "ancestor": 865,
+      "name": "Palafin"
+    }
+  ],
+  "965": [
+    {
+      "ID": 835,
+      "key": "Varoom",
+      "order": null,
+      "ancestor": 835,
+      "name": "Varoom"
+    }
+  ],
+  "966": [
+    {
+      "ID": 836,
+      "key": "Revavroom",
+      "order": null,
+      "ancestor": 835,
+      "name": "Revavroom"
+    }
+  ],
+  "967": [
+    {
+      "ID": 1101,
+      "key": "Cyclizar",
+      "order": null,
+      "ancestor": 1101,
+      "name": "Cyclizar"
+    }
+  ],
+  "968": [
+    {
+      "ID": 1329,
+      "key": "Orthworm",
+      "order": null,
+      "ancestor": 1329,
+      "name": "Orthworm"
+    }
+  ],
+  "969": [
+    {
+      "ID": 1343,
+      "key": "Glimmet",
+      "order": null,
+      "ancestor": 1343,
+      "name": "Glimmet"
+    }
+  ],
+  "970": [
+    {
+      "ID": 1344,
+      "key": "Glimmora",
+      "order": null,
+      "ancestor": 1343,
+      "name": "Glimmora"
+    }
+  ],
+  "971": [
+    {
+      "ID": 859,
+      "key": "Greavard",
+      "order": null,
+      "ancestor": 859,
+      "name": "Greavard"
+    }
+  ],
+  "972": [
+    {
+      "ID": 860,
+      "key": "Houndstone",
+      "order": null,
+      "ancestor": 859,
+      "name": "Houndstone"
+    }
+  ],
+  "973": [
+    {
+      "ID": 1339,
+      "key": "Flamigo",
+      "order": null,
+      "ancestor": 1339,
+      "name": "Flamigo"
+    }
+  ],
+  "974": [
+    {
+      "ID": 1332,
+      "key": "Cetoddle",
+      "order": null,
+      "ancestor": 1332,
+      "name": "Cetoddle"
+    }
+  ],
+  "975": [
+    {
+      "ID": 1333,
+      "key": "Cetitan",
+      "order": null,
+      "ancestor": 1332,
+      "name": "Cetitan"
+    }
+  ],
+  "976": [
+    {
+      "ID": 1323,
+      "key": "Veluza",
+      "order": null,
+      "ancestor": 1323,
+      "name": "Veluza"
+    }
+  ],
+  "977": [
+    {
+      "ID": 1322,
+      "key": "Dondozo",
+      "order": null,
+      "ancestor": 1322,
+      "name": "Dondozo"
+    }
+  ],
+  "978": [
+    {
+      "ID": 1334,
+      "key": "Tatsugiri",
+      "order": null,
+      "ancestor": 1334,
+      "name": "Tatsugiri"
+    }
+  ],
+  "979": [
+    {
+      "ID": 937,
+      "key": "Annihilape",
+      "order": null,
+      "ancestor": 56,
+      "name": "Annihilape"
+    }
+  ],
+  "980": [
+    {
+      "ID": 931,
+      "key": "Clodsire",
+      "order": null,
+      "ancestor": 930,
+      "name": "Clodsire"
+    }
+  ],
+  "981": [
+    {
+      "ID": 868,
+      "key": "Farigiraf",
+      "order": null,
+      "ancestor": 203,
+      "name": "Farigiraf"
+    }
+  ],
+  "982": [
+    {
+      "ID": 1100,
+      "key": "Dudunsparce",
+      "order": null,
+      "ancestor": 206,
+      "name": "Dudunsparce"
+    }
+  ],
+  "983": [
+    {
+      "ID": 936,
+      "key": "Kingambit",
+      "order": null,
+      "ancestor": 677,
+      "name": "Kingambit"
+    }
+  ],
+  "984": [
+    {
+      "ID": 1237,
+      "key": "Great Tusk",
+      "order": null,
+      "ancestor": 1237,
+      "name": "Great Tusk"
+    }
+  ],
+  "985": [
+    {
+      "ID": 1245,
+      "key": "Screamtail",
+      "order": null,
+      "ancestor": 1245,
+      "name": "Scream Tail"
+    }
+  ],
+  "986": [
+    {
+      "ID": 1243,
+      "key": "Brute Bonnet",
+      "order": null,
+      "ancestor": 1243,
+      "name": "Brute Bonnet"
+    }
+  ],
+  "987": [
+    {
+      "ID": 1246,
+      "key": "Flutter Mane",
+      "order": null,
+      "ancestor": 1246,
+      "name": "Flutter Mane"
+    }
+  ],
+  "988": [
+    {
+      "ID": 1255,
+      "key": "Slither Wing",
+      "order": null,
+      "ancestor": 1255,
+      "name": "Slither Wing"
+    }
+  ],
+  "989": [
+    {
+      "ID": 1244,
+      "key": "Sandy Shocks",
+      "order": null,
+      "ancestor": 1244,
+      "name": "Sandy Shocks"
+    }
+  ],
+  "990": [
+    {
+      "ID": 1258,
+      "key": "Iron Treads",
+      "order": null,
+      "ancestor": 1258,
+      "name": "Iron Treads"
+    }
+  ],
+  "991": [
+    {
+      "ID": 1231,
+      "key": "Iron Bundle",
+      "order": null,
+      "ancestor": 1231,
+      "name": "Iron Bundle"
+    }
+  ],
+  "992": [
+    {
+      "ID": 1262,
+      "key": "Iron Hands",
+      "order": null,
+      "ancestor": 1262,
+      "name": "Iron Hands"
+    }
+  ],
+  "993": [
+    {
+      "ID": 1263,
+      "key": "Iron Jugulis",
+      "order": null,
+      "ancestor": 1263,
+      "name": "Iron Jugulis"
+    }
+  ],
+  "994": [
+    {
+      "ID": 1247,
+      "key": "Iron Moth",
+      "order": null,
+      "ancestor": 1247,
+      "name": "Iron Moth"
+    }
+  ],
+  "995": [
+    {
+      "ID": 1230,
+      "key": "Iron Thorns",
+      "order": null,
+      "ancestor": 1230,
+      "name": "Iron Thorns"
+    }
+  ],
+  "996": [
+    {
+      "ID": 1195,
+      "key": "Frigibax",
+      "order": null,
+      "ancestor": 1195,
+      "name": "Frigibax"
+    }
+  ],
+  "997": [
+    {
+      "ID": 1196,
+      "key": "Arctibax",
+      "order": null,
+      "ancestor": 1195,
+      "name": "Arctibax"
+    }
+  ],
+  "998": [
+    {
+      "ID": 1197,
+      "key": "Baxcalibur",
+      "order": null,
+      "ancestor": 1195,
+      "name": "Baxcalibur"
+    }
+  ],
+  "999": [
+    {
+      "ID": 850,
+      "key": "Gimmighoul",
+      "order": 0,
+      "ancestor": 850,
+      "name": "Gimmighoul"
+    },
+    {
+      "ID": 851,
+      "key": "Gimmighoul-Roaming",
+      "order": 1,
+      "ancestor": 851,
+      "name": "Gimmighoul"
+    }
+  ],
+  "1000": [
+    {
+      "ID": 852,
+      "key": "Gholdengo",
+      "order": null,
+      "ancestor": 851,
+      "name": "Gholdengo"
+    }
+  ],
+  "1001": [
+    {
+      "ID": 749,
+      "key": "Wo-Chien",
+      "order": null,
+      "ancestor": 749,
+      "name": "Wo-Chien"
+    }
+  ],
+  "1002": [
+    {
+      "ID": 748,
+      "key": "Chien-Pao",
+      "order": null,
+      "ancestor": 748,
+      "name": "Chien-Pao"
+    }
+  ],
+  "1003": [
+    {
+      "ID": 747,
+      "key": "Ting-Lu",
+      "order": null,
+      "ancestor": 747,
+      "name": "Ting-Lu"
+    }
+  ],
+  "1004": [
+    {
+      "ID": 750,
+      "key": "Chi-Yu",
+      "order": null,
+      "ancestor": 750,
+      "name": "Chi-Yu"
+    }
+  ],
+  "1005": [
+    {
+      "ID": 1257,
+      "key": "Roaring Moon",
+      "order": null,
+      "ancestor": 1257,
+      "name": "Roaring Moon"
+    }
+  ],
+  "1006": [
+    {
+      "ID": 1232,
+      "key": "Iron Valiant",
+      "order": null,
+      "ancestor": 1232,
+      "name": "Iron Valiant"
+    }
+  ],
+  "1007": [
+    {
+      "ID": 1193,
+      "key": "Koraidon",
+      "order": null,
+      "ancestor": 1193,
+      "name": "Koraidon"
+    }
+  ],
+  "1008": [
+    {
+      "ID": 1194,
+      "key": "Miraidon",
+      "order": null,
+      "ancestor": 1194,
+      "name": "Miraidon"
+    }
+  ],
+  "1009": [
+    {
+      "ID": 1354,
+      "key": "Walking Wake",
+      "order": null,
+      "ancestor": 1354,
+      "name": "Walking Wake"
+    }
+  ],
+  "1010": [
+    {
+      "ID": 1353,
+      "key": "Iron Leaves",
+      "order": null,
+      "ancestor": 1353,
+      "name": "Iron Leaves"
+    }
+  ],
+  "1011": [
+    {
+      "ID": 1363,
+      "key": "Dipplin",
+      "order": null,
+      "ancestor": 1132,
+      "name": "Dipplin"
+    }
+  ],
+  "1012": [
+    {
+      "ID": 1361,
+      "key": "Poltchageist",
+      "order": null,
+      "ancestor": 1361,
+      "name": "Poltchageist"
+    }
+  ],
+  "1013": [
+    {
+      "ID": 1362,
+      "key": "Sinistcha",
+      "order": null,
+      "ancestor": 1361,
+      "name": "Sinistcha"
+    }
+  ],
+  "1014": [
+    {
+      "ID": 1366,
+      "key": "Okidogi",
+      "order": null,
+      "ancestor": 1366,
+      "name": "Okidogi"
+    }
+  ],
+  "1015": [
+    {
+      "ID": 1365,
+      "key": "Munkidori",
+      "order": null,
+      "ancestor": 1365,
+      "name": "Munkidori"
+    }
+  ],
+  "1016": [
+    {
+      "ID": 1364,
+      "key": "Fezandipiti",
+      "order": null,
+      "ancestor": 1364,
+      "name": "Fezandipiti"
+    }
+  ],
+  "1017": [
+    {
+      "ID": 1357,
+      "key": "Ogerpon",
+      "order": 0,
+      "ancestor": 1357,
+      "name": "Ogerpon"
+    },
+    {
+      "ID": 1358,
+      "key": "Ogerpon-Wellspring",
+      "order": 1,
+      "ancestor": 1358,
+      "name": "Ogerpon"
+    },
+    {
+      "ID": 1359,
+      "key": "Ogerpon-Hearthflame",
+      "order": 2,
+      "ancestor": 1359,
+      "name": "Ogerpon"
+    },
+    {
+      "ID": 1360,
+      "key": "Ogerpon-Cornerstone",
+      "order": 3,
+      "ancestor": 1360,
+      "name": "Ogerpon"
+    }
+  ],
+  "1018": [
+    {
+      "ID": 1369,
+      "key": "Archaludon",
+      "order": null,
+      "ancestor": 1176,
+      "name": "Archaludon"
+    }
+  ],
+  "1019": [
+    {
+      "ID": 1371,
+      "key": "Hydrapple",
+      "order": null,
+      "ancestor": 1132,
+      "name": "Hydrapple"
+    }
+  ],
+  "1020": [
+    {
+      "ID": 1374,
+      "key": "Gouging Fire",
+      "order": null,
+      "ancestor": 1374,
+      "name": "Gouging Fire"
+    }
+  ],
+  "1021": [
+    {
+      "ID": 1367,
+      "key": "Raging Bolt",
+      "order": null,
+      "ancestor": 1367,
+      "name": "Raging Bolt"
+    }
+  ],
+  "1022": [
+    {
+      "ID": 1373,
+      "key": "Iron Boulder",
+      "order": null,
+      "ancestor": 1373,
+      "name": "Iron Boulder"
+    }
+  ],
+  "1023": [
+    {
+      "ID": 1368,
+      "key": "Iron Crown",
+      "order": null,
+      "ancestor": 1368,
+      "name": "Iron Crown"
+    }
+  ],
+  "1024": [
+    {
+      "ID": 1370,
+      "key": "Terapagos-Terastal",
+      "order": null,
+      "ancestor": 1370,
+      "name": "Terapagos"
+    }
+  ],
+  "1025": [
+    {
+      "ID": 1372,
+      "key": "Pecharunt",
+      "order": null,
+      "ancestor": 1372,
+      "name": "Pecharunt"
+    }
+  ],
+  "2001": [
+    {
+      "ID": 1375,
+      "key": "Chillet",
+      "order": null,
+      "ancestor": 1375,
+      "name": "Chillet"
+    }
+  ]
+}

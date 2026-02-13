@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radical Red Sprite Viewer - By Dex ID</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .controls input, .controls select {
+            padding: 10px 15px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .controls input:focus, .controls select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .controls label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+        }
+
+        .dex-entry {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            margin-bottom: 25px;
+            transition: transform 0.3s ease;
+        }
+
+        .dex-entry:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .dex-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .dex-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            min-width: 80px;
+        }
+
+        .dex-info {
+            flex: 1;
+        }
+
+        .dex-info h2 {
+            color: #333;
+            font-size: 1.8em;
+            margin-bottom: 5px;
+        }
+
+        .form-count {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .forms-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .form-card {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .form-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        .form-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+        }
+
+        .form-key {
+            font-weight: bold;
+            color: #495057;
+            font-size: 1.1em;
+        }
+
+        .form-id {
+            background: #667eea;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: bold;
+        }
+
+        .form-meta {
+            font-size: 0.85em;
+            color: #6c757d;
+            margin-bottom: 10px;
+        }
+
+        .sprite-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .sprite-box {
+            background: white;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            padding: 8px;
+            text-align: center;
+            transition: transform 0.2s ease;
+        }
+
+        .sprite-box:hover {
+            transform: scale(1.05);
+            border-color: #667eea;
+        }
+
+        .sprite-box img {
+            width: 64px;
+            height: 64px;
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+        }
+
+        .sprite-label {
+            font-size: 0.75em;
+            color: #6c757d;
+            margin-top: 5px;
+            font-weight: 600;
+        }
+
+        .error-msg {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.5em;
+            color: white;
+        }
+
+        .stats {
+            background: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .sprite-box.missing img {
+            opacity: 0.3;
+        }
+
+        .sprite-box.missing {
+            background: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 Radical Red Sprite Viewer</h1>
+            <p>Browse all Pokémon sprites organized by Pokédex ID</p>
+        </header>
+
+        <div class="stats" id="stats">
+            <div class="stat-item">
+                <div class="stat-number" id="totalDex">-</div>
+                <div class="stat-label">Pokédex Entries</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="totalForms">-</div>
+                <div class="stat-label">Total Forms</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="displayedCount">-</div>
+                <div class="stat-label">Displayed</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search by name, key, or Dex ID...">
+            <select id="filterSelect">
+                <option value="all">All Forms</option>
+                <option value="single">Single Form Only</option>
+                <option value="multiple">Multiple Forms Only</option>
+            </select>
+            <label>
+                <input type="checkbox" id="showShiny" checked>
+                Show Shiny Sprites
+            </label>
+            <label>
+                <input type="checkbox" id="showBack" checked>
+                Show Back Sprites
+            </label>
+        </div>
+
+        <div id="loading" class="loading">Loading data...</div>
+        <div id="error" class="error-msg" style="display: none;"></div>
+        <div id="content"></div>
+    </div>
+
+    <script>
+        let dexMapping = {};
+        let filteredData = {};
+        let showShiny = true;
+        let showBack = true;
+
+        // Load the mapping data
+        async function loadData() {
+            try {
+                const response = await fetch('./dex-to-rr-mapping.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load mapping data');
+                }
+                dexMapping = await response.json();
+                
+                // Update stats
+                const totalDex = Object.keys(dexMapping).length;
+                const totalForms = Object.values(dexMapping).reduce((sum, forms) => sum + forms.length, 0);
+                document.getElementById('totalDex').textContent = totalDex;
+                document.getElementById('totalForms').textContent = totalForms;
+                
+                filteredData = { ...dexMapping };
+                renderContent();
+                
+                document.getElementById('loading').style.display = 'none';
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').textContent = `Error: ${error.message}. Make sure dex-to-rr-mapping.json is in the same directory.`;
+            }
+        }
+
+        // Get sprite path
+        function getSpritePath(id, type) {
+            const paths = {
+                'front': `./Radical-Red-Pokedex-master/graphics/species/front/${id}.png`,
+                'front-shiny': `./Radical-Red-Pokedex-master/graphics/species/front shiny/${id}.png`,
+                'back': `./Radical-Red-Pokedex-master/graphics/species/back/${id}.png`,
+                'back-shiny': `./Radical-Red-Pokedex-master/graphics/species/back shiny/${id}.png`
+            };
+            return paths[type];
+        }
+
+        // Render content
+        function renderContent() {
+            const content = document.getElementById('content');
+            content.innerHTML = '';
+
+            let displayedCount = 0;
+            const sortedDexIds = Object.keys(filteredData).map(Number).sort((a, b) => a - b);
+
+            for (const dexId of sortedDexIds) {
+                const forms = filteredData[dexId];
+                if (forms.length === 0) continue;
+
+                displayedCount++;
+                const dexEntry = createDexEntry(dexId, forms);
+                content.appendChild(dexEntry);
+            }
+
+            document.getElementById('displayedCount').textContent = displayedCount;
+        }
+
+        // Create a dex entry element
+        function createDexEntry(dexId, forms) {
+            const entry = document.createElement('div');
+            entry.className = 'dex-entry';
+
+            const header = document.createElement('div');
+            header.className = 'dex-header';
+            
+            const dexNumber = document.createElement('div');
+            dexNumber.className = 'dex-number';
+            dexNumber.textContent = `#${String(dexId).padStart(4, '0')}`;
+            
+            const dexInfo = document.createElement('div');
+            dexInfo.className = 'dex-info';
+            
+            const name = document.createElement('h2');
+            name.textContent = forms[0].name;
+            
+            const formCount = document.createElement('div');
+            formCount.className = 'form-count';
+            formCount.textContent = forms.length === 1 ? '1 form' : `${forms.length} forms`;
+            
+            dexInfo.appendChild(name);
+            dexInfo.appendChild(formCount);
+            header.appendChild(dexNumber);
+            header.appendChild(dexInfo);
+            
+            const formsContainer = document.createElement('div');
+            formsContainer.className = 'forms-container';
+            
+            for (const form of forms) {
+                const formCard = createFormCard(form);
+                formsContainer.appendChild(formCard);
+            }
+            
+            entry.appendChild(header);
+            entry.appendChild(formsContainer);
+            
+            return entry;
+        }
+
+        // Create a form card element
+        function createFormCard(form) {
+            const card = document.createElement('div');
+            card.className = 'form-card';
+            
+            const formHeader = document.createElement('div');
+            formHeader.className = 'form-header';
+            
+            const formKey = document.createElement('div');
+            formKey.className = 'form-key';
+            formKey.textContent = form.key;
+            
+            const formId = document.createElement('div');
+            formId.className = 'form-id';
+            formId.textContent = `ID: ${form.ID}`;
+            
+            formHeader.appendChild(formKey);
+            formHeader.appendChild(formId);
+            
+            const formMeta = document.createElement('div');
+            formMeta.className = 'form-meta';
+            const orderText = form.order !== null ? `Order: ${form.order}` : 'No order';
+            formMeta.textContent = `${orderText} • Ancestor: ${form.ancestor}`;
+            
+            const spriteGrid = document.createElement('div');
+            spriteGrid.className = 'sprite-grid';
+            
+            // Add sprites
+            const sprites = [
+                { type: 'front', label: 'Front' },
+                { type: 'front-shiny', label: 'Shiny', show: showShiny },
+                { type: 'back', label: 'Back', show: showBack },
+                { type: 'back-shiny', label: 'Back Shiny', show: showShiny && showBack }
+            ];
+            
+            for (const sprite of sprites) {
+                if (sprite.show === false) continue;
+                
+                const spriteBox = document.createElement('div');
+                spriteBox.className = 'sprite-box';
+                
+                const img = document.createElement('img');
+                img.src = getSpritePath(form.ID, sprite.type);
+                img.alt = `${form.key} - ${sprite.label}`;
+                img.onerror = function() {
+                    this.src = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="64" height="64" fill="%23ddd"/><text x="32" y="32" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="%23999">?</text></svg>';
+                    spriteBox.classList.add('missing');
+                };
+                
+                const label = document.createElement('div');
+                label.className = 'sprite-label';
+                label.textContent = sprite.label;
+                
+                spriteBox.appendChild(img);
+                spriteBox.appendChild(label);
+                spriteGrid.appendChild(spriteBox);
+            }
+            
+            card.appendChild(formHeader);
+            card.appendChild(formMeta);
+            card.appendChild(spriteGrid);
+            
+            return card;
+        }
+
+        // Filter functions
+        function applyFilters() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const filterType = document.getElementById('filterSelect').value;
+            
+            filteredData = {};
+            
+            for (const [dexId, forms] of Object.entries(dexMapping)) {
+                // Apply form count filter
+                if (filterType === 'single' && forms.length > 1) continue;
+                if (filterType === 'multiple' && forms.length === 1) continue;
+                
+                // Apply search filter
+                if (searchTerm) {
+                    const matchingForms = forms.filter(form => {
+                        return form.name.toLowerCase().includes(searchTerm) ||
+                               form.key.toLowerCase().includes(searchTerm) ||
+                               dexId.includes(searchTerm) ||
+                               form.ID.toString().includes(searchTerm);
+                    });
+                    
+                    if (matchingForms.length > 0) {
+                        filteredData[dexId] = matchingForms;
+                    }
+                } else {
+                    filteredData[dexId] = forms;
+                }
+            }
+            
+            renderContent();
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', applyFilters);
+        document.getElementById('filterSelect').addEventListener('change', applyFilters);
+        
+        document.getElementById('showShiny').addEventListener('change', function() {
+            showShiny = this.checked;
+            renderContent();
+        });
+        
+        document.getElementById('showBack').addEventListener('change', function() {
+            showBack = this.checked;
+            renderContent();
+        });
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>
