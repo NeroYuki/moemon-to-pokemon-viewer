@@ -13,6 +13,7 @@ Thumbs.db
 # Editor files
 .vscode/
 .idea/
+.venv/
 *.swp
 *.swo
 
@@ -23,6 +24,8 @@ Thumbs.db
 Spritesets-20260212T231043Z-3-001/
 moemon_sprite/
 moemon_sprite_april_25/
+pokeapi_sprites/
+python-dataset-prep/
 
 # Radical Red - only include graphics/species folder
 Radical-Red-Pokedex-master/*

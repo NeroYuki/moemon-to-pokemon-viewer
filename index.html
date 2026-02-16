@@ -27,6 +27,10 @@
             --shadow-medium: rgba(0,0,0,0.15);
             --shadow-dark: rgba(0,0,0,0.2);
             --input-bg: white;
+            --sprite-box-bg: white;
+            --sprite-box-missing-bg: #f8f9fa;
+            --sprite-label-color: #6c757d;
+            --form-key-color: #495057;
         }
 
         body.dark-mode {
@@ -45,6 +49,10 @@
             --shadow-medium: rgba(0,0,0,0.4);
             --shadow-dark: rgba(0,0,0,0.5);
             --input-bg: #2c3e50;
+            --sprite-box-bg: #2c3e50;
+            --sprite-box-missing-bg: #1e2a3a;
+            --sprite-label-color: #adb5bd;
+            --form-key-color: #e9ecef;
         }
 
         body {
@@ -186,6 +194,55 @@
             border-bottom: 3px solid #667eea;
         }
 
+        .official-artwork {
+            width: 150px;
+            height: 150px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 3px solid #667eea;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .official-artwork img {
+            max-width: 140px;
+            max-height: 140px;
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: crisp-edges;
+        }
+
+        @media (max-width: 768px) {
+            .official-artwork {
+                width: 100px;
+                height: 100px;
+            }
+
+            .official-artwork img {
+                max-width: 90px;
+                max-height: 90px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .official-artwork {
+                width: 80px;
+                height: 80px;
+            }
+
+            .official-artwork img {
+                max-width: 70px;
+                max-height: 70px;
+            }
+
+            .dex-header {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+        }
+
         .dex-number {
             font-size: 2em;
             font-weight: bold;
@@ -268,9 +325,10 @@
 
         .form-key {
             font-weight: bold;
-            color: #495057;
+            color: var(--form-key-color);
             font-size: 1.0em;
             word-break: break-word;
+            transition: color 0.3s ease;
         }
 
         .form-id {
@@ -303,12 +361,12 @@
         }
 
         .sprite-box {
-            background: white;
-            border: 2px solid #dee2e6;
+            background: var(--sprite-box-bg);
+            border: 2px solid var(--border-light);
             border-radius: 8px;
             padding: 8px;
             text-align: center;
-            transition: transform 0.2s ease;
+            transition: transform 0.2s ease, background 0.3s ease, border-color 0.3s ease;
         }
 
         .sprite-box:hover {
@@ -326,9 +384,10 @@
 
         .sprite-label {
             font-size: 0.75em;
-            color: #6c757d;
+            color: var(--sprite-label-color);
             margin-top: 5px;
             font-weight: 600;
+            transition: color 0.3s ease;
         }
 
         .sprite-box.missing img {
@@ -336,7 +395,7 @@
         }
 
         .sprite-box.missing {
-            background: #f8f9fa;
+            background: var(--sprite-box-missing-bg);
         }
 
         .sprite-box img {
@@ -384,6 +443,20 @@
             .zoom-content img {
                 width: 320px;
                 height: 320px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .zoom-content img {
+                width: 320px;
+                height: 320px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .zoom-content img {
+                width: 256px;
+                height: 256px;
             }
         }
 
@@ -461,6 +534,33 @@
             margin-bottom: 30px;
             padding-bottom: 20px;
             border-bottom: 3px solid #667eea;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+        }
+
+        .fullview-header-content {
+            flex: 1;
+        }
+
+        .fullview-artwork {
+            width: 200px;
+            height: 200px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 3px solid #667eea;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .fullview-artwork img {
+            max-width: 190px;
+            max-height: 190px;
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: crisp-edges;
         }
 
         .fullview-dex {
@@ -549,6 +649,60 @@
             }
         }
 
+        @media (max-width: 768px) {
+            .fullview-sprite img {
+                width: 64px;
+                height: 64px;
+            }
+
+            .fullview-artwork {
+                width: 160px;
+                height: 160px;
+            }
+
+            .fullview-artwork img {
+                max-width: 150px;
+                max-height: 150px;
+            }
+
+            .fullview-dex {
+                font-size: 2em;
+            }
+
+            .fullview-name {
+                font-size: 1.8em;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .fullview-sprite img {
+                width: 64px;
+                height: 64px;
+            }
+
+            .fullview-artwork {
+                width: 128px;
+                height: 128px;
+            }
+
+            .fullview-artwork img {
+                max-width: 120px;
+                max-height: 120px;
+            }
+
+            .fullview-header {
+                flex-direction: column;
+            }
+
+            .fullview-dex {
+                font-size: 1.5em;
+            }
+
+            .fullview-name {
+                font-size: 1.3em;
+            }
+        }
+
         .loading {
             text-align: center;
             padding: 50px;
@@ -574,6 +728,72 @@
         @media (max-width: 1200px) {
             .split-view {
                 grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            header {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .dark-mode-toggle {
+                position: static;
+                margin-bottom: 15px;
+                display: block;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .controls input, .controls select {
+                min-width: 100%;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .dex-number {
+                font-size: 1.5em;
+            }
+
+            .dex-info h2 {
+                font-size: 1.3em;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            .subtitle {
+                font-size: 0.9em;
+            }
+
+            .sprite-box img {
+                width: 48px;
+                height: 48px;
+            }
+
+            .forms-container {
+                grid-template-columns: 1fr;
+            }
+
+            .zoom-close, .fullview-close {
+                top: 10px;
+                right: 15px;
+                font-size: 30px;
             }
         }
     </style>
@@ -651,6 +871,7 @@
         let showShiny = true;
         let showBack = true;
         let allDexData = {}; // Combined data by dexID for full view
+        let officialArtworkExists = new Set(); // Track which dex IDs have official artwork
 
         // Zoom modal functions
         function openZoom(imgSrc, label, name) {
@@ -747,12 +968,20 @@
         function createFullviewContent(dexID, matchedData) {
             const pokemonForms = matchedData.pokemon;
             const moemonForms = matchedData.moemon;
-            const pokemonName = pokemonForms.length > 0 ? pokemonForms[0].name : `Dex #${dexID}`;
+            const pokemonName = pokemonForms.length > 0 ? pokemonForms[0].name : `Pokémon #${dexID}`;
+            const hasArtwork = officialArtworkExists.has(parseInt(dexID));
             
             let html = `
                 <div class="fullview-header">
-                    <div class="fullview-dex">#${String(dexID).padStart(4, '0')}</div>
-                    <div class="fullview-name">${pokemonName}</div>
+                    ${hasArtwork ? `
+                    <div class="fullview-artwork">
+                        <img src="${getOfficialArtworkPath(dexID)}" alt="Official artwork for ${pokemonName}">
+                    </div>
+                    ` : ''}
+                    <div class="fullview-header-content">
+                        <div class="fullview-dex">#${String(dexID).padStart(4, '0')}</div>
+                        <div class="fullview-name">${pokemonName}</div>
+                    </div>
                 </div>
                 <div class="fullview-split">
                     <div class="fullview-section">
@@ -843,6 +1072,21 @@
             }
         });
 
+        // Get official artwork path
+        function getOfficialArtworkPath(dexID) {
+            return `./official-pokemon-artwork/${dexID}.png`;
+        }
+
+        // Check if official artwork exists
+        function checkOfficialArtwork(dexID) {
+            return new Promise((resolve) => {
+                const img = new Image();
+                img.onload = () => resolve(true);
+                img.onerror = () => resolve(false);
+                img.src = getOfficialArtworkPath(dexID);
+            });
+        }
+
         // Load both mapping files
         async function loadData() {
             try {
@@ -866,6 +1110,23 @@
                     ...Object.keys(moemonMapping)
                 ]);
                 
+                // Check for official artwork (test a range of common dex IDs)
+                // We'll check 1-1030 to cover all Pokemon including Gen 9
+                const artworkCheckPromises = [];
+                for (let i = 1; i <= 2000; i++) {
+                    artworkCheckPromises.push(
+                        checkOfficialArtwork(i).then(exists => {
+                            if (exists) {
+                                officialArtworkExists.add(i);
+                                allDexIds.add(String(i));
+                            }
+                        })
+                    );
+                }
+                
+                // Wait for all artwork checks to complete
+                await Promise.all(artworkCheckPromises);
+                
                 // Update stats
                 const totalDex = allDexIds.size;
                 const totalPokemonForms = Object.values(pokemonMapping).reduce((sum, forms) => sum + forms.length, 0);
@@ -879,7 +1140,8 @@
                 for (const dexId of allDexIds) {
                     allDexData[dexId] = {
                         pokemon: pokemonMapping[dexId] || [],
-                        moemon: moemonMapping[dexId] || []
+                        moemon: moemonMapping[dexId] || [],
+                        hasArtwork: officialArtworkExists.has(parseInt(dexId))
                     };
                 }
                 
@@ -930,10 +1192,20 @@
             for (const dexId of allDexIds) {
                 const pokemonForms = pokemonMapping[dexId] || [];
                 const moemonForms = moemonMapping[dexId] || [];
+                const hasArtwork = officialArtworkExists.has(parseInt(dexId));
+                
+                // Skip if no data at all
+                if (pokemonForms.length === 0 && moemonForms.length === 0 && !hasArtwork) {
+                    continue;
+                }
                 
                 // Apply filter type
                 if (filterType === 'both' && (pokemonForms.length === 0 || moemonForms.length === 0)) {
-                    continue;
+                    // If filtering for both, skip entries without both forms
+                    // But allow if no RR/Moemon data exists at all (artwork only)
+                    if (pokemonForms.length > 0 || moemonForms.length > 0) {
+                        continue;
+                    }
                 }
                 if (filterType === 'pokemon-only' && (pokemonForms.length === 0 || moemonForms.length > 0)) {
                     continue;
@@ -965,7 +1237,8 @@
                 
                 filteredData[dexId] = {
                     pokemon: pokemonForms,
-                    moemon: moemonForms
+                    moemon: moemonForms,
+                    hasArtwork: hasArtwork
                 };
             }
             
@@ -998,6 +1271,22 @@
             const header = document.createElement('div');
             header.className = 'dex-header';
             
+            // Add official artwork if available
+            if (data.hasArtwork) {
+                const artworkDiv = document.createElement('div');
+                artworkDiv.className = 'official-artwork';
+                
+                const artworkImg = document.createElement('img');
+                artworkImg.src = getOfficialArtworkPath(dexId);
+                artworkImg.alt = `Official artwork for Dex #${dexId}`;
+                artworkImg.onerror = function() {
+                    artworkDiv.style.display = 'none';
+                };
+                
+                artworkDiv.appendChild(artworkImg);
+                header.appendChild(artworkDiv);
+            }
+            
             const dexNumber = document.createElement('div');
             dexNumber.className = 'dex-number';
             dexNumber.textContent = `#${String(dexId).padStart(4, '0')}`;
@@ -1006,7 +1295,7 @@
             dexInfo.className = 'dex-info';
             
             const name = document.createElement('h2');
-            const pokemonName = data.pokemon.length > 0 ? data.pokemon[0].name : `Dex #${dexId}`;
+            const pokemonName = data.pokemon.length > 0 ? data.pokemon[0].name : `Pokémon #${dexId}`;
             name.textContent = pokemonName;
             dexInfo.appendChild(name);
             
@@ -1120,7 +1409,7 @@
             
             const formId = document.createElement('div');
             formId.className = form.isCanonical ? 'form-id canonical' : 'form-id';
-            formId.textContent = form.isCanonical ? '★ CANONICAL' : form.key;
+            formId.textContent = form.isCanonical ? '★' : form.key;
             
             formHeader.appendChild(formKey);
             formHeader.appendChild(formId);
